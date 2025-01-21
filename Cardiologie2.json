@@ -1,0 +1,1500 @@
+[
+    {
+        "chapitre": 1,
+        "id": 1,
+        "question": "Quand doit-on r\u00e9aliser le d\u00e9pistage d\u2019une HTA secondaire en prescrivant des examens compl\u00e9mentaires sp\u00e9cifiques (dosage hormonaux, scanner ou IRM des surr\u00e9nales\u2026)?",
+        "options": [
+            "A.  De fa\u00e7on syst\u00e9matique chez tout patient hypertendu",
+            "B.  Sur point d\u2019appel obtenu lors de l\u2019interrogatoire de l\u2019examen clinique ou des examens biologiques du bilan initial",
+            "C.  En cas d\u2019HTA s\u00e9v\u00e8re de grade III",
+            "D.  En cas d\u2019HTA r\u00e9sistante",
+            "E.  Chez le sujet jeune"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 2,
+        "question": "Parmi les examens suivants, lesquels font partie du bilan initial \u00e0 r\u00e9aliser devant une HTA?",
+        "options": [
+            "A.  ECG de repos",
+            "B.  Echo-doppler des carotides",
+            "C.  Transaminases",
+            "D.  Recherche d\u2019une glycosurie \u00e0 la bandelette urinaire",
+            "E.  Le bilan lipidique (HDL, LDL, Triglyc\u00e9rides)"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 3,
+        "question": "Parmi les classes d\u2019antihypertenseurs suivantes, lesquelles sont contre-indiqu\u00e9es en cas d\u2019insuffisance r\u00e9nale chronique?",
+        "options": [
+            "A.  Les IEC",
+            "B.  Les b\u00e9tabloquants",
+            "C.  Les antagonistes des r\u00e9cepteurs \u00e0 l\u2019angiotensine 2",
+            "D.  Les inhibiteurs calciques",
+            "E.  Les alpha bloquants"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 4,
+        "question": "*Les objectifs de la consultation de suivi d\u2019un patient hypertendu sont:",
+        "options": [
+            "A.  V\u00e9rifier l\u2019\u00e9quilibre tensionnel",
+            "B.  \u00c9valuer l\u2019observance et la tol\u00e9rance du traitement",
+            "C.  S\u2019assurer du contr\u00f4le des facteurs de risque",
+            "D.  D\u00e9pister une \u00e9ventuelle hypotension orthostatique",
+            "E.  Toutes les r\u00e9ponses sont correctes"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 5,
+        "question": "Le traitement de l\u2019hypertension art\u00e9rielle repose sur:",
+        "options": [
+            "A.  Les IEC",
+            "B.  La dobutamine",
+            "C.  La dopamine",
+            "D.  Les thrombolitiques",
+            "E.  Les inhibiteurs calciques"
+        ],
+        "correct_answers": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 6,
+        "question": "Parmi les situations suivantes, quelles sont celles imposant une correction chirurgicale d\u2019une insuffisance mitrale (IM)?",
+        "options": [
+            "A.  IM de grade I chez le patient jeune",
+            "B.  IM de grade II asymptomatique",
+            "C.  IM de grade IV",
+            "D.  IM de grade III symptomatique",
+            "E.  IM de grade II ou III si le patient est hypertendu"
+        ],
+        "correct_answers": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 7,
+        "question": "Parmi ces examens, quels sont les plus importants pour le bilan d\u2019une IM?",
+        "options": [
+            "A.  Echocardiographie doppler transthoracique",
+            "B.  Echocardiographie doppler transoesophagienne",
+            "C.  La coronarographie",
+            "D.  la scintigraphie myocardique",
+            "E.  Echo-doppler des carotides"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 8,
+        "question": "Concernant le r\u00e9tr\u00e9cissement aortique:",
+        "options": [
+            "A.  L\u2019incidence est \u00e9lev\u00e9e parmi les patients jeunes",
+            "B.  L\u2019incidence est \u00e9lev\u00e9e parmi les patients \u00e2g\u00e9s",
+            "C.  On entend un souffle systolique",
+            "D.  On entend un souffle diastolique",
+            "E.  Aucune r\u00e9ponse"
+        ],
+        "correct_answers": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 9,
+        "question": "Concernant l\u2019insuffisance mitrale:",
+        "options": [
+            "A.  L\u2019incidence est \u00e9lev\u00e9e parmi les patients jeunes",
+            "B.  L\u2019incidence est \u00e9lev\u00e9e parmi les patients \u00e2g\u00e9s",
+            "C.  On entend un souffle systolique",
+            "D.  On entend un souffle diastolique",
+            "E.  Aucune r\u00e9ponse"
+        ],
+        "correct_answers": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 10,
+        "question": "*Quel traitement est recommand\u00e9 chez un patient porteur d\u2019une proth\u00e8se m\u00e9canique en position mitrale?",
+        "options": [
+            "A.  Anticoagulant (anti-vitamine K)",
+            "B.  Antibiotique pour 1 an apr\u00e8s l\u2019implantation de la valve",
+            "C.  Thrombolitique",
+            "D.  Statine en forte dose pour 1 mois",
+            "E.  Aucune r\u00e9ponse"
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 11,
+        "question": "Les examens de laboratoire utiles pour le diagnostic de l\u2019endocardite infectieuse sont:",
+        "options": [
+            "A.  Le dosage sanguin de la CRP",
+            "B.  Les h\u00e9mocultures",
+            "C.  Le dosage de la prot\u00e9inurie",
+            "D.  Une s\u00e9rologie virale",
+            "E.  Toutes les r\u00e9ponses"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 12,
+        "question": "Les examens d\u2019imagerie utiles pour le diagnostic de l\u2019endocardite infectieuse sont:",
+        "options": [
+            "A.  Echocardiographie doppler transthoracique",
+            "B.  Echocardiographie doppler transoesophagienne",
+            "C.  La coronarographie",
+            "D.  la scintigraphie myocardique",
+            "E.  Echo-doppler des carotides"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 13,
+        "question": "*Les principales indications de la chirurgie valvulaire \u00e0 la phase initiale de l\u2019endocardite infectieuse sont:",
+        "options": [
+            "A.  Une mauvaise tol\u00e9rance h\u00e9modynamique de la valvulopathie",
+            "B.  Une \u00e9tiologie mixte (bact\u00e9rienne virale)",
+            "C.  Une fuite valvulaire moyenne",
+            "D.  Une v\u00e9g\u00e9tation de taille inf\u00e9rieure \u00e0 5 mm",
+            "E.  Une infection par le virus herp\u00e9tique"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 14,
+        "question": "Le rhumatisme articulaire aigu:",
+        "options": [
+            "A.  Est une complication possible d\u2019une angine \u00e0 streptocoque",
+            "B.  Est une complication possible d\u2019une angine \u00e0 staphylococcus",
+            "C.  La fr\u00e9quence est \u00e9lev\u00e9e chez les femmes enceintes",
+            "D.  Elle peut entra\u00eener \u00e0 moyen et long terme une maladie des valves cardiaques",
+            "E.  Est une maladie virale"
+        ],
+        "correct_answers": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 15,
+        "question": "Le rhumatisme articulaire aigu:",
+        "options": [
+            "A.  Impose une chirurgie cardiaque chez tous les patients atteints par la maladie",
+            "B.  La mortalit\u00e9 est \u00e9lev\u00e9e chez les patients \u00e2g\u00e9s",
+            "C.  N\u00e9cessite une antibioth\u00e9rapie",
+            "D.  Peut se compliquer avec des valvulopathies s\u00e9v\u00e8res",
+            "E.  Ne n\u00e9cessite aucun traitement"
+        ],
+        "correct_answers": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 16,
+        "question": "*En cas de cardiomyopathie dilat\u00e9e on retrouve \u00e0 l\u2019\u00e9chographie:",
+        "options": [
+            "A.  Le septum inter-auriculaire est hypertrophi\u00e9",
+            "B.  Le diam\u00e8tre du ventricule gauche est augment\u00e9",
+            "C.  Le diam\u00e8tre du ventricule gauche est diminu\u00e9",
+            "D.  L'\u00e9chographie n\u2019est pas \u00e9vocatrice",
+            "E.  Le r\u00e9tr\u00e9cissement mitral est tr\u00e8s souvent associ\u00e9"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 17,
+        "question": "La symptomatologie clinique d\u2019une myocardite comporte:",
+        "options": [
+            "A.  Une douleur thoracique survenue surtout en cas d\u2019effort (angor d\u2019effort)",
+            "B.  Une douleur thoracique survenue chez un patient f\u00e9brile",
+            "C.  Elle est asymptomatique chez la plupart des patients",
+            "D.  Des acouph\u00e8nes quand la fi\u00e8vre d\u00e9passe 40\u00b0C",
+            "E.  Tableau clinique d\u2019insuffisance cardiaque est possible"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 18,
+        "question": "La cardiomyopathie restrictive:",
+        "options": [
+            "A.  L\u2019\u00e9tiologie isch\u00e9mique est tr\u00e8s fr\u00e9quente",
+            "B.  L\u2019hypertension art\u00e9rielle est tr\u00e8s souvent associ\u00e9e",
+            "C.  Est une maladie primitive",
+            "D.  Le diagnostic repose sur l'\u00e9chographie cardiaque",
+            "E.  Le diagnostic repose sur la coronarographie"
+        ],
+        "correct_answers": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 19,
+        "question": "Chez un patient atteint par une cardiomyopathie hypertrophique obstructive:",
+        "options": [
+            "A.  Un bilan familial est conseill\u00e9",
+            "B.  Le sport de performance est d\u00e9conseill\u00e9",
+            "C.  La coronarographie est l\u2019examen cl\u00e9 pour le diagnostic",
+            "D.  N\u00e9cessite un d\u00e9fibrillateur cardiaque en cas de fibrillation auriculaire",
+            "E.  Toutes les r\u00e9ponses"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 20,
+        "question": "Les examens utilis\u00e9s pour le diagnostic d\u2019une myocardite sont:",
+        "options": [
+            "A.  Le dosage sanguin de la CRP",
+            "B.  Les enzymes cardiaques",
+            "C.  Le dosage du TSH",
+            "D.  L\u2019\u00e9tude \u00e9lectrophysiologique endocavitaire",
+            "E.  La coronarographie d\u2019urgence"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 21,
+        "question": "*Le bloc auriculo-ventriculaire Mobitz I grade II est caract\u00e9ris\u00e9 par:",
+        "options": [
+            "A.  Dissociation atrio-ventriculaire",
+            "B.  Allongement progressif de l\u2019intervalle PR jusqu\u2019\u00e0 ce qu\u2019une onde P est bloqu\u00e9, alors la s\u00e9quence est r\u00e9p\u00e9t\u00e9e",
+            "C.  Allongement de l\u2019intervalle PR sur 200ms",
+            "D.  Les ondes P bloqu\u00e9 alternativement avec des ondes P conduites, dans une s\u00e9quence 2:1",
+            "E.  La pause due \u00e0 l\u2019absence de P, dont la dur\u00e9e est un multiple de l\u2019intervalle P-P"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 22,
+        "question": "*Quelle est la mauvaise affirmation sur la p\u00e9ricardite?",
+        "options": [
+            "A.  Survient en cas d\u2019insuffisance r\u00e9nale",
+            "B.  Peut appara\u00eetre tard dans l\u2019infarctus du myocarde",
+            "C.  Toujours accompagn\u00e9 d'\u00e9panchement p\u00e9ricardique",
+            "D.  Peut se produire dans la collag\u00e9n\u00e8se",
+            "E.  Peut \u00eatre caus\u00e9 par des maladies infectieuses"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 23,
+        "question": "*Entre les m\u00e9canismes emboliques de l\u2019isch\u00e9mie aigu\u00eb ne sont pas trouv\u00e9s:",
+        "options": [
+            "A.  Le myxome cardiaque",
+            "B.  An\u00e9vrisme ventriculaire gauche",
+            "C.  Insuffisance aortique",
+            "D.  Fibrillation auriculaire",
+            "E.  St\u00e9nose mitrale"
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 24,
+        "question": "*Quelle est la dose d\u2019adr\u00e9naline pour initier la r\u00e9animation d\u2019un arr\u00eat cardiaque:",
+        "options": [
+            "A.  3 mg",
+            "B.  4 mg",
+            "C.  1 g",
+            "D.  1 mg",
+            "E.  10 mg"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 25,
+        "question": "*S\u00e9lectionnez la mauvaise d\u00e9claration \u00e0 propos de la communication interauriculaire:",
+        "options": [
+            "A.  Est le plus souvent de type ostium secundum",
+            "B.  R\u00e9alise un shunt gauche-droit",
+            "C.  Peut \u00eatre multiple",
+            "D.  Peut \u00eatre ferm\u00e9e par cardiologie interventionnelle",
+            "E.  Donne un aspect de bloc incomplet gauche sur l\u2019ECG"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 26,
+        "question": "*Dans le bloc AV de 3e degr\u00e9:",
+        "options": [
+            "A.  La fr\u00e9quence ventriculaire est irr\u00e9guli\u00e8re",
+            "B.  La fr\u00e9quence atriale est irr\u00e9guli\u00e8re",
+            "C.  Il y a des \u00e9pisodes bradycardiques et tachycardiques qui alternent",
+            "D.  Les ondes P peuvent parfois \u00eatre suivies de complexes QRS (il y a une conduite AV intermittente)",
+            "E.  Les ondes P ne sont jamais suivies de complexes QRS (il n\u2019y a pas une conduite AV)"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 27,
+        "question": "Les caract\u00e9ristiques suivantes se retrouvent dans la p\u00e9ricardite:",
+        "options": [
+            "A.  Microvoltage",
+            "B.  Absence de syndrome inflammation biologie",
+            "C.  Onde T diffuse n\u00e9gative",
+            "D.  Il y a des changements dans le segment ST et de l\u2019onde T localis\u00e9s diffus\u00e9ment",
+            "E.  Douleur thoracique variable avec mouvements respiratoires"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 28,
+        "question": "Torsade des pointes:",
+        "options": [
+            "A.  C\u2019est une tachycardie ventriculaire polymorphe sp\u00e9cifique",
+            "B.  Peut d\u00e9g\u00e9n\u00e9rer en fibrillation auriculaire",
+            "C.  Il est trait\u00e9 avec de l\u2019amiodarone ou du sotalol",
+            "D.  Se produit g\u00e9n\u00e9ralement dans le syndrome du QT prolong\u00e9 cong\u00e9nital ou acquis",
+            "E.  Les crit\u00e8res de diagnostic, incluent la dilatation du ventricule droit et une diminution de la fraction d\u2019\u00e9jection du ventricule droit"
+        ],
+        "correct_answers": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 29,
+        "question": "Les crit\u00e8res de diagnostic de l\u2019endocardite infectieuse sont les suivants :",
+        "options": [
+            "A.  La pr\u00e9sence du facteur rhumato\u00efde",
+            "B.  Spl\u00e9nom\u00e9galie",
+            "C.  Nouvelle r\u00e9gurgitation valvulaire",
+            "D.  D\u00e9hiscence partielle de proth\u00e8se",
+            "E.  2 h\u00e9mocultures positives avec des germes typiques"
+        ],
+        "correct_answers": [
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 30,
+        "question": "Rythme idioventriculaire acc\u00e9l\u00e9r\u00e9 :",
+        "options": [
+            "A.  C\u2019est une forme de tachycardie ventriculaire avec une fr\u00e9quence de 120 bpm",
+            "B.  Il est r\u00e9p\u00e9titif par automatisme acc\u00e9l\u00e9r\u00e9 pathologique",
+            "C.  Peut survenir dans le contexte de la revascularisation",
+            "D.  Souvent ne n\u00e9cessite pas de traitement s\u2019il est bas",
+            "E.  N\u00e9cessite un traitement avec amiodarone"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 31,
+        "question": "Le syndrome de Leriche est caract\u00e9ris\u00e9 par:",
+        "options": [
+            "A.  Douleur lombaire, h\u00e9maturie, insuffisance r\u00e9nale progressive rapide",
+            "B.  Douleur fessi\u00e8re",
+            "C.  Claudication des deux membres inf\u00e9rieurs",
+            "D.  Impuissance",
+            "E.  Est caus\u00e9 par l\u2019ath\u00e9roscl\u00e9rose"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 32,
+        "question": "Le traitement de l\u2019art\u00e9riopathie oblit\u00e9rante chronique des membres inf\u00e9rieurs comprend :",
+        "options": [
+            "A.  Statines",
+            "B.  IEC de l\u2019angiotensine",
+            "C.  Beta bloquant",
+            "D.  Aspirine",
+            "E.  Arreter de fumer"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 33,
+        "question": "Le traitement de l\u2019insuffisance veineuse chronique comprend g\u00e9n\u00e9ralement :",
+        "options": [
+            "A.  \u00c9viter de marcher",
+            "B.  Vaccination antit\u00e9tanique",
+            "C.  Les promenades sont recommand\u00e9s",
+            "D.  \u00c9viter le clinostatisme prolong\u00e9",
+            "E.  Perte de poids"
+        ],
+        "correct_answers": [
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 34,
+        "question": "S\u00e9lectionner les affirmations correctes \u00e0 propos de l\u2019arr\u00eat cardio respiratoire :",
+        "options": [
+            "A.  N\u00e9cessite une r\u00e9animation cardio pulmonaire",
+            "B.  Elle peut survenir par rupture d\u2019un an\u00e9vrisme aortique",
+            "C.  R\u00e9cup\u00e9ration spontan\u00e9e est tr\u00e8s rare",
+            "D.  La cause la plus commune est cardiopathie g\u00e9n\u00e9tique",
+            "E.  Il comprend la syncope"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 35,
+        "question": "Le flutter auriculaire est caract\u00e9ris\u00e9 par :",
+        "options": [
+            "a.  Est la plus grande circuit macro r\u00e9entrant atriale",
+            "b.  Utilise l\u2019isthme cavotricuspidien comme partie int\u00e9grante du circuit de rentr\u00e9e",
+            "c.  C\u2019est le plus souvent dans le sens des aiguilles d\u2019une montre comme le sens de propagation",
+            "d.  Ecg se caract\u00e9rise par la pr\u00e9sence d\u2019ondes de type F",
+            "e.  Fr\u00e9quence auriculaire est de 300 bpm"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 36,
+        "question": "A propos de l'arr\u00eat cardiocirculatoire, ce qui suit est vrai :",
+        "options": [
+            "A.  La dissociation \u00e9lectrom\u00e9canique se produit dans l\u2019embolie pulmonaire",
+            "B.  70% des patients pr\u00e9sentent des asystolies",
+            "C.  VT d\u00e9clenche toujours un arr\u00eat cardiaque",
+            "D.  VF d\u00e9clenche toujours un arr\u00eat cardiaque",
+            "E.  La cause principale est l\u2019infarctus du myocarde"
+        ],
+        "correct_answers": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 37,
+        "question": "Les affirmations suivantes \u00e0 propos de la fibrillation auriculaire sont vraies :",
+        "options": [
+            "A.  La FA nocturne est facilit\u00e9e par l\u2019hypertonie vagale",
+            "B.  L\u2019administration d\u2019antiarythmiques apr\u00e8s conversion de la FA est obligatoire car plus de 90% des patients d\u00e9veloppent des r\u00e9cidives",
+            "C.  Chez un patient pr\u00e9sentant une st\u00e9nose mitrale s\u00e9v\u00e8re, l\u2019entr\u00e9e dans la FA ne modifie pas la situation h\u00e9modynamique, la barri\u00e8re \u00e9tant la m\u00eame.",
+            "D.  La FA persistante se convertit spontan\u00e9ment en rythme sinusale dans la plupart des cas",
+            "E.  Est la cause la plus fr\u00e9quente d\u2019accidents emboliques infectieuses"
+        ],
+        "correct_answers": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 38,
+        "question": "*Choisir les bonnes r\u00e9ponses \u00e0 propos de l\u2019endocardite infectieuse :",
+        "options": [
+            "A.  Les patients sont asymptomatiques",
+            "B.  Les patients sont g\u00e9n\u00e9ralement af\u00e9briles",
+            "C.  Peut \u00eatre seulement pr\u00e9coce apr\u00e8s chirurgie valvulaire",
+            "D.  Une endocardite gauche appara\u00eet chez les toxicomanes iv",
+            "E.  L\u00e9sion caract\u00e9ristique est la v\u00e9g\u00e9tation"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 39,
+        "question": "Le tableau clinique de la p\u00e9ricardite :",
+        "options": [
+            "A.  Douleur \u00e0 la poitrine",
+            "B.  Myalgie",
+            "C.  Placards \u00e9ryth\u00e9mateux palmo plantaires de Janeway",
+            "D.  Nodules d\u2019Osler",
+            "E.  Prodrome virale"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 40,
+        "question": "L\u2019ad\u00e9nosine est utilis\u00e9e comme traitement de crise aigu dans les \u00e9tats suivants:",
+        "options": [
+            "A.  Tachycardie paroxystique supraventriculaire",
+            "B.  Tachycardie reentrant atrioventriculaire",
+            "C.  Fibrillation ventriculaire",
+            "D.  Maladie du noeud sinusal",
+            "E.  Tachycardie ventriculaire bidirectionnelle"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 41,
+        "question": "*Concernant le massage cardiaque externe, quelle est la proposition fausse?",
+        "options": [
+            "A.  Lorsque plusieurs sauveteurs sont pr\u00e9sents, le massage cardiaque doit \u00eatre effectu\u00e9 avec des relais de 1 \u00e0 2 minutes par sauveteur",
+            "B.  La d\u00e9pression thoracique doit \u00eatre d\u2019environ 5 cm",
+            "C.  Lorsque la ventilation est associ\u00e9 au massage, l'alternance compression/ventilation est de 30/2",
+            "D.  Lorsque les t\u00e9moins ou les sauveteurs ne veulent pas ou ne savent pas r\u00e9aliser la respiration bouche \u00e0 bouche, il est inutile d\u2019effectuer un massage cardiaque seul",
+            "E.  La fr\u00e9quence \u00e0 adopter est d\u2019au moins 100/minute"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 42,
+        "question": "Les facteurs de risques cardiovasculaire non modifiables sont les suivants:",
+        "options": [
+            "A.  L\u2019\u00e2ge",
+            "B.  L\u2019existence d\u2019un hypertension art\u00e9rielle",
+            "C.  Le sexe masculin",
+            "D.  L\u2019existence d\u2019un diab\u00e8te",
+            "E.  Les ant\u00e9c\u00e9dents familiaux de maladies cardiovasculaires"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 43,
+        "question": "A propos de l'angor chronique stable, quelles sont les propositions correctes?",
+        "options": [
+            "A.  Il ne survient au repos",
+            "B.  Lorsqu\u2019il survient \u00e0 l\u2019effort les sympt\u00f4mes c\u00e8dent typiquement d\u00e8s l'arr\u00eat de l'effort",
+            "C.  L\u2019angor est la cons\u00e9quence clinique d\u2019une isch\u00e9mie myocardique",
+            "D.  l\u2019ECG au repos n\u2019est jamais normal",
+            "E.  l\u2019ECG d\u2019effort permet localiser le territoire concern\u00e9 lorsqu\u2019il est modifi\u00e9"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 44,
+        "question": "*Quelle est la proposition qui d\u00e9crit le mieux l\u2019insuffisance cardiaque NYHA II?",
+        "options": [
+            "A.  Limitation modeste de l\u2019activit\u00e9 physique: \u00e0 l\u2019aise au repos, mais l\u2019activit\u00e9 ordinaire entra\u00eene une fatigue, des palpitations ou une dyspn\u00e9e",
+            "B.  Impossibilit\u00e9 de poursuivre une activit\u00e9 physique sans g\u00eane: les sympt\u00f4mes de l\u2019IC sont pr\u00e9sents, m\u00eame au repos, et la g\u00eane est accrue par toute activit\u00e9 physique",
+            "C.  R\u00e9duction marqu\u00e9e de l\u2019activit\u00e9 physique: \u00e0 l\u2019aise au repos, mais une activit\u00e9 moindre qu\u2019\u00e0 l\u2019accoutum\u00e9e provoque des sympt\u00f4mes",
+            "D.  Pas de limitation: l\u2019activit\u00e9 physique ordinaire n\u2019entra\u00eene pas de fatigue anormale, de dyspn\u00e9e ou de palpitation",
+            "E.  aucun"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 45,
+        "question": "Le r\u00e9seau art\u00e9riel coronaire:",
+        "options": [
+            "A.  Comprend le tronc commun",
+            "B.  Comprend le sinus coronaire",
+            "C.  Est irrigu\u00e9 est diastole",
+            "D.  Vascularise le myocarde",
+            "E.  Comprend l\u2019art\u00e8re coronaire droite"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 46,
+        "question": "*Signes d\u2019insuffisance cardiaque droite sont les suivantes sauf:",
+        "options": [
+            "A.  H\u00e9patom\u00e9galie",
+            "B.  Foie cardiaque avec cytolyse",
+            "C.  Oedeme aigue du poumon",
+            "D.  Stase jugulaire avec turgescence jugulaire",
+            "E.  Oed\u00e8mes des membres inf\u00e9rieurs"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 47,
+        "question": "L\u2019insuffisance cardiaques gauche produit les suivants signes fonctionnels:",
+        "options": [
+            "A.  Diminution du d\u00e9bit cardiaque",
+            "B.  H\u00e9patom\u00e9galie",
+            "C.  Oedeme aigue du poumon",
+            "D.  Turgescence jugulaire",
+            "E.  Hypotension"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 48,
+        "question": "Le traitement m\u00e9dicamenteux \u00e0 long terme de l\u2019insuffisance cardiaque comprend:",
+        "options": [
+            "A.  IEC",
+            "B.  Amines sympathicomim\u00e9tiques",
+            "C.  Diur\u00e9tiques",
+            "D.  Dobutamine",
+            "E.  B\u00e9ta bloquant"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 49,
+        "question": "* l\u2019infarctus du myocarde sous endocardique est caract\u00e9ris\u00e9 \u00e0 la phase aigu\u00eb par tous les \u00e9l\u00e9ments suivant sauf un, lequel? :",
+        "options": [
+            "A.  Atteinte ventriculaire gauche non transmurale",
+            "B.  \u00c9l\u00e9vation enzymatique",
+            "C.  Apparition d\u2019onde Q significatives sur ECG",
+            "D.  L\u00e9sions sous endocardique sur ECG",
+            "E.  Douleur constrictive m\u00e9dio thoracique prolong\u00e9e"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 50,
+        "question": "l\u2019oed\u00e8me aigu du poumon d\u2019origine h\u00e9modynamique (indiquer la ou les bonnes r\u00e9ponses):",
+        "options": [
+            "A.  Est toujours la cons\u00e9quence d\u2019une \u00e9l\u00e9vation de la pression capillaire pulmonaire",
+            "B.  Peut compliquer un r\u00e9tr\u00e9cissement mitrale serr\u00e9",
+            "C.  Est d\u00fb \u00e0 un bronchospasme",
+            "D.  Traduit une insuffisance cardiaque droite s\u00e9v\u00e8re",
+            "E.  Traduit une alt\u00e9ration de la fonction cardiaque gauche"
+        ],
+        "correct_answers": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 51,
+        "question": "Les complications les plus fr\u00e9quente de st\u00e9nose mitrale sont:",
+        "options": [
+            "A.  L'insuffisance ventriculaire gauche systolique",
+            "B.  Les arythmies supraventriculaires et la fibrillation auriculaire",
+            "C.  L'endocardite infectieuse",
+            "D.  Les accidents thromboembolique",
+            "E.  Insuffisance mitrale due \u00e0 la calcification de l\u2019anneau mitrale"
+        ],
+        "correct_answers": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 52,
+        "question": "Lesquelles des caract\u00e9ristiques cliniques suivantes \u00e9voquent le diagnostic de l\u2019insuffisance mitrale?",
+        "options": [
+            "A.  Un souffle holosystolique irradiant vers l'aisselle",
+            "B.  Le claquement d\u2019ouverture de la mitrale",
+            "C.  La pr\u00e9sence de fr\u00e9missement diastolique \u00e0 l\u2019apex",
+            "D.  Le gallop ventriculaire gauche",
+            "E.  L\u2019augmentation du bruit II \u00e0 la pulmonaire"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 53,
+        "question": "Les caract\u00e9ristique cliniques suivantes sugg\u00e8rent le diagnostic de l\u2019insuffisance aortique",
+        "options": [
+            "A.  Des pressions art\u00e9rielles divergentes",
+            "B.  La turgescence des jugulaires",
+            "C.  Un souffle diastolique doux, aspiratif, dans le foyer aortique",
+            "D.  Un souffle systolique de r\u00e9gurgitation aortique au sommet",
+            "E.  Le murmure diastolique Austin Flint"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 54,
+        "question": "L\u2019examen clinique objectif r\u00e9v\u00e8le dans une st\u00e9nose aortique",
+        "options": [
+            "A.  Renforcement de bruit I",
+            "B.  Un souffle systolique avec un rayonnement \u00e0 l\u2019aisselle",
+            "C.  Un claquement de fermeture des valves aortiques",
+            "D.  Un souffle systolique, avec irradiation aux vaisseaux du cou",
+            "E.  Le pouls p\u00e9riph\u00e9rique est retard\u00e9 et diminu\u00e9"
+        ],
+        "correct_answers": [
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 55,
+        "question": "Lequel des \u00e9l\u00e9ments suivants peuvent \u00eatre des complications de proth\u00e8ses cardiaques?",
+        "options": [
+            "A.  Les endocardites pr\u00e9coces et tardives",
+            "B.  La d\u00e9hiscence de proth\u00e8se",
+            "C.  L'apparition du bruit de galop ventriculaire gauche",
+            "D.  La thrombose de la proth\u00e8se",
+            "E.  La survenue des arythmies ventriculaires"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 56,
+        "question": "Choisissez les maladies cardiaques pr\u00e9sentant un risque pour l\u2019endocardite infectieuse et o\u00f9 la prophylaxie de la greffe septique est recommand\u00e9e:",
+        "options": [
+            "A.  Des malformations cardiovasculaires sans shunt",
+            "B.  L\u2019infarctus du myocarde compliqu\u00e9 par an\u00e9vrisme de VG",
+            "C.  Des maladies valvulaires rhumatismale y compris le prolapsus de la valve mitrale avec une r\u00e9gurgitation mitrale",
+            "D.  Des malformations cong\u00e9nitales avec cyanos\u00e9 partiellement corrig\u00e9e chirurgicalement avec des mat\u00e9riaux intracardiaque",
+            "E.  Des valves proth\u00e9tiques (m\u00e9canique, bioproth\u00e8se)"
+        ],
+        "correct_answers": [
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 57,
+        "question": "Lesquelles des sympt\u00f4mes suivants sont fr\u00e9quents dans la myocardite virale aigu\u00eb",
+        "options": [
+            "A.  La tachycardie sinusale",
+            "B.  La pr\u00e9sence de pouls alternant",
+            "C.  La pr\u00e9sence du galop ventriculaire gauche",
+            "D.  Un souffle systolique maximal dans le foyer de l\u2019aorte",
+            "E.  Dyspn\u00e9e \u00e0 l\u2019effort faible"
+        ],
+        "correct_answers": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 58,
+        "question": "La th\u00e9rapie m\u00e9dicamenteuse recommand\u00e9e dans la cardiomyopathie hypertrophique obstructive comprennent:",
+        "options": [
+            "A.  Des b\u00eata-bloqueurs",
+            "B.  Des inhibiteurs de l\u2019ECA",
+            "C.  Des nitrates",
+            "D.  Le v\u00e9rapamil ou diltiazem",
+            "E.  Des diur\u00e9tiques"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 59,
+        "question": "Les \u00e9l\u00e9ments cliniques suivants prennent en charge le diagnostic de cardiomyopathie dilat\u00e9e:",
+        "options": [
+            "A.  Un souffle systolique de r\u00e9gurgitation mitrale et tricuspide",
+            "B.  La pr\u00e9sence du galop ventriculaire gauche",
+            "C.  Un souffle systolique dans le foyer aortique",
+            "D.  Une douleur thoracique avec le rayonnement \u00e0 l\u2019\u00e9paule gauche survenu apr\u00e8s l\u2019exercice",
+            "E.  Des veines jugulaires turgescentes"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 60,
+        "question": "*Les modifications initiales de l\u2019ECG dans les p\u00e9ricardites aigu\u00ebs sont:",
+        "options": [
+            "A.  La d\u00e9pression du segment ST dans toutes les d\u00e9rivations avec des ondes T n\u00e9gatives",
+            "B.  Pr\u00e9sence des ondes Q dans tous les pr\u00e9cordiales",
+            "C.  El\u00e9vation \u00e9tendue du segment ST et des ondes T positifs",
+            "D.  \u00c9l\u00e9vation du segment ST dans toutes les d\u00e9rivations avec des ondes T n\u00e9gatives",
+            "E.  Pr\u00e9sence des ondes U dans pr\u00e9cordiales"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 61,
+        "question": "Les crit\u00e8res de diagnostic de l\u2019insuffisance cardiaque avec une fraction d\u2019\u00e9jection pr\u00e9serv\u00e9e sont les suivantes:",
+        "options": [
+            "A.  La pr\u00e9sence de dysfonction diastolique avec FE \u2265 45% \u00e0 l\u2019\u00e9chocardiographie",
+            "B.  Les signes cliniques de l\u2019insuffisance cardiaques",
+            "C.  La dilatation du ventricule gauche \u00e0 l\u2019\u00e9chocardiographie",
+            "D.  L\u2019absence d\u2019une maladie cardiaque structurelle qui pourrait produire IC",
+            "E.  Des sympt\u00f4mes subjectifs suggestifs pour l\u2019IC"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 62,
+        "question": "Lequel des situations ci-dessous sont des facteurs pr\u00e9disposants d\u2019apparition/aggravation de l\u2019insuffisance cardiaque:",
+        "options": [
+            "A.  Les pneumonies",
+            "B.  L\u2019administration des digitaliques",
+            "C.  La pr\u00e9sence des tachi/bradyarythmies",
+            "D.  L\u2019an\u00e9mie",
+            "E.  L\u2019administration des amines pressives"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 63,
+        "question": "L\u2019oed\u00e8me pulmonaire aigu comme une expression de l\u2019insuffisance ventriculaire gauche peut \u00eatre trouv\u00e9 dans:",
+        "options": [
+            "A.  Une st\u00e9nose mitrale rhumatismale s\u00e9v\u00e8re",
+            "B.  L\u2019angine prinzmetal",
+            "C.  La dysplasie arythmog\u00e8ne du ventricule droit",
+            "D.  La fibrillation auriculaire avec un taux ventriculaire rapide",
+            "E.  La r\u00e9gurgitation mitrale aigu\u00eb"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 64,
+        "question": "Lequel des \u00e9nonc\u00e9s concernant le traitement pathog\u00e8nes de l\u2019IC cardiaque NYHA classe III sont vrais?",
+        "options": [
+            "A.  D\u00e9marrer par l\u2019administration de furos\u00e9mide",
+            "B.  Le traitement par b\u00eata-bloquants r\u00e9duits le taux de r\u00e9hospitalisation",
+            "C.  Pour r\u00e9duire la fr\u00e9quence cardiaque administrez du v\u00e9rapamil",
+            "D.  L\u2019administration de l\u2019IECA est initi\u00e9 avec de petites doses",
+            "E.  La spironolactone est un m\u00e9dicament qui r\u00e9duit la mortalit\u00e9"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 65,
+        "question": "Les signes cliniques d\u2019insuffisance cardiaque droite comprennent:",
+        "options": [
+            "A.  Choc au sommet dans l\u2019espace VI intercostal gauche",
+            "B.  Des veines jugulaires turgescentes",
+            "C.  La pr\u00e9sence de la stase pulmonaire",
+            "D.  La pr\u00e9sence des oed\u00e8mes p\u00e9riph\u00e9riques",
+            "E.  La pr\u00e9sence de galop ventriculaire gauche"
+        ],
+        "correct_answers": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 66,
+        "question": "Les l\u00e9sions asymptomatiques des organes cibles dans l\u2019hypertension comprennent:",
+        "options": [
+            "A.  La pr\u00e9sence d\u2019une hypertrophie ventriculaire gauche",
+            "B.  La microalbuminurie",
+            "C.  La maladie art\u00e9rielle p\u00e9riph\u00e9rique symptomatique",
+            "D.  L\u00e9sions avanc\u00e9es de r\u00e9tinopathie hypertensive",
+            "E.  L\u2019indice intime-moyenne (IMT) augment\u00e9 > 0.9mm"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 67,
+        "question": "Encadrez l\u2019HTA \u00e0 un homme de 67 ans, diab\u00e9tique, avec une maladie coronarienne et non trait\u00e9e, pr\u00e9sentant PA \u00e9lev\u00e9es 170/105 mmHg",
+        "options": [
+            "A.  De grade II",
+            "B.  Avec risque additionnel mod\u00e9r\u00e9",
+            "C.  Avec risque additionnel haut",
+            "D.  Avec risque additionnel tr\u00e8s \u00e9lev\u00e9",
+            "E.  Il exige des \u00e9valuations suppl\u00e9mentaires pour l\u2019encadrement"
+        ],
+        "correct_answers": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 68,
+        "question": "*le traitement de choix lors de l\u2019hypertension de grossesse comprenant l\u2019administration \u00e0:",
+        "options": [
+            "A.  Des bloqueurs de canaux calciques",
+            "B.  M\u00e9thyldopa",
+            "C.  Des b\u00eata-bloqueurs",
+            "D.  Des inhibiteurs de l\u2019enzyme de conversion",
+            "E.  De furos\u00e9mide"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 69,
+        "question": "Laquelle des conditions suivantes peut \u00eatre la cause d\u2019une hypertension secondaire:",
+        "options": [
+            "A.  L\u2019administration de m\u00e9dicaments (d\u00e9congestionnant nasal, la cyclosporine, la coca\u00efne, etc)",
+            "B.  Les glom\u00e9rulon\u00e9phrite aigu\u00eb et chronique",
+            "C.  L\u2019histoire de lithiase r\u00e9nale non-obstructive",
+            "D.  Hypo- ou hyperthyroidie",
+            "E.  Les kystes r\u00e9naux isol\u00e9s"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 70,
+        "question": "Lequel des \u00e9v\u00e9nements suivants sont des formes de l'angor instable",
+        "options": [
+            "A.  L\u2019angine de Prinzmetal",
+            "B.  L\u2019angor d\u2019effort d\u00e9but\u00e9 de 2 semaines",
+            "C.  L\u2019angor d\u2019effort d\u00e9but\u00e9 de 3 mois",
+            "D.  L\u2019angine prolong\u00e9e au repos",
+            "E.  L\u2019angine qui donne seulement aux 2\u00e8me \u00e9pisode de nitroglyc\u00e9rine"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 71,
+        "question": "Le traitement du syndrome coronarien aigue comprend les mesures suivantes:",
+        "options": [
+            "A.  Anticoagulation avec de l\u2019h\u00e9parine ou de l\u2019h\u00e9parine micromol\u00e9culaire",
+            "B.  Administration de b\u00eata-bloquants",
+            "C.  Le traitement fibrinolytique",
+            "D.  Un traitement antiplaquettaire par aspirine et le clopidogrel",
+            "E.  Administration de l\u2019adr\u00e9naline ou la noradr\u00e9naline"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 72,
+        "question": "Dans le syndrome coronarien aigu, la coronarographie est indiqu\u00e9e:",
+        "options": [
+            "A.  Dans les premi\u00e8res 12h",
+            "B.  Dans les premi\u00e8res 48h",
+            "C.  Il n\u2019est pas n\u00e9cessaire si les sympt\u00f4mes disparaissent",
+            "D.  A tout moment, si la douleur s\u2019aggrave",
+            "E.  Apr\u00e8s la r\u00e9mission compl\u00e8te du syndrome coronarien aigu"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 73,
+        "question": "* La d\u00e9finition ECG de l\u2019infarctus ant\u00e9rieur \u00e9tir\u00e9 aigu du myocarde implique:",
+        "options": [
+            "A.  La pr\u00e9sence des ondes Q en V1-V6, DI, aVL, \u00e9l\u00e9vation du segment ST et T n\u00e9gative",
+            "B.  Des ondes Q en V1-V6, DI, aVL, avec d\u00e9pression ST et T positive",
+            "C.  Des ondes Q en DII, DIII, aVF avec \u00e9l\u00e9vation ST et T n\u00e9gative",
+            "D.  Des ondes Q en DI, aVL, V6 avec d\u00e9pression ST et T n\u00e9gative",
+            "E.  Des ondes Q en V2-V4, \u00e9l\u00e9vation du segment ST et T n\u00e9gative"
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 74,
+        "question": "Les contre-indications absolues de la th\u00e9rapie fibrinolytique dans l\u2019infarctus aigu du myocarde comprennent:",
+        "options": [
+            "A.  Une histoire d\u2019ulc\u00e8re peptique",
+            "B.  AVC isch\u00e9mique dans les derniers 3 mois",
+            "C.  L\u2019\u00e2ge de plus de 80 ans",
+            "D.  Histoire de troubles de coagulation",
+            "E.  Des blessures r\u00e9centes (< 3 semaines)"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 75,
+        "question": "La classe II Kilip dans l\u2019infarctus aigu du myocarde est caract\u00e9ris\u00e9e par:",
+        "options": [
+            "A.  Le manque de l\u2019insuffisance cardiaque",
+            "B.  Des r\u00e2les de stase dans les parties inf\u00e9rieures des champs pulmonaires",
+            "C.  La pr\u00e9sence de l\u2019oed\u00e8me pulmonaire aigu",
+            "D.  La turgescence des veines jugulaires",
+            "E.  Le galop S3 ventriculaire gauche"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 76,
+        "question": "L\u2019ECG dans la thrombo-embolie, pulmonaire peut montrer:",
+        "options": [
+            "A.  Des ondes T n\u00e9gatives en V1-V4",
+            "B.  L\u2019apparition d\u2019un bloc de branche gauche",
+            "C.  Des ondes S profondes dans les d\u00e9rivations V5-V6",
+            "D.  L\u2019\u00e9l\u00e9vation du segment ST en DIII",
+            "E.  D\u00e9viation de l\u2019axe cardiaque \u00e0 gauche"
+        ],
+        "correct_answers": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 77,
+        "question": "Le traitement de coeur pulmonaire comprend (c\u2019est troop flouuuu putiiiin)",
+        "options": [
+            "A.  La correction de l\u2019hypo\u2026(NaCl 0.9%) en quantit\u00e9",
+            "B.  La correction de l\u2019hypo",
+            "C.  L\u2019administration de la",
+            "D.  L\u2019administration des vasodilatateurs",
+            "E.  L\u2019administration de l\u2019oxyg\u00e8ne"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 78,
+        "question": "Le coeur pulmonaire est d\u00e9finit comme une:",
+        "options": [
+            "A.  Hypertrophie ventriculaire droite...mitrale, mal cong\u00e9nitale, sh",
+            "B.  L\u2019insuffisance VD dans une cardiomyopathie dilat\u00e9e",
+            "C.  Hypertrophie VD secondaire aux changements...fonctionnels du poumon et/ou de la circulation pulmonaire",
+            "D.  Insuffisance VD cons\u00e9cutive \u00e0 l\u2019insuffisance cardiaque gauche",
+            "E.  Hypertrophie VD due aux embolies pulmonaires..."
+        ],
+        "correct_answers": [
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 79,
+        "question": "Chez un patient souffrant de coeur pulmonaire chronique, l\u2019\u00e9chocardiographie peut d\u00e9tecter:",
+        "options": [
+            "A.  La pression art\u00e9rielle pulmonaire systolique estim\u00e9e de plus de 30 mmHg",
+            "B.  Le mouvement paradoxal de septum",
+            "C.  Une hypertrophie ventriculaire gauche",
+            "D.  La pr\u00e9sence de la r\u00e9gurgitation tricuspide",
+            "E.  La pr\u00e9sence de la r\u00e9gurgitation mitrale"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 80,
+        "question": "Le traitement de l\u2019hypertension art\u00e9rielle pulmonaire se fait avec les m\u00e9dicaments suivants:",
+        "options": [
+            "A.  Par administration des b\u00eata-bloquants",
+            "B.  Par administration des bloqueurs de canaux calciques",
+            "C.  Par administration des antagonistes de r\u00e9cepteurs de l\u2019endoth\u00e9line",
+            "D.  Par administration des inhibiteurs de phosphodiest\u00e9rase de type 5",
+            "E.  Effectuez une phl\u00e9botomie pour corriger la polyglobulie"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 81,
+        "question": "Les sympt\u00f4mes et les signes cliniques suivants sugg\u00e8rent un an\u00e9vrisme aortique diss\u00e9quant:",
+        "options": [
+            "A.  La douleur de poitrine intense, prolong\u00e9e avec syncope",
+            "B.  La douleur + des signes de l\u2019insuffisance cardiaque congestive",
+            "C.  La pr\u00e9sence de l\u2019embolie pulmonaire",
+            "D.  L'\u00e9mergence d\u2019un nouveau souffle systolique au foyer aortique",
+            "E.  L\u2019absence de pouls dans les jambes"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 82,
+        "question": "Le traitement de l\u2019an\u00e9vrisme diss\u00e9quant de l\u2019aorte ascendante comprend les mesures suivantes:",
+        "options": [
+            "A.  Administrez des inhibiteurs calciques ou B-bloquants",
+            "B.  La prophylaxie des embolies p\u00e9riph\u00e9riques \u00e0 l\u2019h\u00e9parine",
+            "C.  La chirurgie par l\u2019insertion d\u2019une proth\u00e8se de Dacron",
+            "D.  Soulager la douleur et l\u2019anxi\u00e9t\u00e9",
+            "E.  Correction de l\u2019an\u00e9mie \u00e0 la transfusion sanguine"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 83,
+        "question": "Voici des causes possibles pour la tachycardie paroxystique supraventriculaire avec des complexes QRS larges:",
+        "options": [
+            "A.  La pr\u00e9sence d\u2019un bloc de branche gauche ou droit",
+            "B.  Un bloc de branche d\u00e9pendant de la fr\u00e9quence",
+            "C.  L\u2019infarctus aigu du myocarde STEMI",
+            "D.  La pr\u00e9sence d\u2019un faisceau accessoire \u201cbystander\u201d",
+            "E.  Dans le syndrome de repolarisation pr\u00e9coce"
+        ],
+        "correct_answers": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 84,
+        "question": "Le traitement d\u2019urgence de la tachycardie paroxystique supraventriculaire comprend:",
+        "options": [
+            "A.  Verapamil 5 mg IV, r\u00e9p\u00e9ter apr\u00e8s 5-10 minutes",
+            "B.  La manoeuvre de Valsalva ou la compression sino-carotidienne",
+            "C.  La fl\u00e9ca\u00efnide administr\u00e9 IV, en 2 heures, par la seringue",
+            "D.  La xylocaine 80 mg, IV en bolus, r\u00e9p\u00e9t\u00e9 apr\u00e8s 15 minutes",
+            "E.  Ad\u00e9nosine 1 ampoule, IV, r\u00e9p\u00e9t\u00e9e si n\u00e9cessaire"
+        ],
+        "correct_answers": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 85,
+        "question": "Un patient avec FA avec AV 145 bat/min et BP 110/60 mmHg et d\u00e9but de 3 jours, le traitement optimal comprend:",
+        "options": [
+            "A.  Un choc \u00e9lectrique externe appliqu\u00e9 imm\u00e9diatement",
+            "B.  L\u2019administration de amiodarone IV",
+            "C.  D\u2019abord initiez l\u2019anticoagulation avec des anticoagulants oraux",
+            "D.  Amiodarone orale apr\u00e8s avoir exclu par l\u2019\u00e9chographie transoesophagienne la pr\u00e9sence d\u2019emboles dans l'oreillette G",
+            "E.  Contr\u00f4lez d\u2019abord la fr\u00e9quence ventriculaire par des b\u00eata-bloquants et digitaliques REP:"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 86,
+        "question": "*Chez un patient avec FA permanente, la fr\u00e9quence ventriculaire est contr\u00f4l\u00e9e par administration des b\u00eata-bloqueurs et digitaliques, ce traitement se poursuit:",
+        "options": [
+            "A.  Pour encore 1-2 mois",
+            "B.  Pour restaurer le rythme sinusal",
+            "C.  Jusqu\u2019\u00e0 l\u2019implantation d\u2019un stimulateur cardiaque",
+            "D.  Jusqu\u2019\u00e0 l\u2019administration d\u2019amiodarone 200 mg/jour",
+            "E.  Ind\u00e9finiment REP:"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 87,
+        "question": "*Le bloc AV de grade II, type Mobitz I est caract\u00e9ris\u00e9 par:",
+        "options": [
+            "A.  Le conduit AV est soudainement interrompu",
+            "B.  L\u2019intervalle PR est prolong\u00e9 plus de 0.20 sec",
+            "C.  Tous les II\u00e8me ou III\u00e8me ondes P sont bloqu\u00e9es",
+            "D.  L\u2019intervalle PR est allong\u00e9 progressivement jusqu\u2019\u00e0 ce qu\u2019une impulsion soit bloqu\u00e9e",
+            "E.  Il n\u2019y a aucune relation entre les ondes P et le complexe QRS"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 88,
+        "question": "En ce qui concerne le syndrome de sinus malade, lequel des \u00e9nonc\u00e9s suivants sont vrais?",
+        "options": [
+            "A.  Il se manifeste par une combinaison de sympt\u00f4mes: vertiges, fatigue, de la syncope",
+            "B.  Sur l\u2019ECG il y a des pauses sinusales ou bloc sino-auriculaires",
+            "C.  Est associ\u00e9e \u00e0 des troubles de la conduction intraventriculaire",
+            "D.  La surveillance holter ECG est n\u00e9cessaire pour le diagnostic",
+            "E.  Les \u00e9tudes \u00e9lectrophysiologiques permettent l\u2019identification du"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 89,
+        "question": "Les \u00e9nonc\u00e9s suivants sont vrais \u00e0 propos de la syncope sino-carotidienne symptomatique:",
+        "options": [
+            "A.  Elle appara\u00eet \u00e0 un retour brusque de la t\u00eate",
+            "B.  Pour le diagnostic positif est n\u00e9cessaire un Tilt test",
+            "C.  La compression sinocarotidienne, induit sur l\u2019ECG des pauses sinusales de plus de 3000 ms",
+            "D.  La pression art\u00e9rielle diminue > 50 mmHg dans le debout",
+            "E.  L\u2019implantation du stimulateur est recommand\u00e9e pour trait."
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 90,
+        "question": "Lesquelles des formes suivantes sont des syncopes r\u00e9flexes?",
+        "options": [
+            "A.  Produite apr\u00e8s la miction ou la d\u00e9f\u00e9cation",
+            "B.  M\u00e9di\u00e9e par un stress \u00e9motionnel",
+            "C.  La syncope de l\u2019hypotension orthostatique",
+            "D.  Apparu dans l\u2019orthostatisme",
+            "E.  La syncope apparu apr\u00e8s \u00e9pisodes de diarrh\u00e9e ou des vomissements r\u00e9p\u00e9t\u00e9es"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 91,
+        "question": "*La persistance du canal art\u00e9riel est une maladie cardiaque cong\u00e9nitale:",
+        "options": [
+            "A.  Non-cyanog\u00e8ne, avec shunt gauche-droite",
+            "B.  cyanog\u00e8ne , avec shunt droite-gauche",
+            "C.  Non-cyanog\u00e8ne, avec shunt droite-gauche",
+            "D.  Il fait partie des malformations cong\u00e9nitales complexes",
+            "E.  Cyanog\u00e8ne, avec des shunt gauche-droite"
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 92,
+        "question": "*La t\u00e9tralogie de Fallot comprend:",
+        "options": [
+            "A.  Un DSA, DSV, st\u00e9nose mitrale, HVD",
+            "B.  Une st\u00e9nose aortique, st\u00e9nose pulmonaire, communication interauriculaire, HVD",
+            "C.  DSA, une st\u00e9nose pulmonaire, HVD, BBD",
+            "D.  DSV large, HVD, st\u00e9nose pulmonaire, dextroposition de l\u2019aorte",
+            "E.  DSA, DSV, st\u00e9nose pulmonaire, HVD"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    }
+]
