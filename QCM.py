@@ -16,7 +16,7 @@ class QCMApp(tk.Tk):
 
         self.title("Quiz QCM")
 
-        self.chapter_files = ["Cardiologie2.json"] 
+        self.chapter_files = ["Radiologie.json"] 
         self.chapters = self.load_chapters()
         self.load_question_stats()
         self.create_main_menu()

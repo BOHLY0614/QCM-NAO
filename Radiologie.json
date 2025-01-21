@@ -1,0 +1,826 @@
+[
+    {
+        "chapitre": 1,
+        "id": 1,
+        "question": "*Quel de ce qui suit ne fait pas partie des principales parties d\u2019un appareil \u00e0 rayon X?",
+        "options": [
+            "A.  Le tube \u00e9metteur aux rayons X",
+            "B.  Transformateurs",
+            "C.  Kenotrones",
+            "D.  \u00c9cran",
+            "E.  c\u00e2bles"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 2,
+        "question": "*Quel des \u00e9l\u00e9ments suivants ne fait pas parti des lois de l\u2019optique radiologique:",
+        "options": [
+            "A.  Loi de la projection conique",
+            "B.  La loi de tentes",
+            "C.  La loi de la substraction et sumation",
+            "D.  Polarisation",
+            "E.  Tangentielle et la orthograde"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 3,
+        "question": "*Lequel des \u00e9nonc\u00e9s suivants est un inconv\u00e9nient de la radioscopie:",
+        "options": [
+            "A.  Ne identifie pas les petites l\u00e9sions (moins de 5-6mm)",
+            "B.  Identifier les petites l\u00e9sions",
+            "C.  Est une m\u00e9thode objective",
+            "D.  Se pour obtenir le document pour contr\u00f4le ult\u00e9rieur",
+            "E.  M\u00e9thode d\u2019irradiation faible"
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 4,
+        "question": "*Opacit\u00e9s micronodulaires:",
+        "options": [
+            "A.  3-5 cm",
+            "B.  1,5-3 mm",
+            "C.  3-5 mm",
+            "D.  2-4 cm",
+            "E.  >5 cm"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 5,
+        "question": "Quelles sont les \u00e9tapes de l\u2019\u00e9volution de l\u2019abc\u00e8s pulmonaire",
+        "options": [
+            "A.  \u00e9tablissement/pneumonique",
+            "B.  Supuration",
+            "C.  Abc\u00e8s jusqu\u2019\u00e0 bronchique d\u2019\u00e9jection",
+            "D.  \u201cRestitutio ad integrum\u201d",
+            "E.  H\u00e9patisation rouge"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 6,
+        "question": "Changements radiologiques \u00e9vocateurs de pneumonie:",
+        "options": [
+            "A.  Emplacement de choix lobes inf\u00e9rieurs",
+            "B.  Emplacement de choix lobes sup\u00e9rieurs",
+            "C.  Les limites sont respect\u00e9s Lempereur",
+            "D.  La d\u00e9limitation peut \u00eatre lin\u00e9aire",
+            "E.  L\u2019intensit\u00e9 de la flamb\u00e9e de pneumonie est des parties molles"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 7,
+        "question": "Lequel des \u00e9nonc\u00e9s suivants repr\u00e9sentent des formes de pneumonies?",
+        "options": [
+            "A.  Comprend des nodules",
+            "B.  Nodules de moyennes et grandes",
+            "C.  Pseudo Lobaire",
+            "D.  Multilobaire",
+            "E.  diffuse"
+        ],
+        "correct_answers": [
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 8,
+        "question": "Les caract\u00e9ristiques des tuberculoms sont:",
+        "options": [
+            "A.  L\u2019opacit\u00e9 rotonde",
+            "B.  Grandes lignes r\u00e9guli\u00e8res",
+            "C.  2-4 cm de diam\u00e8tre",
+            "D.  Calcifications possible \u00e0 l\u2019int\u00e9rieur",
+            "E.  Contour irr\u00e9gulier"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 9,
+        "question": "*Des changements semblables \u201cflocons de neige dans la temp\u00eate\u201d r\u00e9pondent \u00e0 l\u2019\u00e9tape suivante de la silicose:",
+        "options": [
+            "A.  Stade presilicotic",
+            "B.  Stade I",
+            "C.  Stade II",
+            "D.  Stade III",
+            "E.  Toutes ces r\u00e9ponses"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 10,
+        "question": "*Damoiseau-Ellis-Kimbockourbe s\u2019affiche dans la pathologie suivante:",
+        "options": [
+            "A.  At\u00e9lectasie",
+            "B.  \u00c9panchement pleural",
+            "C.  P\u00e9ricardite",
+            "D.  Pneumonie",
+            "E.  abc\u00e8s"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 11,
+        "question": "Les signes radiologiques de pneumothorax:",
+        "options": [
+            "A.  Zone de transparence",
+            "B.  Rien de dessin pulmonaire",
+            "C.  Poumon colabate au hil a manque de transparence",
+            "D.  Poumon maintenant dessin",
+            "E.  Traction des structures m\u00e9diastinales"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 12,
+        "question": "Les tumeurs suivantes font partie du compartiment m\u00e9diastinal ant\u00e9rieur:",
+        "options": [
+            "A.  Les tumeurs du thymus",
+            "B.  Tumeurs thyroidiennes",
+            "C.  Tumeurs nerveuses",
+            "D.  Kyste neurent\u00e9rique",
+            "E.  Tumeurs oesophagiennes"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 13,
+        "question": "Lequel des \u00e9nonc\u00e9s suivants repr\u00e9sente les types de hernies hiatales?",
+        "options": [
+            "A.  Hernies hiatales d\u2019oesophage court",
+            "B.  Hernies hiatales avec oesophage long",
+            "C.  Les hernies hiatales para oesophagienne",
+            "D.  Hernies hiatales glissantes",
+            "E.  Hernies hiatales aux traction"
+        ],
+        "correct_answers": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 14,
+        "question": "*Le pneumop\u00e9ricarde repr\u00e9sente:",
+        "options": [
+            "A.  Liquide dans la cavit\u00e9 p\u00e9ricardique",
+            "B.  Pus dans la cavit\u00e9 p\u00e9ricardique",
+            "C.  Air dans la cavit\u00e9 p\u00e9ricardique",
+            "D.  Sang dans la cavit\u00e9 p\u00e9ricardique",
+            "E.  Aucune des options ci-dessus"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 15,
+        "question": "Le syndrome de Klippel-Trenaunay est caract\u00e9ris\u00e9 par:",
+        "options": [
+            "A.  L\u2019existence d\u2019angiome veneuses",
+            "B.  Thrombophl\u00e9bite superficielle et le syst\u00e8me veineux",
+            "C.  Parties molles du membre affect\u00e9 sont augment\u00e9s de volume",
+            "D.  Hypertrichose",
+            "E.  Temp\u00e9rature cutan\u00e9e \u00e9lev\u00e9e"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 16,
+        "question": "Les m\u00e9thodes qui utilisent des rayons X sont:",
+        "options": [
+            "A.  \u00c9chographie",
+            "B.  IRM",
+            "C.  \u00c9chographie de avec substance de contraste",
+            "D.  radioscopie",
+            "E.  La tomodensitom\u00e9trie"
+        ],
+        "correct_answers": [
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 17,
+        "question": "La niche b\u00e9nigne pr\u00e9sente les caract\u00e9ristiques suivantes:",
+        "options": [
+            "A.  Il est bien d\u00e9limit\u00e9",
+            "B.  Plateau, m\u00e9nisque",
+            "C.  Plis radial dispos\u00e9es",
+            "D.  La lueur g\u00e9n\u00e9rale transparente, nodulaire",
+            "E.  Plis interrompu"
+        ],
+        "correct_answers": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 18,
+        "question": "La niche maligne pr\u00e9sente les caract\u00e9ristiques suivantes:",
+        "options": [
+            "A.  Il est bien d\u00e9limit\u00e9",
+            "B.  Plateau, m\u00e9nisque",
+            "C.  Plis radial dispos\u00e9es",
+            "D.  La lueur g\u00e9n\u00e9rale transparente, nodulaire",
+            "E.  Plis interrompu"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 19,
+        "question": "Lequel des \u00e9nonc\u00e9s suivants repr\u00e9sente causes de pneumop\u00e9ritoine",
+        "options": [
+            "A.  Ulc\u00e8re gastro-duod\u00e9nal",
+            "B.  La perforation du c\u00f4lon",
+            "C.  Rupture oesophagienne",
+            "D.  Rupture de la rate",
+            "E.  Rupture h\u00e9patique"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 20,
+        "question": "L\u2019achalasie repr\u00e9sente",
+        "options": [
+            "A.  L\u2019insuffisance ou l\u2019absence de mient\u00e9ric plexus d\u2019Auerbach",
+            "B.  Exc\u00e8s de mienteric plexus d\u2019Auerbach",
+            "C.  Varices oesophagiennes sont fr\u00e9quemment associ\u00e9es",
+            "D.  \u00c9longation oesophagienne est souvent associ\u00e9e",
+            "E.  Est localis\u00e9e au niveau du diaphragme"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 21,
+        "question": "Les signes radiologiques \u00e9vocateurs d\u2019occlusion du c\u00f4lon:",
+        "options": [
+            "A.  Aerocolie progressive qui s\u2019arr\u00eate au niveau de l\u2019obstacle",
+            "B.  Plus de 9 cm de dilatation du ch\u00e8que n\u2019est susceptible",
+            "C.  Niveaux hydroa\u00e9rique avec localisation p\u00e9riph\u00e9rique",
+            "D.  Niveaux hydroa\u00e9rique avec emplacement central",
+            "E.  Rien de niveaux hydroa\u00e9rique"
+        ],
+        "correct_answers": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 22,
+        "question": "Menetrier gastrite:",
+        "options": [
+            "A.  Aspect secours hypertrophie de pseudopolipoid chronique annarqu\u00e9",
+            "B.  Localisation principalement en moyenne 1/3",
+            "C.  Principalement au niveau des fornix",
+            "D.  Impliquer aussi bien grand que petit rayon de cintrage",
+            "E.  Impliquer seulement petite courbure"
+        ],
+        "correct_answers": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 23,
+        "question": "Malformation r\u00e9nales cong\u00e9nitales de la forme:",
+        "options": [
+            "A.  Foetale persistante lobulation",
+            "B.  Rein de fer \u00e0 cheval",
+            "C.  Rein malrotatie",
+            "D.  Ectopie r\u00e9nale",
+            "E.  Large rein cong\u00e9nitale"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 24,
+        "question": "L\u2019abc\u00e8s de Brodie:",
+        "options": [
+            "A.  L'emplacement pr\u00e9f\u00e9r\u00e9 \u00e0 le niveau desephises des os longs",
+            "B.  Zone centrale d\u2019ost\u00e9olise",
+            "C.  L\u2019emplacement pr\u00e9f\u00e9r\u00e9 \u00e0 le niveau des diaphises des os longs",
+            "D.  Zone p\u00e9riph\u00e9rique d\u2019ost\u00e9oscl\u00e9rose",
+            "E.  Zone d\u2019ost\u00e9oscl\u00e9rose central"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 25,
+        "question": "L\u2019ost\u00e9ome ost\u00e9o\u00efde se caract\u00e9rise par:",
+        "options": [
+            "A.  Pr\u00e9sente nidus central",
+            "B.  Zone p\u00e9riph\u00e9rique d\u2019ost\u00e9oscl\u00e9rose",
+            "C.  Se d\u00e9velopper en diafizara compact des os longs",
+            "D.  Se d\u00e9velopper les extr\u00e9mit\u00e9s m\u00e9taphysaires des os longs",
+            "E.  Le nidus peut pr\u00e9senter jusqu\u2019\u00e0 taille de 4-5 cm"
+        ],
+        "correct_answers": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 26,
+        "question": "Images hydroa\u00e9rique peuvent \u00eatre vues dans les pathologies suivantes:",
+        "options": [
+            "A.  Abc\u00e8s",
+            "B.  Kyste hydatique",
+            "C.  Caverne",
+            "D.  Hydro pneumothorax",
+            "E.  At\u00e9lectasie"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 27,
+        "question": "*Jakobson Holzknecht signe:",
+        "options": [
+            "A.  Pneumonie",
+            "B.  Hydro pneumothorax",
+            "C.  At\u00e9lectasie",
+            "D.  Cancer du poumon",
+            "E.  Aucune des variantes"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 28,
+        "question": "Lequel des changements suivants se produisent dans la pneumonie interstitielle",
+        "options": [
+            "A.  Localisation fr\u00e9quente dans les segments inf\u00e9rieurs et post\u00e9rieurs",
+            "B.  Poumon dessin plus nettement dans la variabilit\u00e9 de lavecinantates",
+            "C.  Poumon dessin plus fortement les deux \u00e0 proximit\u00e9 de variabilit\u00e9 et de longue distance",
+            "D.  Infiltrats localis\u00e9s plus souvent vers le poumon apexurile",
+            "E.  Soulignant bilat\u00e9raux uni-/ dessin hilarant (hiluri en ailes de papillon) avec des extensions sous forme de cordons opaques qui s\u2019\u00e9cartent de la khil vers les bases de donn\u00e9es"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 29,
+        "question": "Le complexe primaire au sein de la primo-infection bacillaire se compose de:",
+        "options": [
+            "A.  Affecte primaire",
+            "B.  Affecte secondaire",
+            "C.  Lymphangite",
+            "D.  Adenopathie satellite",
+            "E.  caverne"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 30,
+        "question": "Les cavernes pulmonaires fibreuses (grade III) pr\u00e9sente les caract\u00e9ristiques radiologiques suivantes:",
+        "options": [
+            "A.  Zones claires, des zones opaques dans le tableau ci-dessus",
+            "B.  Apparition de l\u2019anneau opaque d\u2019\u00e9gale \u00e9paisseur (1-2 mm)",
+            "C.  Anneau opaque (3-4 mm)",
+            "D.  \u00c0 l\u2019int\u00e9rieur zone claire volumineux",
+            "E.  Niveaux hydroa\u00e9rique"
+        ],
+        "correct_answers": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 31,
+        "question": "Le signe de Morquio:",
+        "options": [
+            "A.  Kyste hydatique simple",
+            "B.  Kyste d\u2019hydatide compliqu\u00e9",
+            "C.  Cancer du poumon",
+            "D.  Hernie hiatale",
+            "E.  Pneumonie"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 32,
+        "question": "Les crit\u00e8res radiologiques suggestifs de hamartome pulmonaire",
+        "options": [
+            "A.  Opacit\u00e9 rotonde, solitaire",
+            "B.  Contour net",
+            "C.  Contour irr\u00e9gulier",
+            "D.  Calcifications rarement pr\u00e9sente",
+            "E.  Calcifications souvent pr\u00e9sente"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 33,
+        "question": "Opacit\u00e9 pulmonaire miliaire vous pouvez voir dans les pathologies suivantes:",
+        "options": [
+            "A.  Tuberculose pulmonaire",
+            "B.  M\u00e9tastases pulmonaires",
+            "C.  Cancer du poumon",
+            "D.  At\u00e9lectasie",
+            "E.  pneumonie"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 34,
+        "question": "Les pathologies suivantes font partie du compartiment m\u00e9diastinal post\u00e9rieur:",
+        "options": [
+            "A.  Kyste neurent\u00e9rique",
+            "B.  Hernies hiatales",
+            "C.  Tumeurs oesophagiennes",
+            "D.  Hernies \u00e0 travers le foramen de bochdalek",
+            "E.  thymome"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 35,
+        "question": "Quelles l\u00e9sions sont spontan\u00e9ment hyperdense dans CT:",
+        "options": [
+            "A.  H\u00e9matome intraparenchymateuse",
+            "B.  H\u00e9matome sous-dural",
+            "C.  H\u00e9matome \u00e9pidural",
+            "D.  Isch\u00e9mie aigue",
+            "E.  Isch\u00e9mie chronique"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 36,
+        "question": "L\u2019odontome:",
+        "options": [
+            "A.  Tumeur b\u00e9nigne constitu\u00e9e d\u2019un conglom\u00e9rat de dents rudimentaire",
+            "B.  Se d\u00e9velopper principalement au niveau de la derni\u00e8re molaire inf\u00e9rieure",
+            "C.  Tumeur maligne",
+            "D.  Os cortical bouff\u00e9e",
+            "E.  Cavit\u00e9 d\u20191-2 cm, nets comptes qui regorge de formations opaques rondes ou polygonales"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 37,
+        "question": "*L\u2019apparition de la colonne vert\u00e9brale \u201ccanne de bamboo\u201d se trouve dans:",
+        "options": [
+            "A.  La polyarthrite rhumato\u00efde",
+            "B.  La spondylarthrite anchilopoetique",
+            "C.  Pottmorbus",
+            "D.  Arthrite psoriasique",
+            "E.  Arthrite goutteuse"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 38,
+        "question": "L\u2019ost\u00e9ome:",
+        "options": [
+            "A.  Tumeur compos\u00e9e de tissu osseux adulte",
+            "B.  Souvent au niveau des os longs",
+            "C.  Souvent au niveau du bouclier d\u2019OS",
+            "D.  Contour net",
+            "E.  Nidus central"
+        ],
+        "correct_answers": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 39,
+        "question": "Lequel des \u00e9nonc\u00e9s suivants repr\u00e9sente le caract\u00e8re g\u00e9n\u00e9ral des tumeurs osseuses b\u00e9nignes?",
+        "options": [
+            "A.  Faire \u00e9voluer lentement",
+            "B.  Os cortical \u00e9claircie mais pas une pause",
+            "C.  Ost\u00e9olyse impr\u00e9cise des zones d\u00e9limit\u00e9es",
+            "D.  Zones de ost\u00e9oscl\u00e9rose impr\u00e9cise d\u00e9limit\u00e9e",
+            "E.  N\u2019estrechute pas apr\u00e8s l\u2019extirpation"
+        ],
+        "correct_answers": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 40,
+        "question": "L\u2019ost\u00e9ite sifilitica peut se produire sous les formes suivantes:",
+        "options": [
+            "A.  Ost\u00e9ite rarefiante",
+            "B.  P\u00e9riostite sifilitica",
+            "C.  Ost\u00e9ite hiperostosante",
+            "D.  Ost\u00e9ochondrite",
+            "E.  Dactilite sifilitica"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 41,
+        "question": "\"Spina Ventosa\u201d repr\u00e9sente:",
+        "options": [
+            "A.  Forme de la tuberculose atypique ost\u00e9oarticulaire",
+            "B.  Se rencontre pr\u00e9dominant chez les adultes",
+            "C.  Se localiser la diaphyse de les phalanges",
+            "D.  Se produit une r\u00e9action periostala",
+            "E.  Se localiser au niveau des \u00e9piphyses des os longs"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 42,
+        "question": "Les modifications radiologiques de l\u2019ost\u00e9omy\u00e9lite:",
+        "options": [
+            "A.  Ost\u00e9oporose localis\u00e9e in\u00e9gale dans la m\u00e9taphyse des os longs",
+            "B.  Ost\u00e9olyse d\u00e9limit\u00e9 de fa\u00e7on impr\u00e9cise",
+            "C.  R\u00e9action p\u00e9riostale",
+            "D.  In n\u2019affecte g\u00e9n\u00e9ralement les articulations",
+            "E.  L\u2019absence de r\u00e9action p\u00e9riostale"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 43,
+        "question": "Ost\u00e9o Poikilia pr\u00e9sente les modifications radiologiques suivantes:",
+        "options": [
+            "A.  Plusieurs \u00eelots de hyperostose au niveau d\u2019un os unique",
+            "B.  \u00celes de taille millim\u00e9trique au niveau des \u00e9piphyses des os longs",
+            "C.  Plusieurs \u00eelots de hyperostose au niveau de plusieurs OS",
+            "D.  Se rencontre chez les enfants",
+            "E.  Corticale \u00e9paissie beaucoup touch\u00e9"
+        ],
+        "correct_answers": [
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 44,
+        "question": "Lequel des pathologies suivantes font partie de l\u2019ost\u00e9og\u00e9n\u00e8se imparfait groupe?",
+        "options": [
+            "A.  Ost\u00e9ogen\u00e8se imparfaite d\u00e8s le d\u00e9but",
+            "B.  Lobstein ost\u00e9og\u00e9n\u00e8se imparfaite",
+            "C.  Ombredanne exostozante maladie",
+            "D.  Ost\u00e9opetrosis",
+            "E.  p\u00e9riostite"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 45,
+        "question": "Le rein en \u00e9ponge:",
+        "options": [
+            "A.  Surnomm\u00e9e la maladie de Cacchi-Ricci",
+            "B.  Dilatation r\u00e9nale kystique",
+            "C.  Microcalcifications r\u00e9nale bilat\u00e9rale",
+            "D.  Affecte les deux reins, sym\u00e9trique",
+            "E.  Retard de l\u2019excr\u00e9tion de substance de contraste"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 46,
+        "question": "cholangio-IRM",
+        "options": [
+            "A.  M\u00e9thode invasive",
+            "B.  M\u00e9thode non invasive",
+            "C.  M\u00e9thode irradiant",
+            "D.  Peut diagnostiquer des calculs biliaires au niveau du canal chol\u00e9doque",
+            "E.  Utilise des s\u00e9quence RARE et HASTE"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 47,
+        "question": "Les tumeurs h\u00e9patique malignes primaires sont:",
+        "options": [
+            "A.  Carcinoma h\u00e9patique",
+            "B.  Carcinome h\u00e9patique fibrolamelar",
+            "C.  Colangiocarcinome",
+            "D.  H\u00e9mangiome",
+            "E.  Hyperplasie nodulaire"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 48,
+        "question": "Carcinome colorectale:",
+        "options": [
+            "A.  Imagerie changements d\u00e9pendent de la forme anatomopatologie",
+            "B.  Lorsque la tumeur grande pr\u00e9sente contour irr\u00e9guliere",
+            "C.  Petite tumeur peut \u00eatre facilement diff\u00e9renci\u00e9s de polype colorectal, rarement n\u00e9cessitant une biopsie",
+            "D.  Tumeur v\u00e9g\u00e9tant avec des contours irr\u00e9guliers",
+            "E.  Tomographie d\u00e9tecter m\u00e9tastases \u00e0 distance"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 49,
+        "question": "Maladie de Hirschprung:",
+        "options": [
+            "A.  Dilatation du c\u00f4lon et du rectum",
+            "B.  Est d\u00e9termin\u00e9e par la pr\u00e9sence de cellules ganglionnaires mienteric",
+            "C.  Transit baryt\u00e9-rectum normal",
+            "D.  Est d\u00e9termin\u00e9e par l\u2019absence de cellules ganglionnaires mienteric",
+            "E.  Il faut faire avec prudence un lavement baryt\u00e9"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 50,
+        "question": "Des m\u00e9thode directe pour l\u2019examen du pancr\u00e9as:",
+        "options": [
+            "A.  Echographie",
+            "B.  Tomodensitom\u00e9trie",
+            "C.  IRM",
+            "D.  ERCP",
+            "E.  Transit baryt\u00e9"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    }
+]

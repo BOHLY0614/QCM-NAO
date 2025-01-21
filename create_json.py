@@ -52,11 +52,11 @@ def read_questions_and_answers(questions_filename, answers_filename):
 
 
 
-#Partie pour cardio
-questions = read_questions_and_answers("cardio2.txt", "reponses.txt")
+#Partie pour radio
+questions = read_questions_and_answers("radiologie.txt", "reponses.txt")
 
 
-input_file = "editc2.txt"
+input_file = "editr.txt"
 convert_to_uppercase_inplace(input_file)
 
 
@@ -68,3 +68,17 @@ for question, reponse in zip(questions, reponses):
     reponse = reponse.strip().replace(" ", "").replace(",", "")
     # Ajoute les réponses correctes à l'objet Question
     question.correct_answers = list(reponse)
+
+# Divisez les questions en 11 groupes en fonction de leur chapitre
+chapitres = set(q.chapitre for q in questions)
+groupes = {chapitre: [] for chapitre in chapitres}
+for question in questions:
+    groupes[question.chapitre].append(question)
+
+# Pour chaque groupe de questions, écrivez les questions dans un fichier JSON séparé
+for chapitre, groupe in groupes.items():
+    nom_fichier = f"Radiologie.json"
+    with open(nom_fichier, "w") as f:
+        json.dump([q.__dict__ for q in groupe], f, indent=4)
+
+print("Nb questions cardio = " +str(len(questions)))

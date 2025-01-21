@@ -1,13 +1,6 @@
 import re
 
 def process_file(input_file, cleaned_file, answers_file):
-    """
-    Lit un fichier d'entrée, supprime les réponses REP des questions, et sauvegarde les réponses dans un autre fichier.
-
-    :param input_file: Nom du fichier d'entrée contenant les questions.
-    :param cleaned_file: Nom du fichier de sortie contenant les questions nettoyées.
-    :param answers_file: Nom du fichier de sortie contenant les réponses formatées.
-    """
     with open(input_file, 'r', encoding='utf-8') as infile, \
          open(cleaned_file, 'w', encoding='utf-8') as outfile_cleaned, \
          open(answers_file, 'w', encoding='utf-8') as outfile_answers:
