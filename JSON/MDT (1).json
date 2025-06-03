@@ -1,0 +1,853 @@
+[
+    {
+        "chapitre": 1,
+        "id": 1,
+        "question": "quels \u00e9l\u00e9ments ne sont pas des facteurs de risques ergonomiques ?\u200b",
+        "options": [
+            "A. activit\u00e9s r\u00e9p\u00e9titives\u200b",
+            "B. vibrations m\u00e9caniques\u200b",
+            "C. manutention manuelle de charge\u200b",
+            "D. effort intellectuel\u200b",
+            "E. effort physique soutenu"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 2,
+        "question": "les agents biologiques sont class\u00e9s en groupes sur la base de :\u200b",
+        "options": [
+            "A. risque d'infection\u200b",
+            "B. traitement ou prophylaxie efficace\u200b",
+            "C. capacit\u00e9 \u00e0 causer des maladies aux travailleurs\u200b",
+            "D. capacit\u00e9 \u00e0 causer des accidents\u200b",
+            "E. propagation \u00e0 la communaut\u00e9"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 3,
+        "question": "quels \u00e9l\u00e9ments font partie du syndrome d'irradiation aigu\u00eb ?\u200b",
+        "options": [
+            "A. br\u00fblures thermiques\u200b",
+            "B. modifications h\u00e9matologiques\u200b",
+            "C. pathologie gastro-intestinale\u200b",
+            "D. pathologie c\u00e9r\u00e9brale\u200b",
+            "E. param\u00e8tres h\u00e9matologiques normaux"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 4,
+        "question": "quels sont les sympt\u00f4mes du stress ?\u200b",
+        "options": [
+            "A. maux de t\u00eate\u200b",
+            "B. troubles de l\u2019alimentation\u200b",
+            "C. probl\u00e8mes d\u2019estomac\u200b",
+            "D. bonheur\u200b",
+            "E. troubles du sommeil"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 5,
+        "question": "quels sont les crit\u00e8res diagnostiques de l\u2019asthme professionnel ?\u200b",
+        "options": [
+            "A. exposition professionnelle pr\u00e9c\u00e9dant les sympt\u00f4mes\u200b",
+            "B. sympt\u00f4mes asthmatiques d\u00e8s le premier jour d\u2019exposition\u200b",
+            "C. lien entre les sympt\u00f4mes et le travail\u200b",
+            "D. test positif de provocation bronchique sp\u00e9cifique\u200b",
+            "E. diminution des ige sp\u00e9cifiques"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 6,
+        "question": "concernant une dermatose allergique de contact professionnelle :\u200b",
+        "options": [
+            "A. l\u2019apparition des l\u00e9sions se fait au site d\u2019action de l\u2019agent nocif\u200b",
+            "B. les l\u00e9sions peuvent se propager \u00e0 distance\u200b",
+            "C. la dermatose a un caract\u00e8re individuel\u200b",
+            "D. elle gu\u00e9rit toujours apr\u00e8s suppression de la cause\u200b",
+            "E. r\u00e9action antig\u00e8ne-anticorps n\u00e9gative"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 7,
+        "question": "quelles sont les principales sources de stress au travail ?\u200b",
+        "options": [
+            "A. grande autonomie ou bon contr\u00f4le du travail\u200b",
+            "B. insuffisance des ressources pour faire le travail\u200b",
+            "C. exigences \u00e9lev\u00e9es\u200b",
+            "D. pressions du temps\u200b",
+            "E. violence / harc\u00e8lement"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 8,
+        "question": "\u00e0 quoi sont expos\u00e9s les travailleurs du secteur des soins de sant\u00e9 ?\u200b",
+        "options": [
+            "A. virus de l\u2019h\u00e9patite c et b\u200b",
+            "B. stress\u200b",
+            "C. violence\u200b",
+            "D. dioxyde de silicium cristallin libre\u200b",
+            "E. travail en poste"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 9,
+        "question": "quelles affirmations sont vraies sur le suivi de la sant\u00e9 des travailleurs ?\u200b",
+        "options": [
+            "A. la surveillance \u00e9value la sant\u00e9 pour d\u00e9tecter les maladies pr\u00e9coces\u200b",
+            "B. son objectif principal est de pr\u00e9venir les maladies professionnelles et accidents\u200b",
+            "C. les r\u00e9sultats servent \u00e0 prot\u00e9ger et promouvoir la sant\u00e9 des travailleurs\u200b",
+            "D. elle inclut examens m\u00e9dicaux, surveillances biologiques, questionnaires, etc.\u200b",
+            "E. elle commence par une \u00e9valuation des risques familiaux des travailleurs"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 10,
+        "question": "les solvants organiques :",
+        "options": [
+            "A. sont des substances solides et cristallines",
+            "B. peuvent avoir des effets toxiques",
+            "C. peuvent provoquer une irritation",
+            "D. peuvent induire une narcose",
+            "E. peuvent endommager les composants sanguins"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 11,
+        "question": "les substances suivantes sont reconnues comme canc\u00e9rog\u00e8nes :\u200b",
+        "options": [
+            "A. virus de l'h\u00e9patite c\u200b",
+            "B. chrome (6+)\u200b",
+            "C. cadmium\u200b",
+            "D. radon\u200b",
+            "E. co"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 12,
+        "question": "comment peut-on se prot\u00e9ger des radiations ?\u200b",
+        "options": [
+            "A. diminuer la distance de la source\u200b",
+            "B. r\u00e9duire le temps d'exposition\u200b",
+            "C. prot\u00e9ger les personnes expos\u00e9es\u200b",
+            "D. reconnaitre le risque\u200b",
+            "E. augmenter la distance de la source"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 13,
+        "question": "le syndrome des vibrations main-bras comprend :\u200b",
+        "options": [
+            "A. modifications vasculaires\u200b",
+            "B. troubles neurologiques\u200b",
+            "C. troubles gastro-intestinaux\u200b",
+            "D. mal des transports\u200b",
+            "E. maux de dos avec souffrance des disques ou arthrite"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 14,
+        "question": "pour une substance chimique, un seuil de dose est :\u200b",
+        "options": [
+            "A. un niveau de dose en dessous duquel aucun effet observable ne se produit.   \u200b",
+            "B. un niveau de dose qui peut conduire \u00e0 des effets n\u00e9fastes sp\u00e9cifiques\u200b",
+            "C. un niveau de dose en dessous duquel se produisent des effets aigus\u200b",
+            "D. un niveau de dose qui peut conduire au cancer professionnel\u200b",
+            "E. un niveau de dose obligatoire \u00e0 respecter"
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 15,
+        "question": "les types de toxicit\u00e9 incluent :\u200b",
+        "options": [
+            "A. toxicit\u00e9 aigu\u00eb\u200b",
+            "B. canc\u00e9rog\u00e9nicit\u00e9\u200b",
+            "C. infectieux\u200b",
+            "D. toxicit\u00e9 pour la reproduction\u200b",
+            "E. irritations et effets corrosifs"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 16,
+        "question": "les effets n\u00e9gatifs du travail incluent :\u200b",
+        "options": [
+            "A. accidents\u200b",
+            "B. maladies professionnelles\u200b",
+            "C. augmentation de l'estime de soi\u200b",
+            "D. absent\u00e9isme\u200b",
+            "E. maladies li\u00e9es au travail"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 17,
+        "question": "concernant le cadmium :\u200b",
+        "options": [
+            "A. il est excr\u00e9t\u00e9 par la transpiration\u200b",
+            "B. il peut causer le cancer\u200b",
+            "C. c'est le seul m\u00e9tal liquide\u200b",
+            "D. il est utilis\u00e9 dans l\u2019industrie des batteries\u200b",
+            "E. il est un toxique respiratoire"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 18,
+        "question": "une des formes cliniques de pneumoconiose au charbon est :\u200b",
+        "options": [
+            "A. asbestose simple\u200b",
+            "B. forme infectieuse\u200b",
+            "C. forme supra-aigu\u00eb\u200b",
+            "D. forme cutan\u00e9e\u200b",
+            "E. fibrose massive progressive"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 19,
+        "question": "concernant les agents biologiques :\u200b",
+        "options": [
+            "A. ils sont regroup\u00e9s en quatre groupes\u200b",
+            "B. ils sont regroup\u00e9s en trois groupes et deux classes\u200b",
+            "C. le groupe 1 provoque des maladies graves chez l\u2019homme\u200b",
+            "D. le groupe 2 b\u00e9n\u00e9ficie g\u00e9n\u00e9ralement d'une prophylaxie ou d'un traitement efficace\u200b",
+            "E. le groupe 3 peut provoquer une maladie grave chez l\u2019homme"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 20,
+        "question": "l'exposition chronique au bruit peut entra\u00eener :\u200b",
+        "options": [
+            "A. perte auditive\u200b",
+            "B. violence\u200b",
+            "C. narcose aigu\u00eb\u200b",
+            "D. diminution de l\u2019attention\u200b",
+            "E. mort subite"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 21,
+        "question": "les sympt\u00f4mes de la rhinite allergique professionnelle sont :\u200b",
+        "options": [
+            "A. \u00e9ternuements\u200b",
+            "B. mal de t\u00eate\u200b",
+            "C. anesth\u00e9sie temporaire des doigts\u200b",
+            "D. rhinorrh\u00e9e permanente\u200b",
+            "E. douleur abdominale"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 22,
+        "question": "le stress au travail se produit lorsque :\u200b",
+        "options": [
+            "A. travail de nuit\u200b",
+            "B. bonne organisation de l'\u00e9quipe\u200b",
+            "C. ins\u00e9curit\u00e9 de l\u2019emploi\u200b",
+            "D. exigences \u00e9lev\u00e9es\u200b",
+            "E. pression du temps"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 23,
+        "question": "les caract\u00e9ristiques d'une pneumoconiose non collag\u00e8ne sont :\u200b",
+        "options": [
+            "A. r\u00e9action r\u00e9versible caus\u00e9e par la poussi\u00e8re dans les poumons\u200b",
+            "B. prolif\u00e9ration massive de collag\u00e8ne\u200b",
+            "C. r\u00e9action stromale minime\u200b",
+            "D. dommages permanents aux poumons\u200b",
+            "E. r\u00e9action stromale intense"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 24,
+        "question": "les mesures pr\u00e9ventives en sant\u00e9 au travail incluent :\u200b",
+        "options": [
+            "A. ing\u00e9nierie et pratiques de travail pour maintenir les risques sous les valeurs admissibles\u200b",
+            "B. ventilation efficace\u200b",
+            "C. \u00e9quipement de protection\u200b",
+            "D. ing\u00e9nierie et pratiques de travail pour maintenir les risques au-dessus des limites autoris\u00e9es\u200b",
+            "E. formation des travailleurs"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 25,
+        "question": "la sant\u00e9 au travail permet de :\u200b",
+        "options": [
+            "A. emp\u00eacher les d\u00e9parts du travail\u200b",
+            "B. contr\u00f4ler les risques professionnels\u200b",
+            "C. adapter le travail aux gens\u200b",
+            "D. adapter les personnes \u00e0 leur emploi\u200b",
+            "E. assurer des actions curatives dans les entreprises pour les pathologies chroniques"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 26,
+        "question": "complications de la silicose :",
+        "options": [
+            "A. m\u00e9soth\u00e9liome malin",
+            "B. cancer du poumon",
+            "C. mpoc",
+            "D. allaque c\u00e9r\u00e9brale",
+            "E. syndrome de raynaud"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 27,
+        "question": "l'amiante est :*",
+        "options": [
+            "A. un compos\u00e9 organique fibrillaire",
+            "B. une min\u00e9rale fibrillaire",
+            "C. une maladie professionnelle",
+            "D. un solvant organique",
+            "E. un narcotique"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 28,
+        "question": "\u200b professions \u00e0 haut risque pour la pneumopathie d'hypersensibilit\u00e9 :",
+        "options": [
+            "A. infirmi\u00e8res",
+            "B. travailleurs de silos",
+            "C. le personnel de ma\u00efs d'ensilage",
+            "D. les chauffeurs de taxi",
+            "E. les fonctionnaires"
+        ],
+        "correct_answers": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 29,
+        "question": "\u200b maladies professionnelles qui peuvent survenir dans les professionnels de la sant\u00e9 :",
+        "options": [
+            "A. infection hiv - sida",
+            "B. intoxication au plomb (saturnisme)",
+            "C. h\u00e9patite c",
+            "D. lumbago",
+            "E. allergies"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 30,
+        "question": "\u200b sources de donn\u00e9es d'exposition professionnelles :",
+        "options": [
+            "A. le patient",
+            "B. les services de sant\u00e9 au travail",
+            "C. les dossiers de la police locale",
+            "D. l'employeur",
+            "E. les fiches de donn\u00e9es de s\u00e9curit\u00e9"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 31,
+        "question": "\u200b facteurs \u00e9tiologiques pour les allergies professionnelles :",
+        "options": [
+            "A. poussi\u00e8re domestique",
+            "B. produits chimiques",
+            "C. les squames d'animaux",
+            "D. pollens",
+            "E. l'amiante"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 32,
+        "question": "\u200b effets chroniques des bruits sur la sant\u00e9 des travailleurs expos\u00e9s :",
+        "options": [
+            "A. hypoacousie unilat\u00e9rale",
+            "B. le traumatisme acoustique",
+            "C. effets comportementaux",
+            "D. acouph\u00e8nes aigus",
+            "E. la perte auditive due au bruit"
+        ],
+        "correct_answers": [
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 33,
+        "question": "\u200b \u00e9l\u00e9ments corrects d'ergonomie au poste de travail :",
+        "options": [
+            "A. r\u00e9duire la composante statique",
+            "B. utiliser la gravitation",
+            "C. \u00e9viter les mouvements excessifs de la t\u00eate",
+            "D. raccourcir ou supprimer les pauses",
+            "E. position assise \u2013 pr\u00e9f\u00e9r\u00e9e"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 34,
+        "question": "\u200b domaines de sp\u00e9cialisation de l'ergonomie :",
+        "options": [
+            "A. ergonomie cognitive",
+            "B. ergonomie organisationnelle",
+            "C. ergonomie de la productivit\u00e9",
+            "D. ergonomie physique",
+            "E. ergonomie des finances"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 35,
+        "question": "\u200b la byssinose est caus\u00e9e par :",
+        "options": [
+            "A. poussi\u00e8re de sisal",
+            "B. poussi\u00e8re de coton",
+            "C. poussi\u00e8re de ciment",
+            "D. poussi\u00e8re d'amiante",
+            "E. poussi\u00e8re de chanvre"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 36,
+        "question": "\u200b les pneumoconioses collag\u00e8nes :",
+        "options": [
+            "A. saturnisme",
+            "B. byssinose",
+            "C. asbestose",
+            "D. silicose",
+            "E. brucellose"
+        ],
+        "correct_answers": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 37,
+        "question": "\u200b composants de la phase toxicocin\u00e9tique :",
+        "options": [
+            "A. l'excr\u00e9tion",
+            "B. l'inhibition enzymatique",
+            "C. le d\u00e9p\u00f4t",
+            "D. le transport et la distribution",
+            "E. l'exposition"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 38,
+        "question": "\u200b les solvants organiques professionnels industriels sont utilis\u00e9s comme :",
+        "options": [
+            "A. adh\u00e9sifs",
+            "B. antigel",
+            "C. agents de nettoyage \u00e0 sec",
+            "D. condiments",
+            "E. d\u00e9graissants"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 39,
+        "question": "\u200b avantages de l'ergonomie :",
+        "options": [
+            "A. augmentation du chiffre d'affaires",
+            "B. diminution du risque de blessures",
+            "C. augmentation des erreurs",
+            "D. augmentation de la productivit\u00e9",
+            "E. augmentation des jours de travail perdus"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 40,
+        "question": "\u200b dans l'exposition aigu\u00eb aux solvants organiques :",
+        "options": [
+            "A. lavez imm\u00e9diatement les yeux !",
+            "B. retirez les v\u00eatements et les chaussures contamin\u00e9s !",
+            "C. lavez la peau avec de l'eau et du savon !",
+            "D. administrez des antibiotiques, sont obligatoires !",
+            "E. lancer imm\u00e9diatement un traitement ch\u00e9lateur !"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 41,
+        "question": "\u200b le suivi de la sant\u00e9 des salari\u00e9s se fait par :",
+        "options": [
+            "A. examens m\u00e9dicaux \u00e0 l'embauche, assur\u00e9s par le m\u00e9decin du travail.",
+            "B. visites m\u00e9dicales r\u00e9guli\u00e8res, faites par le m\u00e9decin de famille.",
+            "C. examen m\u00e9dical d'adaptation, recommand\u00e9 par le m\u00e9decin du travail.",
+            "D. examen m\u00e9dical \u00e0 la reprise du travail, dans le service de m\u00e9decine du travail.",
+            "E. examen m\u00e9dical \u00e0 la demande du salari\u00e9, dans le service de m\u00e9decine du travail."
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 42,
+        "question": "\u200b les risques professionnels qui peuvent mener au cancer sont :",
+        "options": [
+            "A. rayonnement ionisant",
+            "B. bruit",
+            "C. amiante",
+            "D. benz\u00e8ne",
+            "E. vibrations m\u00e9caniques"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 43,
+        "question": "\u200b questions n\u00e9cessaires \u00e0 une histoire de l'asthme professionnel :",
+        "options": [
+            "A. quels sont les sympt\u00f4mes ?",
+            "B. r\u00e9cent changement dans l'environnement de travail ?",
+            "C. comment sont les sympt\u00f4mes li\u00e9s au travail ?",
+            "D. quel est votre travail ?",
+            "E. buvez-vous du vin ?"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 44,
+        "question": "\u200b sont reconnus comme dangers sur le lieu de travail :",
+        "options": [
+            "A. les agents chimiques",
+            "B. les conditions de travail bien contr\u00f4l\u00e9es",
+            "C. les facteurs psychosociaux",
+            "D. le bruit et les vibrations",
+            "E. une mauvaise ergonomie du poste de travail"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 45,
+        "question": "\u200b possibles facteurs \u00e9tiologiques de l'asthme professionnel :",
+        "options": [
+            "A. les isocyanates",
+            "B. les rayonnements non ionisants",
+            "C. le chrome 6+",
+            "D. la poussi\u00e8re de silice",
+            "E. les poussi\u00e8res de bois"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 46,
+        "question": "\u200b le diagnostic positif d'une maladie professionnelle implique :",
+        "options": [
+            "A. de trouver le facteur \u00e9tiologique au travail",
+            "B. de prouver une dur\u00e9e d'exposition suffisante",
+            "C. des donn\u00e9es cliniques sp\u00e9cifiques",
+            "D. de prouver une intensit\u00e9 d'exposition suffisante",
+            "E. diagnostic de la m\u00eame maladie \u00e0 tous les travailleurs"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 47,
+        "question": "\u200b l'\u00e9preuve fonctionnelle respiratoire pour pneumopathie d'hypersensibilit\u00e9 :*",
+        "options": [
+            "A. r\u00e9v\u00e8le une dysfonction restrictive",
+            "B. r\u00e9v\u00e8le une dysfonction obstructive",
+            "C. r\u00e9v\u00e8le une dysfonction mixte",
+            "D. n'est pas n\u00e9cessaire",
+            "E. est recommand\u00e9e seulement quand le travailleur a de la fi\u00e8vre"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 48,
+        "question": "\u200b une maladie professionnelle :",
+        "options": [
+            "A. est toujours contagieuse",
+            "B. est impossible \u00e0 traiter et \u00e0 gu\u00e9rir",
+            "C. est d\u00e9clar\u00e9e par le m\u00e9decin du travail, dans tout le monde",
+            "D. n\u00e9cessite une exposition significative \u00e0 l'agent causal, comme temps et intensit\u00e9",
+            "E. peut d\u00e9buter seulement au travail"
+        ],
+        "correct_answers": [
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 49,
+        "question": "\u200b pr\u00e9vention ou contr\u00f4le des risques professionnels peut \u00eatre effectu\u00e9 par :",
+        "options": [
+            "A. \u00e9limination des risques",
+            "B. remplacement des risques",
+            "C. temps d'exposition r\u00e9duit",
+            "D. une ventilation locale - le cas \u00e9ch\u00e9ant",
+            "E. intubation rapide"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 50,
+        "question": "\u200b en cas d'exposition \u00e0 l'amiante :",
+        "options": [
+            "A. une complication est le m\u00e9soth\u00e9liome malin",
+            "B. des petites opacit\u00e9s arrondies, r\u00e9guli\u00e8res peuvent \u00eatre trouv\u00e9es d\u2019habitude sur laradiographie des poumons",
+            "C. une complication est le cancer du poumon",
+            "D. il n'y a pas de signes pleuraux",
+            "E. l'asbestose est la plus fr\u00e9quente souffrance"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    }
+]

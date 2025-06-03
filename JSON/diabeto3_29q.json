@@ -1,0 +1,379 @@
+[
+  {
+    "chapitre": 1,
+    "id": 1,
+    "question": "le coma hypoglyc\u00e9mique est caract\u00e9ris\u00e9 par :",
+    "options": [
+      "A.  d\u00e9shydratation",
+      "B.  contracture musculaire",
+      "C.  glycosurie",
+      "D.  glyc\u00e9mie > 80 mg/dl",
+      "E.  signe de babinski bilat\u00e9ral positif"
+    ],
+    "correct_answers": ["B", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 2,
+    "question": "lesquels des \u00e9nonc\u00e9s suivants sur les inhibiteurs sglt2 sont vrais?:",
+    "options": [
+      "A.  sont administr\u00e9s par voie sous cutan\u00e9e",
+      "B.  ont comme repr\u00e9sentant dapagliflozine",
+      "C.  diminution de l'hba1c de 0,55 a 0,9%",
+      "D.  les r\u00e9actions ind\u00e9sirables les plus fr\u00e9quentes sont les infections uro-g\u00e9nitales",
+      "E.  m\u00e9canisme d'action: inhibition (partielle) du r\u00e9absorption du glucose dans le tubule contourn\u00e9 proximal"
+    ],
+    "correct_answers": ["B", "C", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 3,
+    "question": "le tableau clinique de goutte chronique inclut:",
+    "options": [
+      "A.  gonflement asym\u00e9trique des articulations, mis en \u00e9vidence radiologique",
+      "B.  plus d'une attaque aigu\u00eb d'arthrite",
+      "C.  les calculs r\u00e9naux d'acide urique sont pr\u00e9sents dans 20% des patients",
+      "D.  histoire d'arthrite aigu\u00eb monoarticulaire",
+      "E.  tophus sont pr\u00e9sents en 25-50% des patients"
+    ],
+    "correct_answers": ["A", "B","C","E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 4,
+    "question": "le tableau clinique et biologique de dyslipid\u00e9mies inclut les suivants :",
+    "options": [
+      "A.  s\u00e9rum lactescente lorsque la concentration des tg est beaucoup plus \u00e9lev\u00e9e (500 mg/dl)",
+      "B.  lipemia retinalis qu'on la rencontre en hypertriglyc\u00e9rid\u00e9mie tr\u00e8s s\u00e9v\u00e8re (> 4000mg/dl)",
+      "C.  xanthomes, qui sont des nodules sous-cutan\u00e9s",
+      "D.  ct s\u00e9rique < 200 mg/dl",
+      "E.  xanthelasma, qui est une nodule sous-cutan\u00e9"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 5,
+    "question": "lequel des \u00e9nonc\u00e9s suivants sur le traitement d\u2019acidoc\u00e9tose diab\u00e9tique sont vrais :",
+    "options": [
+      "A.  habituellement, la solution administr\u00e9e est glucose 10%",
+      "B.  il est recommand\u00e9 de ne pas abaisser la glyc\u00e9mie plus vite que 100 mg/dl/h",
+      "C.  l'administration d'une solution de bicarbonate de sodium est fait \u00e0 un ph < 7",
+      "D.  le traitement des facteurs pr\u00e9cipitants n'est pas obligatoire",
+      "E.  le traitement par k ne d\u00e9marre pas dans la premi\u00e8re heure"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 6,
+    "question": "acidose mixte (lactique et diab\u00e9tique) est caract\u00e9ris\u00e9 par:",
+    "options": [
+      "A.  un pronostic r\u00e9serv\u00e9 et une mortalit\u00e9 \u00e9lev\u00e9e",
+      "B.  hyperglyc\u00e9mie < 400 mg/dl",
+      "C.  acide lactique < 5 mmol/i",
+      "D.  la correction du lactate peut \u00eatre acc\u00e9l\u00e9r\u00e9e par l'administration de furos\u00e9mide",
+      "E.  initialement, les patients \u00e9prouvent une faiblesse musculaire progressive"
+    ],
+    "correct_answers": ["A", "D","E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 7,
+    "question": "le tableau clinique et biologique de la d\u00e9nutrition se compose des crit\u00e8res suivants :",
+    "options": [
+      "A.  l'absence des douleurs abdominales",
+      "B.  une r\u00e9duire des constituants lipidiques: le cholest\u00e9rol total, les tg",
+      "C.  globes oculaires hypotoniques",
+      "D.  hypoalbumin\u00e9mie (< 3,5 g/dl)",
+      "E.  d\u00e9finie par un imc inf\u00e9rieur \u00e0 22.5 kg/m2"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 8,
+    "question": "* lequel des \u00e9nonc\u00e9s suivants sur le syndrome musculaire dans la myopathie inflammatoire idiopathique, est vrai:",
+    "options": [
+      "A.  d\u00e9ficit musculaire absent",
+      "B.  myalgies absents",
+      "C.  atteint des ceintures scapulaires et pelviennes sans sp\u00e9cificit\u00e9 musculaire",
+      "D.  n'est pas pr\u00e9sent dans les formes aigu\u00ebs",
+      "E.  installation lente"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 9,
+    "question": "le diab\u00e8te est un probl\u00e8me majeur de sant\u00e9 publique en raison de complications chroniques graves, et:",
+    "options": [
+      "A.  est la principale cause d'insuffisance r\u00e9nale chronique, la c\u00e9cit\u00e9 et l'amputation non traumatique des membres inf\u00e9rieurs",
+      "B.  50% des patients atteints de diab\u00e8te meurent d'\u00e9v\u00e9nements cardiovasculaires",
+      "C.  provoque l'augmentation de risque de maladie coronarienne et d'avc de 2-6 fois",
+      "D.  provoque une diminution de la vie de 2 ans",
+      "E.  les patients n'associes pas un risque cardio-vasculaire"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 10,
+    "question": "lequel des \u00e9nonc\u00e9s suivants sur les biguanides sont vrais:",
+    "options": [
+      "A.  ont comme le m\u00e9canisme d'action l'augmentation de la n\u00e9oglucogen\u00e8se dans le foie",
+      "B.  l'augmentation de taux d'hba1c de 0,5-1%",
+      "C.  ne conduise pas \u00e0 des changements dans le poids corporel",
+      "D.  sera administr\u00e9s en 1-2 doses, pr\u00e9prandiales",
+      "E.  ont une risque d'hypoglyc\u00e9mie tr\u00e8s faible"
+    ],
+    "correct_answers": ["C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 11,
+    "question": "* les facteurs favorisant de acidoc\u00e9tose diab\u00e9tique en ds de type 1 sont:",
+    "options": [
+      "A.  infections aigu\u00ebs",
+      "B.  l'arr\u00eat de l'insuline",
+      "C.  des interventions chirurgicales",
+      "D.  des m\u00e9dicaments concomitants comme les cortico\u00efdes",
+      "E.  tous mentionne"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 12,
+    "question": "lequel des \u00e9nonc\u00e9s suivants sur le diab\u00e8te gestationnel sont vrais:",
+    "options": [
+      "A.  apr\u00e8s la naissance, les niveaux de glucose sanguine restent \u00e9lev\u00e9es ,",
+      "B.  il y a un risque accru de d\u00e9velopper un diab\u00e8te de type 2",
+      "C.  apr\u00e8s la naissance, le niveau de glucose sanguin est normalis\u00e9",
+      "D.  ii n'y a pas de risque de d\u00e9velopper un diab\u00e8te sucr\u00e9",
+      "E.  il y a un risque accru de d\u00e9velopper un diab\u00e8te de type 1"
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 13,
+    "question": "les crit\u00e8res pour le diab\u00e8te latent auto-immun de l'adulte (lada) sont:",
+    "options": [
+      "A.  ph\u00e9notypique ds de type 2",
+      "B.  le c-peptide est diminu\u00e9",
+      "C.  les auto-anticorps sont n\u00e9gatifs",
+      "D.  l'absence des ant\u00e9c\u00e9dents familiaux",
+      "E.  l'\u00e2ge au moment du diagnostic < 35 ans"
+    ],
+    "correct_answers": ["A","B","D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 14,
+    "question": "lequel des crit\u00e8res suivants sont positifs dans la dermatomyosite:",
+    "options": [
+      "A.  d\u00e9ficit moteur bilat\u00e9ral sym\u00e9trique pr\u00e9dominant distal",
+      "B.  age de d\u00e9but: enfant ou adulte",
+      "C.  d\u00e9ficit moteur bilat\u00e9ral sym\u00e9trique pr\u00e9dominant proximal",
+      "D.  la biopsie musculaire n'est pas n\u00e9cessaire",
+      "E.  rash cutan\u00e9"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 15,
+    "question": "les complications m\u00e9tabolique aigues du diab\u00e8te sucr\u00e9 sont",
+    "options": [
+      "A.  coma diab\u00e9tique hyperosmolaire",
+      "B.  acidoc\u00e9tose diab\u00e9tique",
+      "C.  hypertension art\u00e9rielle",
+      "D.  coma hypoglyc\u00e9mique",
+      "E.  pied diab\u00e9tique"
+    ],
+    "correct_answers": ["A", "B","D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 16,
+    "question": "* n'est pas utilis\u00e9 dans le traitement pharmacologique de l'arthrite aigu\u00eb goutteuse:",
+    "options": [
+      "A.  diclofenac",
+      "B.  aspirine",
+      "C.  ketoprofene",
+      "D.  meloxicam",
+      "E.  celecoxib"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 1,
+    "id": 17,
+    "question": "les principaux facteurs de risque pour la dyslipid\u00e9mie sont:",
+    "options": [
+      "A.  le diab\u00e8te",
+      "B.  r\u00e9gime pauvre en calories",
+      "C.  pr\u00e9disposition g\u00e9n\u00e9tique",
+      "D.  l'hypothyro\u00efdie",
+      "E.  mode de vie s\u00e9dentaire"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 18,
+    "question": "quels sont les signes biologiques du lupus \u00e9ryth\u00e9mateux diss\u00e9min\u00e9 :",
+    "options": [
+      "A.  hyperglyc\u00e9mie",
+      "B.  anticorps anti-sm",
+      "C.  leucop\u00e9nie mod\u00e9r\u00e9e",
+      "D.  an\u00e9mie",
+      "E.  prot\u00e9ine c r\u00e9active \u00e9lev\u00e9e"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 19,
+    "question": "le tableau clinique du stade avanc\u00e9 de la spondylarthrite ankylosante entra\u00eene :",
+    "options": [
+      "A.  ankylose",
+      "B.  la rigidit\u00e9 de la colonne vert\u00e9brale",
+      "C.  suppression de la lordose physiologique",
+      "D.  scoliose",
+      "E.  vomissent"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 20,
+    "question": "* lequel des crit\u00e8res pour le diagnostic de diab\u00e8te monog\u00e9nique n\u2019est pas vrai ?",
+    "options": [
+      "A.   l\u2019insuline n\u2019est pas n\u00e9cessaire dans les 5 premi\u00e8res ann\u00e9es",
+      "B.  le c-peptide est diminu\u00e9",
+      "C.  autosomique dominante",
+      "D.  les patients sont de poids normal",
+      "E.  l\u2019absence d\u2019auto-anticorps"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 1,
+    "id": 21,
+    "question": "les crit\u00e8res pour le diagnostic de pr\u00e9diab\u00e8te, sont:",
+    "options": [
+      "A.  glyc\u00e9mie \u00e0 jeun = 110 - 125 mg/dl",
+      "B.  hba1c entre 5,7 et 6,4 %",
+      "C.  glyc\u00e9mie \u00e0 jeun > 126 mg/dl",
+      "D.  hba1c > 7%",
+      "E.  glyc\u00e9mie \u00e0 deux heures pendant le test de tol\u00e9rance au glucose = 140 - 199 mg/dl"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 22,
+    "question": "le test de tol\u00e9rance orale au glucose est effectu\u00e9 quand:",
+    "options": [
+      "A.  pour le diagnostic gestationnel",
+      "B.  glyc\u00e9mie \u00e0 jeun > 140 mg/dl",
+      "C.  glyc\u00e9mie \u00e0 jeun est compris entre 110-125 mg/dl",
+      "D.  s\u2019il y a un risque de d\u00e9velopper un diab\u00e8te",
+      "E.  glyc\u00e9mie \u00e0 jeun est compris entre 70-110 mg/dl"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 23,
+    "question": "lequel des \u00e9nonc\u00e9s suivants sont caract\u00e9ristiques pour ds de type 2:",
+    "options": [
+      "A.  l'absence des anticorps anti-pancr\u00e9atiques",
+      "B.  traitement avec l'insuline parfois n\u00e9cessaire",
+      "C.  l'association avec d'autres maladies auto-immunes",
+      "D.  age au d\u00e9but: > 40 ans",
+      "E.  tendance \u00e0 la c\u00e9tose rare mais possible"
+    ],
+    "correct_answers": ["A", "B", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 24,
+    "question": "sont les crit\u00e8res d\u00e9finissant pour lupus \u00e9ryth\u00e9mateux diss\u00e9min\u00e9 les suivants:",
+    "options": [
+      "A.   photosensibilit\u00e9",
+      "B.  leucocytose",
+      "C.  \u00e9ruption malaire en ailes de papillon",
+      "D.  pleur\u00e9sie ou pencardite",
+      "E.  absence de cellules le"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 25,
+    "question": "le tableau clinique et biologique dans le pr\u00e9-coma diab\u00e9tique, inclut les suivants:",
+    "options": [
+      "A.  glyc\u00e9mie > 500 mg/dl ( 400-700 mg/dl )",
+      "B.  osmolarit\u00e9 plasmatique \u00e9lev\u00e9e",
+      "C.  absence de respiration de kussmaul",
+      "D.  k basse, na normale ou \u00e9lev\u00e9e",
+      "E.  diminution du tonus musculaire"
+    ],
+    "correct_answers": ["A", "B", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 26,
+    "question": "les m\u00e9canismes pathog\u00e8nes de diab\u00e8te de type 2 sont les suivants:",
+    "options": [
+      "A.  augmentation de la s\u00e9cr\u00e9tion et de l\u2019action des incr\u00e9tines",
+      "B.  augmentation de la production h\u00e9patique du glucose",
+      "C.  alt\u00e9ration de la s\u00e9cr\u00e9tion d\u2019insuline",
+      "D.  diminution de la lipolyse",
+      "E.  diminution de la s\u00e9cr\u00e9tion et de l\u2019action des incr\u00e9tines"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 27,
+    "question": "parmi les manifestations cutan\u00e9e de la scl\u00e9rodermie on trouve:",
+    "options": [
+      "A.  \u00e9ruption vespertilio",
+      "B.  scl\u00e9rose cutan\u00e9e",
+      "C.  ulc\u00e9ration bucco-feringienne",
+      "D.  syndrome de raynaud",
+      "E.  calcinose"
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 28,
+    "question": "quelle est le traitement symptomatique g\u00e9n\u00e9rale de la polyarthrite rhumato\u00efde:",
+    "options": [
+      "A.  anti-inflammatoires non st\u00e9ro\u00efdiens",
+      "B.  synoviorth\u00e8ses",
+      "C.  cortico\u00efdes",
+      "D.  antalgiques",
+      "E.  infiltrations"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 29,
+    "question": "les suivants sont des caract\u00e9ristiques pour l\u2019ob\u00e9sit\u00e9:",
+    "options": [
+      "A.  augmentation du poids de 30% en poids id\u00e9al",
+      "B.  ob\u00e9sit\u00e9 g\u00e9n\u00e9ralis\u00e9 accompagne certains syndrome g\u00e9n\u00e9tiques",
+      "C.  une valeur de l\u2019indice de masse corporelle ( imc ) = 30 kg/m2",
+      "D.  l\u2019ob\u00e9sit\u00e9 primaire repr\u00e9sente la majorit\u00e9 des cas d\u2019ob\u00e9sit\u00e9 ( 95% )",
+      "E.  pancr\u00e9atite aig\u00fce c\u2019est une complication digestives possible"
+    ],
+    "correct_answers": ["B","C", "D", "E"]
+  }
+]

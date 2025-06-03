@@ -1,0 +1,1629 @@
+[
+    {
+        "chapitre": 1,
+        "id": 1,
+        "question": "*lequel des \u00e9l\u00e9ments suivants ne font pas partie du tableau clinique typique de la pneumonie:",
+        "options": [
+            "A. d\u00e9but brutale, aigu\u00eb",
+            "B. une fi\u00e8vre \u00e9lev\u00e9e",
+            "C. douleur \u00e9pigastrique",
+            "D. syndrome de condensation",
+            "E. toux"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 2,
+        "question": "*abc\u00e8s du poumon:",
+        "options": [
+            "A. il comprend trois phases d\u2019\u00e9volution dans son d\u00e9veloppement: phase de d\u00e9marrage, la phase et vomica \u00e9pid\u00e9mie de phase ouverte",
+            "B. dans les premi\u00e8res \u00e9tapes, les sympt\u00f4mes sont ceux de la pneumonie",
+            "C. la flore pathog\u00e8ne est polymicrobienne",
+            "D. le passage \u00e0 la phase ouverte ou suppuration est caract\u00e9ris\u00e9 par l\u2019amplification des quintes de toux, accompagn\u00e9e par le volume de crachats augment\u00e9, soit de mani\u00e8re progressive ou brutale",
+            "E. toutes ces r\u00e9ponses"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 3,
+        "question": "*lequel des tests \u00e9num\u00e9r\u00e9s ci-dessous sont le premier choix quand vous avez une suspicion clinique d\u2019abc\u00e8s pulmonaire",
+        "options": [
+            "A. hemoleucogramme",
+            "B. na, k",
+            "C. epreuve fonctionnel respiratoire",
+            "D. ad\u00e9nosine d\u00e9saminase",
+            "E. d-dim\u00e8re"
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 4,
+        "question": "*abc\u00e8s pulmonaire primitive dans la majorit\u00e9 des cas (80-90%) est due \u00e0:",
+        "options": [
+            "A. candida",
+            "B. les bact\u00e9ries ana\u00e9robies",
+            "C. les virus",
+            "D. chlamydia",
+            "E. protozoaires"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 5,
+        "question": "*le principal sympt\u00f4me dans l\u2019emphys\u00e8me est:",
+        "options": [
+            "A. une toux s\u00e8che",
+            "B. dyspn\u00e9e",
+            "C. poitrine tu\u00e9",
+            "D. toux avec crachats",
+            "E. toux paroxystique"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 6,
+        "question": "*frissons solennelle est plus fr\u00e9quemment trouv\u00e9e dans:",
+        "options": [
+            "A. pneumonie virale",
+            "B. pneumonie \u00e0 pneumocoque",
+            "C. bronchopneumonie",
+            "D. tuberculose pulmonaire",
+            "E. pleur\u00e9sie purulente"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 7,
+        "question": "*m\u00e9dicaments de premi\u00e8re indication dans le traitement de la bpco sont:",
+        "options": [
+            "A. les bronchodilatateurs",
+            "B. l\u2019expectorants",
+            "C. l\u2019oxyg\u00e9noth\u00e9rapie de longue dur\u00e9e",
+            "D. la corticoth\u00e9rapie",
+            "E. la corticoth\u00e9rapie + les sympathomim\u00e9tiques"
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 8,
+        "question": "*le sympt\u00f4me cardinal dans la fibrose pulmonaire idiopathique est:",
+        "options": [
+            "A. dyspn\u00e9e avec apparition insidieuse, d'abord seulement avec l\u2019effort d\u00e9tect\u00e9, puis en progressant \u00e0 orthopn\u00e9e",
+            "B. toux s\u00e8che persistante",
+            "C. toux persistante ou r\u00e9currente accompagn\u00e9e d\u2019expectoration mucopurulente",
+            "D. oppression thoracique, la poitrine, r\u00e9parties sur toutes la surface",
+            "E. respiration sifflante"
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 9,
+        "question": "*le traitement pour le syndrome d\u2019apn\u00e9e du sommeil ne recommande pas:",
+        "options": [
+            "A. intubation oro-trach\u00e9ale",
+            "B. ent intervention chirurgicale",
+            "C. ncpap",
+            "D. l\u2019alimentation et l\u2019hygi\u00e8ne du sommeil",
+            "E. perte de poids"
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 10,
+        "question": "*dans l\u2019asthme avec de rares \u00e9pisodes, le traitement de choix est repr\u00e9sent\u00e9 par:",
+        "options": [
+            "A. administration de la sympathomim\u00e9tique inhalation n\u00e9cessaire",
+            "B. l\u2019administration chronique d'inhalation",
+            "C. l\u2019administration chronique de glucocortico\u00efdes",
+            "D. l\u2019administration chronique des agent de stabilisation des mastocytes",
+            "E. l\u2019administration chronique de glucocortico\u00efdes par voie orale"
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 11,
+        "question": "*une crise d\u2019asthme est propos\u00e9 par:",
+        "options": [
+            "A. une expectoration purulente",
+            "B. la douleur thoracique aigu\u00eb",
+            "C. h\u00e9moptysie",
+            "D. dyspn\u00e9e expiratoire sifflante",
+            "E. cyanose du visage"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 12,
+        "question": "*en cas de pleur\u00e9sie:",
+        "options": [
+            "A. la ponction pleurale exploratrice est facultative",
+            "B. thoracent\u00e8se est une proc\u00e9dure qui peut \u00eatre effectu\u00e9e sous \u00e9troite surveillance dans le service de soins intensifs",
+            "C. l\u2019aspect macroscopique et l\u2019odeur de l\u2019extrait liquide peuvent fournir des informations de diagnostic",
+            "D. la douleur est constante, permanente",
+            "E. un rapport prot\u00e9ine pleural/prot\u00e9ine s\u00e9rique <0,5 signifie g\u00e9n\u00e9ralement la pr\u00e9sence d\u2019un exsudat"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 13,
+        "question": "*carbonarcose est induite par:",
+        "options": [
+            "A. la diminution de la pao2 <60 mmhg",
+            "B. la diminution de la pao2 <45 mmhg",
+            "C. la diminution de la paco2 <45 mmhg",
+            "D. l\u2019augmentation des moyennes pap >25 mmhg",
+            "E. l\u2019augmentation de la paco2 >70-80 mmhg"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 14,
+        "question": "*lequel des changements suivants dans les param\u00e8tres fonctionnels respiratoires semble \u00eatre le meilleur marqueur de l\u2019obstruction bronchique distale \u00e0 un stade pr\u00e9coce?",
+        "options": [
+            "A. l\u2019augmentation de r\u00e9sistance \u00e0 l\u2019\u00e9coulement de mani\u00e8re acrifere (raw)",
+            "B. la diminution du volume expiratoire maximal par seconde (vems)",
+            "C. la diminution de rapport vems/cvf",
+            "D. la diminution des flux expiratoire maximal entre 25 et 75% en moyenne (vem 25-75%)",
+            "E. la diminution de rapport fef 50% /cvf"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 15,
+        "question": "*dans la bpco oxyg\u00e9noth\u00e9rapie de longue dur\u00e9e \u00e0 la maison est indiqu\u00e9 chez les patients avec po2 par:",
+        "options": [
+            "A. <55 mmhg",
+            "B. 55-60 mmhg",
+            "C. 60-65 mmhg",
+            "D. 65-70 mmhg",
+            "E. 70 mmhg"
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 16,
+        "question": "les caract\u00e9ristiques pour la bronchite aigu\u00eb sont:",
+        "options": [
+            "A. toux avec ou sans expectoration, la congestion nasale, la fi\u00e8vre basse",
+            "B. les sympt\u00f4mes persistent pendant plus de trois mois",
+            "C. l\u2019\u00e9tiologie est de nature bact\u00e9rienne dans 90% des cas",
+            "D. les germes incrimin\u00e9 sont: rhinovirus, ad\u00e9novirus et bact\u00e9ries",
+            "E. le traitement de la bronchite aigu\u00eb implique toujours antibiotiques"
+        ],
+        "correct_answers": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 17,
+        "question": "curb 65 - le score de gravit\u00e9 comprend les crit\u00e8res suivants:",
+        "options": [
+            "A. c= maux de t\u00eate",
+            "B. u= azote de l\u2019ur\u00e9e > 7 mmol/l",
+            "C. r= respiratoire de \u2265 de taux de 50/min",
+            "D. b= bradycardie",
+            "E. 65= \u2265de 65ans"
+        ],
+        "correct_answers": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 18,
+        "question": "le traitement non m\u00e9dicamenteux de la pneumonie n\u00e9cessite:",
+        "options": [
+            "A. repos au lit et repos physique pendant toute la dur\u00e9e f\u00e9brile",
+            "B. la consommation de fluides pour corriger la d\u00e9shydratation",
+            "C. physioth\u00e9rapie",
+            "D. alcool et le tabagisme sont interdites",
+            "E. le r\u00e9gime alimentaire est stricte dans les premiers 20 jours"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 19,
+        "question": "type emphys\u00e9mateuse de la bpco incluent:",
+        "options": [
+            "A. histoire de la bronchite / la toux et les expectorations",
+            "B. histoire de dyspn\u00e9e progressive",
+            "C. thorax normale avec des r\u00e2les bronchiques",
+            "D. poitrine dilat\u00e9e avec une diminution du murmure v\u00e9siculaire",
+            "E. hypoventilation"
+        ],
+        "correct_answers": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 20,
+        "question": "les conditions suivantes peuvent \u00eatre associ\u00e9es \u00e0 l\u2019apparition de la bronchiectasie:",
+        "options": [
+            "A. une d\u00e9ficience structurelle de paroi bronchique",
+            "B. la carence en glucose-6-phosphate d\u00e9shydrog\u00e9nase",
+            "C. l\u2019infection par le vih",
+            "D. infection \u00e0 ad\u00e9novirus",
+            "E. dyskin\u00e9sie ciliaire primitive"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 21,
+        "question": "parmi les facteurs impliqu\u00e9s dans la pathogen\u00e8se de bronchiectasie sont:",
+        "options": [
+            "A. toute faute inflammatoires et les infections dues \u00e0 pseudomonas aeruginosa et haemophilus influenzae",
+            "B. modification des m\u00e9canismes de clairance bronchiques",
+            "C. lacunes structurelle d\u00e9fense locale ou immunitaire",
+            "D. destruction composants structurels de la paroi bronchique",
+            "E. hyperr\u00e9activit\u00e9 bronchique"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 22,
+        "question": "l\u2019asthme contr\u00f4l\u00e9e est caract\u00e9ris\u00e9e par:",
+        "options": [
+            "A. une fonction pulmonaire normale",
+            "B. dyspn\u00e9e 2 sur l'\u00e9chelle mrc",
+            "C. sans respiration sifflante",
+            "D. aucune exacerbations",
+            "E. sans limitation de l\u2019activit\u00e9"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 23,
+        "question": "mention trois des facteurs suivants qui sont en corr\u00e9lation plus fortement avec le risque de mortalit\u00e9 de l\u2019asthme:",
+        "options": [
+            "A. d\u00e9pression",
+            "B. historique de l\u2019hospitalisation en r\u00e9animation, intubation",
+            "C. sous-estimation de la gravit\u00e9",
+            "D. abus de bronchodilatateurs",
+            "E. personnes \u00e2g\u00e9es"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 24,
+        "question": "surveillance de contr\u00f4le de l\u2019asthme est effectu\u00e9 sont:",
+        "options": [
+            "A. spirom\u00e9trie",
+            "B. pefmetry",
+            "C. questionnaires (act)",
+            "D. les tests cutan\u00e9s allergiques (piq\u00fbre)",
+            "E. radiographie thoracique"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 25,
+        "question": "les sympt\u00f4mes de la bpco se caract\u00e9rise par:",
+        "options": [
+            "A. toux",
+            "B. capacit\u00e9 d\u2019effort limit\u00e9e par la dyspn\u00e9e, dysfonction musculaire",
+            "C. douleur thoracique",
+            "D. dyspn\u00e9e paroxystique, variable, r\u00e9versible avec le traitement",
+            "E. sifflante g\u00e9n\u00e9r\u00e9 principalement par le r\u00e9tr\u00e9cissement quasi-permanente des lumi\u00e8res bronchiques, ce s\u00e9cr\u00e9tions, bronchospasme"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 26,
+        "question": "les tests suivants prennent en charge le diagnostic de la bpco:",
+        "options": [
+            "A. r\u00e9versibilit\u00e9 \u00e0 bronchodilatateur g\u00e9n\u00e9ralement absente",
+            "B. l\u2019oxyde nitrique expir\u00e9",
+            "C. une capacit\u00e9s faible de diffusion",
+            "D. l\u2019\u00e9osinophilie dans les expectorations",
+            "E. augmentation du volume pulmonaire, g\u00e9n\u00e9ralement irr\u00e9versibles"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 27,
+        "question": "indications pour la ventilation m\u00e9canique non invasive pendant une exacerbation de la bpco sont:",
+        "options": [
+            "A. dyspn\u00e9e grave, s\u00e9v\u00e8re",
+            "B. acidose respiratoire aigu\u00eb (ph 7,35 et/ou paco2> 45 mmhg)",
+            "C. la fr\u00e9quence respiratoire > 25/min",
+            "D. arr\u00eater de respirer",
+            "E. risque aigu d\u2019aspiration"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 28,
+        "question": "dans l\u2019\u00e9volution d\u2019une forme s\u00e9v\u00e8re le bpco peut produire des complications suivantes:",
+        "options": [
+            "A. tachycardie et d\u2019autres arythmies cardiaques",
+            "B. hypertension art\u00e9rielle pulmonaire",
+            "C. st\u00e9nose de l\u2019art\u00e8re pulmonaire",
+            "D. changements ecg de hypertrophie du ventricule droit",
+            "E. changements ecg de hypertrophie ventriculaire gauche"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 29,
+        "question": "les bronchodilatateurs sympathomim\u00e9tiques peuvent causer les effets secondaires suivants:",
+        "options": [
+            "A. tachycardie",
+            "B. arythmies cardiaques",
+            "C. tachyphylaxie",
+            "D. bronchoconstriction paradoxale",
+            "E. hyponatr\u00e9mie"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 30,
+        "question": "les facteurs de risque impliqu\u00e9e dans le cancer du poumon sont les suivants:",
+        "options": [
+            "A. tabagisme actif et passif",
+            "B. tuberculose pulmonaire",
+            "C. les infections virales (hpv)",
+            "D. facteurs alimentaires",
+            "E. exposition professionnelle \u00e0 l\u2019amiante"
+        ],
+        "correct_answers": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 31,
+        "question": "les signes et sympt\u00f4mes suivants font partie du tableau clinique de la fibrose pulmonaire idiopathique:",
+        "options": [
+            "A. dyspn\u00e9e avec apparition insidieuse",
+            "B. toux s\u00e8che, persistante",
+            "C. enfin inspiratoire cr\u00e9pite bilat\u00e9ral (\u201cle velcros\u201d)",
+            "D. une expectoration purulente chronique persistante ou r\u00e9currente",
+            "E. clubbing"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 32,
+        "question": "les facteurs associ\u00e9s \u00e0 un risque de mortalit\u00e9 accru de fibrose pulmonaire idiopathique, suivis dans la dynamique (facteurs longitudinaux) sont:",
+        "options": [
+            "A. accro\u00eetre la dyspn\u00e9e (estim\u00e9e par \u00e9chelles objectives: mrc, borg)",
+            "B. la diminution de la cvf par > 10% en valeur absolue",
+            "C. sao2 > 90% lors du test de marche de 6 minutes",
+            "D. la diminution de la dlco > 15% en valeur absolue",
+            "E. la pr\u00e9sence de r\u00e2les \u201cen velcro\u201d dans les bases pulmonaires"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 33,
+        "question": "les d\u00e9clarations suivantes sont remplies concernant les syndromes paran\u00e9oplasiques:",
+        "options": [
+            "A. syndromes paran\u00e9oplasiques associ\u00e9s au cancer du poumon sont tr\u00e8s rare",
+            "B. semble relativement premiers stade de la maladie",
+            "C. certaines sont dues \u00e0 une s\u00e9cr\u00e9tion ectopique d\u2019hormones par le tissus tumoral",
+            "D. se produit plus fr\u00e9quemment dans le cancer non microcellulaire nscl",
+            "E. disparaitre et r\u00e9apparaitre apr\u00e8s r\u00e9section de la tumeur en cas de r\u00e9cidive ou m\u00e9tastases"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 34,
+        "question": "les m\u00e9dicaments bronchodilatateurs utilis\u00e9 a besoin pour le soulagement des bronchospasmes dans le traitement de la bpco sont:",
+        "options": [
+            "A. bromure d\u2019ipratropium",
+            "B. teofilinum",
+            "C. digoxinum",
+            "D. salbutamolum",
+            "E. indacaterolum"
+        ],
+        "correct_answers": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 35,
+        "question": "lequel des \u00e9nonc\u00e9s suivants concernant le panneau fonctionnel de la dysfonction ventilatoire restrictive sont vrais?",
+        "options": [
+            "A. elle est caract\u00e9ris\u00e9 par une r\u00e9duction des volumes pulmonaires principalement cv et cpt",
+            "B. elle est caract\u00e9ris\u00e9 par une r\u00e9duction des d\u00e9bits ventilatoires",
+            "C. les flux ventilatoires exprim\u00e9 en pourcentage de la cvf peut \u00eatre augment\u00e9",
+            "D. peuvent etre pr\u00e9sent des signes indirect de l\u2019augmentation thoracique de recul du poumon",
+            "E. dans les premiers stades un \u00e9l\u00e9ment pathognomonique est vems 25-75% baiss\u00e9"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 36,
+        "question": "lequel des \u00e9nonc\u00e9s fol de pneumom\u00e9diastin sont vraies:",
+        "options": [
+            "A. elle consiste en la pr\u00e9sence d\u2019air dans la cavit\u00e9 pleurale",
+            "B. perforation ou rupture de l\u2019oesophage, de la trach\u00e9e ou des bronches peuvent \u00eatre une cause",
+            "C. le passage de l\u2019air dans le col ou l\u2019abdomen peut \u00eatre une cause possible",
+            "D. il est souvent asymptomatique",
+            "E. patients se plaignent d\u2019une douleur intense avec ou sans rayonnement \u00e0 la nuque et les bras"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 37,
+        "question": "la pleur\u00e9sie exsudative est caract\u00e9ris\u00e9e par:",
+        "options": [
+            "A. la r\u00e9action de rivalta est positive",
+            "B. la concentration de la prot\u00e9ine de la pl\u00e8vre >30g/l",
+            "C. rapport prot\u00e9ines pleural/ prot\u00e9ine s\u00e9rique >0,5",
+            "D. rapport lacticohidrog\u00e9nase (ldh) pleural/ ldh s\u00e9rique > ou = 0,6",
+            "E. la concentration du glucose est augment\u00e9"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 38,
+        "question": "l\u2019apn\u00e9e du sommeil se manifeste par:",
+        "options": [
+            "A. claustrophobie",
+            "B. l\u2019interruption obstructive de la circulation d\u2019air avec des mouvements thoraciques persistants",
+            "C. l\u2019apn\u00e9e type mixte qui commence comme une crise d\u2019asthme",
+            "D. l\u2019apn\u00e9e type central qui se caract\u00e9rise en arr\u00eatant les muscles impliqu\u00e9s dans l\u2019activit\u00e9 respiratoire",
+            "E. d\u00e9faut de conformation de type de l\u2019apn\u00e9e centrale impliquant oropharyng\u00e9e"
+        ],
+        "correct_answers": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 39,
+        "question": "il y a souvent une corr\u00e9lation entre le syndrome d\u2019apn\u00e9e du sommeil et les conditions suivantes:",
+        "options": [
+            "A. accidents automobiles et travaux",
+            "B. ob\u00e9sit\u00e9",
+            "C. candidose",
+            "D. hypertension syst\u00e9mique",
+            "E. cancer du poumon"
+        ],
+        "correct_answers": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 40,
+        "question": "la forme la plus courante de cancer du poumon chez les fumeurs sont:",
+        "options": [
+            "A. carcinome \u00e9pidermo\u00efde",
+            "B. carcinome \u00e0 petites cellules",
+            "C. ad\u00e9nocarcinome",
+            "D. carcinome \u00e0 grandes cellules",
+            "E. tumeur carcinoide"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 41,
+        "question": "les d\u00e9clarations sur le traitement endoscopique sont vraies:",
+        "options": [
+            "A. le traitement endoscopique est indiqu\u00e9 dans l\u2019obstruction des voies a\u00e9riennes central",
+            "B. le traitement endoscopique est indiqu\u00e9 dans l\u2019obstruction des voies respiratoires symptomatiques",
+            "C. le traitement endoscopique est indiqu\u00e9 dans l\u2019obstruction des voies a\u00e9riennes pour r\u00e9duire la lumi\u00e8re de 30 ou 50% ?? (j\u2019arrive pas \u00e0 lire le chiffre)",
+            "D. il est appropri\u00e9 dans la situation que la premi\u00e8re mesure de traitement",
+            "E. d\u00e9sobstruction peut \u00eatre r\u00e9alis\u00e9 par r\u00e9section laser, \u00e9lectrocoagulation, cryoth\u00e9rapie"
+        ],
+        "correct_answers": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 42,
+        "question": "les facteurs de risque impliqu\u00e9s dans le cancer du poumon sont les suivants:",
+        "options": [
+            "A. tabagisme actif et passif",
+            "B. tuberculose pulmonaire",
+            "C. infections virales hpv",
+            "D. facteurs alimentaires",
+            "E. exposition professionnelle \u00e0 l\u2019amiante"
+        ],
+        "correct_answers": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 43,
+        "question": "les manifestations cliniques de cancer du poumon peuvent \u00eatre regroup\u00e9s en fonction de:",
+        "options": [
+            "A. les sympt\u00f4mes provoqu\u00e9s par la l\u00e9sion de la tumeur primaire",
+            "B. comorbidit\u00e9s associ\u00e9s",
+            "C. sympt\u00f4mes caus\u00e9s par des m\u00e9tastases \u00e0 distance",
+            "D. sympt\u00f4mes caus\u00e9s par diffusion de la tumeur intrathoracique",
+            "E. syndrome de thalass\u00e9mie"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 44,
+        "question": "dans le diagnostic du cancer du poumon sont importantes les \u00e9tapes suivantes:",
+        "options": [
+            "A. le diagnostic du cancer et du type histopathologique",
+            "B. d\u00e9termination du facteur de risque",
+            "C. l\u2019\u00e9valuation du patient quand il y a indication de chirurgie",
+            "D. l\u2019\u00e9valuation fonctionnelle du patient quand il y a indication pour la chirurgie",
+            "E. classification tnm"
+        ],
+        "correct_answers": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 45,
+        "question": "les d\u00e9clarations suivantes sont remplies \u00e0 propos de l\u2019endoscopie bronchique:",
+        "options": [
+            "A. c\u2019est une m\u00e9thode utile dans la classification tnm",
+            "B. permet une collection de tissus tumoraux pour un examen histopathologique",
+            "C. exige l\u2019utilisation de produit de contraste iod\u00e9",
+            "D. est utilis\u00e9 en pr\u00e9-op pour \u00e9valuer la fonction du poumon",
+            "E. aucun r\u00f4le dans le diagnostic du cancer du poumon"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 46,
+        "question": "le traitement antituberculeux en cas de r\u00e9cidive implique:",
+        "options": [
+            "A. une p\u00e9riode de 6 mois de traitement",
+            "B. l\u2019administration de l'isoniazide, rifampicine, pyrazinamide, ethambutol et la streptomycine",
+            "C. le passage \u00e0 la modification de r\u00e9serve / la ligne ii",
+            "D. l\u2019association de m\u00e9dicament avec effet bact\u00e9ricide et st\u00e9rilisation",
+            "E. l\u2019administration du traitement par l\u2019observation directe"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 47,
+        "question": "la classification tnm du cancer du poumon, mi est la suivante:",
+        "options": [
+            "A. pas de m\u00e9tastases \u00e0 distance",
+            "B. des nodules de tumeurs situ\u00e9 \u00e0 une croix, qui est diff\u00e9rent de l\u2019emplacement de la tumeur primaire",
+            "C. des nodules tumoraux dans le m\u00eame lobe situ\u00e9 o\u00f9 la tumeur primaire se trouve",
+            "D. les tumeurs des nodules pulmonaires controlat\u00e9ral",
+            "E. m\u00e9tastases h\u00e9patiques"
+        ],
+        "correct_answers": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 48,
+        "question": "de l\u2019arsenal th\u00e9rapeutique dans le cancer du poumon sont les suivants:",
+        "options": [
+            "A. chimioth\u00e9rapie",
+            "B. radiation",
+            "C. traitement hom\u00e9opathique",
+            "D. chirurgie",
+            "E. th\u00e9rapie g\u00e9nique"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 49,
+        "question": "l\u2019examen sp\u00e9cifique des crachats pour l\u2019identification les bacille de koch est faite:",
+        "options": [
+            "A. pour tous ceux qui ont \u00e9t\u00e9 en contact avec un patient atteint de tbc active",
+            "B. avant de commencer le traitement pour tuberculose",
+            "C. pour ceux qui ont des l\u00e9sions pulmonaires",
+            "D. aux grands fumeurs",
+            "E. aux patients avec idr positif"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 50,
+        "question": "le candidat id\u00e9al pour inclusion dans un programme de r\u00e9adaptation respiratoire doit:",
+        "options": [
+            "A. soumettre une limitation fonctionnel au d\u00e9but",
+            "B. que ce soit dans une phase stable du traitement m\u00e9dical standard",
+            "C. \u00eatre motiv\u00e9 \u00e0 consacrer du temps et des efforts pour prp",
+            "D. soyez dispos\u00e9 et apte d\u2019apprendre l\u2019avantage sur leur maladie",
+            "E. envoyez les comorbidit\u00e9s associ\u00e9s graves et instables"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 51,
+        "question": "*le diagnostic d'asthme est confirm\u00e9 par:",
+        "options": [
+            "A. d\u00e9monstration d'hyper r\u00e9activit\u00e9 bronchique",
+            "B. test bronchodilatateur positif",
+            "C. la d\u00e9monstration d'une augmentation significative de feno",
+            "D. la pr\u00e9sence d'une respiration sifflante",
+            "E. tout ce qui pr\u00e9c\u00e8de"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 52,
+        "question": "*le tiotropium est:",
+        "options": [
+            "A. un anticholinergique \u00e0 courte dur\u00e9e d'action",
+            "B. un b\u00eata-agoniste \u00e0 action prolong\u00e9e",
+            "C. un corticost\u00e9ro\u00efde inhal\u00e9",
+            "D. un anticholinergique \u00e0 action prolong\u00e9e",
+            "E. un b\u00eata-agoniste \u00e0 action prolong\u00e9e"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 53,
+        "question": "*dans l'insuffisance respiratoire chronique, l'utilisation quotidienne d'o2 est:",
+        "options": [
+            "A. 2 \u00e0 4 heures",
+            "B. au besoin",
+            "C. en permanence",
+            "D. plus de 15-16 h",
+            "E. 5 \u00e0 10 heures"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 54,
+        "question": "*les crit\u00e8res les plus importants pour l'administration \u00e0 long terme de l'oxyg\u00e9noth\u00e9rapie \u00e0 domicile sont:",
+        "options": [
+            "A. sao2 inf\u00e9rieure \u00e0 88%",
+            "B. coeur pulmonaire chronique, hypertension pulmonaire",
+            "C. hb sup\u00e9rieure \u00e0 16 g / dl, ht sup\u00e9rieure \u00e0 50%",
+            "D. pao2 inf\u00e9rieure \u00e0 55 mmhg",
+            "E. tout ce qui pr\u00e9c\u00e8de"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 55,
+        "question": "*le param\u00e8tre le plus significatif de l'insuffisance respiratoire est:",
+        "options": [
+            "A. dyspn\u00e9e avec polypn\u00e9e / rarement bradypn\u00e9e",
+            "B. tr\u00e8s faibles param\u00e8tres de la fonction pulmonaire",
+            "C. hypox\u00e9mie prouv\u00e9e par l'analyse des gaz du sang",
+            "D. \u00e9tat mental alt\u00e9r\u00e9",
+            "E. tachycardie / tachyarythmie"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 56,
+        "question": "*les affirmations suivantes concernant la prise en charge de la bronchectasie sont correctes, sauf:",
+        "options": [
+            "A. vaccination prophylactique car les infections sont connues comme g\u00e9n\u00e9ratrices de bronchectasie",
+            "B. le traitement antibiotique est uniquement bas\u00e9 sur l'antibiogramme obtenu apr\u00e8s l'isolement des germes",
+            "C. le traitement de la colonisation par pseudomonas aeruginosa est l'administration orale d'un quinolone ou par voie parent\u00e9rale d'un aminoglycoside, d'un carbap\u00e9n\u00e8me ou d'une c\u00e9phalosporine de troisi\u00e8me g\u00e9n\u00e9ration",
+            "D. l'\u00e9limination des s\u00e9cr\u00e9tions bronchiques peut \u00eatre assur\u00e9e par la physioth\u00e9rapie, le drainage postural ou l'utilisation de mucolytiques",
+            "E. le traitement chirurgical est indiqu\u00e9 en cas d'\u00e9chec du traitement m\u00e9dical apr\u00e8s une p\u00e9riode d'au moins 12 mois"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 57,
+        "question": "caract\u00e9ristiques de la bpco s\u00e9v\u00e8re de stade iii:",
+        "options": [
+            "A. 50% <fev1 <80% que pr\u00e9vu",
+            "B. 30% = fev1 <50% que pr\u00e9vu",
+            "C. fev1 / fvc <70%",
+            "D. fev1 <30% que pr\u00e9vu",
+            "E. fev1> 80%"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 58,
+        "question": "un faible facteur de transfert (dlco) sugg\u00e8re fortement:",
+        "options": [
+            "A. asthme",
+            "B. pneumonie",
+            "C. d\u00e9formation de la cage thoracique",
+            "D. une maladie neuromusculaire",
+            "E. emphys\u00e8me pulmonaire ou fibrose"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 59,
+        "question": "*le test d'\u00e9valuation de la bpco (cat) fait r\u00e9f\u00e9rence \u00e0:",
+        "options": [
+            "A. \u00e9valuation de la fonction pulmonaire",
+            "B. sympt\u00f4mes du cancer",
+            "C. gravit\u00e9 de l'asthme",
+            "D. \u00e9valuation des sympt\u00f4mes de la bpco",
+            "E. stratifie la gravit\u00e9 de la pneumonie"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 60,
+        "question": "*curb 65",
+        "options": [
+            "A. fait r\u00e9f\u00e9rence \u00e0 l'\u00e9valuation de la bpco",
+            "B. \u00e9valuer la gravit\u00e9 de la pneumonie et le risque de mortalit\u00e9",
+            "C. diff\u00e9rencier les types de cancer",
+            "D. il n'est utile qu'\u00e0 l'h\u00f4pital",
+            "E. pr\u00e9dit la mortalit\u00e9 dans la fibrose pulmonaire"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 61,
+        "question": "mentionner trois des facteurs suivants les plus fortement corr\u00e9l\u00e9s au risque de mortalit\u00e9 dans l\u2019asthme:",
+        "options": [
+            "A. d\u00e9pression",
+            "B. historique des admissions \u00e0 l'usi (unit\u00e9 des soins intensif); intubation",
+            "C. sous-estimation de la gravit\u00e9",
+            "D. abus des bronchodilatateurs",
+            "E. vieillesse (a\u00een\u00e9s)"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 62,
+        "question": "la bpco est caract\u00e9ris\u00e9e par:",
+        "options": [
+            "A. inflammation pulmonaire et syst\u00e9mique chronique",
+            "B. l'inflammation est corticosensible",
+            "C. alt\u00e9ration des petites voies respiratoires et parenchyme pulmonaire",
+            "D. hyperr\u00e9activit\u00e9 des voies respiratoires",
+            "E. obstruction partiellement r\u00e9versible / irr\u00e9versible"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 63,
+        "question": "le groupe de risque de bpco groupe d implique:",
+        "options": [
+            "A. cat> 10",
+            "B. plus de 2 exacerbations par an",
+            "C. valeurs de limitation du d\u00e9bit d'air de vems sup\u00e9rieures \u00e0 50%",
+            "D. vems/cvf sup\u00e9rieur \u00e0 70%",
+            "E. aucune r\u00e9ponse n'est pas correcte"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 64,
+        "question": "les th\u00e9rapies \u00e9prouv\u00e9es permettant d'augmenter le temps de survie sont",
+        "options": [
+            "A. corticost\u00e9ro\u00efdes associ\u00e9s aux bronchodilatateurs inhal\u00e9s \u00e0 action prolong\u00e9e",
+            "B. arr\u00eater de fumer",
+            "C. oxyg\u00e9noth\u00e9rapie \u00e0 long terme (> 15 heures par jour) chez les patients hypox\u00e9miques au repos",
+            "D. ventilation m\u00e9canique non invasive (vni) chez les patients atteints d'insuffisance respiratoire aigu\u00eb ou chronique",
+            "E. r\u00e9duction des volumes pulmonaires chez les patients pr\u00e9sentant un emphys\u00e8me du lobe sup\u00e9rieur et une faible capacit\u00e9 d'exercice"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 65,
+        "question": "image de \u00abrayon de miel\u00bb sur les relev\u00e9s ct",
+        "options": [
+            "A. la forme caract\u00e9ristique de la fibrose nsip (pneumonie interstitielle non sp\u00e9cifique)",
+            "B. appara\u00eet dans les pneumopathie interstitielle diffuse",
+            "C. elle s'accompagne d'un mauvais pronostic",
+            "D. l'emplacement est typique dans les lobes sup\u00e9rieurs",
+            "E. la biopsie pulmonaire est obligatoire"
+        ],
+        "correct_answers": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 66,
+        "question": "le cancer du poumon est une maladie qui",
+        "options": [
+            "A. se caract\u00e9rise par une croissance cellulaire incontr\u00f4l\u00e9e dans les tissus du poumon",
+            "B. gu\u00e9rira sans traitement dans la plupart des cas",
+            "C. si elle n'est pas trait\u00e9e, se propage dans les tissus voisins",
+            "D. ne pr\u00e9sente aucun sympt\u00f4me",
+            "E. peut \u00e9galement se propager dans d'autres parties du corps"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 67,
+        "question": "le cancer du poumon est class\u00e9 histologiquement en deux cat\u00e9gories principales:",
+        "options": [
+            "A. tumeurs b\u00e9nignes",
+            "B. carcinome pulmonaire non \u00e0 petite cellules",
+            "C. n\u00e9crose",
+            "D. carcinome pulmonaire \u00e0 petites cellules",
+            "E. aucune de ces r\u00e9ponses"
+        ],
+        "correct_answers": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 68,
+        "question": "les meilleurs tests pour le diagnostic du cancer du poumon",
+        "options": [
+            "A. ecg",
+            "B. spirom\u00e9trie",
+            "C. imagerie thoracique",
+            "D. biopsie guid\u00e9e par ct",
+            "E. bronchoscopie avec biopsie"
+        ],
+        "correct_answers": [
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 69,
+        "question": "les sympt\u00f4mes de la fibrose pulmonaire sont principalement:",
+        "options": [
+            "A. essoufflement, en particulier avec l'effort",
+            "B. perte d'app\u00e9tit et perte de poids rapide",
+            "C. toux s\u00e8che et hach\u00e9e chronique",
+            "D. h\u00e9moptysie",
+            "E. dyspn\u00e9e aigu\u00eb"
+        ],
+        "correct_answers": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 70,
+        "question": "le diagnostic de la fibrose pulmonaire comprend les \u00e9l\u00e9ments suivants:",
+        "options": [
+            "A. biopsie pulmonaire",
+            "B. spirom\u00e9trie, dysfonctionnement ventilatoire restrictif avec diminution du vems et de la cvf, mais avec un rapport vems/cvf encore plus \u00e9lev\u00e9",
+            "C. \u00e9chographie",
+            "D. tomographie par ordinateur haute r\u00e9solution",
+            "E. radiographie thoracique seule"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 71,
+        "question": "traitement de la fibrose pulmonaire",
+        "options": [
+            "A. les agents anti-inflammatoires ont un succ\u00e8s limit\u00e9",
+            "B. agents immunosuppresseurs tels que les corticost\u00e9ro\u00efdes",
+            "C. dans de rares cas s\u00e9lectionn\u00e9s, un immunosuppresseur suppl\u00e9mentaire, tel que le cyclophosphamide,azathioprine, m\u00e9thotrexate, p\u00e9nicillamine et cyclosporine",
+            "D. l'oxyg\u00e8ne am\u00e9liore la qualit\u00e9 de vie et la capacit\u00e9 d'exercice",
+            "E. la transplantation pulmonaire peut \u00eatre envisag\u00e9e pour certains patients"
+        ],
+        "correct_answers": [
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 72,
+        "question": "l'apn\u00e9e du sommeil est un trouble du sommeil caract\u00e9ris\u00e9 par:",
+        "options": [
+            "A. des pauses respiratoires anormales ou des cas de respiration anormalement basse pendant le sommeil",
+            "B. un nombre de plus de 5 apn\u00e9es par heure",
+            "C. somnolence",
+            "D. perte de poids",
+            "E. tout ce qui pr\u00e9c\u00e8de"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 73,
+        "question": "les objectifs du traitement de l'asthme sont:",
+        "options": [
+            "A. pour obtenir et maintenir le contr\u00f4le de la maladie",
+            "B. pour am\u00e9liorer la fonction pulmonaire",
+            "C. pour \u00e9viter les exacerbations",
+            "D. traiter correctement et rapidement les crises d'asthme",
+            "E. pour pr\u00e9venir la pneumonie"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 74,
+        "question": "les affirmations suivantes concernant les abc\u00e8s / suppurations pulmonaires sont correctes:",
+        "options": [
+            "A. l'abc\u00e8s pulmonaire est une infection n\u00e9crosante du parenchyme pulmonaire avec formation de cavit\u00e9s contenant du mat\u00e9riel purulent",
+            "B. la cause la plus fr\u00e9quente d'abc\u00e8s pulmonaire est l'aspiration ou la micro-aspiration",
+            "C. les facteurs pr\u00e9disposants comprennent le tabagisme",
+            "D. la pneumonie n\u00e9crotique est une infection suppur\u00e9e avec une seule cavit\u00e9 incluse dans un block",
+            "E. la gangr\u00e8ne pulmonaire est une suppuration pulmonaire parenchymateuse diffuse et le processus pathog\u00e8ne implique une thrombose pulmonaire"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 75,
+        "question": "les affirmations suivantes concernant le traitement de l'abc\u00e8s pulmonaire sont vraies:",
+        "options": [
+            "A. l'application correcte du traitement peut gu\u00e9rir 75 \u00e0 80% des cas",
+            "B. la p\u00e9nicilline est utilis\u00e9e \u00e0 des doses \u00e0 2 millions d'ui, deux fois par jour, iv ou i.m",
+            "C. en raison de l'\u00e9mergence d'organismes producteurs de b\u00eata-lactamase, l'association de la clindamycine est conseill\u00e9",
+            "D. la dur\u00e9e du traitement est de 2 \u00e0 4 semaines",
+            "E. le traitement adjuvant comprend un drainage postural, des mesures mucolytiques et hygi\u00e9no-di\u00e9t\u00e9tiques"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 76,
+        "question": "les affirmations suivantes sont vraies \u00e0 propos des pneumonies virales et des pneumonies fongiques:",
+        "options": [
+            "A. chez l'adulte, les virus repr\u00e9sentent environ un tiers des cas",
+            "B. les agents couramment impliqu\u00e9s comprennent: les rhinovirus, les coronavirus, les virus de la grippe, ad\u00e9novirus et parainfluenza",
+            "C. les personnes suivant une transplantation d'organe ou celles qui sont immunod\u00e9prim\u00e9es sont pr\u00e9sentes un taux \u00e9lev\u00e9s de pneumonies \u00e0 cytom\u00e9galovirus",
+            "D. les pneumonies virales n\u00e9cessitent toujours des antibiotiques",
+            "E. la pneumonie fongique est rare, mais survient plus fr\u00e9quemment chez les personnes immunod\u00e9prim\u00e9es d\u00fb au sida, aux m\u00e9dicaments immunosuppresseurs ou \u00e0 d'autres probl\u00e8mes m\u00e9dicaux"
+        ],
+        "correct_answers": [
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 77,
+        "question": "le traitement de la pneumonie bact\u00e9rienne communautaire n\u00e9cessite:",
+        "options": [
+            "A. dans la plupart des cas, le choix de l'antibiotique est empirique avec les macrolides, les c\u00e9phalosporines, les fluoroquinolones, b\u00eata-lactame plus un macrolide, quinolones",
+            "B. nous devons toujours attendre que la culture des expectorations et l'antibiogramme deviennent disponibles pour d\u00e9buter une antibioth\u00e9rapie",
+            "C. le parac\u00e9tamol et la vitamine c suffisent",
+            "D. lorsque l'antibiogramme devient disponible, l'antibioth\u00e9rapie doit \u00eatre adapt\u00e9e cons\u00e9quence",
+            "E. en cas de suspicion d'infection par le s. aureus r\u00e9sistant \u00e0 la m\u00e9thicilline (sarm), la vancomycine ou le lin\u00e9zolide peut \u00eatre ajout\u00e9 au sch\u00e9ma antibiotique jusqu'\u00e0 ce que l'identit\u00e9 des organismes et les sensibilit\u00e9s aux antibiotiques soient connues, ainsi les m\u00e9dicaments peuvent \u00eatre ajust\u00e9s en cons\u00e9quence"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 78,
+        "question": "laquelle des affirmations suivantes est vraie concernant l'\u00e9panchement pleural",
+        "options": [
+            "A. il s'agit d'une accumulation de liquide dans la cavit\u00e9 pleurale",
+            "B. le liquide est accumul\u00e9 dans l'espace pleural en raison de la grande quantit\u00e9 ou de la carence en drainage lymphatique du syst\u00e8me",
+            "C. le myx\u0153d\u00e8me est une cause fr\u00e9quente d'\u00e9panchement pleural exsudatif",
+            "D. l'\u00e9panchement pleural para pneumonique est g\u00e9n\u00e9ralement transsudatif",
+            "E. la pleur\u00e9sie maligne est l'accumulation de liquide h\u00e9morragique dans la cavit\u00e9 pleurale"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 79,
+        "question": "les affirmations suivantes sont fausses concernant la pleur\u00e9sie:",
+        "options": [
+            "A. les sympt\u00f4mes d'accumulation de liquide pleural varient en fonction de la vitesse de l'accumulation",
+            "B. des modifications du temps de ventilation/perfusion par compression du liquide pleural entra\u00eenent une alt\u00e9ration des gaz sanguins",
+            "C. la fonction pulmonaire est affect\u00e9e par la diminution de la capacit\u00e9 vitale",
+            "D. les \u00e9panchements pleuraux transsudatifs sont g\u00e9n\u00e9ralement accompagn\u00e9s de changements inflammatoires dans les couches de la pl\u00e8vre",
+            "E. la cause la plus fr\u00e9quente d'h\u00e9mothorax est le traumatisme thoracique"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 80,
+        "question": "le type d'\u00e9panchement pleural transsudat est caract\u00e9ris\u00e9 par:",
+        "options": [
+            "A. prot\u00e9ine pleurale / prot\u00e9ine s\u00e9rique <0,5",
+            "B. ldh pleurale / ldh s\u00e9rique> 0,6",
+            "C. ldh pleurale> 200 ui",
+            "D. cellulaire bas (<1000 cellules / mm3)",
+            "E. aucune des solutions ci-dessus"
+        ],
+        "correct_answers": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 81,
+        "question": "la pneumonie est:",
+        "options": [
+            "A. un \u00e9tat inflammatoire du poumon affectant principalement les alv\u00e9oles",
+            "B. caus\u00e9e par des virus ou des bact\u00e9ries",
+            "C. caus\u00e9e moins fr\u00e9quemment par d'autres micro-organismes, certains sont cons\u00e9quence de m\u00e9dicaments, de maladies auto-immunes",
+            "D. une affection inflammatoire uniquement des bronches",
+            "E. aucune de ces r\u00e9ponses"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 82,
+        "question": "les sympt\u00f4mes typiques de la pneumonie communautaire acquise comprennent:",
+        "options": [
+            "A. une toux",
+            "B. douleur thoracique",
+            "C. fi\u00e8vre",
+            "D. difficult\u00e9 \u00e0 respirer",
+            "E. chez les personnes \u00e2g\u00e9es, les sympt\u00f4mes sont s\u00e9v\u00e8res"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 83,
+        "question": "les modes de transmission de la pneumonie communautaire sont:",
+        "options": [
+            "A. aspiration",
+            "B. inhalation",
+            "C. ingestion",
+            "D. diss\u00e9mination h\u00e9matog\u00e8ne",
+            "E. inoculation directe"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 84,
+        "question": "choisissez la bonne option sur la c\u00f4te de gravit\u00e9 de la pneumonie du jeu curb 65:",
+        "options": [
+            "A. c = courbure",
+            "B. u = azote ur\u00e9ique> 2 mmol / l",
+            "C. r = fr\u00e9quence respiratoire> 30 / min",
+            "D. b = tension art\u00e9rielle systolique <110 mmhg ou pression art\u00e9rielle diastolique <70 mmhg",
+            "E. \u00e2ge> 65 ans"
+        ],
+        "correct_answers": [
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 85,
+        "question": "les conditions suivantes doivent \u00eatre prises en compte pour le diagnostic diff\u00e9rentiel de la pneumonie communautaire \u00e0 la radiographie pulmonaire:",
+        "options": [
+            "A. infarctus pulmonaire",
+            "B. cancer du poumon",
+            "C. rhinopharyngite aigu\u00eb",
+            "D. exacerbations de la bpco",
+            "E. pneumopathie aigu\u00eb d'hypersensibilit\u00e9"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 86,
+        "question": "les affirmations suivantes concernant la bronchite aigu\u00eb sont correctes:",
+        "options": [
+            "A. dans la plupart des cas, l'\u00e9tiologie est virale",
+            "B. le traitement de premi\u00e8re intention consiste en des antibiotiques",
+            "C. les patients atteints de toux s\u00e8che re\u00e7oivent des expectorants",
+            "D. l'\u00e9volution est vers la r\u00e9solution dans la plupart des cas, m\u00eame sans traitement",
+            "E. chez les patients pr\u00e9sentant une immunosuppression, il est recommand\u00e9 d'utiliser un macrolide avec des antibiotiques ou des t\u00e9tracyclines"
+        ],
+        "correct_answers": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 87,
+        "question": "l'histopathologie pulmonaire maligne peut avoir les types suivants:",
+        "options": [
+            "A. ad\u00e9nocarcinome",
+            "B. carcinome \u00e0 petites cellules",
+            "C. carcinome \u00e9pidermo\u00efde",
+            "D. papillome \u00e9pidermo\u00efde",
+            "E. cystad\u00e9nome muqueux"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 88,
+        "question": "les facteurs de risque de cancer du poumon sont les suivants, \u00e0 l'exception de:",
+        "options": [
+            "A. tabagisme passif",
+            "B. exposition professionnelle \u00e0 l'amiante",
+            "C. exposition aux rayons ultraviolets",
+            "D. tabagisme actif",
+            "E. manger des fruits et des l\u00e9gumes verts"
+        ],
+        "correct_answers": [
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 89,
+        "question": "laquelle des analyses de laboratoire suivantes n'est pas utile dans le diagnostic positif du poumon cancer ?",
+        "options": [
+            "A. poitrine de tomodensitom\u00e9trie",
+            "B. endoscopie bronchique",
+            "C. le quantiferon",
+            "D. cytologie des expectorations",
+            "E. niveaux de marqueurs tumoraux"
+        ],
+        "correct_answers": [
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 90,
+        "question": "voici les m\u00e9thodes de traitement du cancer du poumon",
+        "options": [
+            "A. traitement chirurgical de stade i, ii et iiia",
+            "B. radioth\u00e9rapie aux stades ii, iii et iv",
+            "C. chimioth\u00e9rapie \u00e0 tous les stades",
+            "D. transplantation pulmonaire",
+            "E. th\u00e9rapie g\u00e9nique"
+        ],
+        "correct_answers": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 91,
+        "question": "les complications du syndrome d'apn\u00e9e du sommeil peuvent inclure",
+        "options": [
+            "A. accidents de la circulation",
+            "B. hypertension art\u00e9rielle r\u00e9sistante",
+            "C. an\u00e9vrisme aortique",
+            "D. mort subite pendant le sommeil",
+            "E. ulc\u00e8re gastroduod\u00e9nal"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 92,
+        "question": "les affirmations suivantes concernant le traitement du syndrome d'apn\u00e9e du sommeil sont correctes:",
+        "options": [
+            "A. l'alimentation et l'hygi\u00e8ne du sommeil sont recommand\u00e9es \u00e0 toutes les \u00e9tapes",
+            "B. la consommation d'alcool est autoris\u00e9e avant le coucher",
+            "C. le traitement avec pression positive continue dans les voies respiratoires (cpap) repr\u00e9sente le premier choix dans les formes s\u00e9v\u00e8res de sas",
+            "D. le traitement cpap entra\u00eene une diminution de la somnolence diurne",
+            "E. l'adh\u00e9sion au traitement cpap est d'environ 20% rep: acd"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 93,
+        "question": "les facteurs pr\u00e9disposant \u00e0 la survenue d'une embolie pulmonaire sont:",
+        "options": [
+            "A. thrombose veineuse profonde",
+            "B. intervention chirurgicale r\u00e9cente ou immobilisation prolong\u00e9e",
+            "C. ob\u00e9sit\u00e9",
+            "D. tumeurs malignes",
+            "E. ulc\u00e8re gastrique"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 94,
+        "question": "les conditions suivantes peuvent \u00eatre caus\u00e9es par le tabagisme",
+        "options": [
+            "A. bpco",
+            "B. ath\u00e9roscl\u00e9rose",
+            "C. histoplasmose",
+            "D. cancer du pancr\u00e9as",
+            "E. dermatite de contact"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 95,
+        "question": "le diagnostic de l'apn\u00e9e du sommeil peut \u00eatre effectu\u00e9 par:",
+        "options": [
+            "A. \u00e9valuation des sympt\u00f4mes (ex: somnolence diurne excessive - questionnaire epworth)",
+            "B. polysomnographie (avec eeg et emg)",
+            "C. polygraphie (ambulatoires)",
+            "D. tomographie par ordinateur",
+            "E. tout ce qui pr\u00e9c\u00e8de"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 96,
+        "question": "traitement de l'apn\u00e9e du sommeil - d\u00e9clarations",
+        "options": [
+            "A. la perte de poids et l'exercice physique am\u00e9lioreront le r\u00e9sultat",
+            "B. \u00e9vitez l'alcool, les somnif\u00e8res, les s\u00e9datifs et le sommeil",
+            "C. appareils buccaux / embouts buccaux sur mesure chez certains patients",
+            "D. pression positive continue des voies respiratoires avec cpap; machines autocpap",
+            "E. amygdalectomie et uvulopalatopharyngoplastie chez tous les patients, avec d'excellents r\u00e9sultats"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 97,
+        "question": "les principaux sympt\u00f4mes de la bpco sont:",
+        "options": [
+            "A. toux productive au moins 3 mois par an, 2 ann\u00e9es cons\u00e9cutives",
+            "B. expectorations productives",
+            "C. perte de poids",
+            "D. h\u00e9moptysie",
+            "E. douleur osseuse"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 98,
+        "question": "les sympt\u00f4mes et signes pouvant sugg\u00e9rer un cancer du poumon comprennent:",
+        "options": [
+            "A. augmentation soudaine de l'app\u00e9tit",
+            "B. toux",
+            "C. perte de poids",
+            "D. h\u00e9moptysie",
+            "E. douleur osseuse"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 99,
+        "question": "les principales causes du cancer du poumon sont:",
+        "options": [
+            "A. fumer des cigarettes",
+            "B. pollution atmosph\u00e9rique",
+            "C. amiante",
+            "D. eau pollu\u00e9e",
+            "E. aliments contamin\u00e9s"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 100,
+        "question": "il existe trois types d'apn\u00e9e du sommeil:",
+        "options": [
+            "A. obstructif",
+            "B. destructif",
+            "C. central",
+            "D. mixte",
+            "E. p\u00e9riph\u00e9rique"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    }
+]

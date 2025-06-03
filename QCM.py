@@ -5,7 +5,7 @@ import random
 import time
 import os
 
-nombreq=10
+nombreq=11
 
 class QCMApp(tk.Tk):
     def __init__(self):
@@ -16,7 +16,7 @@ class QCMApp(tk.Tk):
 
         self.title("Quiz QCM")
 
-        self.chapter_files = ["Radiologie.json"] 
+        self.chapter_files = ["QCM NAO/JSON/Pneumologie.json"] 
         self.chapters = self.load_chapters()
         self.load_question_stats()
         self.create_main_menu()
@@ -54,7 +54,7 @@ class QCMApp(tk.Tk):
         if chapter == -1:
             self.current_chapter = self.mixed_chapter
         else:
-            self.current_chapter = self.chapters[self.chapter_files[chapter - 1]]
+            self.current_chapter = self.chapters[self.chapter_files[chapter]]
             random.shuffle(self.current_chapter)
             self.current_chapter = self.current_chapter[:min(nombreq, len(self.current_chapter))]  # Add this line
         self.total_questions = len(self.current_chapter)  # Ajout de l'attribut total_questions

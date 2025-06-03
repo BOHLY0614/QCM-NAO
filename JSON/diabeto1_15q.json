@@ -1,0 +1,254 @@
+[
+    {
+        "chapitre": 1,
+        "id": 1,
+        "question": "le diab\u00e8te est un probl\u00e8me majeur de sant\u00e9 publique en raison de complications chroniques graves et:",
+        "options": [
+            "A. provoque l\u2019augmentation de risque de maladie coronarienne et d\u2019avc de 2-6 fois",
+            "B. provoque une diminution de l'esp\u00e9rance de vie de 2 ans (diminution de l\u2019esp\u00e9rance de vie de 5-10 ans)",
+            "C. est la principale cause d\u2019insuffisance r\u00e9nale chronique, la c\u00e9cit\u00e9 et l\u2019amputation non traumatique des membres inf\u00e9rieurs",
+            "D. les patients n\u2019associent pas un risque cardio-vasculaire",
+            "E. 50% des patients atteints de diab\u00e8te meurent d\u2019\u00e9v\u00e8nements cardiovasculaires"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 2,
+        "question": "les signes cliniques en acidose lactique sont:",
+        "options": [
+            "A. douleurs abdominales",
+            "B. naus\u00e9es",
+            "C. vomissements",
+            "D. fi\u00e8vre",
+            "E. crampes musculaires"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 3,
+        "question": "les complications m\u00e9taboliques aigues du diab\u00e8te sucr\u00e9 sont:",
+        "options": [
+            "A. acidoc\u00e9tose diab\u00e9tique",
+            "B. coma hypoglyc\u00e9mique",
+            "C. hypertension art\u00e9rielle",
+            "D. pieds diab\u00e9tiques",
+            "E. coma diab\u00e9tiques hyperosmolaire"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 4,
+        "question": "lequel des \u00e9nonc\u00e9s suivants sur les m\u00e9dicaments en ligne des incr\u00e9tines sont vrais:",
+        "options": [
+            "A. les agonistes des r\u00e9cepteurs glp-1 sont administr\u00e9s par voie sous-cutan\u00e9e",
+            "B. les inhibiteurs dpp4 ont comme m\u00e9canisme d\u2019action l\u2019inhibition (partielle) de r\u00e9absorption du glucose dans le tubule contourn\u00e9 proximal",
+            "C. les inhibiteurs sglt-2 constituent la nouvelle classe d\u2019antidiab\u00e9tiques non-insulinique",
+            "D. les agonistes des r\u00e9cepteurs glp-1 abaisse le taux d\u2019hba1c de 1-1,5%",
+            "E. les agonistes des r\u00e9cepteurs glp-1 ont comme repr\u00e9sentants exenatide liraglutide, lixisenatid"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 5,
+        "question": "*lequel n\u2019est pas un signe de cachexie:",
+        "options": [
+            "A. projection des os du visage et des c\u00f4tes",
+            "B. fosse sternale profonde",
+            "C. les bassints sont \u00e9vidents",
+            "D. faiblesse musculaire",
+            "E. omoplates saillantes"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 6,
+        "question": "les effets ind\u00e9sirables des sulfonylur\u00e9s, sont les suivants:",
+        "options": [
+            "A. gain de poids",
+            "B. hypoglyc\u00e9mie",
+            "C. acidose lactique",
+            "D. r\u00e9tention hydrosaline",
+            "E. troubles digestifs"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 7,
+        "question": "quelles sont les hormones de contre-r\u00e9gulation de l\u2019insuline",
+        "options": [
+            "A. le cortisol",
+            "B. la somatostatine",
+            "C. les cat\u00e9cholamines",
+            "D. tsh",
+            "E. le glucagon"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 8,
+        "question": "le coma hypoglyc\u00e9mique est caract\u00e9ris\u00e9 par:",
+        "options": [
+            "A. d\u00e9shydratations",
+            "B. contracture musculaire",
+            "C. glycosurie",
+            "D. hypoglyc\u00e9mie <80 mg/dl",
+            "E. signe de babinski bilat\u00e9ral positif"
+        ],
+        "correct_answers": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 9,
+        "question": "le traitement de la r\u00e9tinopathie diab\u00e9tique est:",
+        "options": [
+            "A. triamcinolone",
+            "B. exenatide",
+            "C. vitrectomie",
+            "D. photocoagulation laser",
+            "E. biguanides"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 10,
+        "question": "le traitement de l'ob\u00e9sit\u00e9 diab\u00e9tique est:",
+        "options": [
+            "A. hypoglucidique",
+            "B. normoglucidique",
+            "C. normoprot\u00e9ique",
+            "D. hypocalorique",
+            "E. hypoprot\u00e9ique"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 11,
+        "question": "la tableau clinique et biologique de la d\u00e9nutrition se compose des crit\u00e8res suivants:",
+        "options": [
+            "A. l\u2019absence des douleurs abdominales",
+            "B. une r\u00e9duction des constituants lipidiques: le cholest\u00e9rol total, les tg",
+            "C. globes oculaires hypotoniques",
+            "D. hypoalbumin\u00e9mie (<3,5 g/dl)",
+            "E. d\u00e9fini par un imc inf\u00e9rieur \u00e0 17,5 kg/m2"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 12,
+        "question": "le tableau chronique de goutte chronique inclus:",
+        "options": [
+            "A. gonflement asym\u00e9trique des articulations, mise en \u00e9vidence radiologique",
+            "B. plus d\u2019une attaque aigue d\u2019arthrite",
+            "C. histoire d\u2019arthrite aigue monoarticulaire",
+            "D. les calculs r\u00e9naux d\u2019acide urique sont pr\u00e9sents dans 20% des patients",
+            "E. tophus sont pr\u00e9sents chez 25-50% des patients"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 13,
+        "question": "les complications d\u00e9g\u00e9n\u00e9ratives microangiopathique du diab\u00e8te sont:",
+        "options": [
+            "A. r\u00e9tinopathie diab\u00e9tique",
+            "B. maladie r\u00e9nale diab\u00e9tique",
+            "C. maladie art\u00e9rielle p\u00e9riph\u00e9rique",
+            "D. pied diab\u00e9tique",
+            "E. neuropathie"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 14,
+        "question": "*lequel des \u00e9nonc\u00e9s suivants sur le diagnostic de diab\u00e8te gestationnel est vrai:",
+        "options": [
+            "A. glyc\u00e9mie \u00e0 2h <153 mg/dl",
+            "B. glyc\u00e9mie \u00e0 je\u00fbn \u2265110 mg/dl",
+            "C. glyc\u00e9mie \u00e0 je\u00fbn \u226592 mg/dl",
+            "D. glyc\u00e9mie \u00e0 tout moment de la journ\u00e9e <180 mg/dl",
+            "E. glyc\u00e9mie \u00e0 je\u00fbn \u2265126 mg/dl"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 1,
+        "id": 15,
+        "question": "les cibles th\u00e9rapeutiques pour les patients atteints de diab\u00e8te, sont les suivants:",
+        "options": [
+            "A. tg <150 mg/dl",
+            "B. glyc\u00e9mie post-prandiale > 180 mg/dl",
+            "C. glyc\u00e9mie \u00e0 je\u00fbn 80-130 mg/dl",
+            "D. pression art\u00e9rielle < 140/80 mg/dl",
+            "E. hba1c >7%"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    }
+]
