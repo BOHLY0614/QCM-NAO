@@ -20,7 +20,7 @@ def process_file(input_file, cleaned_file, answers_file):
             outfile_cleaned.write(line)
 
 # Noms des fichiers
-input_file = "QCM NAO\Raw TXT\Chir gen 1-2.txt"
+input_file = "QCM NAO\Raw TXT\Chir gen 1-2 & Tara.txt"
 cleaned_file = "Chir gen 1.txt"
 answers_file = "REP_Chirgen1.txt"
 

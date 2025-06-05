@@ -5,7 +5,7 @@ import random
 import time
 import os
 
-nombreq=11
+nombreq=20
 
 class QCMApp(tk.Tk):
     def __init__(self):
@@ -16,7 +16,7 @@ class QCMApp(tk.Tk):
 
         self.title("Quiz QCM")
 
-        self.chapter_files = ["QCM NAO/JSON/Pneumologie.json"] 
+        self.chapter_files = ["QCM NAO/JSON/Chirurgie Cardio.json", "QCM NAO/JSON/Chirurgie Gen.json"] 
         self.chapters = self.load_chapters()
         self.load_question_stats()
         self.create_main_menu()
@@ -37,7 +37,7 @@ class QCMApp(tk.Tk):
         title.pack(pady=20)
 
         for i, chapter_name in enumerate(self.chapter_files):  # modifié pour afficher les noms des chapitres
-            chapter_button = ttk.Button(self.main_menu_frame, text=chapter_name[:-5],
+            chapter_button = ttk.Button(self.main_menu_frame, text=chapter_name[13:-5],
                                         command=lambda i=i: self.start_quiz(i))
             chapter_button.pack(pady=5)
 

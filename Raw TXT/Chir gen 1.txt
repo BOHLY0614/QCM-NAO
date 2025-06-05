@@ -1,12 +1,11 @@
 Chapitre
-
 1. Parmi ces tumeurs hépatiques bénignes, lesquelles sont d'origine parenchymateuse:
 A. Kyste solitaire du foie
 B. Hamartome
 C. Hémangiome
 D. Adénome bénin
 E. Kyste hydatique du foie
-REP: AD
+
 
 2. Quels sont les examens nécessaires pour diagnostiquer un carcinome hépatocellulaire:
 a. Echographie abdominal
@@ -14,7 +13,7 @@ b. Scintigraphie abdominal
 c. Scanner abdominal
 d. IRM abdominal
 e. Abdomen sans preparation
-REP: ACD
+
 
 3. Quelles sont les complications possibles lors d'une pancréatite aiguë?
 a. Péricardite
@@ -22,7 +21,7 @@ b. Pleurésie
 c. Thrombose de la veine porte 
 d. Pseudo kyste pancréatique
 e. Sequestration pancreatique 
-REP: CE
+
 
 4. Parmi ces propositions, quel est le diagnostic différentiel d'une pancréatite aiguë?
 a. Ulcère duodénal perforé
@@ -30,14 +29,15 @@ b. Pancréatite chronique
 c. Cholecystite aiguë
 d. Néoplasme de la tete du pancreas
 e. Infarctus du myocarde
-REP: ACE
 
-5. *Le principal facteur étiologique dans l'apparition d'une pancréatite chronique est: a. Lithiase biliaire
+
+5. *Le principal facteur étiologique dans l'apparition d'une pancréatite chronique est: 
+a. Lithiase biliaire
 b. Tabagisme
 c. Consommation d'alcool
 d. Alimentation riche en graisse
 e. Hypoprotéinémie
-REP: C
+
 
 23. Dans l'évolution du cancer colorectal, le tableau clinique est différent en fonction de plusieurs facteurs:
 a. stade d'apparition des complications
@@ -45,7 +45,7 @@ b. localisation du processus tumoral
 c. stade évolutif de la tumeur
 d. l'association des marqueurs inflammatoires
 e. le type histopathologique
-REP: ABCE
+
 
 24.* Le site principal des métastases colorectales est:
 a. l'intestin grêle
@@ -53,7 +53,7 @@ b. la cœur
 c. le foie
 d. le rein
 e. le poumon
-REP: C
+
 
 25.* Le toucher rectal dans l'évaluation loco-régionale des tumeurs rectales peut détecter et évaluer des tumeurs au maximum:
 a.4 cm
@@ -61,7 +61,7 @@ b.12 cm
 c.2 cm
 d.1 cm
 e.8 cm
-REP: E
+
 
 26. Les ruptures de la rate:
 A. Peu intéressé seulement une rate pathologique.
@@ -69,7 +69,7 @@ B. Les ruptures sur une rate normale peuvent être traumatiques ou iatrogènes.
 C. est intéressé seulement le parenchyme, la capsule étant élastique.
 D. Il peut exister le signe Kehr comme symptomatologie: la douleur dans l'hypochondre gauche avec irradiation dans l'épaule ou omoplate gauche
 E. Supposée de traitement conservateur pour les lésions minimales avec la surveillance du patient.
-REP: BDE
+
 
 27. Les suivantes affirmations sur le kyste hydatique de rate sont vrais:
 a. La plus fréquente manifestation est la présence de l'hépatomégalie douloureuse ou non.
@@ -77,7 +77,7 @@ b. Il est nécessaire le traitement chirurgical
 c. Il se peut manifeste par la présence de la splénomégalie compression sur les organes voisins.
 d. Il se peut compliqué et déterminée une fistule kysto-biliaire.
 e. Le traitement avec médicaments suppose l'administration de Métronidazole en dose de 1500 mg/jour pour un homme adulte.
-REP: BC
+
 
 28. Sont signes cardinales d'une ischémie aiguë, avec une exception:
 a. Pâleur
@@ -85,7 +85,7 @@ b. Pouls présent faible perceptible
 c. Paralysie
 d. Douleur
 e. Paresthesia
-REP: C
+
 
 29. Sur l'ischémie aiguë périphérique se peut affirmer les suivantes:
 a. Apparaître cause d'une obstruction soudain du flux veineuse
@@ -93,7 +93,7 @@ b. Apparaître cause d'une obstruction soudain du flux artériel
 c. La sévérité du processus ischémique dépend du localisation d'obstacle.
 d. Les objectifs du traitement sont: restauration de la circulation et prévention de la réocclusion artérielle.
 e. Les objectifs du traitement sont: restauration de la circulation et prévention de la réocclusion veineuse.
-REP: BCD
+
 
 30. Sur la classification de l'artériopathie chronique oblitérante sont vrais les suivantes:
 a. Stade I est représenté de l'ischémie de repos
@@ -101,14 +101,15 @@ b. Stade II este représente de l'ischémie de repos
 c. Stade I est considérée le stade pré ischémique
 d. Stade IV est caractérisée par la présence de lésions trophiques.
 e. Stade III est considéré le stade de l'ischémie d'effort avec la présence de la claudication intermittente.
-REP: CD
 
-31. Les interventions chirurgicales pratiquées dans l'artériopathie chronique oblitérante sont: a. Bypass-ul arteriale
+
+31. Les interventions chirurgicales pratiquées dans l'artériopathie chronique oblitérante sont: 
+a. Bypass-ul arteriale
 b. Thromboendartériectomie
 c. Embolectomie avec sonde Fogarty
 d. Angioplastie percutanée (dilatation avec le ballon)
 e. Sympathectomie thoracique
-REP: ABD
+
 
 32. Le traitement anticoagulante dans la thrombose veineuse profonde a comme objectifs:
 a. La prévention de la mort provoque d'une embolie pulmonaire
@@ -116,7 +117,7 @@ b. La prévention des récurrences
 c. La prévention d'apparition de l'ischémie artérielle centrale
 d. La prévention d'apparition du syndrome post thrombotique
 e. La prévention d'apparition de l'ischémie artérielle
-REP: ABD
+
 
 33. Selon la classification CEAP des maladies veineuses chroniques, les classes cliniques C1 et C6 représentent :
 a. La pigmentation du tégument
@@ -124,7 +125,7 @@ b. Des signes palpables de maladie veineuse
 c. Œdème
 d. Petits vaisseaux (télangiectasies, veines réticulaires)
 e. Ulcère veineux non cicatrisé
-REP: DE
+
 
 34. Les tumeurs Phyllodes :
 a. Peuvent avoir 3 formes :bénignes, borderline(intermédiaires) et malignes 
@@ -132,7 +133,7 @@ b. Au microscope, la forme bénigne est une tumeur aux grandes dimensions
 c. Au microscope, la forme bénigne est une tumeur aux petites dimensions
 d. Les tumeurs Phyllodes n'ont pas de difficultés de diagnostic car elles présentent des caractéristiques claires
 e. La forme maligne est faiblement circonscrite, avec invasion des tissus voisins, foyer de nécrose et hémorragie
-REP: ABE
+
 
 35. Une masse tumorale du sein est évaluée par :
 a. Examen paraclinique: analyse rapide Tillaux
@@ -140,7 +141,7 @@ b. Examen paraclinique : mammographie
 c. Examen paraclinique : ponction aspirative à l'aiguille fine
 d. Examen paraclinique : biopsie tumorale
 e. Il suffit d'effectuer un examen clinique, malgré une suspicion de malignité 
-REP: BCD
+
 
 36. Caractéristiques cliniques des tumeurs malignes mammaires :
 a. Faible délimitation par rapport aux tissus voisins
@@ -148,7 +149,7 @@ b. Croissance rapide
 c. Délimitation nette par rapport aux tissus voisins
 d. Croissance relativement lente
 e. Sont mobiles sur les plans sur et sous-jacents
-REP: AB
+
 
 37. Au sujet des tumeurs malignes mammaires, les affirmations suivantes sont vraies : 
 a. Elles peuvent déterminer des rétractions cutanées ou du mamelon
@@ -156,7 +157,7 @@ b. Mammographie : l'image typique de malignité est une opacité dense et irrég
 c. L'examen histopathologique est la seule méthode pour un diagnostic de certitude 
 d. Le traitement du cancer de sein suppose uniquement de l'intervention chirurgicale 
 e. Les examens immunohistochimiques doivent informer sur l'expression des récepteurs aux œstrogènes (ER), à la progestérone (PgR) et HER2
-REP: ABCE
+
 
 38. *La glande thyroïde se trouve dans un espace qui s'appelle:
 a. La loge thyroïdienne
@@ -164,7 +165,7 @@ b. La capsule thyroïdienne
 c. L'espace sous-hyoïdien
 d. L'espace cervical antérieur
 e. L'espace pré-trachéal
-REP: A
+
 
 39. * Dans la pathologie thyroïdienne, le goitre simple représente :
 a. Augmentation de la taille de la glande par un processus de dystrophie hyperplasique bénigne
@@ -172,7 +173,7 @@ b. Présence d'un ou plusieurs nodules due principalement à une carence aliment
 c. Hyperproduction de hormones thyroïdiennes
 d. Présence de nodules thyroïdiens sans complications
 e. Aucune des affirmations n'est correcte
-REP: A
+
 
 40. Pour la biosynthèse et la libération des hormones thyroïdiennes dans des limites normales, les conditions suivantes doivent être remplies:
 a. Glande thyroïde à fonction normale
@@ -180,7 +181,7 @@ b. Apport adéquat de fer
 c. Apport protéique adéquat
 d. Apport adéquat d'iode
 e. Fonction normale de la glande épiphyse
-REP: ABD
+
 
 41. Les facteurs intrinsèques de règlement de la fonction thyroïdienne NE sont PAS représentés par :
 a. La croissance de la production de T3 au détriment de la T4 en cas d'apport insuffisant en iode exogène
@@ -188,7 +189,7 @@ b. L'effet Wolff-Chaikoffen cas d'apport excessif en iode
 c. L'axe hypothalamo-hypophysaire
 d. L'effet stimulateur à la TSH
 e. Des variations de la concentration des hormones thyroïdiennes circulantes 
-REP: CDE
+
 
 42. Le goitre endémique peut être déterminé par :
 a. Une carence en iode
@@ -196,7 +197,7 @@ b. Un apport excessif d'iode
 c. La thyroïdectomie subtotale 
 d. L'effet des médicaments 
 e. Des aliments goitrogènes 
-REP: ABE
+
 
 43. Au sujet de l'achalasie du cardia, les affirmations suivantes sont vraies : 
 a. Due au dysfonctionnement du sphincter supérieur de l'œsophage
@@ -204,7 +205,7 @@ b. Représente un trouble de contraction du sphincter inférieur de l'œsophage
 c. Représente un trouble de relaxation du sphincter inférieur de l'œsophage
 d. Représente un dysfonctionnement des muscles de l'œsophage
 e. Consistant un trouble d'évacuation de l'œsophage
-REP: CDE
+
 
 44. Au sujet des œsophagites post-caustiques, les affirmations suivantes sont vraies : 
 a. Les lésions provoquées par les bases sont plus profondes
@@ -212,7 +213,7 @@ b. Les acides provoquent des formations d'escarres de coagulation protégeant le
 c. L'hémorragie massive représente la complication la plus grave
 d. L'altération de la muqueuse de l'œsophage pourra conduire à terme à la sténose du lumen de l'œsophage
 e. Dans des cas extrêmement graves, il survient une perforation œsophagienne nécessitant un traitement chirurgical d'urgence
-REP: CDE
+
 
 45. Lesquels des traitements suivants s'appliquent en cas d'œsophagite de reflux: 
 a. Inhibiteurs de la pompe à protons
@@ -220,7 +221,7 @@ b. Changer l'alimentation par des repas plus consistants au long de la journée 
 c. Chirurgie anti-reflux
 d. Aliments riches en lipides car ils accélèrent la vidange gastrique
 e. Ingestion des liquides alcalins immédiatement après le repas pour neutraliser l'excès d'acide de l'estomac
-REP: ABCE
+
 
 46. Parmi les symptômes de la hernie hiatale, on compte :
 a. Le pyrosis
@@ -228,7 +229,7 @@ b. Douleurs du creux épigastrique
 c. Douleurs péri-ombilicales
 d. Symptômes respiratoires
 e. La douleur "en bar"
-REP: ABD
+
 
 47. Le traitement palliatif du cancer de l'œsophage comprend :
 a. La radiothérapie
@@ -236,7 +237,7 @@ b. La chimiothérapie
 c. La gastrostomie ou la jejunostomie pour alimentation
 d. L'œsophagectomie
 e. Résection œsophagienne partielle
-REP: CE
+
 
 48. Dans la description de l'ulcère duodénal perforé, on retrouve :
 a. Une douleur abdominale d'apparition soudaine
@@ -244,7 +245,7 @@ b. Un manque de signes d'irritation péritonéale
 c. Leucocytose modérée durant les premières heures après l'apparition
 d. Occlusion inflammatoire au niveau des péritonites anciennes
 e. Un pneumopéritoine visible sur la radiographie de l'abdomen sans préparation 
-REP: ACE
+
 
 49. Le traitement chirurgical à intention curative d'un cancer gastrique peut comprendre : 
 a. La résection gastrique distale avec anastomose gastro-jéjunale
@@ -252,7 +253,7 @@ b. La gastrectomie subtotale
 c. La jéjunostomie pour alimentation
 d. La gastrectomie totale
 e. La dérivation digestive interne
-REP: ABD
+
 
 50. Le diagnostic de certitude d'un cancer gastrique peut être affirmé dans les situations suivantes :
 a. Suite à une intervention intra-opératoire, on constate une masse dure, avec une ulcération centrale, aux extrémités irrégulières, envahissant les tissus voisins
@@ -260,7 +261,7 @@ b. Si la tumeur est friable, saignant au toucher et avec des extrémités irrég
 c. Suite à l'examen histopathologique, il résulte un carcinome
 d. Suite à l'examen histopathologique, il résulte un adenocarcinome
 e. Si le patient présente déjà une carcinomatose péritonéale avec ascite carcinomateuse et métastases hépatiques
-REP: AD
+
 
 6. Parmi ces propositions concernant le traitement chirurgical de l'appendicite, lesquelles sont fausses?
 a. L'abord classique a un risque plus faible d'infection de plaie
@@ -268,7 +269,7 @@ b. L'abord laparoscopique permet de résoudre également d'autres types de patho
 c. La ligature et la section de l'appendice se fait toujours avant la ligature du mésentère
 d. Indépendamment de l'évolution du plastron appendiculaire, le traitement chirurgical s'effectue 3 à 6 mois après l'épisode aigu
 e. L'abord laparoscopique permet une réinsertion sociale plus rapide
-REP: ADE
+
 
 7. En cas de plastron appendiculaire, il est recommandé:
 a. L'abord laparoscopique immédiat
@@ -276,7 +277,7 @@ b. L'abord classique immédiat
 c. Une antibiothérapie
 d. Un traitement conservateur
 e. Drainage écho-guide si l'évolution se fait vers un abcès
-REP: CDE
+
 
 8. Parmi ces propositions concernant l'échographie abdominale dans le diagnostic d'une cholecystite lithiasique, sont vraies?
 a. Elle est fiable
@@ -284,7 +285,7 @@ b. L'aspect échographique du calcul est hypoéchogène avec un cône d'ombre po
 c. Permet d'apprécier l'existence et le nombre de calculs biliaires
 d. Permet d'apprécier l'épaisseur de la paroi de la vésicule biliaire
 e. Les informations concernant le canal biliaire principal sont très précises
-REP: ACD
+
 
 9. *Laquelle de ces propositions concernant l'iléus biliaire n'est pas vraie?
 a. Radiographie abdominal simple (ASP) met en évidence les niveaux hydro-aériques
@@ -292,7 +293,7 @@ b. Radiographie abdominal simple (ASP) met en evidence la presence d'aérobilie
 c. Le traitement est la chirurgie en urgence
 d. L'objectif est d'éliminer le calcul qui a migré dans l'intestin
 e. L'élimination de la fistule bilio-digestive est obligatoire
-REP: A
+
 
 10. En ce qui concerne le traitement de la cholecystite aiguë, on peut affirmer:
 a. L'approche chirurgicale n'a pas de caractère urgent
@@ -300,7 +301,7 @@ b. Le traitement chirurgicale se fait en urgence
 c. L'abord laparoscopique est contre-indiqué
 d. L'abord laparoscopique est indiqué
 e. La meilleure approche est celle de l'urgence différée 
-REP: BD
+
 
 11. *Dans le cas d'une lithiase du cholédoque simple, le traitement consiste en:
 a. L'abord exclusivement endoscopique
@@ -308,7 +309,7 @@ b. L'approche exclusivement laparoscopique
 c. L'approche combine laparoscopique et endoscopique en un seul temps ou en deux temps
 d. L'abord classique dans 90% des cas
 e. Exclusivement par radiologie interventionnelle
-REP: C
+
 
 12. L'ictère apparaissant suite à la rupture d'un kyste hydatique du foie dans les voies biliaires se caractérise par:
 a. Un ictère d'apparition progressive
@@ -316,7 +317,7 @@ b. Un début insidieux
 c. Fièvre
 d. Frisson
 e. Phénomènes collectifs attenues
-REP: CD
+
 
 13. Le traitement de la fissure anale peut être:
 a. topiques locaux
@@ -324,7 +325,7 @@ b. bains de siège chauds
 c. les inhibiteurs de la pompe à protons administrés per os
 d. sphincterotomie interne
 e. sphincterotomie externe.
-REP: ABD
+
 
 14. Le diagnostic différentiel des saignements a une origine hémorroïdaire peut être fait avec:
 a. les saignements de cancer du rectum
@@ -332,7 +333,7 @@ b. les saignements du cancer de l'œsophage
 c. l'hémorragie massive de rupture de la rate
 d. les saignements de diverticulite sigmoïdienne
 e. les saignements de recto-colite ulcero-hemorragique.
-REP: ADE
+
 
 15.* Le symptôme le plus commun de la thrombose hémorroïdaire est :
 a. les demangeaisons anales (prurit anal)
@@ -340,7 +341,7 @@ b. la fièvre
 c. la douleur
 d. la constipation
 e. l'incontinence
-REP: C
+
 
 16. L'orifice triangulaire de l'hernie crurale qui est située dans un plan horizontal est délimité par:
 a. en avant l'arcade crurale
@@ -348,7 +349,7 @@ b. derrière l'arcade crurale
 c. en avant la crête pectinéale du pubis et le ligament de Cooper 
 d. en derrière la crête pectinéale du pubis et le ligament de Cooper 
 e. en dehors de la veine et l'artère fémorale.
-REP: ADE
+
 
 17. L' hernie inguinale :
 a. est plus fréquente chez les hommes
@@ -356,7 +357,7 @@ b. est plus fréquente chez les femmes
 c. représente l'hernie de la ligne blanche
 d. est délimité par l'arcade crurale et la crête pectinéale
 e. représente une forme rare des hernies pariétales de l'abdomen. 
-REP: A
+
 
 18. Du point de vue de l'étiologie, les occlusions intestinales sont:
 a. dynamique
@@ -364,7 +365,7 @@ b. aiguë
 c. haute
 d. mécanique
 e. basse
-REP: AD
+
 
 19. Du point de vue de la topographie, les occlusions intestinales sont:
 a. dynamique
@@ -372,7 +373,7 @@ b. haute
 c. bass
 d. mécanique
 e. ischémique
-REP: BE
+
 
 20. Non traitée, l'occlusion mécanique colique a les suivantes complications:
 a. perforations diastasiques
@@ -380,7 +381,7 @@ b. le phlegmon pyostercoral
 c. infarctus entéro-mésentérique 
 d. choc toxique septique
 e. péritonites secondaires
-REP: ACDE
+
 
 21. Les symptômes du cancer colorectal au début, sont:
 a. fièvre
@@ -388,7 +389,7 @@ b. perdre du poids dans un court laps de temps
 c. perte d'appétit
 d. asthénie, vertiges, pâleur
 e. non spécifiques
-REP: BCD
+
 
 22. Dans les tumeurs colorectales localement avancées, associées par un abcès péri néoplasique ou par l'invasion des structures voisines, le processus tumoral est:
 a. dur aux palpation
@@ -396,7 +397,7 @@ b. volumineux
 c. mobile
 d. sensible aux palpation
 e. indolore
-REP: ABD
+
 
 1. Lesquelles des affirmations suivantes concernant la glange mammaire sont vraies : 
 A. elle occupe la paroi thoracique antérieure entre les côtes II-IV 
@@ -404,7 +405,7 @@ B. occupe la paroi thoracique antérieure entre les côtes III-V
 C. les ligaments de cooper réalisent la liaison entre la couche profonde de la ?? et le tissus adipeux péri glandulaire 
 D. la glande mammaire est situé antérieurement par rapport au petit muscle pectoral 
 E. le drainage lymphatique se réalisent dans les ganglions axillaires et mammaires externes 
-REP: BDE
+
 
 2. Le goitre endémique se caractérise par. 
 A. un déficit en iode 
@@ -412,7 +413,7 @@ B. un excès d'iode
 C. un défaut congénital de la biosynthèse hormonale thyroïdienne 
 D. l'apparition de la maladie à la suite de l'action de certains agents chimiques, médicaments 
 E. l'apparition de la maladie à la suite de l'action de certains goitrogènes alimentaire 
-REP: ABE 
+
 
 3. Lesquelles des affilations ci-dessous conernant le traitement chirurgical du cancer thyoridien sont vraies : 
 A. pour les tumeurs en dessous de cm sans métastases ganglionnaires ??? et l'isthmectomie suffisent 
@@ -420,7 +421,7 @@ B. pour les tumeurs en dessous de cm sans métastases ganglionnaires ??? indiqu�
 C. pour les tumeurs diagnostiquées accidentellement (en dessous de ???? métastases) ganglionnaires la lobectomie et l'isthmectomie suffisent 
 D. pour les tumeurs en dessous de cm sans métastases ganglionnaires ???? et l'isthmectomie ne suffisent pas, étant indiquée la lobectomie ?? 
 E. pour les tumeurs >2 cm on recommande la thyroidectomie ???? modifiée de tous les ganglions cervicaux palpables 
-REP: ADE 
+
 
 4. Le goitre sporadique se caractérise par. 
 A. un déficit en iode 
@@ -428,7 +429,7 @@ B. un défaut congénital de la biosynthèse hormonale thyroïdienne
 C. un excès d'iode 
 D. apparition de la maladie à la suite de l'action de certains agents chimique, médicaments 
 E. apparition de la maladie à la suite de l'action de certains goitrogènes alimentaires 
-REP: BD 
+
 
 5. Les indications du traitement chirurgical en hyperthyroïdie sont: 
 A. en cas d'hypertrophie résistantes à un traitement conservatif correctement fait durant 12-18 mois 
@@ -436,7 +437,7 @@ B. chez l'adulte âgé de plus 50 ans avec un goitre moyen ou grand
 C. en cas d'adénome toxique 
 D. chez les jeunes ayant des goitres petits ou sans hypertrophie thyroïdienne 
 E. Filler il n'y a que 4 propositions
-REP: ABC 
+
 
 6. les anomalies de nombres de la glande mammaire sont représentées par: 
 A. l'athélie 
@@ -444,7 +445,7 @@ B. la polydactylie
 C. la polythélie 
 D. la gynécomastie 
 E. l'atrophie de la glande mammaire 
-REP: AC 
+
 
 7. Principes du traiternent chirurgical du cancer mammaire: 
 A. avoir un résultat esthétique et fonctionnel 
@@ -452,7 +453,7 @@ B. Conserver le sein toujours
 C. que ce soit une intervention radicale 
 D. respecter les principes de l'ablastie 
 E. que la durée de l'opération soit la plus brève que possible 
-REP: ACD 
+
 
 8. Les facteurs de pronostic négatif pour la récidive dans le cancer mammaire sont 
 A. age 
@@ -460,7 +461,7 @@ B. la dimension de la tumeur
 C. l'obésité 
 D. le type de l'intervention chirurgicale 
 E. la présence des récepteurs HER2 
-REP: ABDE 
+
 
 9. Selon leur mode de production les diverticules oesophagiens se divisent en'. 
 A. diverticules acquis 
@@ -468,7 +469,7 @@ B. diverticules de pulsion
 C. diverticules cervicaux 
 D. diverticules supra diaphragmatiques 
 E. diverticules de traction 
-REP: BE 
+
 
 10. diverticules oesophagiens cervicaux: 
 A. se développent sur la paroi postérieure de l'hypopharynx 
@@ -476,7 +477,7 @@ B. peuvent atteindre des dimensions particulièrement grandes
 C. produisent des compressions sur roesophage 
 D. la poche diverticulaire se développe dans le médiastin 
 E. Se développe sur la paroi antérieure de l'hypopharynx 
-REP: ABC 
+
 
 11. le traitement chirurgical des oesophagites peptiques est recommandé dans le cas: 
 A. du reflux oesophagien incoercible 
@@ -484,7 +485,7 @@ B. de la douleur épigastrique
 C. des sténoses oesophagiennes 
 D. des régurgitations acides 
 E. de l'hypersialorrhée 
-REP: ACD 
+
 
 12. les éléments morphologiques d'une hemie sont: 
 A. le contenu 
@@ -492,7 +493,7 @@ B. la pulsion toux
 C. le trajet 
 D. la strangulation 
 E. l'incarcération 
-REP: AC 
+
 
 13. lesquelles des affirmations suivantes sont correctes: 
 A. le canal inguinal à 2 parois 
@@ -500,7 +501,7 @@ B. le canal inguinal à 2 orifices
 C. la paroi antérieure est représentée par le tendon conjoint 
 D. la paroi postérieure est représentée par le fascia transversalis 
 E. le canal inguinal contient toujours le funicule spermatique 
-REP: BDE
+
 
 14. Le diagnostic différentiel de l'hemie inguinale se fait avec : 
 A. adénopathie inguinale 
@@ -508,7 +509,7 @@ B. l'omphalite
 C. hernie fémorale 
 D. kyste dermolde 
 E. varicocèle 
-REP: ACE 
+
 
 15. Le tissu musculo aponévrotique abdominale est représenté par : 
 A. muscle crémaster 
@@ -516,7 +517,7 @@ B. muscle dentelé antérieur
 C. muscle oblique interne 
 D. muscle psoas 
 E. muscle ?? (elle est bonne askip)
-REP: CE 
+
 
 16. Lesquelles des affirmations concernant l'ulcère peuvent être vraies? 
 A. l'ulcère se caractérise par une ulcération au niveau de la muqueuse ronde ou ovale 
@@ -524,7 +525,7 @@ B. la douleur ressemble à une brûlure
 C. la douleur est du type •faim douloureuse" 
 D. la fréquence de l'ulcère est 3 fois plus grande 
 E. l'incidence est en train d'augmenter 
-REP: ABC 
+
 
 17. Les complications post op après les interventions pour l'ulcère sont : 
 A. hémorragie digestive entre les lèvres de l'anastomose 
@@ -532,7 +533,7 @@ B. fièvre, vomissements
 C. complications pleuro pulmonaires 
 D. compilcations bilio pancréatiques
 E. fistules de bont duodénale ou d'anastomose 
-REP: AE
+
 
 18. Lesquelles de ces affirmations concemant les sténoses ulcéreuses sont vraies: 
 A. les sténoses médio gastriques ou du cardia sont rencontrées plus souvent 
@@ -540,7 +541,7 @@ B. surviennent comme une complication tardive d'un ulcère situé d'habitude dan
 C. on constate une fréquence relativement plus grande chez les hommes 
 D. on la rencontre plus souvent chez les personnes en age de 40-50 ans 
 E. les sténoses duodénales sont le plus souvent rencontrées 
-REP: BCE 
+
 
 19. Les groupes ganglionnaires extra périgastriques comprennent:
 A. les ganglions situés le long de l'artère hépatique commune 
@@ -548,7 +549,7 @@ B. les ganglions situés le long de l'artère gastrique gauche
 C. ganglions suprapyloriques 
 D. ganglions situé le long de l'artère splénique 
 E. ganglions situés à l'origine des vaisseaux mésentériques supérieurs 
-REP: ABD 
+
 
 20. Dans le cancer gastrique en phase de début (early cancer) on décrit les types lésionnels suivants: 
 A. protrusive
@@ -556,7 +557,7 @@ B. superficielle - supra dénivelée
 C. superficielle - sub dénivelée 
 D. diffuse 
 E. excavée 
-REP: ABCE
+
 
 21. le traiternent du cancer gastrique encadré au stade IA est : 
 A. résection endoscopique 
@@ -564,7 +565,7 @@ B. résection gastrique 2/3
 C. gastrectomie subtotale 
 D. gastrectomie totale 
 E. chirurgie mini invasive 
-REP: AE 
+
 
 22. les principales causes extrinsèque de l'ischémie aigue sont: 
 A. l'embolie 
@@ -572,7 +573,7 @@ B. la thrombose veineuse
 C. le traumatisme artériel 
 D. la compression 
 E. la thrombose artérielle 
-REP: CD 
+
 
 23. les effets généraux du syndrome d'ischémie reperfusion tissulaire sont : 
 A. hyperpotasémie 
@@ -580,7 +581,7 @@ B. instabilité hémodynamique
 C. obstructions microcirculatoires 
 D. syndrome du compartiment 
 E. syndrome myonéphrotique 
-REP: AD 
+
 
 24. lesquelles des affirmations ci dessous concernant l'ischémie aigue sont correctes • 
 A. diagnostic de l'ischémie aigue est essentiellement clinique 
@@ -588,7 +589,7 @@ B. diagnostic de l'ischémie aigue doit toujours s'appuyer sur l'imagerie angio?
 C. angiographie est considéré comme gold standard dans le diagnostic par?? des affections artérielles 
 D. ultrasonographie est absolument nécessaire pour fixer le diagnostic de l'ischémie aiguë 
 E. ultrasonographie est indiquée dans le cas de polytraumatisme chez lesquels on évoque une lésion artérielle 
-REP: AE 
+
 
 25. les facteurs les plus importants favorisants la circulation veineuse d?? sont: 
 A. aspiration thoracique 
@@ -596,7 +597,7 @@ B. aspiration cardiaque
 C. contraction musculaire 
 D. le jeu valvulaire 
 E. la vasomotricité 
-REP: BCD
+
 
 26. Lesquelles des affirmations ci-dessous concernant le test trendelenburg sont vraies'. 
 A. l'évaluation du patient se réalise en décubitus dorsal 
@@ -604,7 +605,7 @@ B. l'évaluation du patient se réalise en orthostatisme
 C. le garrot est situé au niveau de la fosse poplitée 
 D. le garrot est placé au niveau de la racine de la cuisse 
 E. la vitesse de remplissage des veines variqueuses est de plus de 30 secondes 
-REP: BE 
+
 
 27. les principales causes de l'embolie artérielle sont : 
 A. maladie coronarienne accompagnée de fibrillation atriale 
@@ -612,7 +613,7 @@ B. infarctus du myocarde
 C. sténose mitrale 
 D. athérosclérose 
 E. hypercoagulabilité 
-REP: DE 
+
 
 28. dans le cadre de la théorie entérogène de la pathogénie de l'appendicite lesquelles des affirmations suivantes sont correctes : 
 A. facteurs pathogènes arrivent à l'appendice par voie sanguine 
@@ -620,7 +621,7 @@ B. les agents pathogènes proviennent du lumen de l'appendice
 C. l'ischémie est l'élément central de la théorie entérogène 
 D. est l'obstruction qui favorise la diffusion de l'infection 
 E. la stase favorise la prolifération microbienne 
-REP: ABDE 
+
 
 29. l'installation de la défense microbienne est signe d'irritation péritonéale (péritonite) Lesquelles des affirmations sont correctes 
 A. signe Bloomberg représente l'exacerbation de la douleur de la palpation 
@@ -628,7 +629,7 @@ B. signe bloomberg consiste dans l'exacerbation de la douleur suite à la décom
 C. igne de la clochette de Mendel représente l'exacerbation de la douleur à la percussion 
 D. signe de Lantz représente la diminution et même la disparition des réflexes cutanées dans la fosse iliaque droite et hémi abdomen droit 
 E. signe Lantz représente l'exacerbation des réflexes cutanés dans la fosse iliaque droite et l'hémi abdomen droit 
-REP: BCE 
+
 
 30. les tumeurs bénignes du grêle peuvent être: 
 A. le polypes adénomateux 
@@ -636,7 +637,7 @@ B. le diverticule de Meckel
 C. le lipome subséreux 
 D. le neurinome 
 E. un hémangiome 
-REP: DE 
+
 
 31. le traitement chirurgical de diverticule de meckel compliqué est: 
 A. diverticulectomie avec ou sans entérectomie 
@@ -644,7 +645,7 @@ B. le traitement idéal c'est l'iléo-transverso-anastomose
 C. on peut le réaliser tant par voie classique que par laparoscopie 
 D. le traitement d'élection c'est l'entérectomie élargie avec vidange ganglionnaire 
 E. on peut réaliser aussi par coloscopie avec biopsie 
-REP: AC 
+
 
 32. les complications du dolico-mégacolon sont représentées par. 
 A. l'occlusion intestinale 
@@ -652,7 +653,7 @@ B. la perforation diastatique du côlon
 C. le néoplasme du colon 
 D. l'entérocolite ulcérative 
 E. la diverticulite du côlon 
-REP: AB 
+
 
 33. le diagnostic différentiel de la rectocolite ulcéro-hémorragique se fait avec les affections suivantes: 
 A. ledocolico-mégacolon 
@@ -660,7 +661,7 @@ B. la dysenterie bactérienne
 C. la colite granulomateuse 
 D. le néoplasme du colon 
 E. la diverticulite 
-REP: BDE
+
 
 34. le cancer colique a une incidence accrue chez les patients ayant les affections suivantes 
 A. iedolico mégacôlon 
@@ -668,7 +669,7 @@ B. rectocolite ulcérohémorragique
 C. polypose familiale 
 D. ulcère duodénale 
 E. syndrome de Gardner 
-REP: BCE 
+
 
 35. signes cliniques du cancer colique comprennent : 
 A. rectorragie 
@@ -676,7 +677,7 @@ B. alternance constipation diarrhée
 C. hématémèse 
 D. perte de poids 
 E. douleurs abdominales 
-REP: ABDE 
+
 
 36. les affections suivantes favorisent l'apparition du cancer rectal • 
 A. maladie de crohn 
@@ -684,7 +685,7 @@ B. polype rectal
 C. tumeurs villeuses 
 D. rectocolite ulcéro hémorragique 
 E. dyskératose périanale de Bowen 
-REP: ABCD 
+
 
 37. le stade d'imprégnation cancéreuse du néoplasme rectale se caractérise : 
 A. déficit pondéral 
@@ -692,7 +693,7 @@ B. anémie
 C. ?? namie 
 D. hématémèse 
 E. à siège pelvien Ou périnéal 
-REP: AB 
+
 
 38. l'opération de hartmann suppose: 
 A. une résection rectocolique 
@@ -700,7 +701,7 @@ B. excision de la tumeur rectale
 C. segment rectal proximal bouché
 D. segment distal du rectum bouché 
 E. effectuer une colostomie terminale 
-REP: ADE 
+
 
 39. le traitement de la maladie hémorroïdaire est : 
 A. conservateur avec diète et veinotoniques 
@@ -708,7 +709,7 @@ B. chirurgical : hémorroidectomie. bandage avec bagues en caoutchouc
 C. chirurgical : arrêt de la vascularisation recto anale 
 D. sclérosante au moyen de substance alkylantes 
 E. chirurgical : amputation du rectum 
-REP: ABCD 
+
 
 40. diagnostic différentiel de la fissure anale se fait avec : 
 A. cancer anal 
@@ -716,7 +717,7 @@ B. chancre syphilitique
 C. kyste pilonidal 
 D. thrombose hémorroïde 
 E. maladie hémorroïdaire 
-REP: ABC 
+
 
 41. la fissure anale apparait 
 A. postérieurement, dans la plupart des cas 
@@ -724,7 +725,7 @@ B. antérieurement, dans la plupart des cas
 C. Vide 
 D. Vide, mais elle est juste apparement
 E. fréquemment chez les jeunes patient 
-REP: ADE 
+
 
 42. l'infarctus splénique 
 A. a pour étiologie la thrombose de la veine splénique 
@@ -732,7 +733,7 @@ B. tableau clinique est dominé par la douleur progressive sans spléno??
 C. traitement peut être conservatif 
 D. traitement peut être chirurgical 
 E. On recommande le traitement chirurgical en cas d'échec du traitement ?? 
-REP: CE 
+
 
 43. la pancréatite aiguë est un processus évolutif qui parcourt les phases: 
 A. phase d'induction 
@@ -740,7 +741,7 @@ B. phase de diffusion
 C. phase de métastatisation lésionnelle 
 D. phase polyurique 
 E. phase de toxémie enzymatique 
-REP: ABE 
+
 
 44. on peut rappeler comme signe généraux de cholecystite 
 A. fièvre 
@@ -748,7 +749,7 @@ B. tachycardie
 C. diarrhée 
 D. oligurie 
 E. hydrops vésiculaire 
-REP: ABE 
+
 
 45. Il y a plusieurs catégories d'ictère: 
 A. post hépatique 
@@ -756,7 +757,7 @@ B. sub hépatique
 C. pré hépatique 
 D. intra hépatique 
 E. supra hépatique 
-REP: AC 
+
 
 46. au point de vue morphologique, parmi les indications de l'opération précoce, il faut inclure obligatoirement: 
 A. la cholécystite phlegmoneuse avec fièvre, la leucocytose, la défense musculaire localisée 
@@ -764,7 +765,7 @@ B. la cholécystite chronique lithiasique
 C. l'hydrops et l'empyème vésiculaire 
 D. les cholécystite aiguë avec apparition du subictère et celles tests pancréatique positifs 
 E. la dyskinésie biliaire 
-REP: ACD 
+
 
 47. l'ictère post hépatique engendré par l'obstruction des voies biliaires peut été provoqué 
 A. la lithiase cholédocienne 
@@ -772,7 +773,7 @@ B. l'hémolyse
 C. des tumeurs malignes 
 D. l'hépatite aigue virale 
 E. calcul bloqué infundibulaire 
-REP: AC 
+
 
 48. Dans l'occlusion du gros intestin, les images hydro aériques sont: 
 A. nombreuses 
@@ -780,7 +781,7 @@ B. en nombre réduit
 C. de grandes dimensions 
 D. ayant l'aspect de tuyau d'orgue 
 E. disposées périphériquement "en cadre" 
-REP: BDE 
+
 
 49. Le tableau clinique de l'occlusion dynamique comprend: 
 A. la distension abdominale 
@@ -788,7 +789,7 @@ B. la douleur intense
 C. abdomen uniformément distendu 
 D. l'absence des bruits intestinaux 
 E. douleur fréquemment colicative 
-REP: AD 
+
 
 50. les affections suivantes peuvent simuler l'existence d'un kyste hépatique: 
 A. les tumeurs rectales 
@@ -796,4 +797,522 @@ B. les collections supra mésocoliques
 C. les tumeurs hépatiques 
 D. les tumeurs du côlon descendant 
 E. les affections biliaires 
-REP: CE 
+
+
+1. Le goiter endemique se caracterise par:
+a. Un deficit en iode
+b. Un exces d'iode
+c. Un defaut congenital de la biosynthese hormonale thyroidienne
+d. L'apparition de la maladie a la suite de certains agents chimiques,medicaments
+e. L'apparition de la maladie a la suite de l'action de certains goitrogeners alimentaires
+
+
+2. Le goiter sporadique se caracterise par:
+a. Un deficit en iode
+b. Un defaut congenital de la biosynthese hormonale thyroidienne
+c. Un exces d'iode
+d. L'apparition de la maladie a la suite de certains agents chimiques,medicaments
+e. L'apparition de la maladie a la suite de l'action de certains goitrogeners
+
+
+3. Les indications du traitement chirurgical en hyperthuroidie sont:
+a. En cas d'hyperthyroidies resistantes a un traitement conservative correctement fait Durant 12-18 
+b. Chez l'adulte age de plus de 50 ans avec un goiter moyen ou grand 
+c. En cas d'adenome toxique
+d. Chez les jeunes ayant des goiters petits ou sans hypertrophie thyroidienne
+
+
+4. Les anomalies de nombre de la glande mammaire sont representees par:
+a. L'athelie
+b. La polydactylie
+c. La polythelie
+d. La gynecomastie
+e. L'atrophie de la glande mammaire
+
+
+5. Principes du traitement chirurgical du cancer mammaire:
+a. Avoir un resultat esthetique et fonctionnel
+b. Conserver le sein toujours 
+c. Que ce soit une intervention radicale
+d. Respecter les principes de l'ablastie
+e. Que la duree du l'operation soit la plus breve que possible
+
+
+6. Les facteurs de prognostic negative pour la recidive dans le cancer mammaire sont:
+a. L'age
+b. La dimension de la tumeur
+c. L'obesite
+d. Le type de l'intervention chirurgicale
+e. La presence des recepteurs HER2
+
+
+7. Selon leur mode de production les diverticules oesophagiens se divisent en:
+a. Diverticules acquis
+b. Diverticules de pulsion 
+c. Diverticules cervicaux
+d. Diverticules supradiaphragmatiques
+e. Diverticules de traction
+
+
+8. Le traitement chirurgical des oesophagites peptiques est recommande dans le cas:
+a. Du reflux oesophagien incoercible
+b. De la douleur epigastique
+c. Des stenosis oesophagiennes
+d. Des regurgitations acides
+e. De l'hypersialorrhee
+
+
+9. Parmi ces tumeurs hepatiques benignes,lesquelles sont d’origine parenchymateuse:
+a. Kyste solitaire du foie
+b. Hamartome
+c. Hemangiome
+d. Adenome benin
+e. Kyste hydatique du foie
+
+
+11. Quelles sont les complications possibles lors d’une pancreatite aigue?
+a. Pericardite
+b. Pleuresie
+c. Thrombose de la veine porte
+d. Pseudo kyste pancreatique
+e. Sequestration pancreatique
+
+
+12. Parmi ces propositions ,quelle est le diagnostique differentiel d’une pancreatite aigue?
+a. Ulcere duodenal perfore
+b. Pancreatite chronique
+c. Cholecystite aigue
+d. Neoplasme de la tete du pancreas
+e. Infarctus du myocarde
+
+
+13. *Le principal facteur etiologique dans l’apparition d’une pancreatite chronique est:
+a. Lithiase biliaire
+b. Tabagisme
+c. Consommation d’alcool
+d. Alimentation riche en graisse
+e. Hipoproteinemie
+
+
+14. Parmi ces propositions concernant le traitement chirurgical de l’appendicite, lesquelles sont fausses?
+a. L’abord classique a un risque plus faible d’infection de plaie
+b. L’abord laparoscopique permet de resoudre egalement d’autres types de pathologie
+c. La ligature et la section de l’appendice se fait toujours avant la ligature du mesentere
+d. Independemment de l’evolution du plastron appendiculaire,le traitement chirurgical s’effectue 3 a 6 mois après l’episode aigu
+e. L’abord laparoscopique permet une reinsertion sociale plus rapide 
+
+
+15. En cas de plastron appendiculaire, il est recommande:
+a. L’abord laparoscopique immediat
+b. L’abord classique immediat
+c. Une antibiotherapie
+d. Un traitement conservateur
+e. Drainage echo-guide si l’evolution se fait vers un abces
+
+
+16. Parmi ces propositions concernant l’echographie abdominal dans le diagnostique d’une cholecystite lithiasique, sont varies?
+a. Elle est fiable
+b. L’aspect echographique du calcul est hypoechogene avec un cone d’ombre posterieur
+c. Permet d’apprecier l’existence et le nombre de calculs biliaires
+d. Permet d’apprecier l’epaisseur de la paroi de la vesicule biliaire
+e. Les informations concernant le canal biliaire principal sont tres precises
+
+
+17. *Laquelle de ces propositions concernant l’ileus biliaire  n’est pas vraie?
+a. Radiographie abdominal simple (ASP) met en evidence les niveaux hydro-aeriques
+b. Radiographie abdominal simple (ASP) met en evidence la presence d’aerobilie
+c. Le traitement est la chirurgie en urgence
+d. L’objectif est d’eliminer le calcul qui a migre dans l’intestin
+e. L’elimination de la fistule bilio-digestive est obligatoire
+
+
+18. Lesquelles de ces affirmations concernant l'ulcere peuveut etre vraies ?
+a. L'ulcere se caracterise par une ulceration au niveau de la muqueuse,ronde ou ovale
+b. La douleur resemble a une brulure 
+c. La douleur est du type faim doulouleuse
+d. La frequence de l'ulcer est 3 fois plus grande
+e. L'incidence est en train d'augmenter
+
+
+19. Les complications post-operatoires apres les interventions pour ulcer sont:
+a. Hemorragie digestive entre les levres de l'anastomose
+b. Fievre,vomissements
+c. Complications pleuro-pulmonaires
+d. Complications bolio-pancreatiques
+e. Fistules de bont duodenal ou d'anastomose
+
+
+20. Lesquelles de ces affirmations concernant les stenoses ulcereuses sont vraies :
+a. Les stenoses mediogastiques ou du cardia sont rencontrees plus souvent
+b. Surviennent comme une complication tardive d'un ulcere situe d'habitude dans le pylore ou dans son voisinage
+c. On constate une frequence relativement plus grande chez les hommes
+d. On le rencontre plus souvent chez les personnes en age de 40-50ans
+e. Les stenoses duodenales sont plus souvent rencontrees
+
+
+21. Les groupes ganglionnaires extraperigastique comprennet:
+a. Les ganglions situes le long de l'artere hepatique commune
+b. Les ganglions situes le long de l'artere gastrique gauche
+c. Les ganglions suprapyloriques
+d. Les ganglions situes le long de l'artere splenique
+e. Les ganglions situes a l'origine des vaisseaux mesenteriques superieures
+
+
+22. Dans le cancer gastique en phase de debut(early cancer) on decrit les types lesionnels suivants:
+a. Protrusive
+b. Superficielle-supradenivelee
+c. Superficielle-subdenivelee
+d. Diffuse
+e. Excavee
+
+
+23. Le traitement du cancer gastique encadre au stade I A est:
+a. Le resection endoscopique
+b. La resection gastique 2/3
+c. La gastrectomie subtotale
+d. La gastrectomie totale
+e. La chirurgie invasive
+
+
+24. Les principes causes extrinseques de l'ischemie aigue sont:
+a. L'embolie
+b. La thrombose veineuse
+c. La traumatisme arteriel
+d. La compression
+e. La thrombose arterielle  
+
+
+25. Les effets generaux du syndome d'ischemie-reperfusion tissulaire sont:
+a. L'hyperpotasemie
+b. L'instabilite hemodynamique
+c. Les obstructions microcirculatoires
+d. Le syndrome de compartiment
+e. Le syndrome myonephrotique
+
+
+26. En ce qui concerne le traitement de la cholecystite aigue,on peut affirmer:
+a. L’approche chirurgicale n’a pas de caractere urgent
+b. Le traitement chirurgicale se fait en urgence
+c. L’abord laparoscopique est contre-indique
+d. L’abord laparoscopique est indique
+e. La meilleure approche est celle de l’urgence differee
+
+
+28. L’ictere  apparaissant suite a la rupture d’un kyste hydatique du foie dans les voies biliaires se caracterise par:
+a. Un ictere d’apparition progressive
+b. Un debut insidieux 
+c. Fievre
+d. Frisson
+e. Phenomenes colicatifs attenues
+
+
+29. Le traitement de la fissure anale peut etre: 
+a. topiques locaux
+b. bains de siege chauds
+c. les inhibiteurs de la pompe a protons administres per os
+d. sphincterotomie interne
+e. sphincterotomie externe.
+
+
+30. Le diagnostic differentiel des saignements a une origine hemorroidaire  peut etre fait avec :
+a. les saignements de cancer du rectum
+b. les saignements du cancer de l’œsophage
+c. l’hemoragragie massive de rupture de la rate
+d. les saignements de diverticulite sigmoidienne
+e. les saignements de recto-colite ulcero-hemorragique.
+
+
+31.* Le symptome le plus commun de la thrombose hemorroidaire  est :
+a. les demangeaisons anales(prurit anal)
+b. la fievre
+c. la douleur
+d. la constipation
+e. l’incontinence
+
+
+32. L’orifice triangulaire de l’hernie crurale qui est situe dans un plan horizontal est delimite par :
+a. en avant l’árcade crurale
+b. derriere l’arcade crurale
+c. en avant la crete pectineale du pubis et le ligament de Cooper
+d. en derriere la crete pectineale du pubis et le ligament de Cooper
+e. en dehors de la veine et l’artere femorale.
+
+
+33.*  L’ hernie inguinale : 
+a. est plus frequente chez les hommes
+b. est plus frequente chez les femmes
+c. represente l’hernie de la ligne blanche
+d. est delimite par l’arcade crurale et la crete pectineale
+e. represente une forme rare des hernies parietales de l’abdomen.
+
+
+34. Du point de vue de l’etiologie, les occlusions intestinales sont:
+a. dynamique
+b. aigue
+c. haute
+d. mecanique
+e. bass
+
+
+35. Du poin de vue de la topographie, les occlusions intestinales sont:
+a. dynamique
+b. haute
+c. bass
+d. mecanique
+e. ischemique
+
+
+39. Dans l’évolution du cancer colorectal , le tableau clinique est différent en fonction de plusieurs facteurs:
+a. stade de apparition des  complications
+b. localisation du processus tumoral
+c. stade évolutif de la tumeur
+d. l'association des marqueurs inflammatoires
+e. le type histopathologique
+
+
+41.* Le toucher rectal dans l'évaluation loco-régionale des tumeurs rectales peut détecter et évaluer des  tumeurs au maximum:
+a. 4 cm
+b. 12 cm
+c. 2 cm
+d. 1 cm
+e. 8 cm
+
+
+42. Les ruptures de la rate: 
+a. Peut interese seulement une rate patologique. 
+b. Les ruptures sur une rate normale peut etre traumatiques ou iatrogenes.
+c. est interese seulement le parenchime, la capsule soyant elastique. 
+d. Il peut existe le signe Kehr comme simptomatologie: la douleur dans le hipocondre gauche avec irradiance dans l”epaule ou omoplate gauche
+e. Supposee de traitement conservateur pour les lesions minimales avec la sourveillance du patient.
+
+
+43. Les suivantes afirmations sur le kyste hidatique de rate  sont vrais: 
+a. La plus frequente manifestation est la presence de la hepatomegalie doulereuse ou non. 
+b. Il est neccessaire le traitement chirurgical 
+c. Il se peut manifestee par la presence de la splenomegalie compresive sur les organs voisines. 
+d. Il se peut complique et determinee une fistule chisto-biliaire. 
+e. Le traitement avec medicaments suppose l”administration de Metronidazol en dose de 1500 mg/jour pour un homme adulte. 
+
+
+44.* Sont signes cardinales d”une ischemie aigue, avec une exception:
+a. Paleur 
+b. Pouls present faible perceptible 
+c. Paralysie 
+d. Douleur 
+e. Paresthesia
+
+
+45. Sur l”ischemie aigue periferique se peut affirmer les suivantes: 
+a. Appraitre cause d”une obstruction soudain du flux veineuse 
+b. Appraitre cause d”une obstruction soudain du flux arteriale
+c. La severite du process ischemique depend du localisation d”obstacole. 
+d. Les objectives du traitement sont: restauration de la circulation et prevention de la reoclusion arteriale.
+e. Les objectives du traitement sont: restauration de la circulation et prevention de la reoclusion veineuse. 
+
+
+46. Sur la classification de l”arteriopatie chronique obliterante sont vrais les suivantes: 
+a. Stade I  est represente de l”ischemie de repaux 
+b. Stade  II este represente  de l”ischemie de repaux
+c. Stade I est consideree le stade preischemique
+d. Stade  IV est caracterisee de la presence du lesions trofiques.  
+e. Stade  III est considere le stade de l”ischemie d”effort avec la presence de la claudication intermitente. 
+
+
+47. Les interventions chirurgicales practiques  dans l”arteriopatie chronique obliterante sont:  
+a. Bypass –ul arteriale
+b. Trombendarterctomie
+c. Embolectomie avec  sonde Fogarty
+d. Angioplastie percutanee (dilatation avec le balon)
+e. Simpatectomie toracale 
+
+
+48. Le traitement anticoagulante dans la trombose veineuse profonde a comme objectifs: 
+a. La prevention de la mort provoque d”une embolie pulmonaire
+b. La prevention des recurrences
+c. La prevention d”apparaitre l”ischemie arteriale centrale
+d. La prevention d”apparaitre du syndrome posttrombotique
+e. La prevention d”apparaitre l”ischemie arteriale
+
+
+50. Les tumeurs Phyllodes :
+a. Peuvent avoir 3 formes :bénignes, borderline(intermédiaires) et malignes
+b. Au microscope, la forme bénigne est une tumeur aux grandes dimensions
+c. Au microscope, la forme bénigne est une tumeur aux petites dimensions
+d. Les tumeursPhyllodesn’ont pas de difficultés de diagnostic car elles présentent des caractéristiques claires
+e. La forme maligne est faiblement circonscrite, avec invasion des tissus voisins, foyer de nécrose et hémorragie
+
+
+51. Une masse tumorale du sein est évaluée par :
+a. Examen paraclinique : analyse rapideTillaux
+b. Examen paraclinique : mammographie
+c. Examen paraclinique :ponction aspirative à l’aiguille fine
+d. Examen paraclinique : biopsie tumorale
+e. Il suffit d’effectuer un examen clinique, malgré une suspicion de malignité
+
+
+53. Au sujet des tumeurs malignes mammaires, les affirmations suivantes sont vraies :
+a. Elles peuvent déterminer des rétractions cutanées ou du mamelon
+b. Mammographie : l’image typique de malignité est une opacité dense et irrégulière, stellaire et rétractile
+c. L’examen histopathologique est la seule méthode pour un diagnostic de certitude
+d. Le traitement du cancer de sein suppose uniquement de l’intervention chirurgicale
+e. Les examens immunohistochimiquesdoivent informer sur l’expression des récepteurs aux œstrogènes (ER), à la progestérone (PgR) et HER2
+
+
+56. Pour la biosynthèse et la libération des hormones thyroïdiennes dans des limites normales, les conditions suivantes doivent être remplies :
+a. Glande thyroïde à fonction normale
+b. Apport adéquat de fer
+c. Apport prothétiqueadéquat
+d. Apport adéquat d’iode
+e. Fonction normale de la glande épiphyse
+
+
+58. Le goitre endémique peut être déterminé par :
+a. Une carence en iode
+b. Un apport excessif d’iode
+c. La thyroïdectomie sous-totale
+d. L’effet des médicaments
+e. Des aliments goitrogènes
+
+
+60.  Au sujet des œsophagites post-caustiques, les affirmations suivantes sont vraies :
+a. Les lésions provoquées par les bases sont plus profondes
+b. Les acides provoquent des formations d’escarres de coagulation protégeant les tissus profonds contre l’action de l’agent
+c. L’hémorragie massive représente la complication la plus grave
+d. L’altération de la muqueuse de l’œsophage pourra conduire à terme à la sténose du lumen de l’œsophage
+e. Dans des cas extrêmement graves, il survient une performation œsophagienne nécessitant un traitement chirurgical d’urgence
+
+
+63.  Le traitement palliatif du cancer de l’œsophage comprend :
+a. La radiothérapie
+b. La chimiothérapie
+c. La gastrostomie ou la jéjunostomie pour alimentation
+d. L’œsophagectomie
+e. Résection œsophagienne partielle
+
+
+65.  Le traitement chirurgical à intention curative d’un cancer gastrique peut comprendre :
+a. La résection gastrique distale avec anastomose gastro-jéjunale
+b. La gastrectomie sous-totale
+c. La jéjunostomie pour alimentation
+d. La gastrectomie totale
+e. La dérivation digestive interne
+
+
+66.  Le diagnostic de certitude d’un cancer gastrique peut être affirmé dans les situations suivantes :
+a. Suite à une intervention intra-opératoire, on constate une masse dure, avec une ulcération centrale, aux extrémités irrégulières, envahissant les tissus voisins
+b. Si la tumeur est friable, saignant au toucher et avec des extrémités irrégulières
+c. Suite à l’examen histopathologique, il résulte un carcinome
+d. Suite à l’examen histopathologique, il résulte un adénocarcinome
+e. Si le patient présente déjà une carcinomatose péritonéale avec ascite carcinomateuse et métastases hépatiques 
+
+
+67. Les Tumeurs benignes du grele peuvent etre:
+a. Le polype ademateux
+b. Le diverticul de meckel
+c. Le lipome subsereux
+d. Le neurinome
+e. Un hemangieome
+
+
+68. Le traitement chirurgicale du diverticule de Mockol complique est:
+a. Diverticulectomie avec ou sans enterectomie
+b. Le traitement ideal c'est l'ileo-transverso-anastomose
+c. On peut le realiser tant par voie classique que par laparoscopie
+d. Le traitement d'election c'est l'enterectomie elargie avec evidage ganglionnaire
+e. On peut le realiser aussi par colonoscopie avec biopsie
+
+
+69. Les complications du dolico-megacolon sont reprezentees par:
+a. L'occlusion intestinale
+b. La perforation diastatique du colon
+c. Le neoplasm du colon
+d. L'enterocolite ulcerative
+e. La diverticulite du colon 
+
+
+70. Le diagnostic differntiel de la rectocolite ulcero-hemorragique se fait avec les affections suivantes:
+a. Ledolico-megacolon
+b. La disenterie bacterienne
+c. La colite granulomateuse
+d. Le neoplasme du colon
+e. La diverticulite
+
+
+71. Le cancer colique a une incidence accrue chez les patients qui ont les infections suivantes:
+a. Ledolico-megacolon
+b. La rectocolite ulcero-hemorragique
+c. La poypose familiale
+d. L'ulcere duodenal
+e. Le syndrome de Gardner
+
+
+72. Les signes cliniques du cancer colique comprennent:
+a. La rectorragie
+b. L'alternance constipation/diarrhee
+c. L'hematemese
+d. La perd de poids
+e. La douleur abdominale
+
+
+73. Les affections suivantes favorisent l'apparition du cancer rectal:
+a. La maladie du Crohn
+b. Le polype rectal
+c. Les tumeurs villeuses
+d. La rectocolite ulcero-hemorragique
+e. La dyskeratoseperianale deBowen
+
+
+74. Le traitement de la maladie hemorroidale est:
+a. Conservateur avec diete et veinotoniques
+b. Chirurgical :hemorroidectomie.bandages avec bagues en caoutchouc
+c. Chirurgical :arret de la vascularisation recto-anale
+d. Sclerosation au moyen de substances alkylantes
+e. Chirurgical :amputation du rectum
+
+
+75. Le diagnostic differentiel de la fissure anale se fait avec:
+a. Le cancer anal
+b. Le chancre syphilytique
+c. Le kyste pilonidal
+d. La thrombose hemorroidale
+e. La maladie hemorroidale
+
+
+76. Il y a plusieurs categorie d'icter:
+a. Posthepatique
+b. Subhepatique
+c. Prehepatique
+d. Intrahepatique
+e. Suprahepatique
+
+
+77. Dans l'occlusion du gros intestin les images hydroaeriques sont:
+a. Nombreuses
+b. En nombre reduit 
+c. De grande dimensions
+d. Ayant l'aspesct de tuyaux d'orgue
+e. Disposees peripheriquement..en cadre
+
+
+78. Le tableau clinique de l'occlusion dynamique comprend:
+a. La distension abdominale
+b. La douleur intense
+c. Abdomen uniformement distendu
+d. L'absence des bruits intestinaux
+e. Douleur frequemment colicative
+
+
+79. les affections suivantes peuvent simuler l'existance d'un kyste hepatique:
+a. Les tumeurs rectales
+b. Les collections supramesocoliques
+c. Les tumeurs hepatiques
+d. Les tumeurs du colon descendant
+e. Les affections biliaires
+
+
+80. L'icter posthepatique engendre par l'obstruction des voies biliaires peut été provoque par:
+a. La lithiase choledocienne
+b. L'hemolyse
+c. Des tumeurs malignes
+d. L'hepatite aigue virale 
+e. Calcul bloque infundibulaire.
