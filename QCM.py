@@ -16,7 +16,7 @@ class QCMApp(tk.Tk):
 
         self.title("Quiz QCM")
 
-        self.chapter_files = ["QCM NAO/JSON/Chirurgie Cardio.json", "QCM NAO/JSON/Chirurgie Gen.json"] 
+        self.chapter_files = ["QCM NAO/JSON/Chirurgie Cardio.json", "QCM NAO/JSON/Chirurgie Gen.json", "QCM NAO/JSON/Urologie.json"] 
         self.chapters = self.load_chapters()
         self.load_question_stats()
         self.create_main_menu()
