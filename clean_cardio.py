@@ -20,9 +20,9 @@ def process_file(input_file, cleaned_file, answers_file):
             outfile_cleaned.write(line)
 
 # Noms des fichiers
-input_file = "QCM NAO\Raw PDF_TXT\Chir cardio 1.txt"
-cleaned_file = "Chir cardio 1C.txt"
-answers_file = "REP_Chircardio1.txt"
+input_file = "QCM NAO\Raw TXT\Chir gen 1-2.txt"
+cleaned_file = "Chir gen 1.txt"
+answers_file = "REP_Chirgen1.txt"
 
 # Traitement du fichier
 process_file(input_file, cleaned_file, answers_file)

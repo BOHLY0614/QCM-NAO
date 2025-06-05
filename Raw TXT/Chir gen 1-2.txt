@@ -460,7 +460,7 @@ B. la dimension de la tumeur
 C. l'obésité 
 D. le type de l'intervention chirurgicale 
 E. la présence des récepteurs HER2 
-REP•. ABDE 
+REP: ABDE 
 
 9. Selon leur mode de production les diverticules oesophagiens se divisent en'. 
 A. diverticules acquis 
@@ -508,7 +508,7 @@ B. l'omphalite
 C. hernie fémorale 
 D. kyste dermolde 
 E. varicocèle 
-REP : ACE 
+REP: ACE 
 
 15. Le tissu musculo aponévrotique abdominale est représenté par : 
 A. muscle crémaster 
@@ -516,7 +516,7 @@ B. muscle dentelé antérieur
 C. muscle oblique interne 
 D. muscle psoas 
 E. muscle ?? (elle est bonne askip)
-REP : CE 
+REP: CE 
 
 16. Lesquelles des affirmations concernant l'ulcère peuvent être vraies? 
 A. l'ulcère se caractérise par une ulcération au niveau de la muqueuse ronde ou ovale 
@@ -564,7 +564,7 @@ B. résection gastrique 2/3
 C. gastrectomie subtotale 
 D. gastrectomie totale 
 E. chirurgie mini invasive 
-REP : AE 
+REP: AE 
 
 22. les principales causes extrinsèque de l'ischémie aigue sont: 
 A. l'embolie 
@@ -588,7 +588,7 @@ B. diagnostic de l'ischémie aigue doit toujours s'appuyer sur l'imagerie angio?
 C. angiographie est considéré comme gold standard dans le diagnostic par?? des affections artérielles 
 D. ultrasonographie est absolument nécessaire pour fixer le diagnostic de l'ischémie aiguë 
 E. ultrasonographie est indiquée dans le cas de polytraumatisme chez lesquels on évoque une lésion artérielle 
-REP : AE 
+REP: AE 
 
 25. les facteurs les plus importants favorisants la circulation veineuse d?? sont: 
 A. aspiration thoracique 
@@ -716,7 +716,7 @@ B. chancre syphilitique
 C. kyste pilonidal 
 D. thrombose hémorroïde 
 E. maladie hémorroïdaire 
-REP : ABC 
+REP: ABC 
 
 41. la fissure anale apparait 
 A. postérieurement, dans la plupart des cas 
@@ -732,7 +732,7 @@ B. tableau clinique est dominé par la douleur progressive sans spléno??
 C. traitement peut être conservatif 
 D. traitement peut être chirurgical 
 E. On recommande le traitement chirurgical en cas d'échec du traitement ?? 
-REP : CE 
+REP: CE 
 
 43. la pancréatite aiguë est un processus évolutif qui parcourt les phases: 
 A. phase d'induction 
@@ -756,7 +756,7 @@ B. sub hépatique
 C. pré hépatique 
 D. intra hépatique 
 E. supra hépatique 
-REP : AC 
+REP: AC 
 
 46. au point de vue morphologique, parmi les indications de l'opération précoce, il faut inclure obligatoirement: 
 A. la cholécystite phlegmoneuse avec fièvre, la leucocytose, la défense musculaire localisée 
@@ -788,7 +788,7 @@ B. la douleur intense
 C. abdomen uniformément distendu 
 D. l'absence des bruits intestinaux 
 E. douleur fréquemment colicative 
-REP : AD 
+REP: AD 
 
 50. les affections suivantes peuvent simuler l'existence d'un kyste hépatique: 
 A. les tumeurs rectales 
