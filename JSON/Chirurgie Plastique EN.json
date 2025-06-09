@@ -11,7 +11,8 @@
             "E. Absence de couleur"
         ],
         "correct_answers": [
-            "D"
+            "D",
+            "E"
         ]
     },
     {
@@ -26,7 +27,9 @@
             "E. Nerf axillaire"
         ],
         "correct_answers": [
-            "A"
+            "A",
+            "B",
+            "D"
         ]
     },
     {
@@ -41,6 +44,7 @@
             "E. 6h"
         ],
         "correct_answers": [
+            "A",
             "C"
         ]
     },
@@ -56,7 +60,8 @@
             "E. 5 semaines"
         ],
         "correct_answers": [
-            "B"
+            "B",
+            "C"
         ]
     },
     {
@@ -71,7 +76,9 @@
             "E. Le scapho\u00efde"
         ],
         "correct_answers": [
-            "C"
+            "A",
+            "B",
+            "D"
         ]
     },
     {
@@ -87,9 +94,7 @@
         ],
         "correct_answers": [
             "A",
-            "B",
-            "C",
-            "D"
+            "B"
         ]
     },
     {
@@ -105,7 +110,8 @@
         ],
         "correct_answers": [
             "A",
-            "B"
+            "B",
+            "D"
         ]
     },
     {
@@ -122,7 +128,7 @@
         "correct_answers": [
             "A",
             "B",
-            "C"
+            "D"
         ]
     },
     {
@@ -137,8 +143,7 @@
             "E. Ne doit pas \u00eatre \u00e9valu\u00e9"
         ],
         "correct_answers": [
-            "B",
-            "C"
+            "A"
         ]
     },
     {
@@ -153,6 +158,7 @@
             "E. Couleur p\u00e2le"
         ],
         "correct_answers": [
+            "A",
             "B",
             "C"
         ]
@@ -169,9 +175,8 @@
             "E. Ulnaire"
         ],
         "correct_answers": [
-            "A",
-            "C",
-            "E"
+            "B",
+            "C"
         ]
     },
     {
@@ -186,8 +191,8 @@
             "E. Opposition du pouce"
         ],
         "correct_answers": [
-            "B",
-            "D"
+            "A",
+            "E"
         ]
     },
     {
@@ -202,9 +207,8 @@
             "E. Retrait des sutures"
         ],
         "correct_answers": [
-            "C",
-            "D",
-            "E"
+            "B",
+            "D"
         ]
     },
     {
@@ -220,7 +224,7 @@
         ],
         "correct_answers": [
             "B",
-            "C"
+            "D"
         ]
     },
     {
@@ -236,8 +240,8 @@
         ],
         "correct_answers": [
             "A",
-            "C",
-            "D"
+            "B",
+            "E"
         ]
     },
     {
@@ -252,8 +256,7 @@
             "E. Mobilisation anormale de l'os"
         ],
         "correct_answers": [
-            "C",
-            "E"
+            "D"
         ]
     },
     {
@@ -268,9 +271,8 @@
             "E. Plaque"
         ],
         "correct_answers": [
-            "A",
-            "D",
-            "E"
+            "B",
+            "C"
         ]
     },
     {
@@ -285,9 +287,8 @@
             "E. avec fil de K"
         ],
         "correct_answers": [
-            "B",
-            "C",
-            "E"
+            "A",
+            "C"
         ]
     },
     {
@@ -302,8 +303,10 @@
             "E. utilise une attelle pendant 3 mois"
         ],
         "correct_answers": [
+            "A",
             "B",
-            "C"
+            "D",
+            "E"
         ]
     },
     {
@@ -318,9 +321,7 @@
             "E. par des mouvements passifs et actifs contr\u00f4l\u00e9s"
         ],
         "correct_answers": [
-            "A",
-            "C",
-            "E"
+            "A"
         ]
     },
     {
@@ -335,8 +336,8 @@
             "E. T\u00e9nolyse performante apr\u00e8s 2 semaines"
         ],
         "correct_answers": [
-            "B",
-            "C"
+            "A",
+            "D"
         ]
     },
     {
@@ -352,8 +353,7 @@
         ],
         "correct_answers": [
             "A",
-            "B",
-            "C"
+            "B"
         ]
     },
     {
@@ -369,7 +369,6 @@
         ],
         "correct_answers": [
             "A",
-            "B",
             "C",
             "D"
         ]
@@ -386,8 +385,7 @@
             "E. Jeunes patients"
         ],
         "correct_answers": [
-            "C",
-            "D"
+            "A"
         ]
     },
     {
@@ -402,15 +400,16 @@
             "E. Suture du tendon"
         ],
         "correct_answers": [
+            "A",
             "B",
-            "D",
-            "E"
+            "C",
+            "D"
         ]
     },
     {
         "chapitre": 0,
         "id": 26,
-        "question": "L'American Burn Association a identifi\u00e9 les l\u00e9sions suivantes comme \u00e9tant celles qui n\u00e9cessitent g\u00e9n\u00e9ralement un transfert vers une unit\u00e9 de traitement des br\u00fblures",
+        "question": "L'American Burn Association a identifi\u00e9 les l\u00e9sions suivantes comme \u00e9tant celles qui n\u00e9cessitent g\u00e9n\u00e9ralement un transfert vers une unit\u00e9 de traitement des br\u00fblures. Les patients souffrant de ces br\u00fblures doivent \u00eatre trait\u00e9s dans un centre sp\u00e9cialis\u00e9 apr\u00e8s une \u00e9valuation et un traitement initiaux au service des urgences :",
         "options": [
             "A. br\u00fblures du deuxi\u00e8me et du troisi\u00e8me degr\u00e9 sup\u00e9rieures \u00e0 10 % de la surface corporelle chez les patients \u00e2g\u00e9s de moins de 10 ans et de plus de 50 ans.",
             "B. br\u00fblures du deuxi\u00e8me et du troisi\u00e8me degr\u00e9 chez les patients pr\u00e9sentant une atteinte du visage, des mains, des pieds, des organes g\u00e9nitaux et du p\u00e9rin\u00e9e",
@@ -420,15 +419,13 @@
         ],
         "correct_answers": [
             "A",
-            "B",
-            "C",
-            "E"
+            "C"
         ]
     },
     {
         "chapitre": 0,
         "id": 27,
-        "question": "Le premier degr\u00e9 est superficiel",
+        "question": "Le premier degr\u00e9 est superficiel. Il est caus\u00e9 par :",
         "options": [
             "A. le soleil",
             "B. la peau est \u00e9ryth\u00e9mateuse",
@@ -438,8 +435,7 @@
         ],
         "correct_answers": [
             "A",
-            "B",
-            "C"
+            "D"
         ]
     },
     {
@@ -455,7 +451,8 @@
         ],
         "correct_answers": [
             "A",
-            "B"
+            "B",
+            "D"
         ]
     },
     {
@@ -470,9 +467,8 @@
             "E. tr\u00e8s douloureuse"
         ],
         "correct_answers": [
-            "B",
-            "D",
-            "E"
+            "A",
+            "D"
         ]
     },
     {
@@ -488,8 +484,7 @@
         ],
         "correct_answers": [
             "A",
-            "B",
-            "C"
+            "B"
         ]
     },
     {
@@ -505,9 +500,7 @@
         ],
         "correct_answers": [
             "A",
-            "B",
-            "C",
-            "D"
+            "C"
         ]
     },
     {
@@ -522,7 +515,9 @@
             "E. il n'y a pas de possibilit\u00e9 d'affecter les tendons"
         ],
         "correct_answers": [
-            "A"
+            "B",
+            "C",
+            "D"
         ]
     },
     {
@@ -537,10 +532,8 @@
             "E. que le p\u00e9rin\u00e9e est \u00e0 1% BS"
         ],
         "correct_answers": [
-            "A",
             "B",
-            "C",
-            "E"
+            "C"
         ]
     },
     {
@@ -555,13 +548,13 @@
             "E. 0,1 % de la BS"
         ],
         "correct_answers": [
-            "A"
+            "D"
         ]
     },
     {
         "chapitre": 0,
         "id": 35,
-        "question": "Le pronostic est calcul\u00e9 apr\u00e8s le score ABSI ou indice de Beaux",
+        "question": "Le pronostic est calcul\u00e9 apr\u00e8s le score ABSI ou indice de Beaux. Le score ABSI est le suivant :",
         "options": [
             "A. Le BSA",
             "B. L'\u00e9thiologie",
@@ -571,9 +564,7 @@
         ],
         "correct_answers": [
             "A",
-            "C",
-            "D",
-            "E"
+            "B"
         ]
     },
     {
@@ -588,6 +579,8 @@
             "E. IP = % BSA x degr\u00e9 de br\u00fblure"
         ],
         "correct_answers": [
+            "A",
+            "B",
             "E"
         ]
     },
@@ -603,14 +596,13 @@
             "E. de l'eau fra\u00eeche"
         ],
         "correct_answers": [
-            "A",
-            "D"
+            "E"
         ]
     },
     {
         "chapitre": 0,
         "id": 38,
-        "question": "Le traitement des ampoules est controvers\u00e9",
+        "question": "Le traitement des ampoules est controvers\u00e9. Des cloques intactes avec un liquide de cloque non contamin\u00e9 constituent un pansement biologique sur une plaie de br\u00fblure d'\u00e9paisseur partielle. Il est g\u00e9n\u00e9ralement admis",
         "options": [
             "A. que les cloques qui se sont rompues ou qui semblent sur le point de se rompre doivent \u00eatre d\u00e9brid\u00e9es",
             "B. que les ampoules qui se sont rompues ou qui semblent sur le point de se rompre ne doivent pas \u00eatre d\u00e9brid\u00e9es",
@@ -619,14 +611,13 @@
             "E. on peut la laisser sans traitement \u00e0 tout moment dans une l\u00e9sion de br\u00fblure, on ne peut pas parler de cloques."
         ],
         "correct_answers": [
-            "A",
             "C"
         ]
     },
     {
         "chapitre": 0,
         "id": 39,
-        "question": "Une br\u00fblure par flamme survenant dans un espace restreint est susceptible de provoquer des l\u00e9sions importantes par inhalation",
+        "question": "Une br\u00fblure par flamme survenant dans un espace restreint est susceptible de provoquer des l\u00e9sions importantes par inhalation. Les signes d'obstruction des voies respiratoires sup\u00e9rieures sont :",
         "options": [
             "A. l'encombrement",
             "B. le stridor",
@@ -635,9 +626,7 @@
             "E. les yeux rouges"
         ],
         "correct_answers": [
-            "A",
-            "B",
-            "C"
+            "E"
         ]
     },
     {
@@ -652,7 +641,8 @@
             "E. 30% BSA"
         ],
         "correct_answers": [
-            "A"
+            "B",
+            "C"
         ]
     },
     {
@@ -667,8 +657,7 @@
             "E. les oreilles"
         ],
         "correct_answers": [
-            "A",
-            "B"
+            "D"
         ]
     },
     {
@@ -683,7 +672,7 @@
             "E. Un mois"
         ],
         "correct_answers": [
-            "A"
+            "D"
         ]
     },
     {
@@ -716,10 +705,10 @@
             "E. br\u00fblures majeures, br\u00fblures du troisi\u00e8me degr\u00e9 de plus de 5% de la surface corporelle, tout \u00e2ge confondu"
         ],
         "correct_answers": [
+            "A",
             "B",
             "C",
-            "D",
-            "E"
+            "D"
         ]
     },
     {
@@ -734,9 +723,8 @@
             "E. blessure chimique"
         ],
         "correct_answers": [
-            "C",
-            "D",
-            "E"
+            "A",
+            "C"
         ]
     },
     {
@@ -751,7 +739,8 @@
             "E. s\u00e8che, sans cloques, sans \u0153d\u00e8me"
         ],
         "correct_answers": [
-            "A",
+            "C",
+            "D",
             "E"
         ]
     },
@@ -767,8 +756,8 @@
             "E. on peut utiliser la surface de la paume du patient qui est consid\u00e9r\u00e9e comme 1% de la BS"
         ],
         "correct_answers": [
-            "C",
-            "E"
+            "A",
+            "B"
         ]
     },
     {
@@ -783,10 +772,7 @@
             "E. l'expectoration de crachats carbon\u00e9s n'est jamais observ\u00e9e"
         ],
         "correct_answers": [
-            "A",
-            "B",
-            "C",
-            "D"
+            "B"
         ]
     },
     {
@@ -801,8 +787,9 @@
             "E. Le traitement est effectu\u00e9 dans le service des br\u00fbl\u00e9s, dans une pi\u00e8ce chauff\u00e9e, avec une surveillance constante des signes vitaux."
         ],
         "correct_answers": [
+            "B",
             "C",
-            "E"
+            "D"
         ]
     },
     {
@@ -817,9 +804,7 @@
             "E. traitement des plaies"
         ],
         "correct_answers": [
-            "A",
-            "B",
-            "C"
+            "B"
         ]
     }
 ]

@@ -1,0 +1,2135 @@
+[
+  {
+    "chapitre": 1,
+    "id": 1,
+    "question": "Parmi ces tumeurs h\u00e9patiques b\u00e9nignes, lesquelles sont d'origine parenchymateuse:",
+    "options": [
+      "A. Kyste solitaire du foie",
+      "B. Hamartome",
+      "C. H\u00e9mangiome",
+      "D. Ad\u00e9nome b\u00e9nin",
+      "E. Kyste hydatique du foie"
+    ],
+    "correct_answers": ["A", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 2,
+    "question": "Quels sont les examens n\u00e9cessaires pour diagnostiquer un carcinome h\u00e9patocellulaire:",
+    "options": [
+      "a. Echographie abdominal",
+      "b. Scintigraphie abdominal",
+      "c. Scanner abdominal",
+      "d. IRM abdominal",
+      "e. Abdomen sans preparation"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 3,
+    "question": "Quelles sont les complications possibles lors d'une pancr\u00e9atite aigu\u00eb?",
+    "options": [
+      "a. P\u00e9ricardite",
+      "b. Pleur\u00e9sie",
+      "c. Thrombose de la veine porte",
+      "d. Pseudo kyste pancr\u00e9atique",
+      "e. Sequestration pancreatique"
+    ],
+    "correct_answers": ["C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 4,
+    "question": "Parmi ces propositions, quel est le diagnostic diff\u00e9rentiel d'une pancr\u00e9atite aigu\u00eb?",
+    "options": [
+      "a. Ulc\u00e8re duod\u00e9nal perfor\u00e9",
+      "b. Pancr\u00e9atite chronique",
+      "c. Cholecystite aigu\u00eb",
+      "d. N\u00e9oplasme de la tete du pancreas",
+      "e. Infarctus du myocarde"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 5,
+    "question": "*Le principal facteur \u00e9tiologique dans l'apparition d'une pancr\u00e9atite chronique est:",
+    "options": [
+      "a. Lithiase biliaire",
+      "b. Tabagisme",
+      "c. Consommation d'alcool",
+      "d. Alimentation riche en graisse",
+      "e. Hypoprot\u00e9in\u00e9mie"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 6,
+    "question": "Dans l'\u00e9volution du cancer colorectal, le tableau clinique est diff\u00e9rent en fonction de plusieurs facteurs:",
+    "options": [
+      "a. stade d'apparition des complications",
+      "b. localisation du processus tumoral",
+      "c. stade \u00e9volutif de la tumeur",
+      "d. l'association des marqueurs inflammatoires",
+      "e. le type histopathologique"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 7,
+    "question": "* Le site principal des m\u00e9tastases colorectales est:",
+    "options": [
+      "a. l'intestin gr\u00eale",
+      "b. la c\u0153ur",
+      "c. le foie",
+      "d. le rein",
+      "e. le poumon"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 8,
+    "question": "* Le toucher rectal dans l'\u00e9valuation loco-r\u00e9gionale des tumeurs rectales peut d\u00e9tecter et \u00e9valuer des tumeurs au maximum:",
+    "options": ["a.4 cm", "b.12 cm", "c.2 cm", "d.1 cm", "e.8 cm"],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 9,
+    "question": "Les ruptures de la rate:",
+    "options": [
+      "A. Peu int\u00e9ress\u00e9 seulement une rate pathologique.",
+      "B. Les ruptures sur une rate normale peuvent \u00eatre traumatiques ou iatrog\u00e8nes.",
+      "C. est int\u00e9ress\u00e9 seulement le parenchyme, la capsule \u00e9tant \u00e9lastique.",
+      "D. Il peut exister le signe Kehr comme symptomatologie: la douleur dans l'hypochondre gauche avec irradiation dans l'\u00e9paule ou omoplate gauche",
+      "E. Suppos\u00e9e de traitement conservateur pour les l\u00e9sions minimales avec la surveillance du patient."
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 10,
+    "question": "Les suivantes affirmations sur le kyste hydatique de rate sont vrais:",
+    "options": [
+      "a. La plus fr\u00e9quente manifestation est la pr\u00e9sence de l'h\u00e9patom\u00e9galie douloureuse ou non.",
+      "b. Il est n\u00e9cessaire le traitement chirurgical",
+      "c. Il se peut manifeste par la pr\u00e9sence de la spl\u00e9nom\u00e9galie compression sur les organes voisins.",
+      "d. Il se peut compliqu\u00e9 et d\u00e9termin\u00e9e une fistule kysto-biliaire.",
+      "e. Le traitement avec m\u00e9dicaments suppose l'administration de M\u00e9tronidazole en dose de 1500 mg/jour pour un homme adulte."
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 11,
+    "question": "Sont signes cardinales d'une isch\u00e9mie aigu\u00eb, avec une exception:",
+    "options": [
+      "a. P\u00e2leur",
+      "b. Pouls pr\u00e9sent faible perceptible",
+      "c. Paralysie",
+      "d. Douleur",
+      "e. Paresthesia"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 12,
+    "question": "Sur l'isch\u00e9mie aigu\u00eb p\u00e9riph\u00e9rique se peut affirmer les suivantes:",
+    "options": [
+      "a. Appara\u00eetre cause d'une obstruction soudain du flux veineuse",
+      "b. Appara\u00eetre cause d'une obstruction soudain du flux art\u00e9riel",
+      "c. La s\u00e9v\u00e9rit\u00e9 du processus isch\u00e9mique d\u00e9pend du localisation d'obstacle.",
+      "d. Les objectifs du traitement sont: restauration de la circulation et pr\u00e9vention de la r\u00e9occlusion art\u00e9rielle.",
+      "e. Les objectifs du traitement sont: restauration de la circulation et pr\u00e9vention de la r\u00e9occlusion veineuse."
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 13,
+    "question": "Sur la classification de l'art\u00e9riopathie chronique oblit\u00e9rante sont vrais les suivantes:",
+    "options": [
+      "a. Stade I est repr\u00e9sent\u00e9 de l'isch\u00e9mie de repos",
+      "b. Stade II este repr\u00e9sente de l'isch\u00e9mie de repos",
+      "c. Stade I est consid\u00e9r\u00e9e le stade pr\u00e9 isch\u00e9mique",
+      "d. Stade IV est caract\u00e9ris\u00e9e par la pr\u00e9sence de l\u00e9sions trophiques.",
+      "e. Stade III est consid\u00e9r\u00e9 le stade de l'isch\u00e9mie d'effort avec la pr\u00e9sence de la claudication intermittente."
+    ],
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 14,
+    "question": "Les interventions chirurgicales pratiqu\u00e9es dans l'art\u00e9riopathie chronique oblit\u00e9rante sont:",
+    "options": [
+      "a. Bypass-ul arteriale",
+      "b. Thromboendart\u00e9riectomie",
+      "c. Embolectomie avec sonde Fogarty",
+      "d. Angioplastie percutan\u00e9e (dilatation avec le ballon)",
+      "e. Sympathectomie thoracique"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 15,
+    "question": "Le traitement anticoagulante dans la thrombose veineuse profonde a comme objectifs:",
+    "options": [
+      "a. La pr\u00e9vention de la mort provoque d'une embolie pulmonaire",
+      "b. La pr\u00e9vention des r\u00e9currences",
+      "c. La pr\u00e9vention d'apparition de l'isch\u00e9mie art\u00e9rielle centrale",
+      "d. La pr\u00e9vention d'apparition du syndrome post thrombotique",
+      "e. La pr\u00e9vention d'apparition de l'isch\u00e9mie art\u00e9rielle"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 16,
+    "question": "Selon la classification CEAP des maladies veineuses chroniques, les classes cliniques C1 et C6 repr\u00e9sentent :",
+    "options": [
+      "a. La pigmentation du t\u00e9gument",
+      "b. Des signes palpables de maladie veineuse",
+      "c. \u0152d\u00e8me",
+      "d. Petits vaisseaux (t\u00e9langiectasies, veines r\u00e9ticulaires)",
+      "e. Ulc\u00e8re veineux non cicatris\u00e9"
+    ],
+    "correct_answers": ["D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 17,
+    "question": "Les tumeurs Phyllodes :",
+    "options": [
+      "a. Peuvent avoir 3 formes :b\u00e9nignes, borderline(interm\u00e9diaires) et malignes",
+      "b. Au microscope, la forme b\u00e9nigne est une tumeur aux grandes dimensions",
+      "c. Au microscope, la forme b\u00e9nigne est une tumeur aux petites dimensions",
+      "d. Les tumeurs Phyllodes n'ont pas de difficult\u00e9s de diagnostic car elles pr\u00e9sentent des caract\u00e9ristiques claires",
+      "e. La forme maligne est faiblement circonscrite, avec invasion des tissus voisins, foyer de n\u00e9crose et h\u00e9morragie"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 18,
+    "question": "Une masse tumorale du sein est \u00e9valu\u00e9e par :",
+    "options": [
+      "a. Examen paraclinique: analyse rapide Tillaux",
+      "b. Examen paraclinique : mammographie",
+      "c. Examen paraclinique : ponction aspirative \u00e0 l'aiguille fine",
+      "d. Examen paraclinique : biopsie tumorale",
+      "e. Il suffit d'effectuer un examen clinique, malgr\u00e9 une suspicion de malignit\u00e9"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 19,
+    "question": "Caract\u00e9ristiques cliniques des tumeurs malignes mammaires :",
+    "options": [
+      "a. Faible d\u00e9limitation par rapport aux tissus voisins",
+      "b. Croissance rapide",
+      "c. D\u00e9limitation nette par rapport aux tissus voisins",
+      "d. Croissance relativement lente",
+      "e. Sont mobiles sur les plans sur et sous-jacents"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 1,
+    "id": 20,
+    "question": "Au sujet des tumeurs malignes mammaires, les affirmations suivantes sont vraies :",
+    "options": [
+      "a. Elles peuvent d\u00e9terminer des r\u00e9tractions cutan\u00e9es ou du mamelon",
+      "b. Mammographie : l'image typique de malignit\u00e9 est une opacit\u00e9 dense et irr\u00e9guli\u00e8re, stellaire et r\u00e9tractile",
+      "c. L'examen histopathologique est la seule m\u00e9thode pour un diagnostic de certitude",
+      "d. Le traitement du cancer de sein suppose uniquement de l'intervention chirurgicale",
+      "e. Les examens immunohistochimiques doivent informer sur l'expression des r\u00e9cepteurs aux \u0153strog\u00e8nes (ER), \u00e0 la progest\u00e9rone (PgR) et HER2"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 21,
+    "question": "*La glande thyro\u00efde se trouve dans un espace qui s'appelle:",
+    "options": [
+      "a. La loge thyro\u00efdienne",
+      "b. La capsule thyro\u00efdienne",
+      "c. L'espace sous-hyo\u00efdien",
+      "d. L'espace cervical ant\u00e9rieur",
+      "e. L'espace pr\u00e9-trach\u00e9al"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 1,
+    "id": 22,
+    "question": "* Dans la pathologie thyro\u00efdienne, le goitre simple repr\u00e9sente :",
+    "options": [
+      "a. Augmentation de la taille de la glande par un processus de dystrophie hyperplasique b\u00e9nigne",
+      "b. Pr\u00e9sence d'un ou plusieurs nodules due principalement \u00e0 une carence alimentaire en iode",
+      "c. Hyperproduction de hormones thyro\u00efdiennes",
+      "d. Pr\u00e9sence de nodules thyro\u00efdiens sans complications",
+      "e. Aucune des affirmations n'est correcte"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 1,
+    "id": 23,
+    "question": "Pour la biosynth\u00e8se et la lib\u00e9ration des hormones thyro\u00efdiennes dans des limites normales, les conditions suivantes doivent \u00eatre remplies:",
+    "options": [
+      "a. Glande thyro\u00efde \u00e0 fonction normale",
+      "b. Apport ad\u00e9quat de fer",
+      "c. Apport prot\u00e9ique ad\u00e9quat",
+      "d. Apport ad\u00e9quat d'iode",
+      "e. Fonction normale de la glande \u00e9piphyse"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 24,
+    "question": "Les facteurs intrins\u00e8ques de r\u00e8glement de la fonction thyro\u00efdienne NE sont PAS repr\u00e9sent\u00e9s par :",
+    "options": [
+      "a. La croissance de la production de T3 au d\u00e9triment de la T4 en cas d'apport insuffisant en iode exog\u00e8ne",
+      "b. L'effet Wolff-Chaikoffen cas d'apport excessif en iode",
+      "c. L'axe hypothalamo-hypophysaire",
+      "d. L'effet stimulateur \u00e0 la TSH",
+      "e. Des variations de la concentration des hormones thyro\u00efdiennes circulantes"
+    ],
+    "correct_answers": ["C", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 25,
+    "question": "Le goitre end\u00e9mique peut \u00eatre d\u00e9termin\u00e9 par :",
+    "options": [
+      "a. Une carence en iode",
+      "b. Un apport excessif d'iode",
+      "c. La thyro\u00efdectomie subtotale",
+      "d. L'effet des m\u00e9dicaments",
+      "e. Des aliments goitrog\u00e8nes"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 26,
+    "question": "Au sujet de l'achalasie du cardia, les affirmations suivantes sont vraies :",
+    "options": [
+      "a. Due au dysfonctionnement du sphincter sup\u00e9rieur de l'\u0153sophage",
+      "b. Repr\u00e9sente un trouble de contraction du sphincter inf\u00e9rieur de l'\u0153sophage",
+      "c. Repr\u00e9sente un trouble de relaxation du sphincter inf\u00e9rieur de l'\u0153sophage",
+      "d. Repr\u00e9sente un dysfonctionnement des muscles de l'\u0153sophage",
+      "e. Consistant un trouble d'\u00e9vacuation de l'\u0153sophage"
+    ],
+    "correct_answers": ["C", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 27,
+    "question": "Au sujet des \u0153sophagites post-caustiques, les affirmations suivantes sont vraies :",
+    "options": [
+      "a. Les l\u00e9sions provoqu\u00e9es par les bases sont plus profondes",
+      "b. Les acides provoquent des formations d'escarres de coagulation prot\u00e9geant les tissus profonds contre l'action de l'agent",
+      "c. L'h\u00e9morragie massive repr\u00e9sente la complication la plus grave",
+      "d. L'alt\u00e9ration de la muqueuse de l'\u0153sophage pourra conduire \u00e0 terme \u00e0 la st\u00e9nose du lumen de l'\u0153sophage",
+      "e. Dans des cas extr\u00eamement graves, il survient une perforation \u0153sophagienne n\u00e9cessitant un traitement chirurgical d'urgence"
+    ],
+    "correct_answers": ["C", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 28,
+    "question": "Lesquels des traitements suivants s'appliquent en cas d'\u0153sophagite de reflux:",
+    "options": [
+      "a. Inhibiteurs de la pompe \u00e0 protons",
+      "b. Changer l'alimentation par des repas plus consistants au long de la journ\u00e9e et \u00e9viter de manger 2h avant le coucher",
+      "c. Chirurgie anti-reflux",
+      "d. Aliments riches en lipides car ils acc\u00e9l\u00e8rent la vidange gastrique",
+      "e. Ingestion des liquides alcalins imm\u00e9diatement apr\u00e8s le repas pour neutraliser l'exc\u00e8s d'acide de l'estomac"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 29,
+    "question": "Parmi les sympt\u00f4mes de la hernie hiatale, on compte :",
+    "options": [
+      "a. Le pyrosis",
+      "b. Douleurs du creux \u00e9pigastrique",
+      "c. Douleurs p\u00e9ri-ombilicales",
+      "d. Sympt\u00f4mes respiratoires",
+      "e. La douleur \"en bar\""
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 30,
+    "question": "Le traitement palliatif du cancer de l'\u0153sophage comprend :",
+    "options": [
+      "a. La radioth\u00e9rapie",
+      "b. La chimioth\u00e9rapie",
+      "c. La gastrostomie ou la jejunostomie pour alimentation",
+      "d. L'\u0153sophagectomie",
+      "e. R\u00e9section \u0153sophagienne partielle"
+    ],
+    "correct_answers": ["C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 31,
+    "question": "Dans la description de l'ulc\u00e8re duod\u00e9nal perfor\u00e9, on retrouve :",
+    "options": [
+      "a. Une douleur abdominale d'apparition soudaine",
+      "b. Un manque de signes d'irritation p\u00e9riton\u00e9ale",
+      "c. Leucocytose mod\u00e9r\u00e9e durant les premi\u00e8res heures apr\u00e8s l'apparition",
+      "d. Occlusion inflammatoire au niveau des p\u00e9ritonites anciennes",
+      "e. Un pneumop\u00e9ritoine visible sur la radiographie de l'abdomen sans pr\u00e9paration"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 32,
+    "question": "Le traitement chirurgical \u00e0 intention curative d'un cancer gastrique peut comprendre :",
+    "options": [
+      "a. La r\u00e9section gastrique distale avec anastomose gastro-j\u00e9junale",
+      "b. La gastrectomie subtotale",
+      "c. La j\u00e9junostomie pour alimentation",
+      "d. La gastrectomie totale",
+      "e. La d\u00e9rivation digestive interne"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 33,
+    "question": "Le diagnostic de certitude d'un cancer gastrique peut \u00eatre affirm\u00e9 dans les situations suivantes :",
+    "options": [
+      "a. Suite \u00e0 une intervention intra-op\u00e9ratoire, on constate une masse dure, avec une ulc\u00e9ration centrale, aux extr\u00e9mit\u00e9s irr\u00e9guli\u00e8res, envahissant les tissus voisins",
+      "b. Si la tumeur est friable, saignant au toucher et avec des extr\u00e9mit\u00e9s irr\u00e9guli\u00e8res",
+      "c. Suite \u00e0 l'examen histopathologique, il r\u00e9sulte un carcinome",
+      "d. Suite \u00e0 l'examen histopathologique, il r\u00e9sulte un adenocarcinome",
+      "e. Si le patient pr\u00e9sente d\u00e9j\u00e0 une carcinomatose p\u00e9riton\u00e9ale avec ascite carcinomateuse et m\u00e9tastases h\u00e9patiques"
+    ],
+    "correct_answers": ["A", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 34,
+    "question": "Parmi ces propositions concernant le traitement chirurgical de l'appendicite, lesquelles sont fausses?",
+    "options": [
+      "a. L'abord classique a un risque plus faible d'infection de plaie",
+      "b. L'abord laparoscopique permet de r\u00e9soudre \u00e9galement d'autres types de pathologie",
+      "c. La ligature et la section de l'appendice se fait toujours avant la ligature du m\u00e9sent\u00e8re",
+      "d. Ind\u00e9pendamment de l'\u00e9volution du plastron appendiculaire, le traitement chirurgical s'effectue 3 \u00e0 6 mois apr\u00e8s l'\u00e9pisode aigu",
+      "e. L'abord laparoscopique permet une r\u00e9insertion sociale plus rapide"
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 35,
+    "question": "En cas de plastron appendiculaire, il est recommand\u00e9:",
+    "options": [
+      "a. L'abord laparoscopique imm\u00e9diat",
+      "b. L'abord classique imm\u00e9diat",
+      "c. Une antibioth\u00e9rapie",
+      "d. Un traitement conservateur",
+      "e. Drainage \u00e9cho-guide si l'\u00e9volution se fait vers un abc\u00e8s"
+    ],
+    "correct_answers": ["C", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 36,
+    "question": "Parmi ces propositions concernant l'\u00e9chographie abdominale dans le diagnostic d'une cholecystite lithiasique, sont vraies?",
+    "options": [
+      "a. Elle est fiable",
+      "b. L'aspect \u00e9chographique du calcul est hypo\u00e9chog\u00e8ne avec un c\u00f4ne d'ombre post\u00e9rieur",
+      "c. Permet d'appr\u00e9cier l'existence et le nombre de calculs biliaires",
+      "d. Permet d'appr\u00e9cier l'\u00e9paisseur de la paroi de la v\u00e9sicule biliaire",
+      "e. Les informations concernant le canal biliaire principal sont tr\u00e8s pr\u00e9cises"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 37,
+    "question": "*Laquelle de ces propositions concernant l'il\u00e9us biliaire n'est pas vraie?",
+    "options": [
+      "a. Radiographie abdominal simple (ASP) met en \u00e9vidence les niveaux hydro-a\u00e9riques",
+      "b. Radiographie abdominal simple (ASP) met en evidence la presence d'a\u00e9robilie",
+      "c. Le traitement est la chirurgie en urgence",
+      "d. L'objectif est d'\u00e9liminer le calcul qui a migr\u00e9 dans l'intestin",
+      "e. L'\u00e9limination de la fistule bilio-digestive est obligatoire"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 1,
+    "id": 38,
+    "question": "En ce qui concerne le traitement de la cholecystite aigu\u00eb, on peut affirmer:",
+    "options": [
+      "a. L'approche chirurgicale n'a pas de caract\u00e8re urgent",
+      "b. Le traitement chirurgicale se fait en urgence",
+      "c. L'abord laparoscopique est contre-indiqu\u00e9",
+      "d. L'abord laparoscopique est indiqu\u00e9",
+      "e. La meilleure approche est celle de l'urgence diff\u00e9r\u00e9e"
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 39,
+    "question": "*Dans le cas d'une lithiase du chol\u00e9doque simple, le traitement consiste en:",
+    "options": [
+      "a. L'abord exclusivement endoscopique",
+      "b. L'approche exclusivement laparoscopique",
+      "c. L'approche combine laparoscopique et endoscopique en un seul temps ou en deux temps",
+      "d. L'abord classique dans 90% des cas",
+      "e. Exclusivement par radiologie interventionnelle"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 40,
+    "question": "L'ict\u00e8re apparaissant suite \u00e0 la rupture d'un kyste hydatique du foie dans les voies biliaires se caract\u00e9rise par:",
+    "options": [
+      "a. Un ict\u00e8re d'apparition progressive",
+      "b. Un d\u00e9but insidieux",
+      "c. Fi\u00e8vre",
+      "d. Frisson",
+      "e. Ph\u00e9nom\u00e8nes collectifs attenues"
+    ],
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 41,
+    "question": "Le traitement de la fissure anale peut \u00eatre:",
+    "options": [
+      "a. topiques locaux",
+      "b. bains de si\u00e8ge chauds",
+      "c. les inhibiteurs de la pompe \u00e0 protons administr\u00e9s per os",
+      "d. sphincterotomie interne",
+      "e. sphincterotomie externe."
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 42,
+    "question": "Le diagnostic diff\u00e9rentiel des saignements a une origine h\u00e9morro\u00efdaire peut \u00eatre fait avec:",
+    "options": [
+      "a. les saignements de cancer du rectum",
+      "b. les saignements du cancer de l'\u0153sophage",
+      "c. l'h\u00e9morragie massive de rupture de la rate",
+      "d. les saignements de diverticulite sigmo\u00efdienne",
+      "e. les saignements de recto-colite ulcero-hemorragique."
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 43,
+    "question": "* Le sympt\u00f4me le plus commun de la thrombose h\u00e9morro\u00efdaire est :",
+    "options": [
+      "a. les demangeaisons anales (prurit anal)",
+      "b. la fi\u00e8vre",
+      "c. la douleur",
+      "d. la constipation",
+      "e. l'incontinence"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 44,
+    "question": "L'orifice triangulaire de l'hernie crurale qui est situ\u00e9e dans un plan horizontal est d\u00e9limit\u00e9 par:",
+    "options": [
+      "a. en avant l'arcade crurale",
+      "b. derri\u00e8re l'arcade crurale",
+      "c. en avant la cr\u00eate pectin\u00e9ale du pubis et le ligament de Cooper",
+      "d. en derri\u00e8re la cr\u00eate pectin\u00e9ale du pubis et le ligament de Cooper",
+      "e. en dehors de la veine et l'art\u00e8re f\u00e9morale."
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 45,
+    "question": "L' hernie inguinale :",
+    "options": [
+      "a. est plus fr\u00e9quente chez les hommes",
+      "b. est plus fr\u00e9quente chez les femmes",
+      "c. repr\u00e9sente l'hernie de la ligne blanche",
+      "d. est d\u00e9limit\u00e9 par l'arcade crurale et la cr\u00eate pectin\u00e9ale",
+      "e. repr\u00e9sente une forme rare des hernies pari\u00e9tales de l'abdomen."
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 1,
+    "id": 46,
+    "question": "Du point de vue de l'\u00e9tiologie, les occlusions intestinales sont:",
+    "options": [
+      "a. dynamique",
+      "b. aigu\u00eb",
+      "c. haute",
+      "d. m\u00e9canique",
+      "e. basse"
+    ],
+    "correct_answers": ["A", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 47,
+    "question": "Du point de vue de la topographie, les occlusions intestinales sont:",
+    "options": [
+      "a. dynamique",
+      "b. haute",
+      "c. bass",
+      "d. m\u00e9canique",
+      "e. isch\u00e9mique"
+    ],
+    "correct_answers": ["B", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 48,
+    "question": "Non trait\u00e9e, l'occlusion m\u00e9canique colique a les suivantes complications:",
+    "options": [
+      "a. perforations diastasiques",
+      "b. le phlegmon pyostercoral",
+      "c. infarctus ent\u00e9ro-m\u00e9sent\u00e9rique",
+      "d. choc toxique septique",
+      "e. p\u00e9ritonites secondaires"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 49,
+    "question": "Les sympt\u00f4mes du cancer colorectal au d\u00e9but, sont:",
+    "options": [
+      "a. fi\u00e8vre",
+      "b. perdre du poids dans un court laps de temps",
+      "c. perte d'app\u00e9tit",
+      "d. asth\u00e9nie, vertiges, p\u00e2leur",
+      "e. non sp\u00e9cifiques"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 50,
+    "question": "Dans les tumeurs colorectales localement avanc\u00e9es, associ\u00e9es par un abc\u00e8s p\u00e9ri n\u00e9oplasique ou par l'invasion des structures voisines, le processus tumoral est:",
+    "options": [
+      "a. dur aux palpation",
+      "b. volumineux",
+      "c. mobile",
+      "d. sensible aux palpation",
+      "e. indolore"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 51,
+    "question": "Lesquelles des affirmations suivantes concernant la glange mammaire sont vraies :",
+    "options": [
+      "A. elle occupe la paroi thoracique ant\u00e9rieure entre les c\u00f4tes II-IV",
+      "B. occupe la paroi thoracique ant\u00e9rieure entre les c\u00f4tes III-V",
+      "C. les ligaments de cooper r\u00e9alisent la liaison entre la couche profonde de la ?? et le tissus adipeux p\u00e9ri glandulaire",
+      "D. la glande mammaire est situ\u00e9 ant\u00e9rieurement par rapport au petit muscle pectoral",
+      "E. le drainage lymphatique se r\u00e9alisent dans les ganglions axillaires et mammaires externes"
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 52,
+    "question": "Le goitre end\u00e9mique se caract\u00e9rise par.",
+    "options": [
+      "A. un d\u00e9ficit en iode",
+      "B. un exc\u00e8s d'iode",
+      "C. un d\u00e9faut cong\u00e9nital de la biosynth\u00e8se hormonale thyro\u00efdienne",
+      "D. l'apparition de la maladie \u00e0 la suite de l'action de certains agents chimiques, m\u00e9dicaments",
+      "E. l'apparition de la maladie \u00e0 la suite de l'action de certains goitrog\u00e8nes alimentaire"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 53,
+    "question": "Lesquelles des affilations ci-dessous conernant le traitement chirurgical du cancer thyoridien sont vraies :",
+    "options": [
+      "A. pour les tumeurs en dessous de cm sans m\u00e9tastases ganglionnaires ??? et l'isthmectomie suffisent",
+      "B. pour les tumeurs en dessous de cm sans m\u00e9tastases ganglionnaires ??? indiqu\u00e9e est la thyro\u00efdectomie totale",
+      "C. pour les tumeurs diagnostiqu\u00e9es accidentellement (en dessous de ???? m\u00e9tastases) ganglionnaires la lobectomie et l'isthmectomie suffisent",
+      "D. pour les tumeurs en dessous de cm sans m\u00e9tastases ganglionnaires ???? et l'isthmectomie ne suffisent pas, \u00e9tant indiqu\u00e9e la lobectomie ??",
+      "E. pour les tumeurs >2 cm on recommande la thyroidectomie ???? modifi\u00e9e de tous les ganglions cervicaux palpables"
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 54,
+    "question": "Le goitre sporadique se caract\u00e9rise par.",
+    "options": [
+      "A. un d\u00e9ficit en iode",
+      "B. un d\u00e9faut cong\u00e9nital de la biosynth\u00e8se hormonale thyro\u00efdienne",
+      "C. un exc\u00e8s d'iode",
+      "D. apparition de la maladie \u00e0 la suite de l'action de certains agents chimique, m\u00e9dicaments",
+      "E. apparition de la maladie \u00e0 la suite de l'action de certains goitrog\u00e8nes alimentaires"
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 55,
+    "question": "Les indications du traitement chirurgical en hyperthyro\u00efdie sont:",
+    "options": [
+      "A. en cas d'hypertrophie r\u00e9sistantes \u00e0 un traitement conservatif correctement fait durant 12-18 mois",
+      "B. chez l'adulte \u00e2g\u00e9 de plus 50 ans avec un goitre moyen ou grand",
+      "C. en cas d'ad\u00e9nome toxique",
+      "D. chez les jeunes ayant des goitres petits ou sans hypertrophie thyro\u00efdienne",
+      "E. Filler il n'y a que 4 propositions"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 56,
+    "question": "les anomalies de nombres de la glande mammaire sont repr\u00e9sent\u00e9es par:",
+    "options": [
+      "A. l'ath\u00e9lie",
+      "B. la polydactylie",
+      "C. la polyth\u00e9lie",
+      "D. la gyn\u00e9comastie",
+      "E. l'atrophie de la glande mammaire"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 57,
+    "question": "Principes du traiternent chirurgical du cancer mammaire:",
+    "options": [
+      "A. avoir un r\u00e9sultat esth\u00e9tique et fonctionnel",
+      "B. Conserver le sein toujours",
+      "C. que ce soit une intervention radicale",
+      "D. respecter les principes de l'ablastie",
+      "E. que la dur\u00e9e de l'op\u00e9ration soit la plus br\u00e8ve que possible"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 58,
+    "question": "Les facteurs de pronostic n\u00e9gatif pour la r\u00e9cidive dans le cancer mammaire sont",
+    "options": [
+      "A. age",
+      "B. la dimension de la tumeur",
+      "C. l'ob\u00e9sit\u00e9",
+      "D. le type de l'intervention chirurgicale",
+      "E. la pr\u00e9sence des r\u00e9cepteurs HER2"
+    ],
+    "correct_answers": ["A", "B", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 59,
+    "question": "Selon leur mode de production les diverticules oesophagiens se divisent en'.",
+    "options": [
+      "A. diverticules acquis",
+      "B. diverticules de pulsion",
+      "C. diverticules cervicaux",
+      "D. diverticules supra diaphragmatiques",
+      "E. diverticules de traction"
+    ],
+    "correct_answers": ["B", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 60,
+    "question": "diverticules oesophagiens cervicaux:",
+    "options": [
+      "A. se d\u00e9veloppent sur la paroi post\u00e9rieure de l'hypopharynx",
+      "B. peuvent atteindre des dimensions particuli\u00e8rement grandes",
+      "C. produisent des compressions sur roesophage",
+      "D. la poche diverticulaire se d\u00e9veloppe dans le m\u00e9diastin",
+      "E. Se d\u00e9veloppe sur la paroi ant\u00e9rieure de l'hypopharynx"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 61,
+    "question": "le traitement chirurgical des oesophagites peptiques est recommand\u00e9 dans le cas:",
+    "options": [
+      "A. du reflux oesophagien incoercible",
+      "B. de la douleur \u00e9pigastrique",
+      "C. des st\u00e9noses oesophagiennes",
+      "D. des r\u00e9gurgitations acides",
+      "E. de l'hypersialorrh\u00e9e"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 62,
+    "question": "les \u00e9l\u00e9ments morphologiques d'une hemie sont:",
+    "options": [
+      "A. le contenu",
+      "B. la pulsion toux",
+      "C. le trajet",
+      "D. la strangulation",
+      "E. l'incarc\u00e9ration"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 63,
+    "question": "lesquelles des affirmations suivantes sont correctes:",
+    "options": [
+      "A. le canal inguinal \u00e0 2 parois",
+      "B. le canal inguinal \u00e0 2 orifices",
+      "C. la paroi ant\u00e9rieure est repr\u00e9sent\u00e9e par le tendon conjoint",
+      "D. la paroi post\u00e9rieure est repr\u00e9sent\u00e9e par le fascia transversalis",
+      "E. le canal inguinal contient toujours le funicule spermatique"
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 64,
+    "question": "Le diagnostic diff\u00e9rentiel de l'hemie inguinale se fait avec :",
+    "options": [
+      "A. ad\u00e9nopathie inguinale",
+      "B. l'omphalite",
+      "C. hernie f\u00e9morale",
+      "D. kyste dermolde",
+      "E. varicoc\u00e8le"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 65,
+    "question": "Le tissu musculo apon\u00e9vrotique abdominale est repr\u00e9sent\u00e9 par :",
+    "options": [
+      "A. muscle cr\u00e9master",
+      "B. muscle dentel\u00e9 ant\u00e9rieur",
+      "C. muscle oblique interne",
+      "D. muscle psoas",
+      "E. muscle ?? (elle est bonne askip)"
+    ],
+    "correct_answers": ["C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 66,
+    "question": "Lesquelles des affirmations concernant l'ulc\u00e8re peuvent \u00eatre vraies?",
+    "options": [
+      "A. l'ulc\u00e8re se caract\u00e9rise par une ulc\u00e9ration au niveau de la muqueuse ronde ou ovale",
+      "B. la douleur ressemble \u00e0 une br\u00fblure",
+      "C. la douleur est du type \u2022faim douloureuse\"",
+      "D. la fr\u00e9quence de l'ulc\u00e8re est 3 fois plus grande",
+      "E. l'incidence est en train d'augmenter"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 67,
+    "question": "Les complications post op apr\u00e8s les interventions pour l'ulc\u00e8re sont :",
+    "options": [
+      "A. h\u00e9morragie digestive entre les l\u00e8vres de l'anastomose",
+      "B. fi\u00e8vre, vomissements",
+      "C. complications pleuro pulmonaires",
+      "D. compilcations bilio pancr\u00e9atiques",
+      "E. fistules de bont duod\u00e9nale ou d'anastomose"
+    ],
+    "correct_answers": ["A", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 68,
+    "question": "Lesquelles de ces affirmations concemant les st\u00e9noses ulc\u00e9reuses sont vraies:",
+    "options": [
+      "A. les st\u00e9noses m\u00e9dio gastriques ou du cardia sont rencontr\u00e9es plus souvent",
+      "B. surviennent comme une complication tardive d'un ulc\u00e8re situ\u00e9 d'habitude dans le  pylore ou dans son voisinage",
+      "C. on constate une fr\u00e9quence relativement plus grande chez les hommes",
+      "D. on la rencontre plus souvent chez les personnes en age de 40-50 ans",
+      "E. les st\u00e9noses duod\u00e9nales sont le plus souvent rencontr\u00e9es"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 69,
+    "question": "Les groupes ganglionnaires extra p\u00e9rigastriques comprennent:",
+    "options": [
+      "A. les ganglions situ\u00e9s le long de l'art\u00e8re h\u00e9patique commune",
+      "B. les ganglions situ\u00e9s le long de l'art\u00e8re gastrique gauche",
+      "C. ganglions suprapyloriques",
+      "D. ganglions situ\u00e9 le long de l'art\u00e8re spl\u00e9nique",
+      "E. ganglions situ\u00e9s \u00e0 l'origine des vaisseaux m\u00e9sent\u00e9riques sup\u00e9rieurs"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 70,
+    "question": "Dans le cancer gastrique en phase de d\u00e9but (early cancer) on d\u00e9crit les types l\u00e9sionnels suivants:",
+    "options": [
+      "A. protrusive",
+      "B. superficielle - supra d\u00e9nivel\u00e9e",
+      "C. superficielle - sub d\u00e9nivel\u00e9e",
+      "D. diffuse",
+      "E. excav\u00e9e"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 71,
+    "question": "le traiternent du cancer gastrique encadr\u00e9 au stade IA est :",
+    "options": [
+      "A. r\u00e9section endoscopique",
+      "B. r\u00e9section gastrique 2/3",
+      "C. gastrectomie subtotale",
+      "D. gastrectomie totale",
+      "E. chirurgie mini invasive"
+    ],
+    "correct_answers": ["A", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 72,
+    "question": "les principales causes extrins\u00e8que de l'isch\u00e9mie aigue sont:",
+    "options": [
+      "A. l'embolie",
+      "B. la thrombose veineuse",
+      "C. le traumatisme art\u00e9riel",
+      "D. la compression",
+      "E. la thrombose art\u00e9rielle"
+    ],
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 73,
+    "question": "les effets g\u00e9n\u00e9raux du syndrome d'isch\u00e9mie reperfusion tissulaire sont :",
+    "options": [
+      "A. hyperpotas\u00e9mie",
+      "B. instabilit\u00e9 h\u00e9modynamique",
+      "C. obstructions microcirculatoires",
+      "D. syndrome du compartiment",
+      "E. syndrome myon\u00e9phrotique"
+    ],
+    "correct_answers": ["A", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 74,
+    "question": "lesquelles des affirmations ci dessous concernant l'isch\u00e9mie aigue sont correctes \u2022",
+    "options": [
+      "A. diagnostic de l'isch\u00e9mie aigue est essentiellement clinique",
+      "B. diagnostic de l'isch\u00e9mie aigue doit toujours s'appuyer sur l'imagerie angio?",
+      "C. angiographie est consid\u00e9r\u00e9 comme gold standard dans le diagnostic par?? des affections art\u00e9rielles",
+      "D. ultrasonographie est absolument n\u00e9cessaire pour fixer le diagnostic de l'isch\u00e9mie aigu\u00eb",
+      "E. ultrasonographie est indiqu\u00e9e dans le cas de polytraumatisme chez lesquels on \u00e9voque une l\u00e9sion art\u00e9rielle"
+    ],
+    "correct_answers": ["A", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 75,
+    "question": "les facteurs les plus importants favorisants la circulation veineuse d?? sont:",
+    "options": [
+      "A. aspiration thoracique",
+      "B. aspiration cardiaque",
+      "C. contraction musculaire",
+      "D. le jeu valvulaire",
+      "E. la vasomotricit\u00e9"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 76,
+    "question": "Lesquelles des affirmations ci-dessous concernant le test trendelenburg sont vraies'.",
+    "options": [
+      "A. l'\u00e9valuation du patient se r\u00e9alise en d\u00e9cubitus dorsal",
+      "B. l'\u00e9valuation du patient se r\u00e9alise en orthostatisme",
+      "C. le garrot est situ\u00e9 au niveau de la fosse poplit\u00e9e",
+      "D. le garrot est plac\u00e9 au niveau de la racine de la cuisse",
+      "E. la vitesse de remplissage des veines variqueuses est de plus de 30 secondes"
+    ],
+    "correct_answers": ["B", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 77,
+    "question": "les principales causes de l'embolie art\u00e9rielle sont :",
+    "options": [
+      "A. maladie coronarienne accompagn\u00e9e de fibrillation atriale",
+      "B. infarctus du myocarde",
+      "C. st\u00e9nose mitrale",
+      "D. ath\u00e9roscl\u00e9rose",
+      "E. hypercoagulabilit\u00e9"
+    ],
+    "correct_answers": ["D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 78,
+    "question": "dans le cadre de la th\u00e9orie ent\u00e9rog\u00e8ne de la pathog\u00e9nie de l'appendicite lesquelles des affirmations suivantes sont correctes :",
+    "options": [
+      "A. facteurs pathog\u00e8nes arrivent \u00e0 l'appendice par voie sanguine",
+      "B. les agents pathog\u00e8nes proviennent du lumen de l'appendice",
+      "C. l'isch\u00e9mie est l'\u00e9l\u00e9ment central de la th\u00e9orie ent\u00e9rog\u00e8ne",
+      "D. est l'obstruction qui favorise la diffusion de l'infection",
+      "E. la stase favorise la prolif\u00e9ration microbienne"
+    ],
+    "correct_answers": ["A", "B", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 79,
+    "question": "l'installation de la d\u00e9fense microbienne est signe d'irritation p\u00e9riton\u00e9ale (p\u00e9ritonite). Lesquelles des affirmations sont correctes",
+    "options": [
+      "A. signe Bloomberg repr\u00e9sente l'exacerbation de la douleur de la palpation",
+      "B. signe bloomberg consiste dans l'exacerbation de la douleur suite \u00e0 la d\u00e9compression brusque apr\u00e8s la palpation",
+      "C. igne de la clochette de Mendel repr\u00e9sente l'exacerbation de la douleur \u00e0 la percussion",
+      "D. signe de Lantz repr\u00e9sente la diminution et m\u00eame la disparition des r\u00e9flexes cutan\u00e9es dans la fosse iliaque droite et h\u00e9mi abdomen droit",
+      "E. signe Lantz repr\u00e9sente l'exacerbation des r\u00e9flexes cutan\u00e9s dans la fosse iliaque droite et l'h\u00e9mi abdomen droit"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 80,
+    "question": "les tumeurs b\u00e9nignes du gr\u00eale peuvent \u00eatre:",
+    "options": [
+      "A. le polypes ad\u00e9nomateux",
+      "B. le diverticule de Meckel",
+      "C. le lipome subs\u00e9reux",
+      "D. le neurinome",
+      "E. un h\u00e9mangiome"
+    ],
+    "correct_answers": ["D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 81,
+    "question": "le traitement chirurgical de diverticule de meckel compliqu\u00e9 est:",
+    "options": [
+      "A. diverticulectomie avec ou sans ent\u00e9rectomie",
+      "B. le traitement id\u00e9al c'est l'il\u00e9o-transverso-anastomose",
+      "C. on peut le r\u00e9aliser tant par voie classique que par laparoscopie",
+      "D. le traitement d'\u00e9lection c'est l'ent\u00e9rectomie \u00e9largie avec vidange ganglionnaire",
+      "E. on peut r\u00e9aliser aussi par coloscopie avec biopsie"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 82,
+    "question": "les complications du dolico-m\u00e9gacolon sont repr\u00e9sent\u00e9es par.",
+    "options": [
+      "A. l'occlusion intestinale",
+      "B. la perforation diastatique du c\u00f4lon",
+      "C. le n\u00e9oplasme du colon",
+      "D. l'ent\u00e9rocolite ulc\u00e9rative",
+      "E. la diverticulite du c\u00f4lon"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 1,
+    "id": 83,
+    "question": "le diagnostic diff\u00e9rentiel de la rectocolite ulc\u00e9ro-h\u00e9morragique se fait avec les affections suivantes:",
+    "options": [
+      "A. ledocolico-m\u00e9gacolon",
+      "B. la dysenterie bact\u00e9rienne",
+      "C. la colite granulomateuse",
+      "D. le n\u00e9oplasme du colon",
+      "E. la diverticulite"
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 84,
+    "question": "le cancer colique a une incidence accrue chez les patients ayant les affections suivantes",
+    "options": [
+      "A. iedolico m\u00e9gac\u00f4lon",
+      "B. rectocolite ulc\u00e9roh\u00e9morragique",
+      "C. polypose familiale",
+      "D. ulc\u00e8re duod\u00e9nale",
+      "E. syndrome de Gardner"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 85,
+    "question": "signes cliniques du cancer colique comprennent :",
+    "options": [
+      "A. rectorragie",
+      "B. alternance constipation diarrh\u00e9e",
+      "C. h\u00e9mat\u00e9m\u00e8se",
+      "D. perte de poids",
+      "E. douleurs abdominales"
+    ],
+    "correct_answers": ["A", "B", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 86,
+    "question": "les affections suivantes favorisent l'apparition du cancer rectal \u2022",
+    "options": [
+      "A. maladie de crohn",
+      "B. polype rectal",
+      "C. tumeurs villeuses",
+      "D. rectocolite ulc\u00e9ro h\u00e9morragique",
+      "E. dysk\u00e9ratose p\u00e9rianale de Bowen"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 87,
+    "question": "le stade d'impr\u00e9gnation canc\u00e9reuse du n\u00e9oplasme rectale se caract\u00e9rise :",
+    "options": [
+      "A. d\u00e9ficit pond\u00e9ral",
+      "B. an\u00e9mie",
+      "C. ?? namie",
+      "D. h\u00e9mat\u00e9m\u00e8se",
+      "E. \u00e0 si\u00e8ge pelvien Ou p\u00e9rin\u00e9al"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 1,
+    "id": 88,
+    "question": "l'op\u00e9ration de hartmann suppose:",
+    "options": [
+      "A. une r\u00e9section rectocolique",
+      "B. excision de la tumeur rectale",
+      "C. segment rectal proximal bouch\u00e9",
+      "D. segment distal du rectum bouch\u00e9",
+      "E. effectuer une colostomie terminale"
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 89,
+    "question": "le traitement de la maladie h\u00e9morro\u00efdaire est :",
+    "options": [
+      "A. conservateur avec di\u00e8te et veinotoniques",
+      "B. chirurgical : h\u00e9morroidectomie. bandage avec bagues en caoutchouc",
+      "C. chirurgical : arr\u00eat de la vascularisation recto anale",
+      "D. scl\u00e9rosante au moyen de substance alkylantes",
+      "E. chirurgical : amputation du rectum"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 90,
+    "question": "diagnostic diff\u00e9rentiel de la fissure anale se fait avec :",
+    "options": [
+      "A. cancer anal",
+      "B. chancre syphilitique",
+      "C. kyste pilonidal",
+      "D. thrombose h\u00e9morro\u00efde",
+      "E. maladie h\u00e9morro\u00efdaire"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 91,
+    "question": "la fissure anale apparait",
+    "options": [
+      "A. post\u00e9rieurement, dans la plupart des cas",
+      "B. ant\u00e9rieurement, dans la plupart des cas",
+      "C. Vide",
+      "D. Vide, mais elle est juste apparement",
+      "E. fr\u00e9quemment chez les jeunes patient"
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 92,
+    "question": "l'infarctus spl\u00e9nique",
+    "options": [
+      "A. a pour \u00e9tiologie la thrombose de la veine spl\u00e9nique",
+      "B. tableau clinique est domin\u00e9 par la douleur progressive sans spl\u00e9no??",
+      "C. traitement peut \u00eatre conservatif",
+      "D. traitement peut \u00eatre chirurgical",
+      "E. On recommande le traitement chirurgical en cas d'\u00e9chec du traitement ??"
+    ],
+    "correct_answers": ["C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 93,
+    "question": "la pancr\u00e9atite aigu\u00eb est un processus \u00e9volutif qui parcourt les phases:",
+    "options": [
+      "A. phase d'induction",
+      "B. phase de diffusion",
+      "C. phase de m\u00e9tastatisation l\u00e9sionnelle",
+      "D. phase polyurique",
+      "E. phase de tox\u00e9mie enzymatique"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 94,
+    "question": "on peut rappeler comme signe g\u00e9n\u00e9raux de cholecystite",
+    "options": [
+      "A. fi\u00e8vre",
+      "B. tachycardie",
+      "C. diarrh\u00e9e",
+      "D. oligurie",
+      "E. hydrops v\u00e9siculaire"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 95,
+    "question": "Il y a plusieurs cat\u00e9gories d'ict\u00e8re:",
+    "options": [
+      "A. post h\u00e9patique",
+      "B. sub h\u00e9patique",
+      "C. pr\u00e9 h\u00e9patique",
+      "D. intra h\u00e9patique",
+      "E. supra h\u00e9patique"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 96,
+    "question": "au point de vue morphologique, parmi les indications de l'op\u00e9ration pr\u00e9coce, il faut inclure obligatoirement:",
+    "options": [
+      "A. la chol\u00e9cystite phlegmoneuse avec fi\u00e8vre, la leucocytose, la d\u00e9fense musculaire localis\u00e9e",
+      "B. la chol\u00e9cystite chronique lithiasique",
+      "C. l'hydrops et l'empy\u00e8me v\u00e9siculaire",
+      "D. les chol\u00e9cystite aigu\u00eb avec apparition du subict\u00e8re et celles tests pancr\u00e9atique positifs",
+      "E. la dyskin\u00e9sie biliaire"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 97,
+    "question": "l'ict\u00e8re post h\u00e9patique engendr\u00e9 par l'obstruction des voies biliaires peut \u00e9t\u00e9 provoqu\u00e9",
+    "options": [
+      "A. la lithiase chol\u00e9docienne",
+      "B. l'h\u00e9molyse",
+      "C. des tumeurs malignes",
+      "D. l'h\u00e9patite aigue virale",
+      "E. calcul bloqu\u00e9 infundibulaire"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 98,
+    "question": "Dans l'occlusion du gros intestin, les images hydro a\u00e9riques sont:",
+    "options": [
+      "A. nombreuses",
+      "B. en nombre r\u00e9duit",
+      "C. de grandes dimensions",
+      "D. ayant l'aspect de tuyau d'orgue",
+      "E. dispos\u00e9es p\u00e9riph\u00e9riquement \"en cadre\""
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 99,
+    "question": "Le tableau clinique de l'occlusion dynamique comprend:",
+    "options": [
+      "A. la distension abdominale",
+      "B. la douleur intense",
+      "C. abdomen uniform\u00e9ment distendu",
+      "D. l'absence des bruits intestinaux",
+      "E. douleur fr\u00e9quemment colicative"
+    ],
+    "correct_answers": ["A", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 100,
+    "question": "les affections suivantes peuvent simuler l'existence d'un kyste h\u00e9patique:",
+    "options": [
+      "A. les tumeurs rectales",
+      "B. les collections supra m\u00e9socoliques",
+      "C. les tumeurs h\u00e9patiques",
+      "D. les tumeurs du c\u00f4lon descendant",
+      "E. les affections biliaires"
+    ],
+    "correct_answers": ["C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 101,
+    "question": "Le goiter endemique se caracterise par:",
+    "options": [
+      "a. Un deficit en iode",
+      "b. Un exces d'iode",
+      "c. Un defaut congenital de la biosynthese hormonale thyroidienne",
+      "d. L'apparition de la maladie a la suite de certains agents chimiques,medicaments",
+      "e. L'apparition de la maladie a la suite de l'action de certains goitrogeners alimentaires"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 102,
+    "question": "Le goiter sporadique se caracterise par:",
+    "options": [
+      "a. Un deficit en iode",
+      "b. Un defaut congenital de la biosynthese hormonale thyroidienne",
+      "c. Un exces d'iode",
+      "d. L'apparition de la maladie a la suite de certains agents chimiques,medicaments",
+      "e. L'apparition de la maladie a la suite de l'action de certains goitrogeners"
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 103,
+    "question": "Les indications du traitement chirurgical en hyperthuroidie sont:",
+    "options": [
+      "a. En cas d'hyperthyroidies resistantes a un traitement conservative correctement fait Durant 12-18",
+      "b. Chez l'adulte age de plus de 50 ans avec un goiter moyen ou grand",
+      "c. En cas d'adenome toxique",
+      "d. Chez les jeunes ayant des goiters petits ou sans hypertrophie thyroidienne",
+      ""
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 104,
+    "question": "Les anomalies de nombre de la glande mammaire sont representees par:",
+    "options": [
+      "a. L'athelie",
+      "b. La polydactylie",
+      "c. La polythelie",
+      "d. La gynecomastie",
+      "e. L'atrophie de la glande mammaire"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 105,
+    "question": "Principes du traitement chirurgical du cancer mammaire:",
+    "options": [
+      "a. Avoir un resultat esthetique et fonctionnel",
+      "b. Conserver le sein toujours",
+      "c. Que ce soit une intervention radicale",
+      "d. Respecter les principes de l'ablastie",
+      "e. Que la duree du l'operation soit la plus breve que possible"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 106,
+    "question": "Les facteurs de prognostic negative pour la recidive dans le cancer mammaire sont:",
+    "options": [
+      "a. L'age",
+      "b. La dimension de la tumeur",
+      "c. L'obesite",
+      "d. Le type de l'intervention chirurgicale",
+      "e. La presence des recepteurs HER2"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 107,
+    "question": "Selon leur mode de production les diverticules oesophagiens se divisent en:",
+    "options": [
+      "a. Diverticules acquis",
+      "b. Diverticules de pulsion",
+      "c. Diverticules cervicaux",
+      "d. Diverticules supradiaphragmatiques",
+      "e. Diverticules de traction"
+    ],
+    "correct_answers": ["B", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 108,
+    "question": "Le traitement chirurgical des oesophagites peptiques est recommande dans le cas:",
+    "options": [
+      "a. Du reflux oesophagien incoercible",
+      "b. De la douleur epigastique",
+      "c. Des stenosis oesophagiennes",
+      "d. Des regurgitations acides",
+      "e. De l'hypersialorrhee"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 109,
+    "question": "Parmi ces tumeurs hepatiques benignes,lesquelles sont d\u2019origine parenchymateuse:",
+    "options": [
+      "a. Kyste solitaire du foie",
+      "b. Hamartome",
+      "c. Hemangiome",
+      "d. Adenome benin",
+      "e. Kyste hydatique du foie"
+    ],
+    "correct_answers": ["A", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 110,
+    "question": "Quelles sont les complications possibles lors d\u2019une pancreatite aigue?",
+    "options": [
+      "a. Pericardite",
+      "b. Pleuresie",
+      "c. Thrombose de la veine porte",
+      "d. Pseudo kyste pancreatique",
+      "e. Sequestration pancreatique"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 111,
+    "question": "Parmi ces propositions ,quelle est le diagnostique differentiel d\u2019une pancreatite aigue?",
+    "options": [
+      "a. Ulcere duodenal perfore",
+      "b. Pancreatite chronique",
+      "c. Cholecystite aigue",
+      "d. Neoplasme de la tete du pancreas",
+      "e. Infarctus du myocarde"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 112,
+    "question": "*Le principal facteur etiologique dans l\u2019apparition d\u2019une pancreatite chronique est:",
+    "options": [
+      "a. Lithiase biliaire",
+      "b. Tabagisme",
+      "c. Consommation d\u2019alcool",
+      "d. Alimentation riche en graisse",
+      "e. Hipoproteinemie"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 113,
+    "question": "Parmi ces propositions concernant le traitement chirurgical de l\u2019appendicite, lesquelles sont fausses?",
+    "options": [
+      "a. L\u2019abord classique a un risque plus faible d\u2019infection de plaie",
+      "b. L\u2019abord laparoscopique permet de resoudre egalement d\u2019autres types de pathologie",
+      "c. La ligature et la section de l\u2019appendice se fait toujours avant la ligature du mesentere",
+      "d. Independemment de l\u2019evolution du plastron appendiculaire,le traitement chirurgical s\u2019effectue 3 a 6 mois apr\u00e8s l\u2019episode aigu",
+      "e. L\u2019abord laparoscopique permet une reinsertion sociale plus rapide"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 1,
+    "id": 114,
+    "question": "En cas de plastron appendiculaire, il est recommande:",
+    "options": [
+      "a. L\u2019abord laparoscopique immediat",
+      "b. L\u2019abord classique immediat",
+      "c. Une antibiotherapie",
+      "d. Un traitement conservateur",
+      "e. Drainage echo-guide si l\u2019evolution se fait vers un abces"
+    ],
+    "correct_answers": ["C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 115,
+    "question": "Parmi ces propositions concernant l\u2019echographie abdominal dans le diagnostique d\u2019une cholecystite lithiasique, sont varies?",
+    "options": [
+      "a. Elle est fiable",
+      "b. L\u2019aspect echographique du calcul est hypoechogene avec un cone d\u2019ombre posterieur",
+      "c. Permet d\u2019apprecier l\u2019existence et le nombre de calculs biliaires",
+      "d. Permet d\u2019apprecier l\u2019epaisseur de la paroi de la vesicule biliaire",
+      "e. Les informations concernant le canal biliaire principal sont tres precises"
+    ],
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 116,
+    "question": "*Laquelle de ces propositions concernant l\u2019ileus biliaire  n\u2019est pas vraie?",
+    "options": [
+      "a. Radiographie abdominal simple (ASP) met en evidence les niveaux hydro-aeriques",
+      "b. Radiographie abdominal simple (ASP) met en evidence la presence d\u2019aerobilie",
+      "c. Le traitement est la chirurgie en urgence",
+      "d. L\u2019objectif est d\u2019eliminer le calcul qui a migre dans l\u2019intestin",
+      "e. L\u2019elimination de la fistule bilio-digestive est obligatoire"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 117,
+    "question": "Lesquelles de ces affirmations concernant l'ulcere peuveut etre vraies ?",
+    "options": [
+      "a. L'ulcere se caracterise par une ulceration au niveau de la muqueuse,ronde ou ovale",
+      "b. La douleur resemble a une brulure",
+      "c. La douleur est du type faim doulouleuse",
+      "d. La frequence de l'ulcer est 3 fois plus grande",
+      "e. L'incidence est en train d'augmenter"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 118,
+    "question": "Les complications post-operatoires apres les interventions pour ulcer sont:",
+    "options": [
+      "a. Hemorragie digestive entre les levres de l'anastomose",
+      "b. Fievre,vomissements",
+      "c. Complications pleuro-pulmonaires",
+      "d. Complications bolio-pancreatiques",
+      "e. Fistules de bont duodenal ou d'anastomose"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 119,
+    "question": "Lesquelles de ces affirmations concernant les stenoses ulcereuses sont vraies :",
+    "options": [
+      "a. Les stenoses mediogastiques ou du cardia sont rencontrees plus souvent",
+      "b. Surviennent comme une complication tardive d'un ulcere situe d'habitude dans le pylore ou dans son voisinage",
+      "c. On constate une frequence relativement plus grande chez les hommes",
+      "d. On le rencontre plus souvent chez les personnes en age de 40-50ans",
+      "e. Les stenoses duodenales sont plus souvent rencontrees"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 120,
+    "question": "Les groupes ganglionnaires extraperigastique comprennet:",
+    "options": [
+      "a. Les ganglions situes le long de l'artere hepatique commune",
+      "b. Les ganglions situes le long de l'artere gastrique gauche",
+      "c. Les ganglions suprapyloriques",
+      "d. Les ganglions situes le long de l'artere splenique",
+      "e. Les ganglions situes a l'origine des vaisseaux mesenteriques superieures"
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 121,
+    "question": "Dans le cancer gastique en phase de debut(early cancer) on decrit les types lesionnels suivants:",
+    "options": [
+      "a. Protrusive",
+      "b. Superficielle-supradenivelee",
+      "c. Superficielle-subdenivelee",
+      "d. Diffuse",
+      "e. Excavee"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 122,
+    "question": "Le traitement du cancer gastique encadre au stade I A est:",
+    "options": [
+      "a. Le resection endoscopique",
+      "b. La resection gastique 2/3",
+      "c. La gastrectomie subtotale",
+      "d. La gastrectomie totale",
+      "e. La chirurgie invasive"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 123,
+    "question": "Les principes causes extrinseques de l'ischemie aigue sont:",
+    "options": [
+      "a. L'embolie",
+      "b. La thrombose veineuse",
+      "c. La traumatisme arteriel",
+      "d. La compression",
+      "e. La thrombose arterielle"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 124,
+    "question": "Les effets generaux du syndome d'ischemie-reperfusion tissulaire sont:",
+    "options": [
+      "a. L'hyperpotasemie",
+      "b. L'instabilite hemodynamique",
+      "c. Les obstructions microcirculatoires",
+      "d. Le syndrome de compartiment",
+      "e. Le syndrome myonephrotique"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 125,
+    "question": "En ce qui concerne le traitement de la cholecystite aigue,on peut affirmer:",
+    "options": [
+      "a. L\u2019approche chirurgicale n\u2019a pas de caractere urgent",
+      "b. Le traitement chirurgicale se fait en urgence",
+      "c. L\u2019abord laparoscopique est contre-indique",
+      "d. L\u2019abord laparoscopique est indique",
+      "e. La meilleure approche est celle de l\u2019urgence differee"
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 126,
+    "question": "L\u2019ictere  apparaissant suite a la rupture d\u2019un kyste hydatique du foie dans les voies biliaires se caracterise par:",
+    "options": [
+      "a. Un ictere d\u2019apparition progressive",
+      "b. Un debut insidieux",
+      "c. Fievre",
+      "d. Frisson",
+      "e. Phenomenes colicatifs attenues"
+    ],
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 127,
+    "question": "Le traitement de la fissure anale peut etre:",
+    "options": [
+      "a. topiques locaux",
+      "b. bains de siege chauds",
+      "c. les inhibiteurs de la pompe a protons administres per os",
+      "d. sphincterotomie interne",
+      "e. sphincterotomie externe."
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 128,
+    "question": "Le diagnostic differentiel des saignements a une origine hemorroidaire  peut etre fait avec :",
+    "options": [
+      "a. les saignements de cancer du rectum",
+      "b. les saignements du cancer de l\u2019\u0153sophage",
+      "c. l\u2019hemoragragie massive de rupture de la rate",
+      "d. les saignements de diverticulite sigmoidienne",
+      "e. les saignements de recto-colite ulcero-hemorragique."
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 129,
+    "question": "* Le symptome le plus commun de la thrombose hemorroidaire  est :",
+    "options": [
+      "a. les demangeaisons anales(prurit anal)",
+      "b. la fievre",
+      "c. la douleur",
+      "d. la constipation",
+      "e. l\u2019incontinence"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 130,
+    "question": "L\u2019orifice triangulaire de l\u2019hernie crurale qui est situe dans un plan horizontal est delimite par :",
+    "options": [
+      "a. en avant l\u2019\u00e1rcade crurale",
+      "b. derriere l\u2019arcade crurale",
+      "c. en avant la crete pectineale du pubis et le ligament de Cooper",
+      "d. en derriere la crete pectineale du pubis et le ligament de Cooper",
+      "e. en dehors de la veine et l\u2019artere femorale."
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 131,
+    "question": "*  L\u2019 hernie inguinale :",
+    "options": [
+      "a. est plus frequente chez les hommes",
+      "b. est plus frequente chez les femmes",
+      "c. represente l\u2019hernie de la ligne blanche",
+      "d. est delimite par l\u2019arcade crurale et la crete pectineale",
+      "e. represente une forme rare des hernies parietales de l\u2019abdomen."
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 1,
+    "id": 132,
+    "question": "Du point de vue de l\u2019etiologie, les occlusions intestinales sont:",
+    "options": [
+      "a. dynamique",
+      "b. aigue",
+      "c. haute",
+      "d. mecanique",
+      "e. bass"
+    ],
+    "correct_answers": ["A", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 133,
+    "question": "Du poin de vue de la topographie, les occlusions intestinales sont:",
+    "options": [
+      "a. dynamique",
+      "b. haute",
+      "c. bass",
+      "d. mecanique",
+      "e. ischemique"
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 134,
+    "question": "Dans l\u2019\u00e9volution du cancer colorectal , le tableau clinique est diff\u00e9rent en fonction de plusieurs facteurs:",
+    "options": [
+      "a. stade de apparition des  complications",
+      "b. localisation du processus tumoral",
+      "c. stade \u00e9volutif de la tumeur",
+      "d. l'association des marqueurs inflammatoires",
+      "e. le type histopathologique"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 135,
+    "question": "* Le toucher rectal dans l'\u00e9valuation loco-r\u00e9gionale des tumeurs rectales peut d\u00e9tecter et \u00e9valuer des  tumeurs au maximum:",
+    "options": ["a. 4 cm", "b. 12 cm", "c. 2 cm", "d. 1 cm", "e. 8 cm"],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 136,
+    "question": "Les ruptures de la rate:",
+    "options": [
+      "a. Peut interese seulement une rate patologique.",
+      "b. Les ruptures sur une rate normale peut etre traumatiques ou iatrogenes.",
+      "c. est interese seulement le parenchime, la capsule soyant elastique.",
+      "d. Il peut existe le signe Kehr comme simptomatologie: la douleur dans le hipocondre gauche avec irradiance dans l\u201depaule ou omoplate gauche",
+      "e. Supposee de traitement conservateur pour les lesions minimales avec la sourveillance du patient."
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 137,
+    "question": "Les suivantes afirmations sur le kyste hidatique de rate  sont vrais:",
+    "options": [
+      "a. La plus frequente manifestation est la presence de la hepatomegalie doulereuse ou non.",
+      "b. Il est neccessaire le traitement chirurgical",
+      "c. Il se peut manifestee par la presence de la splenomegalie compresive sur les organs voisines.",
+      "d. Il se peut complique et determinee une fistule chisto-biliaire.",
+      "e. Le traitement avec medicaments suppose l\u201dadministration de Metronidazol en dose de 1500 mg/jour pour un homme adulte."
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 1,
+    "id": 138,
+    "question": "* Sont signes cardinales d\u201dune ischemie aigue, avec une exception:",
+    "options": [
+      "a. Paleur",
+      "b. Pouls present faible perceptible",
+      "c. Paralysie",
+      "d. Douleur",
+      "e. Paresthesia"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 139,
+    "question": "Sur l\u201dischemie aigue periferique se peut affirmer les suivantes:",
+    "options": [
+      "a. Appraitre cause d\u201dune obstruction soudain du flux veineuse",
+      "b. Appraitre cause d\u201dune obstruction soudain du flux arteriale",
+      "c. La severite du process ischemique depend du localisation d\u201dobstacole.",
+      "d. Les objectives du traitement sont: restauration de la circulation et prevention de la reoclusion arteriale.",
+      "e. Les objectives du traitement sont: restauration de la circulation et prevention de la reoclusion veineuse."
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 140,
+    "question": "Sur la classification de l\u201darteriopatie chronique obliterante sont vrais les suivantes:",
+    "options": [
+      "a. Stade I  est represente de l\u201dischemie de repaux",
+      "b. Stade  II este represente  de l\u201dischemie de repaux",
+      "c. Stade I est consideree le stade preischemique",
+      "d. Stade  IV est caracterisee de la presence du lesions trofiques.",
+      "e. Stade  III est considere le stade de l\u201dischemie d\u201deffort avec la presence de la claudication intermitente."
+    ],
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 141,
+    "question": "Les interventions chirurgicales practiques  dans l\u201darteriopatie chronique obliterante sont:",
+    "options": [
+      "a. Bypass \u2013ul arteriale",
+      "b. Trombendarterctomie",
+      "c. Embolectomie avec  sonde Fogarty",
+      "d. Angioplastie percutanee (dilatation avec le balon)",
+      "e. Simpatectomie toracale"
+    ],
+    "correct_answers": ["A", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 142,
+    "question": "Le traitement anticoagulante dans la trombose veineuse profonde a comme objectifs:",
+    "options": [
+      "a. La prevention de la mort provoque d\u201dune embolie pulmonaire",
+      "b. La prevention des recurrences",
+      "c. La prevention d\u201dapparaitre l\u201dischemie arteriale centrale",
+      "d. La prevention d\u201dapparaitre du syndrome posttrombotique",
+      "e. La prevention d\u201dapparaitre l\u201dischemie arteriale"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 143,
+    "question": "Les tumeurs Phyllodes :",
+    "options": [
+      "a. Peuvent avoir 3 formes :b\u00e9nignes, borderline(interm\u00e9diaires) et malignes",
+      "b. Au microscope, la forme b\u00e9nigne est une tumeur aux grandes dimensions",
+      "c. Au microscope, la forme b\u00e9nigne est une tumeur aux petites dimensions",
+      "d. Les tumeursPhyllodesn\u2019ont pas de difficult\u00e9s de diagnostic car elles pr\u00e9sentent des caract\u00e9ristiques claires",
+      "e. La forme maligne est faiblement circonscrite, avec invasion des tissus voisins, foyer de n\u00e9crose et h\u00e9morragie"
+    ],
+    "correct_answers": ["A", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 144,
+    "question": "Une masse tumorale du sein est \u00e9valu\u00e9e par :",
+    "options": [
+      "a. Examen paraclinique : analyse rapideTillaux",
+      "b. Examen paraclinique : mammographie",
+      "c. Examen paraclinique :ponction aspirative \u00e0 l\u2019aiguille fine",
+      "d. Examen paraclinique : biopsie tumorale",
+      "e. Il suffit d\u2019effectuer un examen clinique, malgr\u00e9 une suspicion de malignit\u00e9"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 145,
+    "question": "Au sujet des tumeurs malignes mammaires, les affirmations suivantes sont vraies :",
+    "options": [
+      "a. Elles peuvent d\u00e9terminer des r\u00e9tractions cutan\u00e9es ou du mamelon",
+      "b. Mammographie : l\u2019image typique de malignit\u00e9 est une opacit\u00e9 dense et irr\u00e9guli\u00e8re, stellaire et r\u00e9tractile",
+      "c. L\u2019examen histopathologique est la seule m\u00e9thode pour un diagnostic de certitude",
+      "d. Le traitement du cancer de sein suppose uniquement de l\u2019intervention chirurgicale",
+      "e. Les examens immunohistochimiquesdoivent informer sur l\u2019expression des r\u00e9cepteurs aux \u0153strog\u00e8nes (ER), \u00e0 la progest\u00e9rone (PgR) et HER2"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 146,
+    "question": "Pour la biosynth\u00e8se et la lib\u00e9ration des hormones thyro\u00efdiennes dans des limites normales, les conditions suivantes doivent \u00eatre remplies :",
+    "options": [
+      "a. Glande thyro\u00efde \u00e0 fonction normale",
+      "b. Apport ad\u00e9quat de fer",
+      "c. Apport proth\u00e9tiquead\u00e9quat",
+      "d. Apport ad\u00e9quat d\u2019iode",
+      "e. Fonction normale de la glande \u00e9piphyse"
+    ],
+    "correct_answers": ["A", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 147,
+    "question": "Le goitre end\u00e9mique peut \u00eatre d\u00e9termin\u00e9 par :",
+    "options": [
+      "a. Une carence en iode",
+      "b. Un apport excessif d\u2019iode",
+      "c. La thyro\u00efdectomie sous-totale",
+      "d. L\u2019effet des m\u00e9dicaments",
+      "e. Des aliments goitrog\u00e8nes"
+    ],
+    "correct_answers": ["A", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 148,
+    "question": "Au sujet des \u0153sophagites post-caustiques, les affirmations suivantes sont vraies :",
+    "options": [
+      "a. Les l\u00e9sions provoqu\u00e9es par les bases sont plus profondes",
+      "b. Les acides provoquent des formations d\u2019escarres de coagulation prot\u00e9geant les tissus profonds contre l\u2019action de l\u2019agent",
+      "c. L\u2019h\u00e9morragie massive repr\u00e9sente la complication la plus grave",
+      "d. L\u2019alt\u00e9ration de la muqueuse de l\u2019\u0153sophage pourra conduire \u00e0 terme \u00e0 la st\u00e9nose du lumen de l\u2019\u0153sophage",
+      "e. Dans des cas extr\u00eamement graves, il survient une performation \u0153sophagienne n\u00e9cessitant un traitement chirurgical d\u2019urgence"
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 149,
+    "question": "Le traitement palliatif du cancer de l\u2019\u0153sophage comprend :",
+    "options": [
+      "a. La radioth\u00e9rapie",
+      "b. La chimioth\u00e9rapie",
+      "c. La gastrostomie ou la j\u00e9junostomie pour alimentation",
+      "d. L\u2019\u0153sophagectomie",
+      "e. R\u00e9section \u0153sophagienne partielle"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 150,
+    "question": "Le traitement chirurgical \u00e0 intention curative d\u2019un cancer gastrique peut comprendre :",
+    "options": [
+      "a. La r\u00e9section gastrique distale avec anastomose gastro-j\u00e9junale",
+      "b. La gastrectomie sous-totale",
+      "c. La j\u00e9junostomie pour alimentation",
+      "d. La gastrectomie totale",
+      "e. La d\u00e9rivation digestive interne"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 151,
+    "question": "Le diagnostic de certitude d\u2019un cancer gastrique peut \u00eatre affirm\u00e9 dans les situations suivantes :",
+    "options": [
+      "a. Suite \u00e0 une intervention intra-op\u00e9ratoire, on constate une masse dure, avec une ulc\u00e9ration centrale, aux extr\u00e9mit\u00e9s irr\u00e9guli\u00e8res, envahissant les tissus voisins",
+      "b. Si la tumeur est friable, saignant au toucher et avec des extr\u00e9mit\u00e9s irr\u00e9guli\u00e8res",
+      "c. Suite \u00e0 l\u2019examen histopathologique, il r\u00e9sulte un carcinome",
+      "d. Suite \u00e0 l\u2019examen histopathologique, il r\u00e9sulte un ad\u00e9nocarcinome",
+      "e. Si le patient pr\u00e9sente d\u00e9j\u00e0 une carcinomatose p\u00e9riton\u00e9ale avec ascite carcinomateuse et m\u00e9tastases h\u00e9patiques"
+    ],
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 152,
+    "question": "Les Tumeurs benignes du grele peuvent etre:",
+    "options": [
+      "a. Le polype ademateux",
+      "b. Le diverticul de meckel",
+      "c. Le lipome subsereux",
+      "d. Le neurinome",
+      "e. Un hemangieome"
+    ],
+    "correct_answers": ["D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 153,
+    "question": "Le traitement chirurgicale du diverticule de Mockol complique est:",
+    "options": [
+      "a. Diverticulectomie avec ou sans enterectomie",
+      "b. Le traitement ideal c'est l'ileo-transverso-anastomose",
+      "c. On peut le realiser tant par voie classique que par laparoscopie",
+      "d. Le traitement d'election c'est l'enterectomie elargie avec evidage ganglionnaire",
+      "e. On peut le realiser aussi par colonoscopie avec biopsie"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 154,
+    "question": "Les complications du dolico-megacolon sont reprezentees par:",
+    "options": [
+      "a. L'occlusion intestinale",
+      "b. La perforation diastatique du colon",
+      "c. Le neoplasm du colon",
+      "d. L'enterocolite ulcerative",
+      "e. La diverticulite du colon"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 1,
+    "id": 155,
+    "question": "Le diagnostic differntiel de la rectocolite ulcero-hemorragique se fait avec les affections suivantes:",
+    "options": [
+      "a. Ledolico-megacolon",
+      "b. La disenterie bacterienne",
+      "c. La colite granulomateuse",
+      "d. Le neoplasme du colon",
+      "e. La diverticulite"
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 156,
+    "question": "Le cancer colique a une incidence accrue chez les patients qui ont les infections suivantes:",
+    "options": [
+      "a. Ledolico-megacolon",
+      "b. La rectocolite ulcero-hemorragique",
+      "c. La poypose familiale",
+      "d. L'ulcere duodenal",
+      "e. Le syndrome de Gardner"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 157,
+    "question": "Les signes cliniques du cancer colique comprennent:",
+    "options": [
+      "a. La rectorragie",
+      "b. L'alternance constipation/diarrhee",
+      "c. L'hematemese",
+      "d. La perd de poids",
+      "e. La douleur abdominale"
+    ],
+    "correct_answers": ["A", "B", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 158,
+    "question": "Les affections suivantes favorisent l'apparition du cancer rectal:",
+    "options": [
+      "a. La maladie du Crohn",
+      "b. Le polype rectal",
+      "c. Les tumeurs villeuses",
+      "d. La rectocolite ulcero-hemorragique",
+      "e. La dyskeratoseperianale deBowen"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 159,
+    "question": "Le traitement de la maladie hemorroidale est:",
+    "options": [
+      "a. Conservateur avec diete et veinotoniques",
+      "b. Chirurgical :hemorroidectomie.bandages avec bagues en caoutchouc",
+      "c. Chirurgical :arret de la vascularisation recto-anale",
+      "d. Sclerosation au moyen de substances alkylantes",
+      "e. Chirurgical :amputation du rectum"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 160,
+    "question": "Le diagnostic differentiel de la fissure anale se fait avec:",
+    "options": [
+      "a. Le cancer anal",
+      "b. Le chancre syphilytique",
+      "c. Le kyste pilonidal",
+      "d. La thrombose hemorroidale",
+      "e. La maladie hemorroidale"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 161,
+    "question": "Il y a plusieurs categorie d'icter:",
+    "options": [
+      "a. Posthepatique",
+      "b. Subhepatique",
+      "c. Prehepatique",
+      "d. Intrahepatique",
+      "e. Suprahepatique"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 162,
+    "question": "Dans l'occlusion du gros intestin les images hydroaeriques sont:",
+    "options": [
+      "a. Nombreuses",
+      "b. En nombre reduit",
+      "c. De grande dimensions",
+      "d. Ayant l'aspesct de tuyaux d'orgue",
+      "e. Disposees peripheriquement..en cadre"
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 163,
+    "question": "Le tableau clinique de l'occlusion dynamique comprend:",
+    "options": [
+      "a. La distension abdominale",
+      "b. La douleur intense",
+      "c. Abdomen uniformement distendu",
+      "d. L'absence des bruits intestinaux",
+      "e. Douleur frequemment colicative"
+    ],
+    "correct_answers": ["A", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 164,
+    "question": "les affections suivantes peuvent simuler l'existance d'un kyste hepatique:",
+    "options": [
+      "a. Les tumeurs rectales",
+      "b. Les collections supramesocoliques",
+      "c. Les tumeurs hepatiques",
+      "d. Les tumeurs du colon descendant",
+      "e. Les affections biliaires"
+    ],
+    "correct_answers": ["C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 165,
+    "question": "L'icter posthepatique engendre par l'obstruction des voies biliaires peut \u00e9t\u00e9 provoque par:",
+    "options": [
+      "a. La lithiase choledocienne",
+      "b. L'hemolyse",
+      "c. Des tumeurs malignes",
+      "d. L'hepatite aigue virale",
+      "e. Calcul bloque infundibulaire."
+    ],
+    "correct_answers": ["A", "C"]
+  }
+]

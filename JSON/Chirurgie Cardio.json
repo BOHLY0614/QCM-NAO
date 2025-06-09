@@ -1,256 +1,320 @@
 [
-  {
-    "chapitre": 0,
-    "id": 1,
-    "question": "En ce qui concerne la st\u00e9nose aortique, les phrases suivantes sont fausses:",
-    "options": [
-      "A. l'\u00e9tiologie peut-\u00eatre cong\u00e9nital chez les nouveaux-n\u00e9es, enfants et adultes jeunes",
-      "B. le traitement est exclusif chirurgical",
-      "C. l'endocardite est une cause fr\u00e9quente",
-      "D. l'\u00e9tiologie la plus fr\u00e9quente est d\u00e9g\u00e9n\u00e9rative dans l'UE",
-      "E. c'est la plus rare valvulopathie"
-    ],
-    "correct_answers": ["B", "C", "E"]
-  },
-  {
-    "chapitre": 0,
-    "id": 2,
-    "question": "*Quel pontage a le meilleur a le meilleur r\u00e9sultat \u00e0 terme:",
-    "options": [
-      "A. la veine saph\u00e8ne interne sur l'art\u00e8re coronaire droite",
-      "B. l'art\u00e8re mammaire interne gauche sur l'art\u00e8re interventriculaire ant\u00e9rieure",
-      "C. l'art\u00e8re mammaire interne droite sur l'art\u00e8re circonflexe",
-      "D. la veine saph\u00e8ne interne sur l'art\u00e8re obtuse marginale",
-      "E. l'art\u00e8re radiale sur l'art\u00e8re diagonale"
-    ],
-    "correct_answers": ["B"]
-  },
-  {
-    "chapitre": 0,
-    "id": 3,
-    "question": "L'insuffisance aortique aigu\u00eb peut \u00eatre caus\u00e9e par:",
-    "options": [
-      "A. infarctus du myocarde",
-      "B. dissection aigue de l'aorte",
-      "C. rhumato\u00efde articulaire aigue",
-      "D. endocardite",
-      "E. polyarthrite"
-    ],
-    "correct_answers": ["B", "D"]
-  },
-  {
-    "chapitre": 0,
-    "id": 4,
-    "question": "Un patient de 45 ans avec hypertension art\u00e9rielle mal trait\u00e9 appelle le service d'urgence pour des douleurs thoraciques atroces",
-    "options": [
-      "A. le diagnostic le plus probable est l'infarctus du myocarde",
-      "B. le patient doit \u00eatre op\u00e9r\u00e9 en urgence",
-      "C. l'insuffisance aortique s\u00e9v\u00e8re doit \u00eatre prise en charge en urgence",
-      "D. le diagnostic le plus probable est de dissection aortique",
-      "E. en absence des complications, le traitement m\u00e9dical assure la meilleure survie"
-    ],
-    "correct_answers": ["B", "D"]
-  },
-  {
-    "chapitre": 0,
-    "id": 5,
-    "question": "*Un patient de 33 ans est diagnostiqu\u00e9 avec un souffle",
-    "options": [
-      "A. D\u00e9g\u00e9n\u00e9rative",
-      "B. isch\u00e9mique",
-      "C. infectieuse",
-      "D. le rhumatisme articulaire aigue",
-      "E. cong\u00e9nitale"
-    ],
-    "correct_answers": ["C"]
-  },
-  {
-    "chapitre": 0,
-    "id": 6,
-    "question": "\"La plus fr\u00e9quente malformation cardiaque cong\u00e9nitale cyanog\u00e8ne est:",
-    "options": [
-      "A. Transposition des gros vaisseaux",
-      "B. t\u00e9tralogie de Fallot",
-      "C. st\u00e9nose aortique",
-      "D. Communication interventriculaire",
-      "E. Communication interauriculaire"
-    ],
-    "correct_answers": ["B"]
-  },
-  {
-    "chapitre": 0,
-    "id": 7,
-    "question": "Les complications m\u00e9caniques \u00e0 distance de l'infarctus aigu du myocarde sont les suivantes:",
-    "options": [
-      "A. L'insuffisance mitrale isch\u00e9mique",
-      "B. L'an\u00e9vrisme du Ventricule gauche",
-      "C. la communication interauriculaire",
-      "D. la rupture du muscle papillaire",
-      "E. la communication interventriculaire"
-    ],
-    "correct_answers": ["B", "E"]
-  },
-  {
-    "chapitre": 0,
-    "id": 8,
-    "question": "Un patient de 55 ans est admis aux urgences avec dyspn\u00e9e de repos",
-    "options": [
-      "A. le rhumatisme articulaire aigue",
-      "B. La dissection aortique",
-      "C. l'infarctus du myocarde",
-      "D. l'endocardite infectieuse",
-      "E. la cardiomyopathie dilat\u00e9e"
-    ],
-    "correct_answers": ["D"]
-  },
-  {
-    "chapitre": 0,
-    "id": 9,
-    "question": "La transplantation cardiaque orthotopique:",
-    "options": [
-      "A. la survie est de 50% \u00e0 10 ans",
-      "B. N\u00e9cessite une compatibilit\u00e9 HLA 100%",
-      "C. Devient de plus en plus rare, \u00e9tant remplac\u00e9e par les coeurs artificiels",
-      "D. le principal facteur qui assure le pool des donneurs est le code de la route",
-      "E. un donneur de 25 ans qui est mort d'une intoxication au CO dans son garage est id\u00e9al vu son \u00e2ge"
-    ],
-    "correct_answers": ["A", "D"]
-  },
-  {
-    "chapitre": 0,
-    "id": 10,
-    "question": "Un patient op\u00e9r\u00e9 d'un remplacement valvulaire aortique avec valve m\u00e9canique il y a trois mois a d\u00e9velopp\u00e9 une infection dentaire",
-    "options": [
-      "A. s'il serait op\u00e9r\u00e9 d'une extraction dentaire d'embl\u00e9e il va saigner beaucoup askip",
-      "B. une extraction dentaire est un geste sans risque infectieux car la dentine est peu vascularis\u00e9",
-      "C. le risque d'endocardite dans sa situation est moins \u00e9lev\u00e9 en ce moment par rapport aux patients plus ag\u00e9s op\u00e9r\u00e9s d'un remplacement valvulaire par valve biologique",
-      "D. il doit commencer un traitement antibiotique prophylactique avant de subir n'importe quel traitement dentaire",
-      "E. il doit faire l'extraction le plus vite si possible au moment du diagnostic"
-    ],
-    "correct_answers": ["C", "D"]
-  },
-  {
-    "chapitre": 0,
-    "id": 11,
-    "question": "* L'investigation la plus relevante pour visualiser correctement les art\u00e8res coronaire est:",
-    "options": [
-      "A. L'ECG",
-      "B. la radiographie thoracique",
-      "C. l'\u00e9chographie cardiaque",
-      "D. la tomographie",
-      "E. angiocoronarographie"
-    ],
-    "correct_answers": ["E"]
-  },
-  {
-    "chapitre": 0,
-    "id": 12,
-    "question": "Quelles sont les greffons les plus utilis\u00e9s dans la chirurgie coronarienne",
-    "options": [
-      "A. La veine saph\u00e8ne interne",
-      "B. l'art\u00e8re mammaire interne",
-      "C. l'art\u00e8re pudendale interne",
-      "D. l'art\u00e8re radiale",
-      "E. la veine c\u00e9phalique"
-    ],
-    "correct_answers": ["A", "B", "D"]
-  },
-  {
-    "chapitre": 0,
-    "id": 13,
-    "question": "*On fait un pontage coronarien avec l'art\u00e8re mammaire interne gauche sur lequel vaisseaux?",
-    "options": [
-      "A. l'art\u00e8re coronaire droite",
-      "B. l'art\u00e8re circonflexe",
-      "C. l'art\u00e8re du node sino-auriculaire",
-      "D. l'art\u00e8re interventriculaire ant\u00e9rieure",
-      "E. l'art\u00e8re interventriculaire post\u00e9rieure"
-    ],
-    "correct_answers": ["D"]
-  },
-  {
-    "chapitre": 0,
-    "id": 14,
-    "question": "Les \u00e9tiologies de la st\u00e9nose aortique sont",
-    "options": [
-      "A. cong\u00e9nitale",
-      "B. d\u00e9g\u00e9n\u00e9rative",
-      "C. infectieuse",
-      "D. rhumatismale",
-      "E. toxique"
-    ],
-    "correct_answers": ["A", "B", "D"]
-  },
-  {
-    "chapitre": 0,
-    "id": 15,
-    "question": "qu'est-ce qu'on utilise aujourd'hui pour le traitement chirurgical de la st\u00e9nose mitrale?",
-    "options": [
-      "A. remplacement de la valve mitrale avec une proth\u00e8se m\u00e9canique",
-      "B. remplacement de la valve mitrale avec une proth\u00e8se m\u00e9canique mini invasive",
-      "C. remplacement de la valve mitrale avec une proth\u00e8se biologique",
-      "D. Commissurotomie ferm\u00e9e",
-      "E. Commissurotomie ouverte sur circulation"
-    ],
-    "correct_answers": ["A", "C", "E"]
-  },
-  {
-    "chapitre": 0,
-    "id": 16,
-    "question": "Les causes insuffisances mitrales aigu\u00ebs sont:",
-    "options": [
-      "A. L'infarctus aigu du myocarde avec rupture du muscle papillaire",
-      "B. rhumatisme",
-      "C. traumatisme",
-      "D. endocardite",
-      "E. toxicit\u00e9"
-    ],
-    "correct_answers": ["A", "C", "D"]
-  },
-  {
-    "chapitre": 0,
-    "id": 17,
-    "question": "Les sympt\u00f4mes les plus fr\u00e9quents dans la st\u00e9nose aortique sont:",
-    "options": [
-      "A. Naus\u00e9e",
-      "B. Dyspn\u00e9e",
-      "C. angine de poitrine",
-      "D. syncope",
-      "E. anorexie"
-    ],
-    "correct_answers": ["C", "D"]
-  },
-  {
-    "chapitre": 0,
-    "id": 18,
-    "question": "*Le seuil (du diam\u00e8tre) pour indication chirurgicale en cas d'an\u00e9vrisme de l'aorte ascendante aux patients avec syndrome marfan est:",
-    "options": ["A. 4 cm", "B. 3 cm", "C. 4.5 cm", "D. 5.5 cm", "E. 6 cm"],
-    "correct_answers": ["C"]
-  },
-  {
-    "chapitre": 0,
-    "id": 19,
-    "question": "Une dissection de l'aorte aigu\u00eb qui part de l'aorte ascendante et s'\u00e9tend jusqu'\u00e0 la fin de l'aorte correspond aux:",
-    "options": [
-      "A. DeBakey type I",
-      "B. Stanford type B",
-      "C. Stanford type A",
-      "D. DeBakey type III",
-      "E. DeBakey type II"
-    ],
-    "correct_answers": ["A", "C"]
-  },
-  {
-    "chapitre": 0,
-    "id": 20,
-    "question": "un patient avec anevrisme de l'aorte ascendante de 6",
-    "options": [
-      "s\u00e9v\u00e8re peut \u00eatre op\u00e9r\u00e9 par:",
-      "A. Bentall",
-      "B. remplacement de l'aorte ascendante",
-      "C. Tirone-David",
-      "D. Ross"
-    ],
-    "correct_answers": ["A", "E"]
-  }
+    {
+        "chapitre": 0,
+        "id": 1,
+        "question": "En ce qui concerne la st\u00e9nose aortique, les phrases suivantes sont fausses:",
+        "options": [
+            "A. l'\u00e9tiologie peut-\u00eatre cong\u00e9nital chez les nouveaux-n\u00e9es, enfants et adultes jeunes",
+            "B. le traitement est exclusif chirurgical",
+            "C. l'endocardite est une cause fr\u00e9quente",
+            "D. l'\u00e9tiologie la plus fr\u00e9quente est d\u00e9g\u00e9n\u00e9rative dans l'UE",
+            "E. c'est la plus rare valvulopathie"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 2,
+        "question": "*Quel pontage a le meilleur a le meilleur r\u00e9sultat \u00e0 terme:",
+        "options": [
+            "A. la veine saph\u00e8ne interne sur l'art\u00e8re coronaire droite",
+            "B. l'art\u00e8re mammaire interne gauche sur l'art\u00e8re interventriculaire ant\u00e9rieure",
+            "C. l'art\u00e8re mammaire interne droite sur l'art\u00e8re circonflexe",
+            "D. la veine saph\u00e8ne interne sur l'art\u00e8re obtuse marginale",
+            "E. l'art\u00e8re radiale sur l'art\u00e8re diagonale"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 3,
+        "question": "L'insuffisance aortique aigu\u00eb peut \u00eatre caus\u00e9e par:",
+        "options": [
+            "A. infarctus du myocarde",
+            "B. dissection aigue de l'aorte",
+            "C. rhumato\u00efde articulaire aigue",
+            "D. endocardite",
+            "E. polyarthrite"
+        ],
+        "correct_answers": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 4,
+        "question": "Un patient de 45 ans avec hypertension art\u00e9rielle mal trait\u00e9 appelle le service d'urgence pour des douleurs thoraciques atroces. L'examen physique est normal avec des pouls pr\u00e9sent. Son ECG retrouve un rythme sinusal, une hypertrophie du VG importante, un axe QRS \u00e0 +40 degr\u00e9. l'\u00e9chographie retrouve une insuffisance aortique mod\u00e9r\u00e9e avec une cin\u00e9tique globale et segmentaire normale. Le CT du thorax retrouve une image de faux chenal tout au long de l'aorte descendante, l'aorte ascendante et l'arche aortique \u00e9tant d'aspect normal:",
+        "options": [
+            "A. le diagnostic le plus probable est l'infarctus du myocarde",
+            "B. le patient doit \u00eatre op\u00e9r\u00e9 en urgence",
+            "C. l'insuffisance aortique s\u00e9v\u00e8re doit \u00eatre prise en charge en urgence",
+            "D. le diagnostic le plus probable est de dissection aortique",
+            "E. en absence des complications, le traitement m\u00e9dical assure la meilleure survie"
+        ],
+        "correct_answers": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 5,
+        "question": "*Un patient de 33 ans est diagnostiqu\u00e9 avec un souffle. L'\u00e9chographie retrouve une surface de la valve aortique de 3.5 cm2, une insuffisance aortique grade I, un gradient transmitral moyen de 11 mmHg et une insuffisance mitrale mod\u00e9r\u00e9e. L'\u00e9tiologie la plus probable de la maladie est:",
+        "options": [
+            "A. D\u00e9g\u00e9n\u00e9rative",
+            "B. isch\u00e9mique",
+            "C. infectieuse",
+            "D. le rhumatisme articulaire aigue",
+            "E. cong\u00e9nitale"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 6,
+        "question": "\"La plus fr\u00e9quente malformation cardiaque cong\u00e9nitale cyanog\u00e8ne est:",
+        "options": [
+            "A. Transposition des gros vaisseaux",
+            "B. t\u00e9tralogie de Fallot",
+            "C. st\u00e9nose aortique",
+            "D. Communication interventriculaire",
+            "E. Communication interauriculaire"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 7,
+        "question": "Les complications m\u00e9caniques \u00e0 distance de l'infarctus aigu du myocarde sont les suivantes:",
+        "options": [
+            "A. L'insuffisance mitrale isch\u00e9mique",
+            "B. L'an\u00e9vrisme du Ventricule gauche",
+            "C. la communication interauriculaire",
+            "D. la rupture du muscle papillaire",
+            "E. la communication interventriculaire"
+        ],
+        "correct_answers": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 8,
+        "question": "Un patient de 55 ans est admis aux urgences avec dyspn\u00e9e de repos. l'ECG montre un axe \u00e9lectrique \u00e0 50\u00b0 sans autres \u00e9l\u00e9ments pathologiques. l'\u00e9chographie retrouve une insuffisance mitrale grade IV par perforation du feuillet mitral ant\u00e9rieur. La radiographie du thorax montre des signes d'oed\u00e8me pulmonaire aigu. l'\u00e9pouse du patient raconte qu'une \u00e9chographie faite 3 semaines plus t\u00f4t n'avait pas retrouv\u00e9 des \u00e9l\u00e9ments pathologiques. Le patient a fait des extractions dentaires deux semaines auparavant. L'\u00e9tiologie possible de la maladie est:",
+        "options": [
+            "A. le rhumatisme articulaire aigue",
+            "B. La dissection aortique",
+            "C. l'infarctus du myocarde",
+            "D. l'endocardite infectieuse",
+            "E. la cardiomyopathie dilat\u00e9e"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 9,
+        "question": "La transplantation cardiaque orthotopique:",
+        "options": [
+            "A. la survie est de 50% \u00e0 10 ans",
+            "B. N\u00e9cessite une compatibilit\u00e9 HLA 100%",
+            "C. Devient de plus en plus rare, \u00e9tant remplac\u00e9e par les coeurs artificiels",
+            "D. le principal facteur qui assure le pool des donneurs est le code de la route",
+            "E. un donneur de 25 ans qui est mort d'une intoxication au CO dans son garage est id\u00e9al vu son \u00e2ge"
+        ],
+        "correct_answers": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 10,
+        "question": "Un patient op\u00e9r\u00e9 d'un remplacement valvulaire aortique avec valve m\u00e9canique il y a trois mois a d\u00e9velopp\u00e9 une infection dentaire. Dans cette situation, les affirmations suivantes sont vraies :",
+        "options": [
+            "A. s'il serait op\u00e9r\u00e9 d'une extraction dentaire d'embl\u00e9e il va saigner beaucoup askip",
+            "B. une extraction dentaire est un geste sans risque infectieux car la dentine est peu vascularis\u00e9",
+            "C. le risque d'endocardite dans sa situation est moins \u00e9lev\u00e9 en ce moment par rapport aux patients plus ag\u00e9s op\u00e9r\u00e9s d'un remplacement valvulaire par valve biologique",
+            "D. il doit commencer un traitement antibiotique prophylactique avant de subir n'importe quel traitement dentaire",
+            "E. il doit faire l'extraction le plus vite si possible au moment du diagnostic"
+        ],
+        "correct_answers": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 11,
+        "question": "* L'investigation la plus relevante pour visualiser correctement les art\u00e8res coronaire est:",
+        "options": [
+            "A. L'ECG",
+            "B. la radiographie thoracique",
+            "C. l'\u00e9chographie cardiaque",
+            "D. la tomographie",
+            "E. angiocoronarographie"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 12,
+        "question": "Quelles sont les greffons les plus utilis\u00e9s dans la chirurgie coronarienne",
+        "options": [
+            "A. La veine saph\u00e8ne interne",
+            "B. l'art\u00e8re mammaire interne",
+            "C. l'art\u00e8re pudendale interne",
+            "D. l'art\u00e8re radiale",
+            "E. la veine c\u00e9phalique"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 13,
+        "question": "*On fait un pontage coronarien avec l'art\u00e8re mammaire interne gauche sur lequel vaisseaux?",
+        "options": [
+            "A. l'art\u00e8re coronaire droite",
+            "B. l'art\u00e8re circonflexe",
+            "C. l'art\u00e8re du node sino-auriculaire",
+            "D. l'art\u00e8re interventriculaire ant\u00e9rieure",
+            "E. l'art\u00e8re interventriculaire post\u00e9rieure"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 14,
+        "question": "Les \u00e9tiologies de la st\u00e9nose aortique sont",
+        "options": [
+            "A. cong\u00e9nitale",
+            "B. d\u00e9g\u00e9n\u00e9rative",
+            "C. infectieuse",
+            "D. rhumatismale",
+            "E. toxique"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 15,
+        "question": "qu'est-ce qu'on utilise aujourd'hui pour le traitement chirurgical de la st\u00e9nose mitrale?",
+        "options": [
+            "A. remplacement de la valve mitrale avec une proth\u00e8se m\u00e9canique",
+            "B. remplacement de la valve mitrale avec une proth\u00e8se m\u00e9canique mini invasive",
+            "C. remplacement de la valve mitrale avec une proth\u00e8se biologique",
+            "D. Commissurotomie ferm\u00e9e",
+            "E. Commissurotomie ouverte sur circulation"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 16,
+        "question": "Les causes insuffisances mitrales aigu\u00ebs sont:",
+        "options": [
+            "A. L'infarctus aigu du myocarde avec rupture du muscle papillaire",
+            "B. rhumatisme",
+            "C. traumatisme",
+            "D. endocardite",
+            "E. toxicit\u00e9"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 17,
+        "question": "Les sympt\u00f4mes les plus fr\u00e9quents dans la st\u00e9nose aortique sont:",
+        "options": [
+            "A. Naus\u00e9e",
+            "B. Dyspn\u00e9e",
+            "C. angine de poitrine",
+            "D. syncope",
+            "E. anorexie"
+        ],
+        "correct_answers": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 18,
+        "question": "*Le seuil (du diam\u00e8tre) pour indication chirurgicale en cas d'an\u00e9vrisme de l'aorte ascendante aux patients avec syndrome marfan est:",
+        "options": [
+            "A. 4 cm",
+            "B. 3 cm",
+            "C. 4.5 cm",
+            "D. 5.5 cm",
+            "E. 6 cm"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 19,
+        "question": "Une dissection de l'aorte aigu\u00eb qui part de l'aorte ascendante et s'\u00e9tend jusqu'\u00e0 la fin de l'aorte correspond aux:",
+        "options": [
+            "A. DeBakey type I",
+            "B. Stanford type B",
+            "C. Stanford type A",
+            "D. DeBakey type III",
+            "E. DeBakey type II"
+        ],
+        "correct_answers": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 20,
+        "question": "un patient avec anevrisme de l'aorte ascendante de 6.4cm et insuffisance aortique s\u00e9v\u00e8re peut \u00eatre op\u00e9r\u00e9 par:",
+        "options": [
+            "A. Bentall",
+            "B. remplacement de l'aorte ascendante",
+            "C. Tirone-David",
+            "D. Ross",
+            "E. Remplacement s\u00e9par\u00e9es d'aorte ascendante et de la valve aortique"
+        ],
+        "correct_answers": [
+            "A",
+            "E"
+        ]
+    }
 ]
