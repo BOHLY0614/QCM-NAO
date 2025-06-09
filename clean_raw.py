@@ -20,9 +20,9 @@ def process_file(input_file, cleaned_file, answers_file):
             outfile_cleaned.write(line)
 
 # Noms des fichiers
-input_file = r"QCM NAO\Raw TXT\Urologie.txt"
-cleaned_file = "Urologie.txt"
-answers_file = "REP_Urologie.txt"
+input_file = r"QCM NAO\Raw TXT\MCS.txt"
+cleaned_file = "MCS.txt"
+answers_file = "REP_MCS.txt"
 
 # Traitement du fichier
 process_file(input_file, cleaned_file, answers_file)

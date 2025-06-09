@@ -70,10 +70,10 @@ def read_questions_and_answers(questions_filename, answers_filename):
 
 
 #Partie pour radio
-questions = read_questions_and_answers("QCM NAO/Raw TXT/Urologie.txt", "QCM NAO/Raw TXT/REP_Urologie.txt")
+questions = read_questions_and_answers("QCM NAO/Raw TXT/MCS.txt", "QCM NAO/Raw TXT/REP_MCS.txt")
 
 
-input_file = "QCM NAO/Raw TXT/REP_Urologie.txt"
+input_file = "QCM NAO/Raw TXT/REP_MCS.txt"
 convert_to_uppercase_inplace(input_file)
 
 
@@ -94,7 +94,7 @@ for question in questions:
 
 # Pour chaque groupe de questions, écrivez les questions dans un fichier JSON séparé
 for chapitre, groupe in groupes.items():
-    nom_fichier = f"Urologie.json"
+    nom_fichier = f"MCS.json"
     with open(nom_fichier, "w") as f:
         json.dump([q.__dict__ for q in groupe], f, indent=4)
 

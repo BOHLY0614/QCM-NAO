@@ -1,0 +1,652 @@
+[
+  {
+    "chapitre": 0,
+    "id": 1,
+    "question": "Apr\u00e8s le degr\u00e9 d'originalit\u00e9 et de courtage, les sources documentaires sont divis\u00e9es en quatre cat\u00e9gories",
+    "options": [
+      "a. documents primaires",
+      "b. documents secondaires",
+      "c. les documents tertiaires",
+      "d. les documents quaternaires",
+      "e. document commerciel"
+    ],
+    "correct_answers": ["D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 2,
+    "question": "Outils g\u00e9n\u00e9raux de la recherche scientifique sont les suivants:",
+    "options": [
+      "a. biblioth\u00e8ques",
+      "a. L'ordinateur",
+      "b. Statistiques",
+      "c. les journaux",
+      "e. la t\u00e9l\u00e9vision"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 3,
+    "question": "la documentation scientifique :",
+    "options": [
+      "a. organise la science des connaissances sp\u00e9cialis\u00e9es",
+      "b. ne pas consult\u00e9 les documents relatifs \u00e0 des objets",
+      "c. Donnes Tous les documents sur un sujet",
+      "d. le travail implique un groupe de personnes qui sont int\u00e9ress\u00e9 par un sujet particulier",
+      "e. organise la science des connaissances g\u00e9n\u00e9rales"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 4,
+    "question": "Motivation et objectifs de la recherche scientifique :",
+    "options": [
+      "a. l'information orient\u00e9e vers la formation",
+      "b. l'information orient\u00e9e vers la recherche",
+      "c. l'organisation des connaissances sp\u00e9cialis\u00e9es",
+      "d. La diffusion des r\u00e9sultats personnels",
+      "e. La diffusion des r\u00e9sultats de l\u2019universit\u00e9"
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 5,
+    "question": "Les \u00e9tapes de la documentation scientifique sont :",
+    "options": [
+      "a. Le choix des sources d'information",
+      "b. La s\u00e9lection de documents",
+      "c. Le choix des principes de recherche",
+      "d. l\u2019analyse documentaire",
+      "e. L\u2019analyse de laboratoire"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 6,
+    "question": "L\u2019analyse documentaire comprend :",
+    "options": [
+      "a. L\u2019utilisation d'une m\u00e9thode appropri\u00e9e pour l'\u00e9tude",
+      "b. La description pr\u00e9cise de la m\u00e9thode de travail",
+      "c. La r\u00e9daction d'un article scientifique",
+      "d. Choisir des mots cl\u00e9s",
+      "e. La description pr\u00e9cise des r\u00e9sultats"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 7,
+    "question": "Les biblioth\u00e8ques:",
+    "options": [
+      "a. Sont des sources documentaires",
+      "b. Sont classiques et \u00e9lectroniques",
+      "c. Sont le lieu ou on fait la recherche",
+      "d. sont apparu premi\u00e8rement chez les babyloniens",
+      "e. Sont seulement classiques"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 8,
+    "question": "Les bases de donn\u00e9es fournis:",
+    "options": [
+      "a. L\u2019acc\u00e8s \u00e0 des r\u00e9sum\u00e9s et des textes complets",
+      "b. Toutes les informations concernant: auteur, titre, nom de la revue, ann\u00e9e de publication",
+      "c. Fra\u00eeches informations sur les articles d'int\u00e9r\u00eat",
+      "d. Plusieurs types d\u2019interrogation de base de donn\u00e9es selon les crit\u00e8res de recherches",
+      "e. Seulement l'acc\u00e8s au textes complets"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 9,
+    "question": "* Quelle est la plus grande base de donn\u00e9es m\u00e9dicales en ligne :",
+    "options": [
+      "a. \u00c9tats-Unis National Library of Medicine (PubMed)",
+      "b. De Windows",
+      "c. Internet Explorer",
+      "d. World Wide Web",
+      "e. Embase"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 10,
+    "question": "L'importance d'\u00e9crire les documents scientifiques:",
+    "options": [
+      "a. La pr\u00e9sentation \u00e9crite des r\u00e9sultats pour que soit accessible \u00e0 tous les chercheurs",
+      "b. L\u2019expression \u00e9crite clarifie une id\u00e9e",
+      "c. contribution pour l\u2019\u00e9chantillon des travaux dans le m\u00eame domaine",
+      "d. information orient\u00e9e pour la formation professionnelle",
+      "e. seulement pour le CV de l\u2019auteur"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 11,
+    "question": "Le chapitre d\u2019introduction dans une pr\u00e9sentation scientifique :",
+    "options": [
+      "a. sera mis en 5 minutes",
+      "b. sera mis en 1 minutes",
+      "c. doit toucher la nature du sujet pr\u00e9sent\u00e9",
+      "d. doit expliquer l'\u00e9tude de concept",
+      "e. doit expliquer les r\u00e9sultats de l\u2019\u00e9tude"
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 12,
+    "question": "Le chapitre \u201cMat\u00e9riaux et m\u00e9thodes\u201d dans une pr\u00e9sentation scientifique :",
+    "options": [
+      "a. Indique le mat\u00e9riaux \u00e9tudi\u00e9",
+      "b. Introduit les commentaires personnels",
+      "c. Indique les \u00e9l\u00e9ments test\u00e9s",
+      "d. Introduit quelques r\u00e9sultats",
+      "e. Explique les m\u00e9thodes statistiques utilis\u00e9es REP:"
+    ],
+    "correct_answers": ["A", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 13,
+    "question": "Le chapitre \u201cR\u00e9sultats\u201d dans une pr\u00e9sentation scientifique :",
+    "options": [
+      "a. Exprime la fin de but de la recherche",
+      "b. Repr\u00e9sente le noyau central de la recherche",
+      "c. Permet chez le lecteur de formuler leurs propres conclusions",
+      "d. Permet de compara\u00eetre les r\u00e9sultats personnels avec ceux d'autres auteurs",
+      "e. C\u2019est le dernier chapitre"
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 14,
+    "question": "Le chapitre \u201cDiscussion\u201d dans une pr\u00e9sentation scientifique :",
+    "options": [
+      "a. Pr\u00e9cise si l'objectif de la recherche a \u00e9t\u00e9 atteint ou non",
+      "b. \u00e9tablit la contribution de la recherche au milieu des connaissances dans le domaine \u00e9tudi\u00e9e",
+      "c. d\u00e9crit la m\u00e9thode utilis\u00e9e",
+      "d. permet la comparaison des r\u00e9sultats personnels avec ceux d'autres auteurs",
+      "e. d\u00e9crit les m\u00e9thodes statistiques"
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 15,
+    "question": "Les r\u00e9f\u00e9rences bibliographiques dans une pr\u00e9sentation scientifique :",
+    "options": [
+      "a. Sert \u00e0 justifier tous les faits / ensemble de donn\u00e9es",
+      "b. Permet l'envoi du lecteur chez des articles, des manuels, des monographies",
+      "c. sont mentionn\u00e9s au d\u00e9but de la pr\u00e9sentation",
+      "d. Toutes les options sont correctes",
+      "e. Sont mentionn\u00e9es au fin de la pr\u00e9sentation"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 16,
+    "question": "* Dans une pr\u00e9sentation scientifique n\u2019est pas autoris\u00e9e :",
+    "options": [
+      "a. Maximum 7 mots sur une colonne",
+      "b. Maximum 7 mots par ligne",
+      "c. Maximum 7 colonnes sur une diapositive",
+      "d. Tous ci-dessus sont corrects",
+      "e. Aucun n\u2019est correct"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 17,
+    "question": "Dans une pr\u00e9sentation scientifique:",
+    "options": [
+      "a. le contenu est expos\u00e9 largement dans les diapositives",
+      "b. Le contenu est pr\u00e9sent\u00e9 seulement comme des id\u00e9es",
+      "c. Le texte dans une diapositive est r\u00e9parti uniform\u00e9ment sur toute la surface de la diapositive",
+      "d. Les informations contenues dans les tabelles sont r\u00e9p\u00e9t\u00e9es dans le texte sur la diapositive",
+      "e. Les bibliographies este mentionn\u00e9 au d\u00e9but de la pr\u00e9sentation"
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 18,
+    "question": "Le chapitre \u201cR\u00e9sultats\u201d dans une pr\u00e9sentation scientifique :",
+    "options": [
+      "a. Exprime la fin du but de la recherche",
+      "b. permet au lecteur de formuler leurs propres conclusions",
+      "c. Doivent \u00eatre pr\u00e9sent\u00e9s dans l'ordre chronologique",
+      "d. Toutes les options sont incorrectes",
+      "e. Doivent \u00eatre pr\u00e9sentes apr\u00e8s la bibliographie"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 19,
+    "question": "Dans la structure d\u2019une pr\u00e9sentation scientifique se trouvent les parties suivantes:",
+    "options": [
+      "a. L\u2019Introduction",
+      "b. Les r\u00e9sultats",
+      "c. La m\u00e9decine fond\u00e9e sur les preuves",
+      "d. Les conclusions",
+      "e. Les r\u00e9f\u00e9rences"
+    ],
+    "correct_answers": ["A", "B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 20,
+    "question": "*Dans une pr\u00e9sentation scientifique:",
+    "options": [
+      "a. pour les r\u00e9sultats, la partie la plus importante, est attribu\u00e9e la plus longue dur\u00e9e",
+      "b. le mat\u00e9riel et la m\u00e9thode ont la plus longue dur\u00e9e",
+      "c. l\u2019introduction c\u2019est la partie la plus importante",
+      "d. les conclusions ont la plus longue dur\u00e9e",
+      "e. La bibliographie \u00e0 la plus longue dur\u00e9e"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 21,
+    "question": "Un essai clinique devient pertinente lorsque:",
+    "options": [
+      "a. Est randomis\u00e9",
+      "b. le m\u00e9decin sait tout sur le traitement administre aux groupes d'\u00e9tude",
+      "c. Les patients qui ne sont pas rest\u00e9s dans l'\u00e9tude jusqu'\u00e0 la fin sont exclus des statistiques",
+      "d. Le suivi des patients est effectu\u00e9 sur une p\u00e9riode longue",
+      "e. Est bas\u00e9 exclusivement sur des pr\u00e9sentations de cas"
+    ],
+    "correct_answers": ["A", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 22,
+    "question": "La recherche :",
+    "options": [
+      "a. Commence par une question ou un probl\u00e8me qui doit \u00eatre r\u00e9solu",
+      "b. Vise une proc\u00e9dure sp\u00e9cifique pour r\u00e9soudre le probl\u00e8me",
+      "c. Ne n\u00e9cessite pas un objectif clair, il sera d\u00e9termin\u00e9 par les r\u00e9sultats",
+      "d. Implique en divisant le principal probl\u00e8me dans de nombreux probl\u00e8mes qui peuvent \u00eatre r\u00e9solus s\u00e9par\u00e9ment",
+      "e. N\u2019a pas aucune importance dans le contexte de la m\u00e9decine actuelle"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 23,
+    "question": "La recherche :",
+    "options": [
+      "a. A besoin d'un objectif clair, bien d\u00e9fini",
+      "b. Le r\u00e9sultat final exige intuition",
+      "c. implique la collecte et l'interpr\u00e9tation des donn\u00e9es obtenues",
+      "d. exige d\u2019une pr\u00e9paration logistique pr\u00e9alable",
+      "e. n\u2019a pas un objectif clair"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 24,
+    "question": "* La bibliographie dans un article m\u00e9dical :",
+    "options": [
+      "a. repr\u00e9sente les articles m\u00e9dicaux qui sont en vigueur utilis\u00e9 pour soutenir les id\u00e9es pr\u00e9sent\u00e9es",
+      "b. peut inclure des documents pr\u00e9sent\u00e9s lors de r\u00e9unions m\u00e9dicales",
+      "c. les indications bibliographiques sont plac\u00e9es avant que les signes de ponctuation",
+      "d. on peut utiliser plusieurs syst\u00e8mes de r\u00e9f\u00e9rence (Harvard Vancouver) dans un seul article m\u00e9dical",
+      "e. son pose avant le chapitre \u201cmat\u00e9riel est m\u00e9thodes\u201d"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 25,
+    "question": "En cherchant des r\u00e9ponses aux questions cliniques est fondamental de faire appel \u00e0:",
+    "options": [
+      "a. Bases de donn\u00e9es en ligne (PubMed)",
+      "b. La litt\u00e9rature",
+      "c. l'exp\u00e9rience clinique des autres m\u00e9decins connus",
+      "d. L\u2019opinion d'autres coll\u00e8gues m\u00e9decins",
+      "e. Seulement sur des pr\u00e9sentation des cas"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 26,
+    "question": "Dans une pr\u00e9sentation scientifique on est permit:",
+    "options": [
+      "a. Maximum 7 mots par colonne",
+      "b. Maximum 7 mots dans une rang\u00e9e",
+      "c. Jusqu'\u00e0 7 lignes sur une diapositive",
+      "d. Toutes les r\u00e9ponses ci-dessus sont correctes",
+      "e. Aucune r\u00e9ponses correcte"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 27,
+    "question": "Le chapitre \u201cR\u00e9sultats\u201d dans une pr\u00e9sentation scientifique:",
+    "options": [
+      "a. Est le point central de la pr\u00e9sentation",
+      "b. repr\u00e9sente 10% de l'information pr\u00e9sent\u00e9e",
+      "c. Repr\u00e9sente 33% de l'information pr\u00e9sent\u00e9e",
+      "d. Repr\u00e9sente 66% de l'information pr\u00e9sent\u00e9e",
+      "e. Est le plus court chapitre"
+    ],
+    "correct_answers": ["A", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 28,
+    "question": "Le titre d'un article scientifique m\u00e9dical :",
+    "options": [
+      "a. devrait inciter le lecteur \u00e0 lire le r\u00e9sum\u00e9",
+      "b. R\u00e9sum\u00e9 la conception de l'\u00e9tude d\u00e9crite dans l'article",
+      "c. O\u00f9 soit le cas, il indique les esp\u00e8ces d\u2019animales utilis\u00e9es dans l'\u00e9tude d\u00e9crite",
+      "d. Indique le type d'\u00e9tude utilis\u00e9",
+      "e. Il n\u2019est pas orientatif pur l\u2019\u00e9tude"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 29,
+    "question": "Le chapitre \u201cIntroduction\u201d :",
+    "options": [
+      "a. doit expliquer pourquoi l'\u00e9tude est importante",
+      "b. D\u00e9crit en d\u00e9tail le probl\u00e8me en question",
+      "c. cite les travaux ant\u00e9rieurs qui soutiennent l'id\u00e9e pr\u00e9sent\u00e9e",
+      "d. illustre l'objet de l'\u00e9tude et l\u2019hypoth\u00e8se de travail",
+      "e. explique la m\u00e9thode statistique"
+    ],
+    "correct_answers": ["A", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 30,
+    "question": "Le chapitre \u201cMat\u00e9riel et m\u00e9thodes\u201d:",
+    "options": [
+      "a. Montre entre parenth\u00e8ses les noms commerciaux de produits m\u00e9dicaux utilis\u00e9s",
+      "b. Doit pr\u00e9ciser la taille des lots utilis\u00e9s",
+      "c. Mentionne seulement les m\u00e9thodes statistiques utilis\u00e9es, sans donner des d\u00e9tails",
+      "d. si pr\u00e9sents crit\u00e8res d'inclusion on n\u2019est plus n\u00e9cessaire d'introduire ceux d'exclusion",
+      "e. ne d\u00e9crit pas les m\u00e9thodes statistiques utilis\u00e9es"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 31,
+    "question": "Le chapitre \"R\u00e9sultats\":",
+    "options": [
+      "a. Utilise des tableaux et des chiffres pour communiquer des informations plus facilement",
+      "b. r\u00e9p\u00e8te l'information des tableaux et figures dans le texte",
+      "c. Les r\u00e9sultats les plus importants sont pr\u00e9sent\u00e9s premi\u00e8rement",
+      "d. Ne montre que des r\u00e9sultats positifs",
+      "e. Montre toutes les m\u00e9thodes statistiques utilis\u00e9es"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 32,
+    "question": "Le chapitre \u201cDiscussions\u201d:",
+    "options": [
+      "a. Est pr\u00e9c\u00e9d\u00e9e par le Chapitre \u201cConclusions\u201d",
+      "b. Vise un d\u00e9bat sur des informations d\u00e9j\u00e0 publi\u00e9 sur le m\u00eame th\u00e8me",
+      "c. Il est suivi par le chapitre \u201cConclusions\u201d",
+      "d. Compare les nouvelles informations obtenues \u00e0 la suite de l'\u00e9tude avec ceux de la litt\u00e9rature",
+      "e. Utilise des tableaux est des figures"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 33,
+    "question": "Le chapitre \u201cConclusions\u201d:",
+    "options": [
+      "a. Il est suivi par le chapitre \u201cDiscussions\u201d",
+      "b. Indique les applications cliniques des r\u00e9sultats obtenus",
+      "c. Pr\u00e9cise si des \u00e9tudes suppl\u00e9mentaires sont n\u00e9cessaires pour fournir une r\u00e9ponse plus pr\u00e9cise",
+      "d. R\u00e9sum\u00e9 l'\u00e9tude",
+      "e. D\u00e9crit les m\u00e9thodes statistiques"
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 34,
+    "question": "*Dans un papier scientifique l\u2019illustrations pr\u00e9sente les caract\u00e9ristiques suivantes:",
+    "options": [
+      "a. Les figures (y compris les graphiques) doivent avoir un tr\u00e8s bon contraste",
+      "b. Les figures ne d\u00e9passent pas la taille du texte sur la page \u00e0 imprimer,",
+      "c. Les figures sont num\u00e9rot\u00e9es par chapitres",
+      "d. tous les r\u00e9ponses sont correctes",
+      "e. aucun response corrects"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 35,
+    "question": "Dans un papier scientifique, les caract\u00e9ristiques des tableaux sont :",
+    "options": [
+      "a. Les tableaux d\u2019un papier doivent avoir une pr\u00e9sentation uniforme",
+      "b. Chaque tableau doit \u00eatre num\u00e9rot\u00e9 et avoir un titre",
+      "c. la num\u00e9rotation des tableaux se fait par chapitres",
+      "d. Pas de version correcte",
+      "e. La num\u00e9rotations des tableaux se fait exclusivement avec des chiffres romaines"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 36,
+    "question": "Les r\u00e9f\u00e9rences dans le texte aux tableaux seront prises :",
+    "options": [
+      "a. Par \u00e9crire le mot \u201cvoir le tableau\u201d suivi par son nombre",
+      "b. S\u2019il y a des tables qui contiennent des notes (sources), ils seront \u00e9crits imm\u00e9diatement apr\u00e8s le tableau, en italique",
+      "c. Ne n\u00e9cessite pas de r\u00e9f\u00e9rences",
+      "d. Pas de version correcte",
+      "e. N\u00e9cessite des r\u00e9f\u00e9rences"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 37,
+    "question": "* La bibliographie:",
+    "options": [
+      "a. Est plac\u00e9 \u00e0 la fin du papier apr\u00e8s les annexes",
+      "b. Habituellement les titres bibliographiques sont \u00e9crits en ordre alphab\u00e9tique des auteurs",
+      "c. Si on a deux ou plusieurs auteurs pour un papier, la r\u00e8gle sur l'ordre alphab\u00e9tique est valable uniquement pour le premier nom.",
+      "d. toutes les r\u00e9ponses sont correctes",
+      "e. Aucune r\u00e9ponse correcte"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 38,
+    "question": "* Les r\u00e9f\u00e9rences dans le texte sur la bibliographie sont faites:",
+    "options": [
+      "a. par \u00e9crire entre parenth\u00e8ses, le num\u00e9ro de s\u00e9rie du papier",
+      "b. par \u00e9crire la page (exemple: 3, p 191)",
+      "c. par \u00e9crire le nom et l'ann\u00e9e de la publication de l'auteur",
+      "d. Tout ceux-ci s\u2019appliquent",
+      "e. Pas de r\u00e9ponses correctes"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 39,
+    "question": "* Le chapitre \u201cR\u00e9sultats\u201d:",
+    "options": [
+      "a. Ne pas utiliser les tables",
+      "b. Ne contient pas les figures pour communiquer des informations plus faciles",
+      "c. montre premi\u00e8rement les r\u00e9sultats les plus importante",
+      "d. Tout ceux-ci s\u2019appliquent",
+      "e. Aucune r\u00e9ponses correctes"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 40,
+    "question": "La structure d\u2019un papier:",
+    "options": [
+      "a. sera divis\u00e9 en: parties, chapitres, sous-chapitre, paragraphes",
+      "b. Contient : Introduction, Mat\u00e9riel et m\u00e9thodes, R\u00e9sultats, Discussion, Conclusions",
+      "c. Contient seulement une partie g\u00e9n\u00e9rale",
+      "d. Ne contient qu'une partie sp\u00e9ciale",
+      "e. Contient suelment les conclusions et la bibliographie"
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 41,
+    "question": "* La motivation et les objectifs de la recherche scientifique :",
+    "options": [
+      "a. N\u2019exige pas des informations cibl\u00e9es pour la formation professionnelle",
+      "b. ne n\u00e9cessite pas une information cibl\u00e9e sur l\u2019activit\u00e9 de recherche",
+      "c. exigent l'organisation de la connaissance sp\u00e9cialis\u00e9e",
+      "d. Aucune version correcte",
+      "e. Toutes les versions correctes"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 42,
+    "question": "* L'importance d\u2019\u00e9crire les documents scientifiques:",
+    "options": [
+      "a. n\u2019est pas la pr\u00e9sentation \u00e9crite des r\u00e9sultats pour qu\u2019ils soient accessibles \u00e0 tous les chercheurs",
+      "b. l'expression \u00e9crite ne clarifie pas une id\u00e9e",
+      "c. l\u2019augmentation de l\u2019\u00e9chantillon des revaux scientifiques du m\u00eame domaine",
+      "d. pas de version correcte",
+      "e. Toutes les versions correctes"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 43,
+    "question": "Qu'est-ce que c\u2019est le plagiat ?",
+    "options": [
+      "a. utiliser un mat\u00e9riel sans mentionner la source",
+      "b. L\u2019utilisation du mat\u00e9riel existant comme son propre",
+      "c. pr\u00e9senter des id\u00e9es \u00e0 d'autres personnes comme son propre",
+      "d. Un acte de fraude",
+      "e. Une r\u00e9ussite professionnelle"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 44,
+    "question": "Une \u0153uvre originale :",
+    "options": [
+      "a. Est le r\u00e9sultat de l'effort de cr\u00e9ation ind\u00e9pendante",
+      "b. est inspir\u00e9 et agrandi d\u2019un th\u00e8me d\u00e9j\u00e0 existant",
+      "c. peut-\u00eatre la synth\u00e8se d'autres \u0153uvres originales",
+      "d. toutes les r\u00e9ponses sont correctes",
+      "e. Aucune r\u00e9ponses correcte"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 45,
+    "question": "Quelles sont les cons\u00e9quences de plagiat ?",
+    "options": [
+      "a. diminue la r\u00e9putation acad\u00e9mique",
+      "b. L\u2019absence de nouveaut\u00e9",
+      "c. une tombe intellectuelle",
+      "d. La r\u00e9ussite professionnelle",
+      "e. la reconnaissance de la soci\u00e9t\u00e9 acad\u00e9mique"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 46,
+    "question": "Dans une pr\u00e9sentation scientifique:",
+    "options": [
+      "a. le pr\u00e9sentateur regarde l'\u00e9cran de projection",
+      "b. l'utilisation des pauses est encourag\u00e9e",
+      "c. La pr\u00e9sentation se termine avec la diapositive de remerciements",
+      "d. La pr\u00e9sentation se termine apr\u00e8s les questions et r\u00e9ponses",
+      "e. La pr\u00e9sentation suivie la structure de l\u2019article"
+    ],
+    "correct_answers": ["C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 47,
+    "question": "La r\u00e9daction scientifique d\u2019un papier (Les articles scientifiques, des pr\u00e9sentations, etc",
+    "options": [
+      "a. Une fa\u00e7on productive de la pens\u00e9e",
+      "b. Un moyen pratique pour identifier les d\u00e9faillances ou les erreurs logiques dans leur propre fa\u00e7on de penser",
+      "c. Un moyen de d\u00e9velopper l'infrastructure universitaire",
+      "d. Un moyen de faire de l\u2019argent",
+      "e. Aucune r\u00e9ponse n\u2019est correcte"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 48,
+    "question": "* Le r\u00e9sum\u00e9 de l'article scientifique m\u00e9dicale :",
+    "options": [
+      "a. Est \u00e9crit avant l'\u00e9tude",
+      "b. Est un r\u00e9sum\u00e9 de chaque section de l'article",
+      "c. Il est construit par copier les phrases les plus importantes de l\u2019article",
+      "d. Doit pr\u00e9senter seulement les conclusions de l\u2019\u00e9tude",
+      "e. toutes les r\u00e9ponses sont correctes"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 49,
+    "question": "La m\u00e9thodologie scientifique implique :",
+    "options": [
+      "a. l'identification d'un probl\u00e8me",
+      "b. \u00e9noncer une hypoth\u00e8se",
+      "c. L\u2019\u00e9nonciation d'un probl\u00e8me",
+      "d. La collecte des dates pertinente pour v\u00e9rifier l'hypoth\u00e8se",
+      "e. La recherche d\u2019une base des dates"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 50,
+    "question": "* L'hypoth\u00e8se repr\u00e9sente:",
+    "options": [
+      "a. Une fausse hypoth\u00e8se",
+      "b. Une hypoth\u00e8se logique",
+      "c. Un probl\u00e8me",
+      "d. une solution v\u00e9rifi\u00e9e",
+      "e. Aucunbe r\u00e9ponse"
+    ],
+    "correct_answers": ["B"]
+  }
+]

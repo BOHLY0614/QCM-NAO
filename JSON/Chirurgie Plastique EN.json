@@ -1,0 +1,825 @@
+[
+    {
+        "chapitre": 0,
+        "id": 1,
+        "question": "*Lequel des \u00e9l\u00e9ments suivants est un signe de l\u00e9sion art\u00e9rielle :",
+        "options": [
+            "A. Temp\u00e9rature \u00e9lev\u00e9e",
+            "B. Couleur rose",
+            "C. Pr\u00e9sence d'un pouls capillaire",
+            "D. Couleur blanche",
+            "E. Absence de couleur"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 2,
+        "question": "*Le cinqui\u00e8me doigt est innerv\u00e9 par le :",
+        "options": [
+            "A. Le nerf cubital",
+            "B. Le nerf m\u00e9dian",
+            "C. Nerf radial",
+            "D. Nerf musculo-cutan\u00e9",
+            "E. Nerf axillaire"
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 3,
+        "question": "*La dur\u00e9e maximale d'utilisation d'un garrot est de :",
+        "options": [
+            "A. 4h",
+            "B. 5h",
+            "C. 2h",
+            "D. 10h",
+            "E. 6h"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 4,
+        "question": "*La mise en place d'une attelle sur une articulation pour une luxation ferm\u00e9e est n\u00e9cessaire pour :",
+        "options": [
+            "A. 1 semaine",
+            "B. 6 semaines",
+            "C. 3 semaines",
+            "D. 4 semaines",
+            "E. 5 semaines"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 5,
+        "question": "*L'insertion du FDP (Flexor digiti profundous) se fait sur :",
+        "options": [
+            "A. La phalange proximale",
+            "B. La phalange moyenne",
+            "C. La phalange distale",
+            "D. Les os m\u00e9tacarpiens",
+            "E. Le scapho\u00efde"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 6,
+        "question": "L'anamn\u00e8se du patient souffrant d'un traumatisme de la main doit comprendre :",
+        "options": [
+            "A. Le dossier m\u00e9dical",
+            "B. All\u00e9gories",
+            "C. Vaccination",
+            "D. M\u00e9dicaments en cours",
+            "E. Connaissances m\u00e9dicales du patient"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 7,
+        "question": "L'examen des mains doit comprendre :",
+        "options": [
+            "A. La temp\u00e9rature de la peau",
+            "B. La couleur de la peau",
+            "C. Pression art\u00e9rielle",
+            "D. ECG",
+            "E. Taille"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 8,
+        "question": "Les l\u00e9sions art\u00e9rielles majeures d\u00e9terminent :",
+        "options": [
+            "A. Couleur p\u00e2le",
+            "B. Temp\u00e9rature froide",
+            "C. Absence de remplissage capillaire",
+            "D. Couleur rose",
+            "E. Temp\u00e9rature chaude"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 9,
+        "question": "Les l\u00e9sions osseuses et articulaires doivent \u00eatre \u00e9valu\u00e9es :",
+        "options": [
+            "A. Endoscopie",
+            "B. Radiographie",
+            "C. Deux incidences",
+            "D. ECG",
+            "E. Ne doit pas \u00eatre \u00e9valu\u00e9"
+        ],
+        "correct_answers": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 10,
+        "question": "Une l\u00e9sion nerveuse peut d\u00e9terminer :",
+        "options": [
+            "A. Une perte distale du remplissage capillaire",
+            "B. L'anesth\u00e9sie",
+            "C. Absence de mouvement du muscle innerv\u00e9",
+            "D. Temp\u00e9rature chaude",
+            "E. Couleur p\u00e2le"
+        ],
+        "correct_answers": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 11,
+        "question": "La sensibilit\u00e9 de la main est assur\u00e9e par les nerfs suivants :",
+        "options": [
+            "A. M\u00e9dian",
+            "B. Axillaire",
+            "C. Radial",
+            "D. Saph\u00e8ne",
+            "E. Ulnaire"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 12,
+        "question": "Le nerf cubital est responsable de :",
+        "options": [
+            "A. La sensibilit\u00e9 du pouce",
+            "B. La sensibilit\u00e9 du cinqui\u00e8me doigt",
+            "C. Mouvement d'extension",
+            "D. Abduction-adduction des doigts",
+            "E. Opposition du pouce"
+        ],
+        "correct_answers": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 13,
+        "question": "Les \u00e9tapes chirurgicales du traitement des traumatismes de la main sont les suivantes :",
+        "options": [
+            "A. La t\u00e9nod\u00e8se",
+            "B. D\u00e9bridement",
+            "C. Fixation osseuse",
+            "D. R\u00e9paration de la peau",
+            "E. Retrait des sutures"
+        ],
+        "correct_answers": [
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 14,
+        "question": "La position fonctionnelle de la main implique :",
+        "options": [
+            "A. 30-45\u00b0 de flexion ant\u00e9rieure",
+            "B. 30-45\u00b0 d'extension du poignet",
+            "C. 45-60\u00b0 flexion MP",
+            "D. 45-60\u00b0 extension MP",
+            "E. 10\u00b0 flexion IP"
+        ],
+        "correct_answers": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 15,
+        "question": "Syndrome des loges de la main :",
+        "options": [
+            "A. Pression \u00e9lev\u00e9e dans un compartiment ost\u00e9ofascial ferm\u00e9",
+            "B. Faible pression dans un compartiment ost\u00e9ofascial ferm\u00e9",
+            "C. Peut compromettre le flux sanguin vers les muscles",
+            "D. N\u00e9cessite un traitement imm\u00e9diat",
+            "E. Ne n\u00e9cessite pas de traitement imm\u00e9diat"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 16,
+        "question": "Les fractures de la main peuvent se pr\u00e9senter :",
+        "options": [
+            "A. Signe de Chwostek",
+            "B. Couleur p\u00e2le de la peau",
+            "C. Douleur",
+            "D. Ecchymoses",
+            "E. Mobilisation anormale de l'os"
+        ],
+        "correct_answers": [
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 17,
+        "question": "La fixation osseuse d'une fracture de la main peut comprendre :",
+        "options": [
+            "A. broche en K",
+            "B. Clou de Kunthscher",
+            "C. Clou Gamma",
+            "D. Vis",
+            "E. Plaque"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 18,
+        "question": "Les plaies mineures de la main peuvent \u00eatre trait\u00e9es :",
+        "options": [
+            "A. Uniquement au bloc op\u00e9ratoire",
+            "B. en salle d'urgence",
+            "C. par exploration de la plaie",
+            "D. par suture",
+            "E. avec fil de K"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 19,
+        "question": "La r\u00e9paration nerveuse :",
+        "options": [
+            "A. n'a pas d'impact fonctionnel",
+            "B. les meilleurs r\u00e9sultats sont obtenus avec une r\u00e9paration primaire",
+            "C. peut se faire avec une greffe de nerf",
+            "D. par intention secondaire est moins difficile",
+            "E. utilise une attelle pendant 3 mois"
+        ],
+        "correct_answers": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 20,
+        "question": "Les plaies des tendons sont trait\u00e9es :",
+        "options": [
+            "A. par une suture non r\u00e9sorbable",
+            "B. \u00e0 l'aide d'une attelle pendant 3 mois",
+            "C. \u00e0 l'aide d'une attelle pendant 3 semaines",
+            "D. en interdisant tout mouvement",
+            "E. par des mouvements passifs et actifs contr\u00f4l\u00e9s"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 21,
+        "question": "Les plaies du tendon fl\u00e9chisseur :",
+        "options": [
+            "A. n\u00e9cessite une attelle apr\u00e8s r\u00e9paration pendant 1 semaine",
+            "B. n\u00e9cessite une attelle apr\u00e8s r\u00e9paration pendant 3 semaines",
+            "C. G\u00e9n\u00e9ralement, le FTP et le FTS doivent \u00eatre sutur\u00e9s.",
+            "D. Utilisation d'une suture r\u00e9sorbable",
+            "E. T\u00e9nolyse performante apr\u00e8s 2 semaines"
+        ],
+        "correct_answers": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 22,
+        "question": "La chirurgie de l'amputation doit pr\u00e9server :",
+        "options": [
+            "A. La longueur",
+            "B. La mobilit\u00e9",
+            "C. Sensation",
+            "D. Esth\u00e9tique",
+            "E. Surface"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 23,
+        "question": "Les indications de la revascularisation sont les suivantes :",
+        "options": [
+            "A. Amputation du pouce",
+            "B. Amputation du bras",
+            "C. Presque toutes les amputations chez les enfants",
+            "D. Amputation de la main",
+            "E. Blessure par \u00e9crasement"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 24,
+        "question": "La revascularisation n'est pas indiqu\u00e9e dans :",
+        "options": [
+            "A. Amputation du pouce",
+            "B. L'amputation de la main",
+            "C. Blessure par \u00e9crasement",
+            "D. Amputation \u00e0 plusieurs niveaux",
+            "E. Jeunes patients"
+        ],
+        "correct_answers": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 25,
+        "question": "Les \u00e9tapes chirurgicales de la revascularisation d'une amputation peuvent comprendre :",
+        "options": [
+            "A. Le d\u00e9bridement",
+            "B. Fixation osseuse",
+            "C. Bandage compressif",
+            "D. Suture des vaisseaux",
+            "E. Suture du tendon"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 26,
+        "question": "L'American Burn Association a identifi\u00e9 les l\u00e9sions suivantes comme \u00e9tant celles qui n\u00e9cessitent g\u00e9n\u00e9ralement un transfert vers une unit\u00e9 de traitement des br\u00fblures",
+        "options": [
+            "A. br\u00fblures du deuxi\u00e8me et du troisi\u00e8me degr\u00e9 sup\u00e9rieures \u00e0 10 % de la surface corporelle chez les patients \u00e2g\u00e9s de moins de 10 ans et de plus de 50 ans.",
+            "B. br\u00fblures du deuxi\u00e8me et du troisi\u00e8me degr\u00e9 chez les patients pr\u00e9sentant une atteinte du visage, des mains, des pieds, des organes g\u00e9nitaux et du p\u00e9rin\u00e9e",
+            "C. br\u00fblures majeures, br\u00fblures du troisi\u00e8me degr\u00e9 sup\u00e9rieures \u00e0 5 % de la surface corporelle, quel que soit le groupe d'\u00e2ge.",
+            "D. br\u00fblures du premier degr\u00e9 sup\u00e9rieures \u00e0 2 % de la surface corporelle",
+            "E. br\u00fblures superficielles"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 27,
+        "question": "Le premier degr\u00e9 est superficiel",
+        "options": [
+            "A. le soleil",
+            "B. la peau est \u00e9ryth\u00e9mateuse",
+            "C. est tr\u00e8s douloureuse",
+            "D. la peau est bleue",
+            "E. n'est pas douloureuse"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 28,
+        "question": "La br\u00fblure au deuxi\u00e8me degr\u00e9 (\u00e9paisseur partielle) :",
+        "options": [
+            "A. est caus\u00e9e par le contact avec un liquide ou un solide chaud",
+            "B. est caus\u00e9e par le contact avec des solides chauds",
+            "C. peut \u00eatre caus\u00e9e par l'ingestion de liquides froids",
+            "D. ne peut pas \u00eatre caus\u00e9e par des liquides chauds",
+            "E. ne peut \u00eatre caus\u00e9e par une substance chimique"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 29,
+        "question": "Les br\u00fblures au deuxi\u00e8me degr\u00e9 d'\u00e9paisseur partielle :",
+        "options": [
+            "A. ne peuvent pas \u00eatre caus\u00e9es par l'embrasement des v\u00eatements",
+            "B. ne peuvent pas \u00eatre caus\u00e9es par des flammes directes",
+            "C. l'aspect de la surface est celui de taches humides, de cloques",
+            "D. la couleur est marbr\u00e9e de blanc \u00e0 rose, rouge cerise",
+            "E. tr\u00e8s douloureuse"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 30,
+        "question": "La l\u00e9sion de br\u00fblure au deuxi\u00e8me degr\u00e9 de pleine \u00e9paisseur :",
+        "options": [
+            "A. Sont caus\u00e9es par le contact avec des liquides ou des solides chauds",
+            "B. sont caus\u00e9es par une flamme",
+            "C. Elles peuvent \u00eatre d'origine chimique ou \u00e9lectrique",
+            "D. Sont caus\u00e9es par une longue exposition au soleil",
+            "E. la peau est rouge"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 31,
+        "question": "La l\u00e9sion de br\u00fblure au deuxi\u00e8me degr\u00e9 d'\u00e9paisseur :",
+        "options": [
+            "A. La peau est s\u00e8che avec une escarre coriace jusqu'au d\u00e9bridement",
+            "B. vaisseaux carbonis\u00e9s, visibles sous l'escarre",
+            "C. la couleur est mixte, blanche, cireuse, nacr\u00e9e ou fonc\u00e9e",
+            "D. la douleur est faible ou inexistante",
+            "E. les cheveux ne peuvent pas \u00eatre arrach\u00e9s"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 32,
+        "question": "*La br\u00fblure du troisi\u00e8me degr\u00e9 implique les structures cutan\u00e9es sous-jacentes et :",
+        "options": [
+            "A. est provoqu\u00e9e par un contact prolong\u00e9 avec une flamme ou une source d'\u00e9lectricit\u00e9.",
+            "B. a le m\u00eame aspect que la l\u00e9sion du premier degr\u00e9",
+            "C. il n'y a pas de possibilit\u00e9 d'exposition de l'os",
+            "D. il n'y a pas de possibilit\u00e9 d'atteinte musculaire",
+            "E. il n'y a pas de possibilit\u00e9 d'affecter les tendons"
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 33,
+        "question": "Habituellement, on suit \"la r\u00e8gle des neuf\" et on consid\u00e8re :",
+        "options": [
+            "A. que les membres sup\u00e9rieurs sont \u00e0 9% de BS",
+            "B. que le thorax ant\u00e9rieur est \u00e0 18% de BS",
+            "C. que les membres inf\u00e9rieurs sont \u00e0 18% BS",
+            "D. que la t\u00eate et le cou sont \u00e0 10% BS",
+            "E. que le p\u00e9rin\u00e9e est \u00e0 1% BS"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 34,
+        "question": "*Lors de l'\u00e9valuation de la BSA, on peut utiliser la surface palmaire du patient qui est :",
+        "options": [
+            "A. 1% de la BS",
+            "B. 2% de la BS",
+            "C. 10 % de la BS",
+            "D. 5 % de la BS",
+            "E. 0,1 % de la BS"
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 35,
+        "question": "Le pronostic est calcul\u00e9 apr\u00e8s le score ABSI ou indice de Beaux",
+        "options": [
+            "A. Le BSA",
+            "B. L'\u00e9thiologie",
+            "C. La profondeur de la br\u00fblure",
+            "D. l'\u00e2ge",
+            "E. le sexe"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 36,
+        "question": "*Le pronostic est calcul\u00e9 apr\u00e8s l'ABSI de cette fa\u00e7on :",
+        "options": [
+            "A. IP = % BSA",
+            "B. IP = % BSA x temps",
+            "C. IP = % BSA x sexe",
+            "D. IP = % BSA x \u00e2ge",
+            "E. IP = % BSA x degr\u00e9 de br\u00fblure"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 37,
+        "question": "Les plaies doivent \u00eatre abondamment lav\u00e9es avec :",
+        "options": [
+            "A. une solution saline \u00e0 temp\u00e9rature ambiante",
+            "B. du s\u00e9rum physiologique froid",
+            "C. du s\u00e9rum physiologique chaud",
+            "D. un lavage d\u00e9licat avec un savon doux et un gant de toilette",
+            "E. de l'eau fra\u00eeche"
+        ],
+        "correct_answers": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 38,
+        "question": "Le traitement des ampoules est controvers\u00e9",
+        "options": [
+            "A. que les cloques qui se sont rompues ou qui semblent sur le point de se rompre doivent \u00eatre d\u00e9brid\u00e9es",
+            "B. que les ampoules qui se sont rompues ou qui semblent sur le point de se rompre ne doivent pas \u00eatre d\u00e9brid\u00e9es",
+            "C. que toute ampoule qui interf\u00e8re avec la fonction de mouvement doit \u00eatre d\u00e9brid\u00e9e",
+            "D. il n'y a pas de soins importants pour les ampoules",
+            "E. on peut la laisser sans traitement \u00e0 tout moment dans une l\u00e9sion de br\u00fblure, on ne peut pas parler de cloques."
+        ],
+        "correct_answers": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 39,
+        "question": "Une br\u00fblure par flamme survenant dans un espace restreint est susceptible de provoquer des l\u00e9sions importantes par inhalation",
+        "options": [
+            "A. l'encombrement",
+            "B. le stridor",
+            "C. le manque d'air",
+            "D. le mal de t\u00eate",
+            "E. les yeux rouges"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 40,
+        "question": "*Nous pouvons effectuer une excision tangentielle pour les br\u00fblures du troisi\u00e8me degr\u00e9 dans :",
+        "options": [
+            "A. 10% BSA",
+            "B. 20% BSA",
+            "C. 15 % BSA",
+            "D. 25 % BSA",
+            "E. 30% BSA"
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 41,
+        "question": "Les greffes de peau peuvent \u00eatre pr\u00e9lev\u00e9es sur :",
+        "options": [
+            "A. la face ant\u00e9rieure des membres inf\u00e9rieurs",
+            "B. l'abdomen",
+            "C. le visage",
+            "D. les doigts",
+            "E. les oreilles"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 42,
+        "question": "*Normalement, une br\u00fblure au deuxi\u00e8me degr\u00e9 est gu\u00e9rie au bout de :",
+        "options": [
+            "A. trois semaines",
+            "B. 14 jours",
+            "C. 50 jours*",
+            "D. Une semaine",
+            "E. Un mois"
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 43,
+        "question": "Les objectifs g\u00e9n\u00e9raux de la r\u00e9\u00e9ducation sont :",
+        "options": [
+            "A. limiter ou pr\u00e9venir la perte de mouvement",
+            "B. pr\u00e9venir ou minimiser les d\u00e9formations anatomiques",
+            "C. pr\u00e9venir la perte de poids corporel (en particulier la masse musculaire)",
+            "D. ramener le patient au travail et \u00e0 l'activit\u00e9 le plus t\u00f4t et le plus compl\u00e8tement possible",
+            "E. sauver la vie"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 44,
+        "question": "Quelles sont les l\u00e9sions qui n\u00e9cessitent g\u00e9n\u00e9ralement d'\u00eatre transf\u00e9r\u00e9es au service des grands br\u00fbl\u00e9s ?",
+        "options": [
+            "A. les br\u00fblures du deuxi\u00e8me et du troisi\u00e8me degr\u00e9 de plus de 5 % de la surface corporelle chez les patients \u00e2g\u00e9s de moins de 10 ans et de plus de 50 ans.",
+            "B. br\u00fblures du deuxi\u00e8me et du troisi\u00e8me degr\u00e9 chez les patients dont les l\u00e9sions touchent le visage, les mains, les pieds, les organes g\u00e9nitaux et le p\u00e9rin\u00e9e.",
+            "C. br\u00fblures chez les patients pr\u00e9sentant des l\u00e9sions m\u00e9dicales pr\u00e9existantes ou d'autres br\u00fblures",
+            "D. br\u00fblures \u00e9lectriques ou br\u00fblures circonf\u00e9rentielles",
+            "E. br\u00fblures majeures, br\u00fblures du troisi\u00e8me degr\u00e9 de plus de 5% de la surface corporelle, tout \u00e2ge confondu"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 45,
+        "question": "Les br\u00fblures du deuxi\u00e8me degr\u00e9 sont caus\u00e9es par :",
+        "options": [
+            "A. le soleil",
+            "B. Les UV",
+            "C. les liquides chauds",
+            "D. l'embrasement d'un v\u00eatement",
+            "E. blessure chimique"
+        ],
+        "correct_answers": [
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 46,
+        "question": "Comment se pr\u00e9sente une br\u00fblure au premier degr\u00e9 ?",
+        "options": [
+            "A. la peau est \u00e9ryth\u00e9mateuse",
+            "B. la couleur est blanche m\u00e9lang\u00e9e",
+            "C. avec un os, un muscle ou un tendon expos\u00e9",
+            "D. des cloques humides",
+            "E. s\u00e8che, sans cloques, sans \u0153d\u00e8me"
+        ],
+        "correct_answers": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 47,
+        "question": "Comment calcule-t-on la BSA ?",
+        "options": [
+            "A. on consid\u00e8re que les membres sup\u00e9rieurs ou 18% de la BS, le thorax ant\u00e9rieur/post\u00e9rieur sont 18% de la BS, les membres inf\u00e9rieurs sont 18% de la BS, la t\u00eate et le cou sont 9% de la BS, le p\u00e9rin\u00e9e est 1%.",
+            "B. on peut utiliser la paume du patient qui est consid\u00e9r\u00e9e comme 5% de la BS",
+            "C. on consid\u00e8re que les membres sup\u00e9rieurs sont \u00e0 9% de la BS, le thorax ant\u00e9rieur/post\u00e9rieur \u00e0 18% de la BS, les membres inf\u00e9rieurs \u00e0 18% de la BS, la t\u00eate et le cou \u00e0 9% de la BS, le p\u00e9rin\u00e9e \u00e0 1%.",
+            "D. on consid\u00e8re que les membres sup\u00e9rieurs sont \u00e0 9% de BS, le thorax ant\u00e9rieur/post\u00e9rieur \u00e0 18%, les membres inf\u00e9rieurs \u00e0 18% de BS, la t\u00eate et le cou \u00e0 9%, le p\u00e9rin\u00e9e \u00e0 1% ou on peut utiliser la paume du patient qui est consid\u00e9r\u00e9e \u00e0 5% de BS",
+            "E. on peut utiliser la surface de la paume du patient qui est consid\u00e9r\u00e9e comme 1% de la BS"
+        ],
+        "correct_answers": [
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 48,
+        "question": "Diagnostic/Signes de l\u00e9sions par inhalation :",
+        "options": [
+            "A. poils nasaux br\u00fbl\u00e9s",
+            "B. br\u00fblures faciales",
+            "C. br\u00fblures oropharing\u00e9es",
+            "D. l'expectoration de crachats carbon\u00e9s est occasionnelle",
+            "E. l'expectoration de crachats carbon\u00e9s n'est jamais observ\u00e9e"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 49,
+        "question": "Les \u00e9tapes de l'\u00e9valuation de la plaie :",
+        "options": [
+            "A. l'\u00e9valuation est faite par le m\u00e9decin traitant dans la salle d'urgence",
+            "B. la pi\u00e8ce doit \u00eatre froide pour abaisser la temp\u00e9rature corporelle du patient avec une surveillance constante des signes vitaux",
+            "C. Les ampoules et la peau l\u00e2che sont d\u00e9brid\u00e9es. Si cela est indiqu\u00e9, c'est le moment id\u00e9al pour r\u00e9aliser des escarotomies.",
+            "D. Tous les patients pr\u00e9sentant des br\u00fblures doivent \u00eatre trait\u00e9s dans des lits sp\u00e9ciaux tels que les lits pneumatiques Clinitron ou les lits Flexicare.",
+            "E. Le traitement est effectu\u00e9 dans le service des br\u00fbl\u00e9s, dans une pi\u00e8ce chauff\u00e9e, avec une surveillance constante des signes vitaux."
+        ],
+        "correct_answers": [
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 50,
+        "question": "Qu'est-ce qui est utilis\u00e9 en chirurgie reconstructrice pour les patients br\u00fbl\u00e9s ?",
+        "options": [
+            "A. Plastie en Z, expanseurs tissulaires",
+            "B. Transfert de tissu libre",
+            "C. Matrices dermiques",
+            "D. injections",
+            "E. traitement des plaies"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    }
+]
