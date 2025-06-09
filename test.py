@@ -1,5 +1,5 @@
 import tkinter as tk
-from tkinter import ttk, scrolledtext
+from tkinter import ttk
 import json
 import random
 import time
@@ -100,86 +100,55 @@ class QCMApp(tk.Tk):
     def show_question(self):
         self.clear_frame(self.quiz_frame)
 
-        # Frame principale avec gestion de redimensionnement
-        main_container = ttk.Frame(self.quiz_frame)
-        main_container.pack(fill='both', expand=True)
+        # Frame principale pour centrer le contenu
+        container_frame = ttk.Frame(self.quiz_frame)
+        container_frame.pack(fill='both', expand=True, padx=20, pady=20)
         
         # Configuration pour un redimensionnement adaptatif
-        main_container.grid_columnconfigure(0, weight=1)
-        main_container.grid_rowconfigure(0, weight=1)  # Pour le contenu
-        main_container.grid_rowconfigure(1, weight=0)  # Pour le bouton
-        main_container.grid_rowconfigure(2, weight=0)  # Pour la barre d'info
+        container_frame.grid_columnconfigure(0, weight=1)
+        container_frame.grid_rowconfigure(0, weight=1)
+        container_frame.grid_rowconfigure(1, weight=1)
 
-        # Canvas avec barre de défilement
-        canvas = tk.Canvas(main_container)
-        scrollbar = ttk.Scrollbar(main_container, orient="vertical", command=canvas.yview)
-        scrollable_frame = ttk.Frame(canvas)
-
-        scrollable_frame.bind(
-            "<Configure>",
-            lambda e: canvas.configure(scrollregion=canvas.bbox("all"))
-        )
-
-        canvas.create_window((0, 0), window=scrollable_frame, anchor="nw")
-        canvas.configure(yscrollcommand=scrollbar.set)
-
-        canvas.grid(row=0, column=0, sticky="nsew")
-        scrollbar.grid(row=0, column=1, sticky="ns")
-
-        # Mise à jour dynamique de la largeur
-        def on_canvas_configure(event):
-            canvas.itemconfig("all", width=event.width)
-            scrollable_frame.configure(width=event.width)
-        
-        canvas.bind("<Configure>", on_canvas_configure)
+        # Frame pour le contenu principal
+        content_frame = ttk.Frame(container_frame)
+        content_frame.pack(fill='both', expand=True, padx=50, pady=50)
 
         question_data = self.current_chapter[self.current_question]
         
-        # Question avec label adaptatif
+        # Label de la question avec alignement à gauche
         question_label = ttk.Label(
-            scrollable_frame, 
+            content_frame, 
             text=question_data["question"],
             font=LARGE_FONT,
-            wraplength=self.winfo_width() - 100,  # Largeur adaptative
+            wraplength=1000,
             justify="left",
             anchor="w"
         )
-        question_label.pack(fill='x', padx=20, pady=20, anchor='w')
+        question_label.pack(fill='x', pady=(0, 20), anchor='w')
 
-        # Options avec labels adaptatifs
+        # Frame pour les options avec le même alignement que la question
+        options_frame = ttk.Frame(content_frame)
+        options_frame.pack(fill='both', expand=True, anchor='w')
+
         self.selected_answers = [tk.BooleanVar() for _ in question_data["options"]]
-        
+
         for i, option in enumerate(question_data["options"]):
-            option_frame = ttk.Frame(scrollable_frame)
-            option_frame.pack(fill='x', padx=20, pady=5, anchor='w')
+            option_frame = ttk.Frame(options_frame)
+            option_frame.pack(fill='x', pady=8, anchor='w')
             
-            # Case à cocher
             answer_checkbutton = ttk.Checkbutton(
                 option_frame, 
+                text=option,
                 variable=self.selected_answers[i],
                 style="Large.TCheckbutton"
             )
-            answer_checkbutton.pack(side='left', anchor='w', padx=(0, 10))
-            
-            # Texte de l'option avec adaptation dynamique
-            option_label = ttk.Label(
-                option_frame, 
-                text=option,
-                font=LARGE_FONT,
-                wraplength=self.winfo_width() - 150,  # Largeur adaptative
-                justify="left",
-                anchor="w"
-            )
-            option_label.pack(side='left', fill='x', expand=True, anchor='w')
-            
-            # Lier le label à la case à cocher
-            option_label.bind("<Button-1>", lambda e, cb=answer_checkbutton: cb.invoke())
+            answer_checkbutton.pack(side='left', anchor='w')
 
         self.style.configure("Large.TCheckbutton", font=LARGE_FONT)
 
-        # Bouton Suivant
-        button_frame = ttk.Frame(main_container)
-        button_frame.grid(row=1, column=0, columnspan=2, pady=20, sticky="ew")
+        # Bouton Suivant centré
+        button_frame = ttk.Frame(content_frame)
+        button_frame.pack(pady=40, anchor='center')
         
         next_button = ttk.Button(
             button_frame, 
@@ -190,8 +159,8 @@ class QCMApp(tk.Tk):
         next_button.pack(pady=20)
 
         # Barre d'information en bas
-        bottom_frame = ttk.Frame(main_container)
-        bottom_frame.grid(row=2, column=0, columnspan=2, sticky="ew", padx=20, pady=10)
+        bottom_frame = ttk.Frame(container_frame)
+        bottom_frame.pack(side='bottom', fill='x', padx=20, pady=20)
 
         elapsed_time = int(time.time() - self.start_time)
         hours, remainder = divmod(elapsed_time, 3600)
@@ -210,18 +179,6 @@ class QCMApp(tk.Tk):
             font=LARGE_FONT
         )
         remaining_label.pack(side='right')
-
-        # Mise à jour dynamique du wraplength
-        def update_wraplength(event):
-            new_width = event.width - 100
-            question_label.configure(wraplength=new_width)
-            for child in scrollable_frame.winfo_children():
-                if isinstance(child, ttk.Frame):
-                    for subchild in child.winfo_children():
-                        if isinstance(subchild, ttk.Label):
-                            subchild.configure(wraplength=new_width - 50)
-        
-        self.bind("<Configure>", update_wraplength)
 
     def check_answer(self):
         correct_answers = self.current_chapter[self.current_question]["correct_answers"]
@@ -254,24 +211,14 @@ class QCMApp(tk.Tk):
         center_frame = ttk.Frame(result_window)
         center_frame.pack(expand=True, fill='both', padx=50, pady=50)
 
-        # Zone de texte adaptative pour le résultat
-        result_frame = ttk.Frame(center_frame)
-        result_frame.pack(fill='both', expand=True)
-        
         result_label = ttk.Label(
-            result_frame, 
+            center_frame, 
             text=result_text,
             font=RESULT_FONT,
-            wraplength=700,  # Valeur initiale
+            wraplength=700,
             justify="center"
         )
-        result_label.pack(fill='both', expand=True, pady=20)
-        
-        # Mise à jour dynamique du wraplength
-        def update_result_wraplength(event):
-            result_label.configure(wraplength=event.width - 100)
-        
-        result_window.bind("<Configure>", update_result_wraplength)
+        result_label.pack(pady=20, expand=True)
 
         continue_button = ttk.Button(
             center_frame, 

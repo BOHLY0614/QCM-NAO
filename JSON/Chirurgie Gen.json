@@ -23,7 +23,7 @@
       "d. IRM abdominal",
       "e. Abdomen sans preparation"
     ],
-    "correct_answers": ["A", "C", "D"]
+    "correct_answers": ["C", "D"]
   },
   {
     "chapitre": 1,
@@ -303,7 +303,7 @@
       "d. L'effet stimulateur \u00e0 la TSH",
       "e. Des variations de la concentration des hormones thyro\u00efdiennes circulantes"
     ],
-    "correct_answers": ["C", "D", "E"]
+    "correct_answers": ["C", "D"]
   },
   {
     "chapitre": 1,
@@ -355,7 +355,7 @@
       "d. Aliments riches en lipides car ils acc\u00e9l\u00e8rent la vidange gastrique",
       "e. Ingestion des liquides alcalins imm\u00e9diatement apr\u00e8s le repas pour neutraliser l'exc\u00e8s d'acide de l'estomac"
     ],
-    "correct_answers": ["A", "B", "C", "E"]
+    "correct_answers": ["A", "B", "C"]
   },
   {
     "chapitre": 1,
@@ -368,7 +368,7 @@
       "d. Sympt\u00f4mes respiratoires",
       "e. La douleur \"en bar\""
     ],
-    "correct_answers": ["A", "B", "D"]
+    "correct_answers": ["A", "B", "D", "E"]
   },
   {
     "chapitre": 1,
@@ -580,19 +580,6 @@
   },
   {
     "chapitre": 1,
-    "id": 46,
-    "question": "Du point de vue de l'\u00e9tiologie, les occlusions intestinales sont:",
-    "options": [
-      "a. dynamique",
-      "b. aigu\u00eb",
-      "c. haute",
-      "d. m\u00e9canique",
-      "e. basse"
-    ],
-    "correct_answers": ["A", "D"]
-  },
-  {
-    "chapitre": 1,
     "id": 47,
     "question": "Du point de vue de la topographie, les occlusions intestinales sont:",
     "options": [
@@ -615,7 +602,7 @@
       "d. choc toxique septique",
       "e. p\u00e9ritonites secondaires"
     ],
-    "correct_answers": ["A", "C", "D", "E"]
+    "correct_answers": ["A", "B", "D", "E"]
   },
   {
     "chapitre": 1,
@@ -628,7 +615,7 @@
       "d. asth\u00e9nie, vertiges, p\u00e2leur",
       "e. non sp\u00e9cifiques"
     ],
-    "correct_answers": ["B", "C", "D"]
+    "correct_answers": ["B", "C", "E"]
   },
   {
     "chapitre": 1,
@@ -1010,7 +997,7 @@
   {
     "chapitre": 1,
     "id": 79,
-    "question": "l'installation de la d\u00e9fense microbienne est signe d'irritation p\u00e9riton\u00e9ale (p\u00e9ritonite). Lesquelles des affirmations sont correctes",
+    "question": "l'installation de la d\u00e9fense microbienne est signe d'irritation p\u00e9riton\u00e9ale (p\u00e9ritonite) Lesquelles des affirmations sont correctes",
     "options": [
       "A. signe Bloomberg repr\u00e9sente l'exacerbation de la douleur de la palpation",
       "B. signe bloomberg consiste dans l'exacerbation de la douleur suite \u00e0 la d\u00e9compression brusque apr\u00e8s la palpation",
@@ -1408,7 +1395,7 @@
       "d. Adenome benin",
       "e. Kyste hydatique du foie"
     ],
-    "correct_answers": ["A", "D"]
+    "correct_answers": ["B", "D"]
   },
   {
     "chapitre": 1,
@@ -1421,7 +1408,7 @@
       "d. Pseudo kyste pancreatique",
       "e. Sequestration pancreatique"
     ],
-    "correct_answers": ["A", "B", "C", "E"]
+    "correct_answers": ["B", "C", "D", "E"]
   },
   {
     "chapitre": 1,
@@ -1460,7 +1447,7 @@
       "d. Independemment de l\u2019evolution du plastron appendiculaire,le traitement chirurgical s\u2019effectue 3 a 6 mois apr\u00e8s l\u2019episode aigu",
       "e. L\u2019abord laparoscopique permet une reinsertion sociale plus rapide"
     ],
-    "correct_answers": ["A"]
+    "correct_answers": ["A", "C", "D"]
   },
   {
     "chapitre": 1,
@@ -1473,7 +1460,7 @@
       "d. Un traitement conservateur",
       "e. Drainage echo-guide si l\u2019evolution se fait vers un abces"
     ],
-    "correct_answers": ["C", "E"]
+    "correct_answers": ["C", "D", "E"]
   },
   {
     "chapitre": 1,
@@ -1486,7 +1473,7 @@
       "d. Permet d\u2019apprecier l\u2019epaisseur de la paroi de la vesicule biliaire",
       "e. Les informations concernant le canal biliaire principal sont tres precises"
     ],
-    "correct_answers": ["C", "D"]
+    "correct_answers": ["A", "B", "C", "D"]
   },
   {
     "chapitre": 1,
@@ -1499,7 +1486,7 @@
       "d. L\u2019objectif est d\u2019eliminer le calcul qui a migre dans l\u2019intestin",
       "e. L\u2019elimination de la fistule bilio-digestive est obligatoire"
     ],
-    "correct_answers": ["C"]
+    "correct_answers": ["E"]
   },
   {
     "chapitre": 1,
@@ -1512,7 +1499,7 @@
       "d. La frequence de l'ulcer est 3 fois plus grande",
       "e. L'incidence est en train d'augmenter"
     ],
-    "correct_answers": ["A", "C"]
+    "correct_answers": ["A", "B", "C"]
   },
   {
     "chapitre": 1,
@@ -1525,7 +1512,7 @@
       "d. Complications bolio-pancreatiques",
       "e. Fistules de bont duodenal ou d'anastomose"
     ],
-    "correct_answers": ["A", "C", "E"]
+    "correct_answers": ["A", "E"]
   },
   {
     "chapitre": 1,
@@ -1551,7 +1538,7 @@
       "d. Les ganglions situes le long de l'artere splenique",
       "e. Les ganglions situes a l'origine des vaisseaux mesenteriques superieures"
     ],
-    "correct_answers": ["A", "D", "E"]
+    "correct_answers": ["A", "B", "D"]
   },
   {
     "chapitre": 1,
@@ -1577,7 +1564,7 @@
       "d. La gastrectomie totale",
       "e. La chirurgie invasive"
     ],
-    "correct_answers": ["A", "C"]
+    "correct_answers": ["A", "E"]
   },
   {
     "chapitre": 1,
@@ -1590,7 +1577,7 @@
       "d. La compression",
       "e. La thrombose arterielle"
     ],
-    "correct_answers": ["A", "C", "D"]
+    "correct_answers": ["C", "D"]
   },
   {
     "chapitre": 1,
@@ -1603,7 +1590,7 @@
       "d. Le syndrome de compartiment",
       "e. Le syndrome myonephrotique"
     ],
-    "correct_answers": ["A", "B", "C", "D"]
+    "correct_answers": ["A", "D"]
   },
   {
     "chapitre": 1,
@@ -1733,14 +1720,14 @@
       "d. l'association des marqueurs inflammatoires",
       "e. le type histopathologique"
     ],
-    "correct_answers": ["B", "C", "E"]
+    "correct_answers": ["A", "B", "C", "E"]
   },
   {
     "chapitre": 1,
     "id": 135,
     "question": "* Le toucher rectal dans l'\u00e9valuation loco-r\u00e9gionale des tumeurs rectales peut d\u00e9tecter et \u00e9valuer des  tumeurs au maximum:",
     "options": ["a. 4 cm", "b. 12 cm", "c. 2 cm", "d. 1 cm", "e. 8 cm"],
-    "correct_answers": ["E"]
+    "correct_answers": ["A"]
   },
   {
     "chapitre": 1,
@@ -1753,7 +1740,7 @@
       "d. Il peut existe le signe Kehr comme simptomatologie: la douleur dans le hipocondre gauche avec irradiance dans l\u201depaule ou omoplate gauche",
       "e. Supposee de traitement conservateur pour les lesions minimales avec la sourveillance du patient."
     ],
-    "correct_answers": ["B", "C", "E"]
+    "correct_answers": ["B", "D", "E"]
   },
   {
     "chapitre": 1,
@@ -1766,7 +1753,7 @@
       "d. Il se peut complique et determinee une fistule chisto-biliaire.",
       "e. Le traitement avec medicaments suppose l\u201dadministration de Metronidazol en dose de 1500 mg/jour pour un homme adulte."
     ],
-    "correct_answers": ["B"]
+    "correct_answers": ["B", "C"]
   },
   {
     "chapitre": 1,
@@ -1779,7 +1766,7 @@
       "d. Douleur",
       "e. Paresthesia"
     ],
-    "correct_answers": ["C"]
+    "correct_answers": ["B"]
   },
   {
     "chapitre": 1,
@@ -1818,7 +1805,7 @@
       "d. Angioplastie percutanee (dilatation avec le balon)",
       "e. Simpatectomie toracale"
     ],
-    "correct_answers": ["A", "D"]
+    "correct_answers": ["A", "B", "D"]
   },
   {
     "chapitre": 1,
@@ -1896,7 +1883,7 @@
       "d. L\u2019effet des m\u00e9dicaments",
       "e. Des aliments goitrog\u00e8nes"
     ],
-    "correct_answers": ["A", "E"]
+    "correct_answers": ["A", "B", "E"]
   },
   {
     "chapitre": 1,
@@ -1909,7 +1896,7 @@
       "d. L\u2019alt\u00e9ration de la muqueuse de l\u2019\u0153sophage pourra conduire \u00e0 terme \u00e0 la st\u00e9nose du lumen de l\u2019\u0153sophage",
       "e. Dans des cas extr\u00eamement graves, il survient une performation \u0153sophagienne n\u00e9cessitant un traitement chirurgical d\u2019urgence"
     ],
-    "correct_answers": ["B", "D", "E"]
+    "correct_answers": ["A", "B", "D", "E"]
   },
   {
     "chapitre": 1,
@@ -1961,7 +1948,7 @@
       "d. Le neurinome",
       "e. Un hemangieome"
     ],
-    "correct_answers": ["D", "E"]
+    "correct_answers": ["C", "D", "E"]
   },
   {
     "chapitre": 1,
@@ -2039,7 +2026,7 @@
       "d. La rectocolite ulcero-hemorragique",
       "e. La dyskeratoseperianale deBowen"
     ],
-    "correct_answers": ["A", "B", "C", "D"]
+    "correct_answers": ["A", "B", "D", "E"]
   },
   {
     "chapitre": 1,
@@ -2065,7 +2052,7 @@
       "d. La thrombose hemorroidale",
       "e. La maladie hemorroidale"
     ],
-    "correct_answers": ["A", "B", "C"]
+    "correct_answers": ["A", "B", "C", "D"]
   },
   {
     "chapitre": 1,
