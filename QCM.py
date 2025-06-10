@@ -91,7 +91,7 @@ class QCMApp(tk.Tk):
         self.apply_theme()
         
         # Charger les données
-        self.chapter_files = ["QCM NAO/JSON/Chirurgie Cardio.json", "QCM NAO/JSON/Chirurgie Gen.json"] 
+        self.chapter_files = ["JSON/Chirurgie Cardio.json", "JSON/Chirurgie Gen.json"] 
         self.chapters = self.load_chapters()
         self.load_question_stats()
         self.create_main_menu()
@@ -336,7 +336,7 @@ class QCMApp(tk.Tk):
         for i, chapter_name in enumerate(self.chapter_files):
             chapter_button = ttk.Button(
                 button_frame, 
-                text=chapter_name[13:-5],
+                text=chapter_name[5:-5],
                 command=lambda i=i: self.start_quiz(i),
                 style="Large.TButton"
             )
