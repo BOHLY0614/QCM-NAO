@@ -282,16 +282,16 @@ class QCMApp(tk.Tk):
 
     def update_wraplengths(self):
         """Met à jour les wraplengths pour l'adaptation responsive"""
-        if hasattr(self, 'question_label'):
+        if hasattr(self, 'question_label') and self.question_label.winfo_exists():
             new_width = self.winfo_width() - 100
             self.question_label.configure(wraplength=new_width)
             
-            # Mettre à jour les wraplengths des options
-            for child in self.scrollable_frame.winfo_children():
-                if isinstance(child, ttk.Frame):
-                    for subchild in child.winfo_children():
-                        if isinstance(subchild, ttk.Label):
-                            subchild.configure(wraplength=new_width - 50)
+            if hasattr(self, 'scrollable_frame') and self.scrollable_frame.winfo_exists():
+                for child in self.scrollable_frame.winfo_children():
+                    if child.winfo_exists():
+                        for subchild in child.winfo_children():
+                            if isinstance(subchild, ttk.Label) and subchild.winfo_exists():
+                                subchild.configure(wraplength=new_width - 50)
 
     def load_chapters(self):
         chapters = {}
@@ -529,6 +529,10 @@ class QCMApp(tk.Tk):
     def update_timer(self):
         """Met à jour le timer chaque seconde"""
         if hasattr(self, 'start_time') and not hasattr(self, 'final_time'):
+            # Vérifier si l'application est toujours en cours
+            if not self.winfo_exists():
+                return
+                
             elapsed_time = int(time.time() - self.start_time)
             hours, remainder = divmod(elapsed_time, 3600)
             minutes, seconds = divmod(remainder, 60)

@@ -1,0 +1,411 @@
+[
+    {
+        "chapitre": 0,
+        "id": 1,
+        "question": "\u00een controlul posterior, Curtea Constitutional\u00e0 rom\u00e2n\u00e0 este sesizat\u00e0 de:",
+        "options": [
+            "a. una dintre partile procesului",
+            "b. Avocatul Poporului",
+            "c. instanta \u00een fata c\u00e0reia a fost ridicat\u00e0 exceptia",
+            "d. nicio variant\u00e0 nu este corect\u00e0",
+            "e. 50 de deputati sau 25 de senatori"
+        ],
+        "correct_answers": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 2,
+        "question": "Scrutinul uninominal este cel care:",
+        "options": [
+            "a. fiecare votant are un singur vot",
+            "b. desemneaz\u00e0 un singur partid c\u00e2stig\u00e0tor \u00een fiecare circumscriptie electoral\u00e0",
+            "c.desemneaz\u00e0 un singur candidat c\u00e2stig\u00e0tor \u00een fiecare circumscriptie electoral\u00e0",
+            "d. exprim\u00e0 votul personal al fiec\u00e0rui votant",
+            "e. nicio variant\u00e0 nu este corect\u00e0"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 3,
+        "question": "\u00eentre privare de libertate restr\u00e2ngerea libert\u00e0tii:",
+        "options": [
+            "a. este o diferent\u00e0 de esent\u00e0",
+            "b. nicio variant\u00e0 nu este corect\u00e0",
+            "c.  este o diferent\u00e0 de intensitate",
+            "d. este o diferent\u00e0 de grad",
+            "e. este o diferent\u00e0 de natur\u00e0"
+        ],
+        "correct_answers": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 4,
+        "question": "Legea de organizare functionare a Curtii Constitutionale este:",
+        "options": [
+            "a. Legea nr. 24/1992",
+            "b. Legea nr. 47/1997",
+            "c. nicio variant\u00e0 nu este corect\u00e0",
+            "d. Legea nr. 47/1992",
+            "e. Legea nr. 42/1992"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 5,
+        "question": "Grevele pot fi:",
+        "options": [
+            "a. de avertisment, de solidaritate si conflicte individuale",
+            "b. conflicte de drepturi, conflicte de interese si de solidaritate",
+            "c. nicio variant\u00e0 nu este corect\u00e0",
+            "d. de averstisment, de solidaritate si propriuzise",
+            "e. de averstisment, de solidaritate si conflicte colective de munca"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 6,
+        "question": "Legea dispune numai pentru viitor, cu exceptia:",
+        "options": [
+            "a. nicio variant\u00e0 nu este corect\u00e0",
+            "b. legii mai favorabile",
+            "c. legii penale mai favorabile",
+            "d. legii civile mai favorabile",
+            "e. f\u00e0r\u00e0 exceptii"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 7,
+        "question": "Art. 44 alin. 4 din constitutie interzice:",
+        "options": [
+            "a. nationalizarea, exproprierea, rechizitionarea, alte masuri de trecere silita in proprietate publica a unor bunuri",
+            "b. nationalizarea, exproprierea si orice alte masuri de trecere silita in proprietate publica a unor bunuri",
+            "c. nationalizarea sau orice alte masuri de trecere silita in proprietate publica a unor bunuri",
+            "d. nationalizarea si orice alte masuri de trecere silita in proprietate publica a unor bunuri",
+            "e. nicio variant\u00e0 nu este corect\u00e0"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 8,
+        "question": "Contestarea candidaturilor pentru alegerea arlamentului romaniei se solutioneaza de tribunal in termen de:",
+        "options": [
+            "a. 20 de zile de la data afisarii decizei de acceptare",
+            "b. nicio variant\u00e0 nu este corect\u00e0",
+            "c. 24 de ore de la data afisarii decizei de acceptare",
+            "d. trei zile de la ta afisarii decizei de acceptare",
+            "e. 48 de ore de la data afisarii decizei de acceptare"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 9,
+        "question": "Protectia vietii private acopera:",
+        "options": [
+            "a. dreptul individului de a lega si dezvolta relatii cu semenii sai",
+            "b. dreptul la uitare legat de utilizarea datelor cu caracter personal furnizate in mediul virtual",
+            "c. orice informatie privind persoanele publice",
+            "d. nicio variant\u00e0 nu este corect\u00e0",
+            "e. sfera intima a relatiilor personale"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 10,
+        "question": "Retragerea cet\u00e0teniei rom\u00e2ne:",
+        "options": [
+            "a. \u00een cazul \u00een care se dispune extr\u00e0darea",
+            "b. este o m\u00e0sur\u00e0 dispus\u00e0 la cerere",
+            "c. \u00een cazul \u00een care se dispune expulzarea",
+            "d. nicio variant\u00e0 nu este corect\u00e0",
+            "e. este o m\u00e0sur\u00e0 luat\u00e0 cu titlu de sanctiune"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 11,
+        "question": "\u00cen controlul anterior, Curtea Constitutional\u00e0 rom\u00e2n\u00e0 este sesizat\u00e0 de:",
+        "options": [
+            "a. Presedintele Rom\u00e2niei, presedintii celor doua carmere parlamentare, guvernul, un numar de 50 de deputati sau 25 de senatori, inalta curte de casatie si justitie si avocatul porpoului",
+            "b. Presidintele romaniei, un numar de 50 de deputati sau 25 de senatori, guvernul inalta curte de casatie si justitie si avocatul poporului",
+            "c. Presidintele romaniei, presendintii celor doua camere parlamentare, primul ministru, presedintele inalti curti de casatie si justitie si avocatul poporului",
+            "d. nicio variant\u00e0 nu este corect\u00e0",
+            "e. Presedintele romaniei, presedintii celor doua camere parlamentare, primul ministru presedintele inaltei curti de casatie si justitie si avocatul poporului"
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 12,
+        "question": "Instantele extraordinare pot fi infiintate:",
+        "options": [
+            "a. in nici un caz",
+            "b. prin ordonanta a guvernului",
+            "c. doar prin lege",
+            "d. prin lege, cu avizul consilului superior al magistraturii",
+            "e. nicio variant\u00e0 nu este corect\u00e0"
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 13,
+        "question": "Durata total\u00e0 a arest\u00e0rii preventive nu poate fi mai mare de:",
+        "options": [
+            "a. nicio variant\u00e0 nu este corect\u00e0",
+            "b. 180 de zile",
+            "c. 30 de zile",
+            "d. 6 luni",
+            "e. c\u00e2t stabileste instanta"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 14,
+        "question": "Donatiile si legatele primite pentru finan\u00e7area campaniilor electorale trebuie declarate:",
+        "options": [
+            "l. nicio variant\u00e0 nu este corect\u00e0",
+            "b. \u00een Monitorul Oficial al Rom\u00e2niei",
+            "c. Biroului Electoral Central",
+            "d. Autorit\u00e0tii Electorale Permanente",
+            "e. nu se declar\u00e0 dec\u00e2t veniturile cu care partidul se constituie"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 15,
+        "question": "Un partid politic are ca tr\u00e0s\u00e0turi definitorii:",
+        "options": [
+            "a. nicio variant\u00e0 nu este corect\u00e0",
+            "b. un sediu si aspiratia de a exercita puterea politic\u00e0",
+            "c. un sediu si cont bancar",
+            "d. un program ideologic aspiratia de a exercita puterea politic\u00e0",
+            "e. un program electoral 9i aspiratia de a exercita puterea politic\u00e0"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 16,
+        "question": "Votul facultativ inseamna;",
+        "options": [
+            "a. nicio variant\u00e0 nu este corecta",
+            "b. alegerile se organizeaza la solicitarea cetatenilor prin consultare populara",
+            "c. cetatenii au deplina alegere in a se prezenta sau nu la urna de votare",
+            "d. catatenii au alegere in a vota pentru un candidat sau nu",
+            "e. organizarea alegerilor este lasata la latitudinea guvernului"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 17,
+        "question": "Conventia European\u00e0 a Drepturilor Omului garanteaz\u00e0 dreptul la dou\u00e0 grade de jurisditie:",
+        "options": [
+            "a.\u00een orice proces pe rolul unei instante legal constituite",
+            "b.exclusiv \u00een materie administrativ\u00e0",
+            "c. exclusiv \u00een materie penal\u00e0 si administrativ\u00e0",
+            "d. nicio variant\u00e0 nu este corect\u00e0",
+            "e. exclusiv\u00een materie penal\u00e0"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 18,
+        "question": "Greva de solidaritate:",
+        "options": [
+            "a. nu poate avea o durat\u00e0 mai mare de o zi si trebuie anuntata in scris conducerii unitatii cu cel putin 48 de ore inainte de data incetarii lucrului",
+            "b. nu poate avea o durata mai mare de 2 ore si trebuie anuntata in scris conducerii unitatii cu cel putin 2 zile lucratoare inainte de data incetarii lucrului",
+            "c. nu este limitata in timp, pe perioada ei contractul de munca fiind suspendat",
+            "d. nu poate avea o durata mai mare de o zi si trebuie anuntata in scris conducerii unitatii cu cel putin 2 zile inainte de dat incetarii lucrului",
+            "e. nicio variant\u00e0 nu este corect\u00e0"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 19,
+        "question": "Liberul acces la justite inseamna:",
+        "options": [
+            "a. obligatia de a te adresa instantelor judecatoresti si de a beneficia de mijloace adecvate ocrotirii dreptului incalcat, corespunzator gravitatii si periculozitatii sociale a vatamarii ce s-a produs",
+            "b. posibilitatea de a te apara in data instantelor judecatoresti corespunzator gravitatii si periculozitatii sociale a vatamarii ce s-a produs",
+            "c. posibilitatea de a te adresa instantelor judecatoresti si de a beneficia de mijloace adecvate ocrotirii dreptului incalcat, corespunzator gravitatii si periculozitatii sociale a vatamarii ce s-a produs",
+            "d. nicio variant\u00e0 nu este corect\u00e0",
+            "e. posibilitatea de a te adresa instantelor judecatoresti"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 20,
+        "question": "Cererea de anulare a alegerilor prezidentiale se poate face:",
+        "options": [
+            "a. In termen de cel mult 2 zile de la anuntarea rezultatului alegerilor",
+            "b. In termen de cel mult 2 zile de la inchiderea alegerilor",
+            "c. nicio variant\u00e0 nu este corect\u00e0",
+            "d. In termen de cel mult 3 zile de la anuntarea rezultatului alegerilor",
+            "e. In termen de cel mult 3 zile de la inchiderea alegerilor"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 21,
+        "question": "Avocatul Poporului este ales de:",
+        "options": [
+            "a. nicio variant\u00e0 nu este corect\u00e0",
+            "b. Camera Deputatilor pe 4 ani",
+            "c. Senat pe 5 ani",
+            "d. Parlament pe 4 ani",
+            "e. Numit de Primul Ministru pe 5 ani"
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 22,
+        "question": "Inviolabilitatea sediului industrial sau comercial:",
+        "options": [
+            "a. este asimilata inviolabilitatii domiciliului",
+            "b. nu este garantata de constitutie",
+            "c. nicio variant\u00e0 nu este corect\u00e0",
+            "d. nu este supusa acelorasi reguli ca in cazul domiciliului propriu-zis",
+            "e. nu poate fi incalcata fara mandat emis de organul de urmarire penala"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 23,
+        "question": "Controlul interior este exercitat cu privire la:",
+        "options": [
+            "a. Iegi si ordonantele guvernului",
+            "b. Iegi, regulamentele parlametului si tratatele",
+            "c. Iegi, regulamentele si hotararile parlamentului si tratele sau alte acorduri internationale",
+            "d. nicio variant\u00e0 nu este corect\u00e0",
+            "e. Iegi si hotararile parlamentului"
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 24,
+        "question": "\u00een Rom\u00e2nia referendumul poate fi:",
+        "options": [
+            "a. european, national, regional sau local",
+            "b. national sau local",
+            "c. national, regional sau local",
+            "d. doar national",
+            "e. nicio variant\u00e0 nu este corect\u00e0"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 25,
+        "question": "Prin minoritate nationala, legea electorala intelege:",
+        "options": [
+            "a. acea etnie care este reprezentata in parlament",
+            "b. nicio variant\u00e0 nu este corect\u00e0",
+            "c. acea etnie care este organizata in romania si prin statulul sau respecta valorile proclamate de Constitutie",
+            "d. acea etnie care este recunoscuta de consiliul minoritatilor nationale",
+            "e. acea etnie care este reprezentata in consilul minoritatilor nationale"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 26,
+        "question": "Dreptul de a alege membrii parlamentului uniunii europene din partea romaniel este recunoscut cu indeplinirea cerintelor legale:",
+        "options": [
+            "a. nicio variant\u00e0 nu este corect\u00e0",
+            "b. doar celor care au dobandit cetatenia romana prin nastere",
+            "c. cetatenilor romani si cetatenilor din tarile uniunii europene cu domiciliul sau resedinta in romania",
+            "d. doar cetatenilor romani cu domiciliul in ramania",
+            "e. Tuturor cetatenilor romani"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 27,
+        "question": "200 000 semnaturi ale unor cetateni cu drept vot sunt necesare pentru:",
+        "options": [
+            "a. sustinerea unui candidat independent la parlment intr-un-colegiu",
+            "b. sustinerea unui candidat independent la functia de presedinte al romaniei",
+            "c. nicio variant\u00e0 nu este corect\u00e0",
+            "d. sustinerea unei liste electorale pentru parlament",
+            "e. sustinerea unui candidat de presedinte al romaniei"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    }
+]

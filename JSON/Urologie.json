@@ -1,2581 +1,2050 @@
 [
-    {
-        "chapitre": 1,
-        "id": 1,
-        "question": "*Quelle est une cause de r\u00e9tention chronique compl\u00e8te d'urine:",
-        "options": [
-            "A. Les traumatismes v\u00e9siculaires",
-            "B. La rachianesth\u00e9sie ou l'anesth\u00e9sie g\u00e9n\u00e9rale",
-            "C. L'ad\u00e9nome p\u00e9ri-ur\u00e9tral",
-            "D. Prostatite aigu\u00eb",
-            "E. La rupture post-traumatique de l'ur\u00e8tre"
-        ],
-        "correct_answers": [
-            "C"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 2,
-        "question": "*Si le saignement est vireux, l'urine peut appara\u00eetre:",
-        "options": [
-            "A. Rouge vif",
-            "B. Brune",
-            "C. Orange",
-            "D. Hyperchrome",
-            "E. jaune"
-        ],
-        "correct_answers": [
-            "B"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 3,
-        "question": "*Quel est l'examen le plus important pour mettre en \u00e9vidence un reflux v\u00e9sico-ur\u00e9t\u00e9ral:",
-        "options": [
-            "A. La cystoscopie",
-            "B. L'urographie intraveineuse",
-            "C. La cystographie de remplissement",
-            "D. La py\u00e9lographie r\u00e9trograde",
-            "E. l'\u00e9chographie abdomino-pelvienne"
-        ],
-        "correct_answers": [
-            "C"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 4,
-        "question": "*Quel est le diagnostic diff\u00e9rentiel le plus fr\u00e9quent d'une \u00e9pididymite aigu\u00eb:",
-        "options": [
-            "A. Tumeur du testicule",
-            "B. torsion du cordon testiculaire",
-            "C. Abc\u00e8s testiculaire",
-            "D. infarctus testiculaire",
-            "E. hydroc\u00e8le"
-        ],
-        "correct_answers": [
-            "B"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 5,
-        "question": "*Le bacille mycobacterium tuberculosis est un bacille:",
-        "options": [
-            "A. Acido-alcoolo-r\u00e9sistant",
-            "B. Gram n\u00e9gatif",
-            "C. Gram positif",
-            "D. acido-alcoolo-sensible",
-            "E. aucune des propositions ci-dessus n'est exacte"
-        ],
-        "correct_answers": [
-            "A"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 6,
-        "question": "*Ce n'est pas une manifestation clinique de la colique n\u00e9phr\u00e9tique:",
-        "options": [
-            "A. Douleurs lombaires",
-            "B. Naus\u00e9es",
-            "C. Vomissements",
-            "D. Douleurs thoraciques",
-            "E. Pollakiurie"
-        ],
-        "correct_answers": [
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 7,
-        "question": "*Ce n'est pas un inhibiteur de la cristallisation:",
-        "options": [
-            "A. Citrate",
-            "B. Ur\u00e9e",
-            "C. Calcium",
-            "D. Magn\u00e9sium",
-            "E. N\u00e9phrocalcine"
-        ],
-        "correct_answers": [
-            "C"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 8,
-        "question": "*Parmi les termes suivants, tous sont des synonymes de tumeurs primitives malignes du rein de l'adulte sauf un lequel:",
-        "options": [
-            "A. hypern\u00e9phrome",
-            "B. tumeur de grawitz",
-            "C. tumeur \u00e0 cellule claire",
-            "D. ad\u00e9nocarcinome r\u00e9nale",
-            "E. tumeur de wilms"
-        ],
-        "correct_answers": [
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 9,
-        "question": "*Le traitement de choix d'une tumeur du bassinet T2 N0 M0 est:",
-        "options": [
-            "A. La n\u00e9phro-ur\u00e9t\u00e9rectomie totale avec cystectomie p\u00e9rim\u00e9atique",
-            "B. La py\u00e9lotomie avec r\u00e9section de la tumeur",
-            "C. la n\u00e9phrectomie partielle",
-            "D. la chimioth\u00e9rapie",
-            "E. la radioth\u00e9rapie"
-        ],
-        "correct_answers": [
-            "A"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 10,
-        "question": "*Le signe le plus fr\u00e9quent des tumeurs v\u00e9sicales non infiltrantes est:",
-        "options": [
-            "A. La pollakiurie",
-            "B. la dysurie",
-            "C. l'hydron\u00e9phrose",
-            "D. l'an\u00e9mie",
-            "E. l'h\u00e9maturie"
-        ],
-        "correct_answers": [
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 11,
-        "question": "*Le toucher rectal pratiqu\u00e9 chez un homme porteur d'une hyperplasie b\u00e9nigne de la prostate typique permet de sentir:",
-        "options": [
-            "A. Une tumeur dure et irr\u00e9guli\u00e8re",
-            "B. une tumeur douloureuse",
-            "C. une tumeur dure avec respect du sillon m\u00e9dian",
-            "D. une tumeur lisse et homog\u00e8ne",
-            "E. une tumeur fix\u00e9e aux parois pelviennes"
-        ],
-        "correct_answers": [
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 12,
-        "question": "*Quel est le si\u00e8ge le plus fr\u00e9quent des m\u00e9tastases du cancer de la prostate:",
-        "options": [
-            "A. Le foie",
-            "B. les os",
-            "C. La peau",
-            "D. Le poumon",
-            "E. Le cerveau"
-        ],
-        "correct_answers": [
-            "B"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 13,
-        "question": "*Quel est le types histologique le plus fr\u00e9quent de cancer testiculaire:",
-        "options": [
-            "A. Tumeurs germinales",
-            "B. lymphomes",
-            "C. carcino\u00efdes",
-            "D. tumeurs non germinales",
-            "E. aucune des r\u00e9ponses ci-dessus n'est exacte"
-        ],
-        "correct_answers": [
-            "A"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 14,
-        "question": "*Quel est la m\u00e9thode standard d'\u00e9valuation des traumatismes v\u00e9sicaux:",
-        "options": [
-            "A. l'urographie intraveineuse",
-            "B. la py\u00e9lographie r\u00e9trograde",
-            "C. l\u2019\u00e9chographie abdomino pelvienne",
-            "D. cystographie r\u00e9trograde",
-            "E. ??"
-        ],
-        "correct_answers": [
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 15,
-        "question": "*l'\u00e9tiologie de l'insuffisance aigu\u00eb de cause post-r\u00e9nale est avec une exception:",
-        "options": [
-            "A. Tumeurs r\u00e9tro-p\u00e9riton\u00e9ale",
-            "B. tumeur v\u00e9sicale infiltrante",
-            "C. cancer du col de l'ut\u00e9rus",
-            "D. ligature accidentelle de l'uret\u00e8re",
-            "E. la n\u00e9crose tubulaire aigu\u00eb"
-        ],
-        "correct_answers": [
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 16,
-        "question": "la dysurie peut appara\u00eetre dans:",
-        "options": [
-            "A. les calculs v\u00e9sicaux",
-            "B. les tumeurs de la prostate",
-            "C. les tumeurs de l'\u00e9pididyme",
-            "D. la phimosis s\u00e9v\u00e8re",
-            "E. les r\u00e9tr\u00e9cissements ur\u00e9traux"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 17,
-        "question": "les causes pour l'\u00e9nur\u00e9sie sont:",
-        "options": [
-            "A. des facteurs psychog\u00e8nes",
-            "B. epilepsie",
-            "C. la st\u00e9nose du m\u00e9at ur\u00e9tral",
-            "D. la scl\u00e9rose du col v\u00e9sical",
-            "E. l'instauration tardive du contr\u00f4le sphinct\u00e9rien"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 18,
-        "question": "Les origines d\u2019une h\u00e9maturie initiale ne sont pas:",
-        "options": [
-            "A. Le rein",
-            "B. La prostate",
-            "C. L\u2019uret\u00e8re pelvien",
-            "D.  La vessie",
-            "E. L\u2019ur\u00e8tre"
-        ],
-        "correct_answers": [
-            "A",
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 19,
-        "question": "La consommation de quel m\u00e9dicament ne peut pas faire l\u2019urine rouge:",
-        "options": [
-            "A. Aspirine",
-            "B. Ibuprof\u00e8ne",
-            "C. Furazolidone",
-            "D. Tamsulosin",
-            "E. Dutasteride"
-        ],
-        "correct_answers": [
-            "B",
-            "D",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 20,
-        "question": "Les complications du rein polykystique sont:",
-        "options": [
-            "A. HTA",
-            "B. L\u2019infection urinaire",
-            "C. Kyste solitaire r\u00e9nal",
-            "D. H\u00e9maturie",
-            "E. Tumeur uroth\u00e9liale"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 21,
-        "question": "La ponction \u00e9choguid\u00e9e d\u2019\u00e9vacuation est appliqu\u00e9 en cas de:",
-        "options": [
-            "A. St\u00e9nose de la jonction py\u00e9lo-ur\u00e9t\u00e9rale",
-            "B. le rein multikystique",
-            "C. le kyste simple du rein",
-            "D. le reflux v\u00e9sico-ur\u00e9t\u00e9ral",
-            "E. le rein polykystique"
-        ],
-        "correct_answers": [
-            "C",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 22,
-        "question": "Les facteurs de risque pour les infections des voies urinaires sont:",
-        "options": [
-            "A. une tumeur de la prostate",
-            "B. le reflux v\u00e9sico-ur\u00e9t\u00e9ral",
-            "C. Une tumeur testiculaire",
-            "D. une contusion lombaire",
-            "E. un calcul obstructif"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 23,
-        "question": "Pour une py\u00e9lon\u00e9phrite aigu\u00eb sont valables :",
-        "options": [
-            "A. Est une infection bact\u00e9rienne du parenchyme r\u00e9nal",
-            "B. Triade clinique: fi\u00e8vre + douleur lombaire + pyurie",
-            "C. L\u2019ur\u00e9t\u00e9ro py\u00e9lographie r\u00e9trograde est obligatoire",
-            "D. La TDM est utile pour le diagnostic positif en cas de doute",
-            "E. La traitement fr\u00e9quent: ponction r\u00e9nale"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 24,
-        "question": "Sont des manifestations clinique de la tuberculose urog\u00e9nitale dans la phase parenchymateuse ferm\u00e9e:",
-        "options": [
-            "A. Fatigue",
-            "B. fi\u00e8vre l\u00e9g\u00e8re",
-            "C. h\u00e9maturie",
-            "D. polyurie",
-            "E.  perte de poids mod\u00e9r\u00e9e"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 25,
-        "question": "Lesquelles affirmations sont correctes en ce qui concerne la tuberculose uro-g\u00e9nitale?",
-        "options": [
-            "A. L\u2019installation de la maladie est insidieuse et le diagnostic est tr\u00e8s facile",
-            "B. la tuberculose r\u00e9nale est toujours secondaire \u00e0 une tuberculose pulmonaire",
-            "C. la maladie n\u2019affecte pas des sujets jeunes",
-            "D. la maladie et la gu\u00e9rison d\u00e9truisent le parenchyme r\u00e9nal",
-            "E. est la troisi\u00e8me comme fr\u00e9quence des tuberculoses extra-pulmonaires"
-        ],
-        "correct_answers": [
-            "B",
-            "D",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 26,
-        "question": "Un calcul unique localis\u00e9e dans le bassinet r\u00e9nal est visualis\u00e9e par:",
-        "options": [
-            "A. l\u2019\u00e9chographie r\u00e9nale",
-            "B. la radiographie r\u00e9nale simple",
-            "C. la tomodensitom\u00e9trie",
-            "D. l\u2019urographie",
-            "E. l\u2019uretrographie r\u00e9trograde"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 27,
-        "question": "Dans le contexte de la lithiase urinaire l\u2019\u00e9chographie pr\u00e9sente de nombreux avantages:",
-        "options": [
-            "A. est une m\u00e9thode non-invasive qui peut \u00eatre r\u00e9p\u00e9t\u00e9e",
-            "B. Peut \u00eatre r\u00e9alis\u00e9e dans la colique sans une pr\u00e9paration pr\u00e9alable du patient",
-            "C. Permet un diagnostic rapide des complications apr\u00e8s LEC ou NLP",
-            "D. est en mesure de fournir des informations directes sur la fonction r\u00e9nale",
-            "E. est r\u00e9alis\u00e9e en anesth\u00e9sie locale"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 28,
-        "question": "Les indications de LEC sont:",
-        "options": [
-            "A. L\u2019obstacle distal par rapport \u00e0 la lithiase \u00e0 traiter",
-            "B. la grossesse",
-            "C. calcul py\u00e9lo-caliciel de moins de 2cm de diam\u00e8tre",
-            "D. l\u2019ob\u00e9sit\u00e9 de grade III",
-            "E. Lithiase ur\u00e9t\u00e9rale lombaire de moins de 1.2 cm"
-        ],
-        "correct_answers": [
-            "C",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 29,
-        "question": "Les signes cliniques trouve dans le cancer du rein sont:",
-        "options": [
-            "A. Masse lombaire",
-            "B. Hydroc\u00e8le",
-            "C. Lombalgie",
-            "D. H\u00e9maturie",
-            "E. Varicoc\u00e8le"
-        ],
-        "correct_answers": [
-            "A",
-            "C",
-            "D",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 30,
-        "question": "Le syndrome paran\u00e9oplasique dans le cancer du rein est caract\u00e9ris\u00e9 par:",
-        "options": [
-            "A. An\u00e9mie",
-            "B. syndrome de cushing",
-            "C. hyperglyc\u00e9mie",
-            "D. fi\u00e8vre",
-            "E. hypocalc\u00e9mie"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 31,
-        "question": "Dans un tableau clinique d\u2019une tumeur uroth\u00e9liale sup\u00e9rieure on peut trouver:",
-        "options": [
-            "A. Pyurie",
-            "B. h\u00e9maturie",
-            "C. des douleurs dorsales",
-            "D. dysurie",
-            "E. pollakiurie"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 32,
-        "question": "Les facteurs carcinog\u00e8nes qui peuvent conduire au d\u00e9veloppement des tumeurs uroth\u00e9liales sup\u00e9rieur sont:",
-        "options": [
-            "A. H\u00e9r\u00e9dit\u00e9",
-            "B. tabac",
-            "C. cyclophosphamide",
-            "D. syndrome de Von Hippel Lindau",
-            "E. n\u00e9phropathie interstitielle d\u00e9g\u00e9n\u00e9rative"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 33,
-        "question": "Les investigations utilis\u00e9e pour diagnostiquer les tumeurs uroth\u00e9liales sup\u00e9rieurs sont:",
-        "options": [
-            "A. Cystoscopie",
-            "B. \u00e9chographie",
-            "C. tomodensitom\u00e9trie",
-            "D. scintigraphie",
-            "E. l'ur\u00e9t\u00e9roscopie / La n\u00e9phroscopie"
-        ],
-        "correct_answers": [
-            "B",
-            "C",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 34,
-        "question": "lesquels des facteurs suivants sont incrimin\u00e9es dans l\u2019apparition de tumeur de la vessie:",
-        "options": [
-            "A. Le tabagisme",
-            "B. la bilharziose",
-            "C. influences hormonale",
-            "D. troubles de coagulation",
-            "E. l\u2019abus d\u2019analg\u00e9sique"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 35,
-        "question": "Dans la classification histologique des tumeurs v\u00e9sicale on peut trouver:",
-        "options": [
-            "A. Le carcinome non diff\u00e9rentiel",
-            "B. Carcinome transitionnel",
-            "C. sarcome",
-            "D. t\u00e9ratome",
-            "E. le carcinome \u00e0 cellules squameuses"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 36,
-        "question": "Pour les traitement des tumeurs v\u00e9sicales infiltrantes, les suivants sont vraies:",
-        "options": [
-            "A. le gold standard est la cystectomie radicale",
-            "B. la chimioth\u00e9rapie locale donne des bons r\u00e9sultats",
-            "C. le gold standard est la cystectomie radicale avec curage ganglionnaire ilio-obturateur",
-            "D. l'\u00e9lectro r\u00e9section transur\u00e9trale",
-            "E. la r\u00e9alisation d'une d\u00e9rivation urinaire est toujours n\u00e9cessaire"
-        ],
-        "correct_answers": [
-            "C",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 37,
-        "question": "des sympt\u00f4mes obstructifs dans un HBP sont:",
-        "options": [
-            "A. Imp\u00e9riosit\u00e9 mictionnelle",
-            "B. jet urinaire faible",
-            "C. douleur hypogastre",
-            "D. fausse incontinence urinaire",
-            "E. dysurie"
-        ],
-        "correct_answers": [
-            "B",
-            "D",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 38,
-        "question": "la traitement m\u00e9dicamenteux avec inhibiteurs de 5-alpha-r\u00e9ductase pour le HBP, a la fin de:",
-        "options": [
-            "A. am\u00e9liorer le score de sympt\u00f4me de 15%",
-            "B. agir sur la composante dynamique de l\u2019obstruction par la relaxation de la musculature lisse p\u00e9riprostatique et cervicale",
-            "C. peuvent r\u00e9duire le volume prostatique de 20-30%",
-            "D. Peuvent donner \u00e9jaculation retrograde",
-            "E. am\u00e9liorer le flux urinaire"
-        ],
-        "correct_answers": [
-            "A",
-            "C",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 39,
-        "question": "Les complications qui peut appara\u00eetre dans un HBP sont:",
-        "options": [
-            "A. La r\u00e9tention chronique d'urine",
-            "B. l'ur\u00e9t\u00e9ro-hydron\u00e9phrose",
-            "C. prostatite",
-            "D. st\u00e9nose de l'ur\u00e8tre",
-            "E. h\u00e9maturie"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 40,
-        "question": "Pour le cancer de la prostate sont vraies tout les \u00e9nonc\u00e9s sauf:",
-        "options": [
-            "A. Il repr\u00e9sente la 2\u00e8me cause de d\u00e9c\u00e8s oncologique chez l\u2019homme apr\u00e8s le cancer du poumon",
-            "B. le cancer de la prostate ne se d\u00e9veloppe pas sous l'influence des androg\u00e8nes",
-            "C. les blancs ont deux fois le risque de d\u00e9velopper cancer de la prostate que les noirs",
-            "D. les eunuques ne sont pas atteints par le cancer de la prostate",
-            "E. le cancer de la prostate est localis\u00e9 dans 80% des cas dans la zone sous-capsulaire de la prostate"
-        ],
-        "correct_answers": [
-            "B",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 41,
-        "question": "pour diagnostiquer un cancer de la prostate il faut qu'on utilise ces examens paracliniques:",
-        "options": [
-            "A. l\u2019imagerie par r\u00e9sonance magn\u00e9tique",
-            "B. la PCA3",
-            "C. l'\u00e9chographie transrectale",
-            "D. l\u2019ECBU",
-            "E. angiographie"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 42,
-        "question": "Les facteurs pronostiques dans un cancer de la prostate sont repr\u00e9sent\u00e9es par:",
-        "options": [
-            "A. stadialisation TNM",
-            "B. taux de PSA",
-            "C. Echographie",
-            "D. Score Gleason",
-            "E. Degr\u00e9e fuhrmann"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 43,
-        "question": "Au point de vue clinique, dans un cancer de testicule ont peut trouver:",
-        "options": [
-            "A. Apparition d\u2019un nodule dans le testicule",
-            "B. sensation de lourdeur scrotale",
-            "C. augmentation brusque",
-            "D. fi\u00e8vre",
-            "E. la perte de poids"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 44,
-        "question": "*La douleur de flanc qui rayonne vers la fosse iliaque, testicules ou des l\u00e8vres est produit g\u00e9n\u00e9ralement par:",
-        "options": [
-            "A. une obstruction ur\u00e9t\u00e9rale",
-            "B. cystite",
-            "C. ur\u00e9trite",
-            "D. prostatite",
-            "E. py\u00e9lon\u00e9phrite"
-        ],
-        "correct_answers": [
-            "A"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 45,
-        "question": "*Le syndrome d\u2019h\u00e9maturie franche r\u00e9currente est d\u00e9fini par:",
-        "options": [
-            "A. la pr\u00e9sence d\u2019un nombre important des micro organismes pr\u00e9sents dans l\u2019urine",
-            "B. urine r\u00e9siduelle dans la vessie apr\u00e8s la miction",
-            "C. saignements intermittent ou continu, dans le tractus urinaire \u00e0 un degr\u00e9 suffisant pour alt\u00e9rer l\u2019apparence microscopique de l\u2019urine",
-            "D. le sang provient uniquement du tractus urinaire sup\u00e9rieur",
-            "E. la principale cause sont tous les types d\u2019infections"
-        ],
-        "correct_answers": [
-            "C"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 46,
-        "question": "*Dans la classification TNM pour carcinome r\u00e9nal T3b signifie:",
-        "options": [
-            "A. tumeur s\u2019\u00e9tend dans les veines principales ou envahit la glande surr\u00e9nale",
-            "B. tumeur envahit la glande surr\u00e9nale ou tissus p\u00e9riph\u00e9rique mais pas au-del\u00e0 du fascia de Gerota",
-            "C. Tumeur envahissant au-del\u00e0 du fascia Gerota",
-            "D. tumeur se prolonge dans la veine r\u00e9nale ou dans la veine cave sup\u00e9rieure au-dessus du diaphragme",
-            "E. tumeur se prolonge dans la veine r\u00e9nale ou la veine cave inf\u00e9rieur du diaphragme"
-        ],
-        "correct_answers": [
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 47,
-        "question": "*Lequel des \u00e9nonc\u00e9s suivants est un sympt\u00f4me de l\u2019hyperplasie b\u00e9nigne de la prostate:",
-        "options": [
-            "A. H\u00e9sitation",
-            "B. dribble terminal",
-            "C. sensation de vidage incomplet de la vessie",
-            "D. alt\u00e9ration de la taille et la force du jet urinaire",
-            "E. tout ce qui pr\u00e9c\u00e8de"
-        ],
-        "correct_answers": [
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 48,
-        "question": "*Les facteurs de risques pour la formation de calculs sont les suivants, \u00e0 une exception laquelle?",
-        "options": [
-            "A. D\u00e9but de la maladie apr\u00e8s 25 ans",
-            "B. seul rein",
-            "C. maladies li\u00e9es \u00e0 la formation de calculs",
-            "D. m\u00e9dicaments associ\u00e9es \u00e0 la formation de calculs",
-            "E. des anomalies anatomiques"
-        ],
-        "correct_answers": [
-            "A"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 49,
-        "question": "*L\u2019enl\u00e8vement actif des calculs est indiqu\u00e9 dans toutes les situations suivantes avec une exception, laquelle?",
-        "options": [
-            "A. Obstruction unilat\u00e9rale par colique n\u00e9phr\u00e9tique au d\u00e9but",
-            "B. douleurs persistantes malgr\u00e9 les m\u00e9dicaments ad\u00e9quats",
-            "C. calculs avec infection des voies urinaires",
-            "D. risque de pyon\u00e9phrose",
-            "E. obstruction persistante avec risque d'insuffisance r\u00e9nale"
-        ],
-        "correct_answers": [
-            "A"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 50,
-        "question": "*Le traitement des tumeurs r\u00e9nales peut \u00eatre constitu\u00e9es par:",
-        "options": [
-            "A. n\u00e9phrectomie \u00e9largie",
-            "B. n\u00e9phrolithotomie",
-            "C. N\u00e9phrostomie de d\u00e9compression",
-            "D. cystectomie",
-            "E. cystoplastie d\u2019augmentation"
-        ],
-        "correct_answers": [
-            "A"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 51,
-        "question": "*L'enqu\u00eate principale qui offre plusieurs informations dans une seule investigation pour la classification/stadification TNM des tumeurs r\u00e9nales est repr\u00e9sent\u00e9 par:",
-        "options": [
-            "A. echographie",
-            "B. CT (tomodensitom\u00e9trie)",
-            "C. UIV",
-            "D. Angiographie de soustraction digitale",
-            "E. radiographie r\u00e9nale simple"
-        ],
-        "correct_answers": [
-            "B"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 52,
-        "question": "*La valeur normale de PSA doit \u00eatre moins de:",
-        "options": [
-            "A. 2 ng/ml",
-            "B. 4 ng/ml",
-            "C. 8 ng/ml",
-            "D. 10 ng/ml",
-            "E. 20 ng/ml"
-        ],
-        "correct_answers": [
-            "B"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 53,
-        "question": "*La survie \u00e0 5 ans pour le cancer du rein en stade III est de :",
-        "options": [
-            "A. 45-65 %",
-            "B. 35-50 %",
-            "C. 45-50 %",
-            "D. < 5 %",
-            "E. 65-75 %"
-        ],
-        "correct_answers": [
-            "A"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 54,
-        "question": "*la plupart des tumeurs v\u00e9sicales sont :",
-        "options": [
-            "A. carcinome transitionnels",
-            "B. ad\u00e9nocarcinome",
-            "C. sarcomes",
-            "D. choriocarcinome",
-            "E. t\u00e9ratome"
-        ],
-        "correct_answers": [
-            "A"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 55,
-        "question": "*Stade IIIb de cancer de la vessie a la d\u00e9finition suivante :",
-        "options": [
-            "A. tumeurs confin\u00e9es \u00e0 la muqueuse",
-            "B. invasion de la moiti\u00e9 de la couche musculaire",
-            "C. invasion pas plus profonde que la lamina propria",
-            "D. tumeur s\u2019\u00e9tend \u00e0 la graisse p\u00e9riv\u00e9sicale",
-            "E. invasion des ganglions lymphatiques"
-        ],
-        "correct_answers": [
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 56,
-        "question": "*Le volume urinaire normal de la prostate est :",
-        "options": [
-            "A. 20-25 cmc",
-            "B. 40 cmc",
-            "C. 50 cmc",
-            "D. 60 cmc",
-            "E. 80 cmc"
-        ],
-        "correct_answers": [
-            "A"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 57,
-        "question": "*La proc\u00e9dure diagnostique la plus importante dans la lithiase urinaire est :",
-        "options": [
-            "A. py\u00e9lographie IV",
-            "B. echographie",
-            "C. tomodensitom\u00e9trie CT",
-            "D. imagerie par r\u00e9sonance magn\u00e9tique",
-            "E. ur\u00e9t\u00e9ropy\u00e9lographie r\u00e9trograde"
-        ],
-        "correct_answers": [
-            "B"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 58,
-        "question": "*Indications pour un traitement m\u00e9dical du HBP ne comprennent pas :",
-        "options": [
-            "A. des sympt\u00f4mes subjectifs",
-            "B. sympt\u00f4mes irritatifs",
-            "C. r\u00e9tention urinaire aigu\u00eb",
-            "D. petit volume d'urine r\u00e9siduelle apr\u00e8s < 50 ml",
-            "E. absence de complications"
-        ],
-        "correct_answers": [
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 59,
-        "question": "la douleur dans les maladies urologiques sont localis\u00e9es dans :",
-        "options": [
-            "A. r\u00e9gion du flanc",
-            "B. loin (wtfff)",
-            "C. testicule ou les l\u00e8vres",
-            "D. thorax",
-            "E. fosse iliaque"
-        ],
-        "correct_answers": [
-            "A",
-            "C",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 60,
-        "question": "Anurie :",
-        "options": [
-            "A. est le passage de <500 ml d\u2019urine par jour",
-            "B. peut \u00eatre un signe d\u2019insuffisance r\u00e9nale",
-            "C. est l\u2019absence totale d\u2019\u00e9coulement de l\u2019urine",
-            "D. est la perte de la capacit\u00e9 normale de diff\u00e9ren??",
-            "E. est le passage de <350 ml d\u2019urine par jour"
-        ],
-        "correct_answers": [
-            "B",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 61,
-        "question": "Les causes post r\u00e9nales d\u2019h\u00e9maturie :",
-        "options": [
-            "A. calculs ur\u00e9t\u00e9raux",
-            "B. tumeurs de vessie",
-            "C. cystite apr\u00e8s rayonnement",
-            "D. tuberculose r\u00e9nale",
-            "E. glom\u00e9rulon\u00e9phrite aigu\u00eb"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 62,
-        "question": "Nycturie",
-        "options": [
-            "A. est la n\u00e9cessit\u00e9 de lever pendant les heures de sonde pour vider la vessie",
-            "B. est plus fr\u00e9quemment observ\u00e9s chez les hommes pr\u00e9sentant une hypertrophie b\u00e9nigne de la prostate",
-            "C. est la perte de la capacit\u00e9 normale de diff\u00e9rer la m??",
-            "D. est l\u2019inconfort r\u00e9sultant de l\u2019appareil urinaire dans .. il y a une douleur imm\u00e9diatement avant, pendant ou imm\u00e9diatement apr\u00e8s la miction",
-            "E. implique le passage involontaire d\u2019urine"
-        ],
-        "correct_answers": [
-            "A",
-            "B"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 63,
-        "question": "Toucher rectal :",
-        "options": [
-            "A. permet l\u2019\u00e9valuation de la glande prostatique",
-            "B. n\u2019est pas obligatoire pour tous les patients de sexe masculin",
-            "C. peut sugg\u00e9rer le changement malin par irr\u00e9gularit\u00e9 dure de la glande",
-            "D. /",
-            "E. /"
-        ],
-        "correct_answers": [
-            "A",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 64,
-        "question": "L\u2019urographie par voie intraveineuse :",
-        "options": [
-            "A. consiste en l\u2019injection de compos\u00e9s d\u2019iode organique qui sont excr\u00e9t\u00e9s et concentr\u00e9 par radiographie",
-            "B. donne moins d\u2019informations que les ultrasons sur le parenchyme r\u00e9nal",
-            "C. ne d\u00e9pend pas de la fonction r\u00e9nale",
-            "D. la qualit\u00e9 de l\u2019image est mauvaise chez les patients souffrant d\u2019insuffisance r\u00e9nale",
-            "E. est bonne technique pour examiner le syst\u00e8me collecteur r\u00e9nal, les uret\u00e8res et la vessie"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "D",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 65,
-        "question": "l\u2019art\u00e9riographie et phl\u00e9bographie :",
-        "options": [
-            "A. sont des m\u00e9thodes non invasives",
-            "B. sont utilis\u00e9s chez des patients s\u00e9lectionn\u00e9s",
-            "C. l\u2019indication plus fr\u00e9quente est chez les patients atteints d\u2019hypertension et/ou d\u2019insuffisance r\u00e9nale",
-            "D. peut d\u00e9tecter st\u00e9nose de l\u2019art\u00e8re r\u00e9nale",
-            "E. est utilis\u00e9 tr\u00e8s fr\u00e9quemment"
-        ],
-        "correct_answers": [
-            "B",
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 66,
-        "question": "Plusieurs des \u00e9nonc\u00e9s suivant au sujet des carcinomes \u00e0 cellules r\u00e9nales ne sont pas vraies :",
-        "options": [
-            "A. il est plus fr\u00e9quent dans les populations d\u2019origine africaine ou asiatique",
-            "B. c\u2019est la deuxi\u00e8me cause de d\u00e9c\u00e8s par cancer",
-            "C. fumer est un facteur de risque significatif",
-            "D. il est plus fr\u00e9quent chez les femmes",
-            "E. il se produit plus fr\u00e9quemment entre 30 et 50 ans"
-        ],
-        "correct_answers": [
-            "D",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 67,
-        "question": "la plupart des sites fr\u00e9quents de m\u00e9tastase de carcinome r\u00e9nale de cellules sont :",
-        "options": [
-            "A. poumons",
-            "B. veine r\u00e9nale",
-            "C. pancr\u00e9as",
-            "D. vessie",
-            "E. foie"
-        ],
-        "correct_answers": [
-            "A",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 68,
-        "question": "Le suivi post op\u00e9ratoire des patients atteints de carcinome \u00e0 cellules r\u00e9nales comprend :",
-        "options": [
-            "A. scintigraphie osseuse",
-            "B. radiographie pulmonaire",
-            "C. tomodensitom\u00e9trie",
-            "D. test fonctionnels h\u00e9patiques",
-            "E. dosage de la cr\u00e9atinine s\u00e9rique"
-        ],
-        "correct_answers": [
-            "B",
-            "C",
-            "D",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 69,
-        "question": "Les plus importantes caract\u00e9ristiques cliniques des tumeurs uroth\u00e9liales du bassinet et l\u2019uret\u00e8re sont :",
-        "options": [
-            "A. dyspn\u00e9e",
-            "B. r\u00e9tention urinaire aigu\u00eb",
-            "C. h\u00e9maturie",
-            "D. \u00e9rythrocytose",
-            "E. douleur du flanc"
-        ],
-        "correct_answers": [
-            "C",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 70,
-        "question": "Le protocole de suivi post op\u00e9ratoire des tumeurs uroth\u00e9liales du bassinet et l\u2019uret\u00e8re comprend :",
-        "options": [
-            "A. la scintigraphie osseuse",
-            "B. cystoscopie",
-            "C. cytologie urinaire",
-            "D. urographie",
-            "E. ur\u00e9t\u00e9roscopie"
-        ],
-        "correct_answers": [
-            "B",
-            "C",
-            "D",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 71,
-        "question": "Les autres facteurs associ\u00e9s au d\u00e9veloppement de l\u2019ad\u00e9nocarcinome r\u00e9nal comprennent :",
-        "options": [
-            "A. hypertension",
-            "B. oestrog\u00e9noth\u00e9rapie",
-            "C. ob\u00e9sit\u00e9",
-            "D. tabagisme",
-            "E. exposition aux produits p\u00e9troliers, m\u00e9taux lourds, solvants, \u00e9missions de four \u00e0 coke ou l\u2019amiante"
-        ],
-        "correct_answers": [
-            "A",
-            "C",
-            "D",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 72,
-        "question": "Les modalit\u00e9s de diagnostic permettant d\u2019\u00e9valuer et de stadification des masses r\u00e9nales comprennent :",
-        "options": [
-            "A. tomodensitom\u00e9trie",
-            "B. echographie",
-            "C. art\u00e9riographie",
-            "D. UFC",
-            "E. IRM"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 73,
-        "question": "Les proc\u00e9dures de diagnostic utilis\u00e9es pour les tumeurs uroth\u00e9liales comprennent:",
-        "options": [
-            "A. cystoscopie",
-            "B. urographie r\u00e9trograde",
-            "C. n\u00e9phroscopie percutan\u00e9e",
-            "D. urographie excr\u00e9toire (py\u00e9lographie intraveineuse)",
-            "E. ur\u00e9t\u00e9roscopie r\u00e9trograde"
-        ],
-        "correct_answers": [
-            "B",
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 74,
-        "question": "En ce qui concerne les tumeurs uroth\u00e9liales, les prochaines affirmations sont correctes:",
-        "options": [
-            "A. les tumeurs du pelvis r\u00e9nal comptent pour environ 10 % de toutes les tumeurs r\u00e9nales",
-            "B. Les tumeurs du pelvis r\u00e9nal repr\u00e9sentent environ 5 % de toutes les tumeurs uroth\u00e9liales",
-            "C. l'\u00e2ge moyen de survenue est de 75 ans",
-            "D. tumeurs uroth\u00e9liales des voies urinaires se produisent plus fr\u00e9quemment chez les femmes",
-            "E. tumeurs uroth\u00e9liales des voies urinaires peuvent se manifester plus fr\u00e9quemment chez les blancs"
-        ],
-        "correct_answers": [
-            "A",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 75,
-        "question": "les manifestations du cancer du rein impliquent moins de 20% des organes suivants:",
-        "options": [
-            "A. poumon",
-            "B. foie",
-            "C. cerveau",
-            "D. peau",
-            "E. os"
-        ],
-        "correct_answers": [
-            "B",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 76,
-        "question": "Les composants de la prostate sont:",
-        "options": [
-            "A. capsule fibreuse",
-            "B. stroma fibromusculaire",
-            "C. ur\u00e8tre p\u00e9nien",
-            "D. les v\u00e9sicules s\u00e9minales",
-            "E. les structures glandulaires avec acini et canaux"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 77,
-        "question": "Le r\u00e9sultat de l\u2019HBP peut \u00eatre obstruction ur\u00e9trale induit par les m\u00e9canismes suivants:",
-        "options": [
-            "A. m\u00e9canique - par prolif\u00e9ration \u00e9pith\u00e9liale",
-            "B. m\u00e9canique - par contraction du muscle lisse",
-            "C. dynamique - par contraction du muscle lisse",
-            "D. dynamique - par prolif\u00e9ration \u00e9pith\u00e9liale",
-            "E. par combinaison de m\u00e9canismes m\u00e9caniques et dynamiques"
-        ],
-        "correct_answers": [
-            "A",
-            "C",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 78,
-        "question": "Une patiente de 55 ans tabagique se pr\u00e9sente pour h\u00e9maturie microscopique r\u00e9p\u00e9titive (parfois macroscopique), sans autre symptomatologie associ\u00e9e. Les r\u00e9sultats de l\u2019uroculture - 1000 germes/ml. Les diagnostics probables sont:",
-        "options": [
-            "A. tumeur v\u00e9sicale",
-            "B. tumeur des voies urinaires sup\u00e9rieures",
-            "C. infection urinaire",
-            "D. py\u00e9lon\u00e9phrite aigu\u00eb",
-            "E. hypertension art\u00e9rielle"
-        ],
-        "correct_answers": [
-            "A",
-            "B"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 79,
-        "question": "Les th\u00e9rapies mini invasives pour HBP incluent :",
-        "options": [
-            "A. dilatation au ballonnet transurethrale",
-            "B. thermoth\u00e9rapie transur\u00e9trale \u00e0 micro onde",
-            "C. ablation laser de la prostate",
-            "D. prostatectomie sus pubienne",
-            "E. ablation d\u2019aiguille transur\u00e9tral"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 80,
-        "question": "les alpha bloquants :",
-        "options": [
-            "A. Les alpha bloquants sont recommand\u00e9s pour des prostates inf\u00e9rieures \u00e0 40g",
-            "B. les alpha bloquants sont recommand\u00e9s pour des prostates plus de 40 g",
-            "C. tamsulosine bloque seulement les r\u00e9cepteurs alpha 1-a qui se trouvent uniquement dans la prostate",
-            "D. finasteride bloque seulement les r\u00e9cepteurs alpha 1-A qui se trouvent uniquement dans la prostate",
-            "E. administration des alpha bloquants inhibent les contractions du muscle lisse"
-        ],
-        "correct_answers": [
-            "A",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 81,
-        "question": "Les facteurs pr\u00e9disposants pour la formation des calculs sont:",
-        "options": [
-            "A. infections urinaire",
-            "B. hyperuricosurie",
-            "C. inconnu",
-            "D. les tumeurs de la vessie",
-            "E. uretero hydron\u00e9phrose"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 82,
-        "question": "les facteurs pr\u00e9dictifs plus important pour l\u2019\u00e9limination de calculs sont:",
-        "options": [
-            "A. dimension du calcul",
-            "B. infection urinaire",
-            "C. localisation du calcul",
-            "D. anomalies anatomiques des voies urinaires",
-            "E. tout ce qui pr\u00e9c\u00e8de"
-        ],
-        "correct_answers": [
-            "A",
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 83,
-        "question": "Les sympt\u00f4mes de calculs de la vessie sont:",
-        "options": [
-            "A. h\u00e9maturie terminale",
-            "B. infection urinaire aigu\u00eb",
-            "C. dribbling post mictionnel",
-            "D. colique n\u00e9phr\u00e9tique",
-            "E. dysurie"
-        ],
-        "correct_answers": [
-            "A",
-            "C",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 84,
-        "question": "l\u2019imagerie pour l\u2019urolithiase comprend :",
-        "options": [
-            "A. radiographie pleins de l\u2019abdomen (film rein uret\u00e8re vessie)",
-            "B. urographie intraveineuse",
-            "C. tomodensitom\u00e9trie",
-            "D. d\u00e9bitm\u00e9trie urinaire",
-            "E. elastographie"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 85,
-        "question": "le traitement de pr\u00e9vention dans la maladie lithiasique de calcium est repr\u00e9sent\u00e9 par:",
-        "options": [
-            "A. apport de fruits et l\u00e9gumes comme les \u00e9pinards et les noix",
-            "B. haut apport liquidien",
-            "C. restriction de calcium dans l\u2019alimentation quotidienne",
-            "D. vitamine C \u00e0 des doses jusqu'\u00e0 4 grammes par jour peut \u00eatre pris sans probl\u00e8me",
-            "E. traitement pharmacologique devrait \u00eatre lanc\u00e9 avant le r\u00e9gime conservateur"
-        ],
-        "correct_answers": [
-            "A",
-            "B"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 86,
-        "question": "pour l'enl\u00e8vement d\u2019un calcul :",
-        "options": [
-            "A. Il est recommand\u00e9 que les salicyl\u00e9s et les anticoagulants doivent \u00eatre arr\u00eat\u00e9s 2 jours avant l'enl\u00e8vement du calcul",
-            "B. les patients portant un stimulateur cardiaque ont une contre indication stricte pour l\u2019enl\u00e8vement d\u2019un calcul",
-            "C. consultation interniste pour saignement disorde",
-            "D. si les bact\u00e9ries sont pr\u00e9sentes un traitement antibiotique doit \u00eatre d\u00e9marr\u00e9 avant la proc\u00e9dure",
-            "E. tout ce qui pr\u00e9c\u00e8de"
-        ],
-        "correct_answers": [
-            "A",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 87,
-        "question": "NLP (n\u00e9phrolithotomie percutan\u00e9e) :",
-        "options": [
-            "A. signifie l\u2019enl\u00e8vement de calcul par un acc\u00e8s minimal percutan\u00e9e",
-            "B. \u00e0 l\u2019aide d\u2019un n\u00e9phroscope, le calcul est localis\u00e9 et par la suite enlev\u00e9 \u00e0 l\u2019aide d\u2019une pince ou d\u00e9sint\u00e9gr\u00e9 par lithotriteur et enlev\u00e9 par fragments",
-            "C. \u00e0 la fin de la proc\u00e9dure, un tube n\u00e9phrostomie est plac\u00e9 pendant 24 \u00e0 72 h",
-            "D. l\u2019avantage est l\u2019absence de toute incision",
-            "E. complications post op sont l\u2019h\u00e9morragie, la fi\u00e8vre, colique n\u00e9phr\u00e9tique"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 88,
-        "question": "le taux global de passage pour les calculs ur\u00e9t\u00e9raux est :",
-        "options": [
-            "A. calculs \u00e0 l\u2019uret\u00e8re moyenne 55%",
-            "B. calculs \u00e0 l\u2019uret\u00e8re moyenne 45%",
-            "C. calculs ur\u00e9t\u00e9raux distal 70%",
-            "D. calculs ur\u00e9t\u00e9raux proximal 25%",
-            "E. calculs ur\u00e9t\u00e9raux distal 80%"
-        ],
-        "correct_answers": [
-            "B",
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 89,
-        "question": "Un patient \u00e2g\u00e9 de 36 ans affirme que depuis 48 heures pr\u00e9sente des douleurs colliquatives lombaires gauches, avec une irradiation ant\u00e9rieure accompagn\u00e9s de naus\u00e9es, vomissements, fi\u00e8vre 39 et frissons. Quelle est la conduite th\u00e9rapeutique ad\u00e9quate ?",
-        "options": [
-            "A. n\u00e9phrostomie percutan\u00e9e",
-            "B. cath\u00e9ter ur\u00e9t\u00e9ral",
-            "C. aucun traitement",
-            "D. finasteride (traitement HBP)",
-            "E. antipyr\u00e9tique et r\u00e9\u00e9valuation apr\u00e8s 48 heures"
-        ],
-        "correct_answers": [
-            "A",
-            "B"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 90,
-        "question": "Les sympt\u00f4mes d\u2019obstruction de l\u2019ad\u00e9nome prostatique incluent :",
-        "options": [
-            "A. jet urinaire faible, difficult\u00e9 \u00e0 uriner",
-            "B. dysurie",
-            "C. miction prolong\u00e9e d\u2019\u00e9vacuation de la vessie dure tr\u00e8s longtemps",
-            "D. imp\u00e9riosit\u00e9 mictionnelle",
-            "E. r\u00e9tention d\u2019urine"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 91,
-        "question": "Un patient porteur d\u2019un ad\u00e9nome prostatique \u00e9valu\u00e9 \u00e0 90g \u00e0 l\u2019\u00e9chographie et un r\u00e9sidu v\u00e9sical post-mictionnel de 150 ml a une indication de :",
-        "options": [
-            "A. r\u00e9section endoscopique de la prostate",
-            "B. ad\u00e9nomectomie r\u00e9tropubienne",
-            "C. incision trans ur\u00e9trale de la prostate",
-            "D. prostatectomie radicale",
-            "E. ad\u00e9nomectomie transv\u00e9sicale"
-        ],
-        "correct_answers": [
-            "B",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 92,
-        "question": "Dans le traitement des tumeurs v\u00e9sicales superficielles, on pratique :",
-        "options": [
-            "A. r\u00e9section endoscopique",
-            "B. instillations aux chimioth\u00e9rapiques",
-            "C. instillations au BCG",
-            "D. Chimioth\u00e9rapie g\u00e9n\u00e9rale",
-            "E. cath\u00e9ter ur\u00e9t\u00e9ral JJ"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 93,
-        "question": "La r\u00e9tention aigu\u00eb d\u2019urine peut appara\u00eetre apr\u00e8s:",
-        "options": [
-            "A. Anesth\u00e9sie rachidienne",
-            "B. traumatismes",
-            "C. intervention chirurgicales",
-            "D. rupture post-traumatique",
-            "E. prostatite aigu\u00eb"
-        ],
-        "correct_answers": [
-            "A",
-            "C",
-            "D",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 94,
-        "question": "La dysurie peut appara\u00eetre dans:",
-        "options": [
-            "A. les tumeurs de la prostate",
-            "B. les calculs v\u00e9sicaux",
-            "C. les calculs ur\u00e9t\u00e9raux",
-            "D. les r\u00e9tr\u00e9cissements ur\u00e9traux",
-            "E. les tumeurs v\u00e9sicales"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 95,
-        "question": "Il existe un potentiel de confusion de diagnostic de l\u2019h\u00e9maturie macroscopique avec :",
-        "options": [
-            "A. Porphynurie",
-            "B. cystinurie",
-            "C. conso de betterave",
-            "D. prise d\u2019anticoagulant",
-            "E. consommation de rifampicine"
-        ],
-        "correct_answers": [
-            "A",
-            "C",
-            "D",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 96,
-        "question": "Les affirmations suivantes sont vraies concernant l\u2019h\u00e9maturie :",
-        "options": [
-            "A. l\u2019h\u00e9maturie n\u2019est jamais physiologique ou fonctionnelle",
-            "B. l\u2019h\u00e9maturie microscopique est moins p\u00e9jorative que macroscopique",
-            "C. l\u2019h\u00e9maturie est toujours une urgence th\u00e9rapeutique",
-            "D. le traitement symptomatique est parfois suffisant dans le cas des h\u00e9maturies a faible abondance",
-            "E. ce ne sont pas seulement les affections urologiques qui peuvent d\u00e9terminer une h\u00e9maturie macroscopique"
-        ],
-        "correct_answers": [
-            "A",
-            "C",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 97,
-        "question": "Laquelle des maladies kystiques du rein \u00e9volue vers l\u2019IRC:",
-        "options": [
-            "A. Le kyste simple du p\u00f4le sup\u00e9rieur",
-            "B. le kyste simple parapy\u00e9lique",
-            "C. le rein multikystique",
-            "D. la maladie kystique intrasinusale",
-            "E. le rein polykystique"
-        ],
-        "correct_answers": [
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 98,
-        "question": "Quelles sont les interventions \u00e0 effectuer en cas d\u2019hydron\u00e9phrose cong\u00e9nitale gr II-III:",
-        "options": [
-            "A. Py\u00e9loplastie",
-            "B. l\u2019endopy\u00e9lotomie",
-            "C. la n\u00e9phrectomie",
-            "D. la ponction \u00e9vacuatrice",
-            "E. aucune variante correcte"
-        ],
-        "correct_answers": [
-            "A",
-            "B"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 99,
-        "question": "Laquelle des zones suivantes du rein est plus sensible \u00e0 l\u2019\u00e9mergence des infections et pourquoi?",
-        "options": [
-            "A. La zone corticale car le d\u00e9placement des leucocytes est plus facile dans ce domaine",
-            "B. la m\u00e9dullaire car le pH urinaire est accru et le d\u00e9bit sanguin plus rapide",
-            "C. l\u2019aire corticale parce que le flux urinaire intrar\u00e9nal \u201clave\u201d les bact\u00e9ries",
-            "D. la m\u00e9dullaire, parce que la concentration d\u2019ammoniac augment\u00e9e inactive le compl\u00e9ment",
-            "E. Toutes les r\u00e9ponses sont correctes"
-        ],
-        "correct_answers": [
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 100,
-        "question": "Chez une patiente sans ATCD de lithiase r\u00e9no-ur\u00e9t\u00e9rale, la pr\u00e9sence de la triade: fi\u00e8vre (39-40)+ douleur lombaire + pyurie nous fait penser d\u2019abord \u00e0:",
-        "options": [
-            "A. appendicite aigu\u00eb",
-            "B. cystite aigu\u00eb",
-            "C. py\u00e9lon\u00e9phrite aigu\u00eb",
-            "D. annexite aigu\u00eb",
-            "E. chol\u00e9cystite aigu\u00eb"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 101,
-        "question": "parmi les circonstances suivantes lesquelles peuvent \u00eatre r\u00e9v\u00e9lateurs pour la d\u00e9couverte d\u2019une tuberculose urog\u00e9nitale?",
-        "options": [
-            "A. la cystite rebelle avec des urines st\u00e9riles",
-            "B. h\u00e9mospermie le jeune adulte",
-            "C. h\u00e9matopyurie",
-            "D. IRC",
-            "E. \u00e9pididymite avec une \u00e9volution lente et fistulis\u00e9e spontan\u00e9ment"
-        ],
-        "correct_answers": [
-            "C"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 102,
-        "question": "A la suite duquel de ces examens on peut certifier le diagnostic de tuberculose urog\u00e9nitale?",
-        "options": [
-            "A. examen urographique",
-            "B. examen \u00e9chographie",
-            "C. examen bact\u00e9riologique",
-            "D. examen anatomo-pathologique",
-            "E. tous ces examens"
-        ],
-        "correct_answers": [
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 103,
-        "question": "La colique n\u00e9phr\u00e9tique se manifeste habituellement par:",
-        "options": [
-            "A. des douleurs lombaires avec irradiation ant\u00e9rieure",
-            "B. des naus\u00e9es ou des vomissements",
-            "C. de la fi\u00e8vre",
-            "D. de la tachycardie et/ou de l\u2019hypertension",
-            "E. de l\u2019anurie"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 104,
-        "question": "L\u2019examen le plus fiable pour diagnostiquer une colique n\u00e9phr\u00e9tique est:",
-        "options": [
-            "A. l\u2019\u00e9chographie r\u00e9no-v\u00e9sicale",
-            "B. la tomodensitom\u00e9trie abdomino-pelvienne",
-            "C. ASP (radiographie abdominale simple)",
-            "D. IRM (imagerie par r\u00e9sonance magn\u00e9tique nucl\u00e9aire)",
-            "E. l\u2019ur\u00e9t\u00e9ro-py\u00e9lographie r\u00e9trograde"
-        ],
-        "correct_answers": [
-            "B"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 105,
-        "question": "le tableau clinique de la colique n\u00e9phr\u00e9tique comprend:",
-        "options": [
-            "A. la douleur lombaire avec irradiation ant\u00e9rieure",
-            "B. des naus\u00e9es, des vomissements",
-            "C. h\u00e9maturie initiale",
-            "D. fi\u00e8vre",
-            "E. polyurie"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 106,
-        "question": "La m\u00e9thode de choix pour le diagnostic de la lithiase urinaire est:",
-        "options": [
-            "A. radiographie r\u00e9nale simple",
-            "B. UIV",
-            "C. \u00e9chographie",
-            "D. TDM",
-            "E. la scintigraphie r\u00e9nale"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 107,
-        "question": "L'enqu\u00eate principale de la classification TNM des tumeurs r\u00e9nales est repr\u00e9sent\u00e9e par:",
-        "options": [
-            "A. Echographie",
-            "B. CT",
-            "C. UIV",
-            "D. Angiographie de soustraction digitale",
-            "E. simple radiographie r\u00e9nale"
-        ],
-        "correct_answers": [
-            "B"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 108,
-        "question": "le traitement des tumeurs r\u00e9nales peut \u00eatre r\u00e9alis\u00e9 par:",
-        "options": [
-            "A. n\u00e9phrectomie \u00e9largie",
-            "B. n\u00e9phrectomie partielle dans les tumeurs r\u00e9nales bilat\u00e9rales",
-            "C. chimioth\u00e9rapie",
-            "D. radioth\u00e9rapie dans la r\u00e9gion r\u00e9nale",
-            "E. radioth\u00e9rapie + chimioth\u00e9rapie"
-        ],
-        "correct_answers": [
-            "A",
-            "B"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 109,
-        "question": "Les manifestations cliniques suivantes peuvent \u00eatre rencontr\u00e9es chez un patient de 60 ans avec une tumeur uroth\u00e9liale localis\u00e9e dans le bassinet avec une seule exception :",
-        "options": [
-            "A. douleurs",
-            "B. h\u00e9maturie",
-            "C. pollakiurie accompagn\u00e9e de br\u00fblures mictionnelles",
-            "D. pyurie",
-            "E. fi\u00e8vre"
-        ],
-        "correct_answers": [
-            "C"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 110,
-        "question": "Le traitement de choix pour les tumeurs du haut appareil urinaire est repr\u00e9sent\u00e9 par :",
-        "options": [
-            "A. n\u00e9phrectomie radicale",
-            "B. ur\u00e9t\u00e9rectomie sous totale et curage r\u00e9trop\u00e9riton\u00e9al",
-            "C. n\u00e9phro-ur\u00e9t\u00e9rectomie totale avec cystectomie p\u00e9ri-m\u00e9atique",
-            "D. \u00e9lectror\u00e9section",
-            "E. radioth\u00e9rapie et chimioth\u00e9rapie de contact BCG"
-        ],
-        "correct_answers": [
-            "C"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 111,
-        "question": "L\u2019h\u00e9maturie macroscopique n\u2019est pas pr\u00e9sente en cas de :",
-        "options": [
-            "A. lithiase urinaire",
-            "B. tumeurs v\u00e9sicales",
-            "C. cancer de la prostate",
-            "D. cancer r\u00e9nal",
-            "E. aucune des variantes n\u2019est correcte"
-        ],
-        "correct_answers": [
-            "C"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 112,
-        "question": "Dans le traitement des tumeurs superficielles on pratique:",
-        "options": [
-            "A. la r\u00e9section endoscopique",
-            "B. les instillations chimioth\u00e9rapeutiques",
-            "C. des instillations au BCG",
-            "D. de la chimioth\u00e9rapie g\u00e9n\u00e9rale",
-            "E. la cystectomie radicale"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 113,
-        "question": "les sympt\u00f4mes de l\u2019obstruction de l\u2019ad\u00e9nome prostatique incluent:",
-        "options": [
-            "A. jet urinaire, difficult\u00e9 \u00e0 uriner",
-            "B. dysurie",
-            "C. la miction prolong\u00e9e (l\u2019\u00e9vacuation de la vessie dure tr\u00e8s longtemps)",
-            "D. imp\u00e9riosit\u00e9 mictionnelle",
-            "E. la r\u00e9tention d\u2019urine"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 114,
-        "question": "Les examens paracliniques utiles dans le diagnostic de l\u2019HBP sont:",
-        "options": [
-            "A. l\u2019uroflowm\u00e9trie",
-            "B. le toucher rectal",
-            "C. le dosage de PSA",
-            "D. la tomodensitom\u00e9trie",
-            "E. l'\u00e9chographie transrectale"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 115,
-        "question": "Conditions qui peuvent fournir des aspects ressemblant au cancer de la prostate au toucher rectal avec deux exceptions:",
-        "options": [
-            "A. Prostatite aigu\u00eb",
-            "B. prostatite chronique",
-            "C. tuberculose de la prostate",
-            "D. abc\u00e8s de la prostate",
-            "E. lithiase prostatique"
-        ],
-        "correct_answers": [
-            "B",
-            "C",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 116,
-        "question": "Les manifestations cliniques du cancer de la prostate peuvent \u00eatre:",
-        "options": [
-            "A. dysurie de nature progressive",
-            "B. h\u00e9maturie",
-            "C. douleur p\u00e9rin\u00e9ale",
-            "D. perturbations mictionnelles occasionnelles",
-            "E. an\u00e9mie"
-        ],
-        "correct_answers": [
-            "B",
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 117,
-        "question": "Lequel des types histologiques rencontr\u00e9s dans les tumeurs testiculaires est le plus radiosensible ?",
-        "options": [
-            "A. S\u00e9minome",
-            "B. gonadoblastome",
-            "C. choriocarcinome",
-            "D. carcinome embryonnaire",
-            "E. carcinome embryonnaire + t\u00e9ratome"
-        ],
-        "correct_answers": [
-            "A"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 118,
-        "question": "l\u2019alpha foetoprot\u00e9ine AFP est utile dans le diagnostic, montrant des taux \u00e9lev\u00e9s chez les patients avec :",
-        "options": [
-            "A. s\u00e9minome",
-            "B. choriocarcinome",
-            "C. tumeur \u00e0 cellules de Sertoli",
-            "D. gonadoblastome",
-            "E. aucune variante correcte"
-        ],
-        "correct_answers": [
-            "B"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 119,
-        "question": "l\u2019exploration chirurgicale d\u2019urgence est indiqu\u00e9e dans les cas suivants :",
-        "options": [
-            "A. Instabilit\u00e9 h\u00e9modynamique en pr\u00e9sence d\u2019une l\u00e9sion r\u00e9nale h\u00e9morragique",
-            "B. dans tous les traumatismes r\u00e9naux ferm\u00e9s",
-            "C. chez un patient qui a un p\u00e9nis en saxophone apr\u00e8s avoir d\u00e9crit la disparition brusque, douloureuse de l\u2019\u00e9rection pendant l\u2019acte sexuel",
-            "D. chez un patient o\u00f9 l\u2019on d\u00e9tecte \u00e0 l\u2019aide de l\u2019\u00e9chographie l\u2019apparition de liquide dans la vaginale testiculaire 3 heures apr\u00e8s un traumatisme testiculaire",
-            "E. /"
-        ],
-        "correct_answers": [
-            "A"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 120,
-        "question": "l\u2019exploration \u201cgold standard\u201d dans les traumatismes de l\u2019uret\u00e8re est :",
-        "options": [
-            "A. urographie iv",
-            "B. ur\u00e9trographie r\u00e9trograde",
-            "C. tomographie comput\u00e9ris\u00e9e",
-            "D. ur\u00e9t\u00e9ropy\u00e9lographie r\u00e9trograde",
-            "E. \u00e9chographie abdominale"
-        ],
-        "correct_answers": [
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 121,
-        "question": "Patient de 65 ans, connu DSII depuis 15 ans, est amen\u00e9 aux urgences suite \u00e0 un traumatisme routier survenu il y a 45 minutes. L\u2019inspection d\u00e9c\u00e8le un abdomen douloureux diffus dans les flancs, tr\u00e8s douloureux au niveau de l\u2019hypogastre sans signe \u00e9vidents de d\u00e9fense musculaire. Le patient a une bonne h\u00e9modynamique et les analyses r\u00e9colt\u00e9es en urgence sont normales \u00e0 l\u2019exception de la cr\u00e9atinine 2,1mg%. Apr\u00e8s la pose d\u2019une sonde uretro-v\u00e9sicale, environ 20 ml d\u2019urine h\u00e9maturique s\u2019ext\u00e9riorise. Quelle est la premi\u00e8re investigation recommand\u00e9e :",
-        "options": [
-            "A. \u00e9chographie abdomino pelvienne",
-            "B. radiographie du bassin & urographie iv",
-            "C. tomographie abdominale avec substance de contraste",
-            "D. tomographie abdomino pelvienne avec substance de contraste",
-            "E. tomographie abdomino pelvienne native avec cystographie r\u00e9trograde"
-        ],
-        "correct_answers": [
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 122,
-        "question": "Suite \u00e0 la question du patient de 65 ans !  Quelles sont les l\u00e9sions probables :",
-        "options": [
-            "A. traumatisme r\u00e9nal avec atteinte des fois urinaire",
-            "B. traumatisme ur\u00e9t\u00e9ral",
-            "C. traumatisme v\u00e9sical extra p\u00e9riton\u00e9al",
-            "D. traumatisme v\u00e9sical intra p\u00e9riton\u00e9al",
-            "E. /"
-        ],
-        "correct_answers": [
-            "C"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 123,
-        "question": "La m\u00e9thode la plus utilis\u00e9e pour le diagnostic d\u2019une IRA obstructive (post-r\u00e9nale) est:",
-        "options": [
-            "A. L\u2019UIV",
-            "B. l'\u00e9chographie",
-            "C. le CT",
-            "D. la radiographie r\u00e9no-v\u00e9sicale simple (ASP)",
-            "E. l\u2019angiographie"
-        ],
-        "correct_answers": [
-            "B"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 124,
-        "question": "Les indications d\u2019une n\u00e9phrostomie percutan\u00e9e de premier choix sont les suivantes:",
-        "options": [
-            "A. tumeur superficielle de la vessie",
-            "B. cancer du col ut\u00e9rin",
-            "C. lithiase ur\u00e9t\u00e9rale bilat\u00e9rale",
-            "D. ligature ur\u00e9t\u00e9rale accidentelle",
-            "E. n\u00e9oplasme trigonal invasif de la vessie"
-        ],
-        "correct_answers": [
-            "B",
-            "C",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 125,
-        "question": "Les uropathies obstructives impliqu\u00e9es dans l\u2019\u00e9tiologie de l\u2019IRC:",
-        "options": [
-            "A. L\u2019hyperplasie b\u00e9nigne de la prostate",
-            "B. la valve ur\u00e9trale post\u00e9rieure",
-            "C. la st\u00e9nose de l\u2019art\u00e8re r\u00e9nale",
-            "D. la fibrose r\u00e9trop\u00e9riton\u00e9ale",
-            "E. le reflux v\u00e9sico-ur\u00e9t\u00e9ral"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "D",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 126,
-        "question": "les affirmations suivantes sont vraies dans le cas de l\u2019IRC:",
-        "options": [
-            "A. dans le cas du rein polykystique l\u2019\u00e9volution vers l\u2019irc est assez rapide",
-            "B. les uropathies obstructives non trait\u00e9es \u00e9voluent vers l\u2019IRC",
-            "C. existence d\u2019une hypercalc\u00e9mie sanguine par une excr\u00e9tion r\u00e9nale d\u00e9ficitaire",
-            "D. la cr\u00e9atinine s\u00e9rique \u00e9lev\u00e9e repr\u00e9sente l\u2019indicateur le plus fid\u00e8le de la d\u00e9gradation de l\u2019\u00e9tat fonctionnel r\u00e9nal",
-            "E. en modifiant les doses selon la clearance de la cr\u00e9atinine on peut administrer sans probl\u00e8mes de la p\u00e9nicilline, de la c\u00e9phalosporine ou des t\u00e9tracyclines"
-        ],
-        "correct_answers": [
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 127,
-        "question": "Concernant la torsion testiculaire, les d\u00e9clarations suivantes sont vraies:",
-        "options": [
-            "A. Le testicule est sur\u00e9lev\u00e9e, fix\u00e9 et dure \u00e0 la palpation",
-            "B. le scrotum est tum\u00e9fi\u00e9 et oed\u00e9mati\u00e9",
-            "C. L'\u00e9pididyme est bien d\u00e9limit\u00e9e",
-            "D. le canal d\u00e9f\u00e9rent n\u2019est pas douloureux",
-            "E. le canal d\u00e9f\u00e9rent est douloureux"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 128,
-        "question": "Laquelle des affirmation sont vraies sur le cancer de la prostate:",
-        "options": [
-            "A. le stade T2 indique le d\u00e9passement de la capsule prostatique",
-            "B. le cancer prostatique avanc\u00e9 b\u00e9nificie\u2026 ??",
-            "C. Les m\u00e9tastases pr\u00e9domine pour les os",
-            "D. le cancer prostatique a une symptomatologie typique",
-            "E. La scintigraphie met en \u00e9vidence la pr\u00e9sence de m\u00e9tastases osseuses"
-        ],
-        "correct_answers": [
-            "C",
-            "D",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 129,
-        "question": "*Un patient de 63 ans, sans comorbidit\u00e9, \u00e0 \u00e9t\u00e9 diagnostiqu\u00e9 par un urologue d\u2019un ad\u00e9nocarcinome de la prostate T2N0M0, score de Gleason 3+4. le dosage des PSA d\u2019une pr\u00e9 biopsie prostatique sont de 7.1 ng/ml. Le patient vous sollicite afin d\u2019avoir un second avis m\u00e9dical afin de savoir quel est le meilleur traitement possible pour lui. Vous r\u00e9pondez:",
-        "options": [
-            "A. Le cancer a d\u00e9pass\u00e9 la capsule prostatique, on recommande donc une surveillance active",
-            "B. Le cancer a d\u00e9pass\u00e9 la capsule prostatique, on recommande donc une radioth\u00e9rapie externe",
-            "C. le cancer est localis\u00e9e dans la prostate, on recommande donc une prostatectomie radicale",
-            "D. le cancer est localis\u00e9e dans la prostate, on recommande donc une hormonoth\u00e9rapie avec des inhibiteurs de la 5-alpha r\u00e9ductase",
-            "E. le cancer est localis\u00e9e dans la prostate, on recommande donc une surveillance active"
-        ],
-        "correct_answers": [
-            "C"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 130,
-        "question": "En ce qui concerne le syndrome Von Hippel Lindau, lesquelles des affirmations suivantes sont vraies:",
-        "options": [
-            "A. C\u2019est une maladie h\u00e9r\u00e9ditaire, caus\u00e9 par une translocation entre le bras court du chromosome 6 et le bras long du chromosome 8",
-            "B. appara\u00eet dans le carcinome papillaire",
-            "C. est associ\u00e9 au carcinome \u00e0 cellules claires",
-            "D. est li\u00e9 avec l\u2019angiome r\u00e9tinien",
-            "E. caus\u00e9 par une mutation du g\u00e8ne VHL"
-        ],
-        "correct_answers": [
-            "C",
-            "D",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 131,
-        "question": "Quel traitement fait partie de la prise en charge de la lithiase urinaire:",
-        "options": [
-            "A. Piridoxina",
-            "B. thiazide",
-            "C. Administration de m\u00e9dicaments \u00e0 vis\u00e9e litholytique : allopurinol",
-            "D. alcalinisation de l\u2019urine avec du citrate de sodium-potassium",
-            "E. citrate alcalin"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "D",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 132,
-        "question": "*lequel de ces agents s\u2019utilise dans le traitement instilatoire de la tumeur uroth\u00e9liale, SAUF:",
-        "options": [
-            "A. Gemcitabine",
-            "B. doxorubicine",
-            "C. mitomycine",
-            "D. le bacille de calmette gu\u00e9rin",
-            "E. cyclophosphamide"
-        ],
-        "correct_answers": [
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 133,
-        "question": "Le traitement de la tumeur v\u00e9sicale non musculo-invasive est repr\u00e9sent\u00e9:",
-        "options": [
-            "A. chimioth\u00e9rapie instillatoire",
-            "B. immunoth\u00e9rapie syst\u00e9mique",
-            "C. biopsie \u00e9choguid\u00e9e",
-            "D. r\u00e9section endoscopique trans ur\u00e9trale de la tumeur",
-            "E. cystoscopie"
-        ],
-        "correct_answers": [
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 134,
-        "question": "Parmis ces micro-organisme gram + producteurs d\u2019ur\u00e9ases, lesquels sont responsables de la formation de calculs infect\u00e9s:",
-        "options": [
-            "A. micrococcus",
-            "B. haemophilus influenzae",
-            "C. corynebacterium",
-            "D. provindencia situartii",
-            "E. proteus mirabilis"
-        ],
-        "correct_answers": [
-            "C"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 135,
-        "question": "Font parti de l\u2019\u00e9tiologie gangr\u00e9neuse de Fournier:",
-        "options": [
-            "A. l\u2019ur\u00e9trite gonococcique",
-            "B. patient immunod\u00e9prim\u00e9",
-            "C. st\u00e9nose du m\u00e9at ur\u00e9tral",
-            "D. obstruction des voies urinaires",
-            "E. lithiase ur\u00e9t\u00e9rale"
-        ],
-        "correct_answers": [
-            "B",
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 136,
-        "question": "Le diagnostic diff\u00e9rentiel de la colique r\u00e9nale se fait le plus fr\u00e9quent avec:",
-        "options": [
-            "A. infarctus intestinal",
-            "B. lombosciatique",
-            "C. Colique biliaire",
-            "D. orchi \u00e9pididymite",
-            "E. grossesse ectopique rompue"
-        ],
-        "correct_answers": [
-            "C"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 137,
-        "question": "la composition chimique des calculs provoquant la lithotritie extracorporelle avec des ondes de choc pour avoir de bonnes chances de succ\u00e8s:",
-        "options": [
-            "A. Oxalat de calcium dihydrate",
-            "B. acide urique",
-            "C. cystine",
-            "D. oxalat de calcium monohydrat\u00e9",
-            "E. hydroxyapatite"
-        ],
-        "correct_answers": [
-            "B"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 138,
-        "question": "*Dans les tumeurs r\u00e9nales parenchymateuses, le stade T3 d\u00e9finit:",
-        "options": [
-            "A. tumeur sup\u00e9rieure \u00e0 7 cm",
-            "B. tumeur envahissant les veines ou le tissus p\u00e9ri r\u00e9nal",
-            "C. tumeur sup\u00e9rieure \u00e0 7 cm, mais limit\u00e9 au rein",
-            "D. tumeur inf\u00e9rieur \u00e0 7 cm",
-            "E. tumeur envahissant la glande surr\u00e9nale"
-        ],
-        "correct_answers": [
-            "B"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 139,
-        "question": "Parmis ces substances lesquelles ne repr\u00e9sente pas le m\u00e9tabolisme actif de la testost\u00e9rone avec activation des cellules \u00e9pith\u00e9liales glandulaires prostatique:",
-        "options": [
-            "A. androst\u00e8nedione",
-            "B. dehydroepiandrosterone",
-            "C. flutamide",
-            "D. cyprot\u00e9rone ac\u00e9tate",
-            "E. dihydrotestosterone"
-        ],
-        "correct_answers": [
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 140,
-        "question": "*Un patient \u00e2g\u00e9 de 70 ans avec hyperplasie b\u00e9nigne de la prostate, se pr\u00e9sente avec un volume prostatique de 60 cmc, un score IPSS de 27. Le Qmax de 12 ml/s et avec un r\u00e9sidu post mictionnel de 160 ml. L'indication th\u00e9rapeutique est:",
-        "options": [
-            "A. traitement avec alpha-bloquant et des inhibiteurs de la 5-alpha r\u00e9ductase",
-            "B. trans ur\u00e9tro r\u00e9section prostatique",
-            "C. incision transur\u00e9trale de la prostate",
-            "D. traitement avec alpha-bloquant et philoth\u00e9rapie",
-            "E. chirurgie ouverte"
-        ],
-        "correct_answers": [
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 141,
-        "question": "lequel fait parti de l'\u00e9tiologie du cancer p\u00e9nien:",
-        "options": [
-            "A. paraphimosis",
-            "B. purgation de cath\u00e9ter ur\u00e9tro-v\u00e9sical",
-            "C. phimosis",
-            "D. inflammation chronique",
-            "E. maladie peyron"
-        ],
-        "correct_answers": [
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 142,
-        "question": "lesquelles des situations suivantes repr\u00e9sente une cause de la lithog\u00e9n\u00e8se:",
-        "options": [
-            "A. diverticule caliciel",
-            "B. st\u00e9nose de la jonctions py\u00e9lo-ur\u00e9t\u00e9ral",
-            "C. infection urinaire \u00e0 causes des germes producteurs d\u2019ur\u00e9ase",
-            "D. hypoparathyro\u00efdisme",
-            "E. hypocalciurie"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 143,
-        "question": "Dans le cadre des traumatismes ur\u00e9t\u00e9raux, les attitudes th\u00e9rapeutiques qui ne sont pas \u00e0 tenir sont:",
-        "options": [
-            "A. uretero cystoneostomie",
-            "B. cath\u00e9ter ur\u00e9t\u00e9ral autostatique de type JJ",
-            "C. cystostomie",
-            "D. n\u00e9phrostomie",
-            "E. ur\u00e9t\u00e9roscopie"
-        ],
-        "correct_answers": [
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 144,
-        "question": "*Le score international des sympt\u00f4mes prostatiques (IPSS) n'inclut pas:",
-        "options": [
-            "A. sensation de drainage incomplet",
-            "B. urgence mictionnelle",
-            "C. dysurie",
-            "D. urine intermittente",
-            "E. nycturie"
-        ],
-        "correct_answers": [
-            "C"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 145,
-        "question": "la symptomatologie t\u00e9moignant d\u2019un traumatisme r\u00e9nal peut inclure:",
-        "options": [
-            "A. h\u00e9maturie macroscopique",
-            "B. etat g\u00e9n\u00e9ral alt\u00e9r\u00e9",
-            "C. choc hypovol\u00e9mique",
-            "D. douleur lombaire violente",
-            "E. syndrome f\u00e9bril"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 146,
-        "question": "*Un patient \u00e2g\u00e9 de 62 ans, se pr\u00e9sente chez l\u2019urologue accusant: pollakiurie, nycturie, faible jet urinaire (score IPSS = 20), PSA de 5ng/ml, toucher rectal sans suspicion de malignit\u00e9, prostate avec un volume de 80 cmc, r\u00e9sidus post mictionnel de 40 ml, sans autres modification de l\u2019appareil urinaire. Le traitement optimal pour ce patient est:",
-        "options": [
-            "A. biopsie de ponction prostatique",
-            "B. RMN pelvien multiparam\u00e9trique et biopsie de ponction prostatique",
-            "C. traitement avec alpha bloquant et poursuite du traitement pendant 6 mois avec r\u00e9p\u00e9tition du dosage de PSA s\u00e9rique",
-            "D. double th\u00e9rapie (alpha bloquant et inhibiteur de la 5 alpha-r\u00e9ductase) et poursuite de ce traitement pendant 6 mois avec r\u00e9p\u00e9tition de IPSS, PSA s\u00e9rique et PSA libre",
-            "E. ad\u00e9nomectomie transv\u00e9sicale"
-        ],
-        "correct_answers": [
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 147,
-        "question": "Les sympt\u00f4mes obstructifs sp\u00e9cifiques pour l\u2019hyperplasie b\u00e9nigne postratique n\u2019inclut pas:",
-        "options": [
-            "A. nycturie",
-            "B. difficult\u00e9 \u00e0 la miction au d\u00e9but",
-            "C. dysurie",
-            "D. jet urinaire faible",
-            "E. pollakiurie"
-        ],
-        "correct_answers": [
-            "C"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 148,
-        "question": "Lesquels des affirmations suivantes sur le cancer de la prostate sont fausses:",
-        "options": [
-            "A. Stade T2 indique qu\u2019il d\u00e9passe la capsule prostatique",
-            "B. scintigraphie met en \u00e9vidence les m\u00e9tastases osseuses",
-            "C. cancer prostatique a une symptomatologie typique",
-            "D. m\u00e9tastase est pr\u00e9dominante osseuse",
-            "E. cancer prostatique avanc\u00e9 b\u00e9n\u00e9ficie de castration chimique"
-        ],
-        "correct_answers": [
-            "A",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 149,
-        "question": "Dans le cadre des contusions r\u00e9nales de grade III peut \u00eatre trouv\u00e9 :",
-        "options": [
-            "A. h\u00e9matome sous capsulaire",
-            "B. h\u00e9matome r\u00e9tro p\u00e9riton\u00e9ale",
-            "C. int\u00e9resse la capsule et la corticale avec ouverture des canaux excr\u00e9teurs",
-            "D. avulsion pediculaire",
-            "E. h\u00e9matome p\u00e9rir\u00e9nal qui int\u00e9resse la capsule et la corticale"
-        ],
-        "correct_answers": [
-            "C",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 150,
-        "question": "Patient \u00e2g\u00e9 de 54 ans, actif sexuellement, connu avec une hyperplasie b\u00e9nigne de la prostate (volume 35 cmc), sous traitement phytoth\u00e9rapeutique, se pr\u00e9sente pour une r\u00e9\u00e9valuation. Il pr\u00e9sente des sympt\u00f4mes urinaires persistants, score IPSS 15, PSA=1,4 ng/ml, tissus rectal normal, sans autre modification de l\u2019appareil urinaire. Le traitement optimal est dans ce cas :",
-        "options": [
-            "A. N\u00e9cessite TURP",
-            "B. N\u00e9cessite pas de poursuivre de traitement",
-            "C. le traitement est remplac\u00e9 par des alpha bloquant et inhibiteur de 5 alpha r\u00e9ductase",
-            "D. On ajoute un alpha bloquant au traitement phytoth\u00e9rapeutique pr\u00e9existant",
-            "E. Il poursuit uniquement le traitement phytoth\u00e9rapeutique"
-        ],
-        "correct_answers": [
-            "C"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 151,
-        "question": "Ne se trouve pas dans le cadre d\u2019un syndrome paran\u00e9oplasique d\u2019une tumeur r\u00e9nale :",
-        "options": [
-            "A. hypothermie",
-            "B. hypercalc\u00e9mie",
-            "C. hypocalc\u00e9mie",
-            "D. hypopotass\u00e9mie",
-            "E. erythrocytose"
-        ],
-        "correct_answers": [
-            "A",
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 152,
-        "question": "Les r\u00f4les et les t\u00e2ches du service de sant\u00e9 et de s\u00e9curit\u00e9 au travail (SSM) sont:",
-        "options": [
-            "A. accorder la premi\u00e8re aide",
-            "B. participer \u00e0 la r\u00e9habilitation professionnelle",
-            "C. traitement et exemption d\u2019une maladie chronique",
-            "D. surveiller la sant\u00e9 des travailleurs",
-            "E. former et \u00e9duquer dans le domaine du SSM"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "D",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 153,
-        "question": "Quels sont les complications imm\u00e9diates survenues apr\u00e8s un traitement chirurgical d\u2019une hyperplasie b\u00e9nigne de la prostate :",
-        "options": [
-            "A. dysfonction \u00e9rectile",
-            "B. scl\u00e9rose du col v\u00e9sicale",
-            "C. h\u00e9morragie",
-            "D. incontinence urinaire",
-            "E. infection urinaire"
-        ],
-        "correct_answers": [
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 154,
-        "question": "Laquelle de ces situations repr\u00e9sente une cause de la lithogen\u00e8se ?",
-        "options": [
-            "A. st\u00e9nose de la jonction py\u00e9lo ur\u00e9t\u00e9ral",
-            "B. hypocalciurie",
-            "C. hypoparathyro\u00efdisme",
-            "D. diverticule caliciel",
-            "E.  infection urinaire aux germes qui produisent une ur\u00e9ase"
-        ],
-        "correct_answers": [
-            "A",
-            "D",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 155,
-        "question": "Lesquels des substances suivantes ne repr\u00e9sente pas le m\u00e9tabolisme actif de la testost\u00e9rone avec action des cellules \u00e9pith\u00e9liales glandulaires prostatiques?",
-        "options": [
-            "A. androst\u00e8nedione",
-            "B. dihydro\u00e9piandrosterone",
-            "C. flutamide",
-            "D. ac\u00e9tate de cyprot\u00e9rone",
-            "E. dihydrotestost\u00e9rone"
-        ],
-        "correct_answers": [
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 156,
-        "question": "*Un patient de 60 ans, hypertensif, sans comorbidit\u00e9s, asymptomatique, a \u00e9t\u00e9 d\u00e9pist\u00e9 accidentellement avec une tumeur r\u00e9nale droite polaire inf\u00e9rieure de 3 cm. investigations suppl\u00e9mentaires et traitement optimal sont:",
-        "options": [
-            "A. Rx thorax, CT abdo et pelvien avec SDC, n\u00e9phrectomie polaire sup\u00e9rieur et cryoblastie",
-            "B. rx thorax, ct abdo pelvien avec SDC, n\u00e9phrectomie polaire inf\u00e9rieure et tumorectomie",
-            "C. rx thorax, ct abdo pelvien avec SDC, n\u00e9phrectomie radicale p\u00e9ri faciale",
-            "D. Rx thorax CT abdo et pelvien nativ, n\u00e9phrectomie polaire inf\u00e9rieure et tumorectomie",
-            "E. RX thorax, CT abdo et pelvien avec SDC, th\u00e9rapie anti angiog\u00e9nique et n\u00e9phrectomie cytor\u00e9ductrice"
-        ],
-        "correct_answers": [
-            "B"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 157,
-        "question": "*Formes histologiques du cancer r\u00e9nal ne fait pas partie :",
-        "options": [
-            "A. avec cellules claires",
-            "B. du tube collecteur",
-            "C. papillaire",
-            "D. transitionnel",
-            "E. chromophobe"
-        ],
-        "correct_answers": [
-            "D"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 158,
-        "question": "*Score international des sympt\u00f4mes prostatiques n\u2019inclut pas :",
-        "options": [
-            "A. dysurie",
-            "B. sensation de vidange incompl\u00e8te",
-            "C. miction intermittente",
-            "D. nocturie",
-            "E. urgence mictionnel"
-        ],
-        "correct_answers": [
-            "A"
-        ]
-    },
-    {
-        "chapitre": 1,
-        "id": 159,
-        "question": "Les affirmations suivantes concernant la grande tumeur uroth\u00e9liale ne sont pas correctes :",
-        "options": [
-            "A. Les patients avec tumeur du bassinet et de l\u2019uret\u00e8re ne sont pas \u00e0 risque de d\u00e9velopper une tumeur v\u00e9sicale",
-            "B. approximativement 11-13 % des tumeurs ont des cellules transitionnels r\u00e9cidivants",
-            "C. fumer fait partie des facteurs de risque",
-            "D. patient avec tumeur v\u00e9sicale r\u00e9cidivante pr\u00e9sente un risque de d\u00e9velopper une grande tumeur v\u00e9sicale",
-            "E. tumeur de uroth\u00e9lium avec caract\u00e8re unifocal"
-        ],
-        "correct_answers": [
-            "A",
-            "E"
-        ]
-    }
+  {
+    "chapitre": 1,
+    "id": 1,
+    "question": "*Quelle est une cause de r\u00e9tention chronique compl\u00e8te d'urine:",
+    "options": [
+      "A. Les traumatismes v\u00e9siculaires",
+      "B. La rachianesth\u00e9sie ou l'anesth\u00e9sie g\u00e9n\u00e9rale",
+      "C. L'ad\u00e9nome p\u00e9ri-ur\u00e9tral",
+      "D. Prostatite aigu\u00eb",
+      "E. La rupture post-traumatique de l'ur\u00e8tre"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 2,
+    "question": "*Si le saignement est vireux, l'urine peut appara\u00eetre:",
+    "options": [
+      "A. Rouge vif",
+      "B. Brune",
+      "C. Orange",
+      "D. Hyperchrome",
+      "E. jaune"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 1,
+    "id": 3,
+    "question": "*Quel est l'examen le plus important pour mettre en \u00e9vidence un reflux v\u00e9sico-ur\u00e9t\u00e9ral:",
+    "options": [
+      "A. La cystoscopie",
+      "B. L'urographie intraveineuse",
+      "C. La cystographie de remplissement",
+      "D. La py\u00e9lographie r\u00e9trograde",
+      "E. l'\u00e9chographie abdomino-pelvienne"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 4,
+    "question": "*Quel est le diagnostic diff\u00e9rentiel le plus fr\u00e9quent d'une \u00e9pididymite aigu\u00eb:",
+    "options": [
+      "A. Tumeur du testicule",
+      "B. torsion du cordon testiculaire",
+      "C. Abc\u00e8s testiculaire",
+      "D. infarctus testiculaire",
+      "E. hydroc\u00e8le"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 1,
+    "id": 5,
+    "question": "*Le bacille mycobacterium tuberculosis est un bacille:",
+    "options": [
+      "A. Acido-alcoolo-r\u00e9sistant",
+      "B. Gram n\u00e9gatif",
+      "C. Gram positif",
+      "D. acido-alcoolo-sensible",
+      "E. aucune des propositions ci-dessus n'est exacte"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 1,
+    "id": 6,
+    "question": "*Ce n'est pas une manifestation clinique de la colique n\u00e9phr\u00e9tique:",
+    "options": [
+      "A. Douleurs lombaires",
+      "B. Naus\u00e9es",
+      "C. Vomissements",
+      "D. Douleurs thoraciques",
+      "E. Pollakiurie"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 7,
+    "question": "*Ce n'est pas un inhibiteur de la cristallisation:",
+    "options": [
+      "A. Citrate",
+      "B. Ur\u00e9e",
+      "C. Calcium",
+      "D. Magn\u00e9sium",
+      "E. N\u00e9phrocalcine"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 8,
+    "question": "*Parmi les termes suivants, tous sont des synonymes de tumeurs primitives malignes du rein de l'adulte sauf un lequel:",
+    "options": [
+      "A. hypern\u00e9phrome",
+      "B. tumeur de grawitz",
+      "C. tumeur \u00e0 cellule claire",
+      "D. ad\u00e9nocarcinome r\u00e9nale",
+      "E. tumeur de wilms"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 9,
+    "question": "*Le traitement de choix d'une tumeur du bassinet T2 N0 M0 est:",
+    "options": [
+      "A. La n\u00e9phro-ur\u00e9t\u00e9rectomie totale avec cystectomie p\u00e9rim\u00e9atique",
+      "B. La py\u00e9lotomie avec r\u00e9section de la tumeur",
+      "C. la n\u00e9phrectomie partielle",
+      "D. la chimioth\u00e9rapie",
+      "E. la radioth\u00e9rapie"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 1,
+    "id": 10,
+    "question": "*Le signe le plus fr\u00e9quent des tumeurs v\u00e9sicales non infiltrantes est:",
+    "options": [
+      "A. La pollakiurie",
+      "B. la dysurie",
+      "C. l'hydron\u00e9phrose",
+      "D. l'an\u00e9mie",
+      "E. l'h\u00e9maturie"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 11,
+    "question": "*Le toucher rectal pratiqu\u00e9 chez un homme porteur d'une hyperplasie b\u00e9nigne de la prostate typique permet de sentir:",
+    "options": [
+      "A. Une tumeur dure et irr\u00e9guli\u00e8re",
+      "B. une tumeur douloureuse",
+      "C. une tumeur dure avec respect du sillon m\u00e9dian",
+      "D. une tumeur lisse et homog\u00e8ne",
+      "E. une tumeur fix\u00e9e aux parois pelviennes"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 12,
+    "question": "*Quel est le si\u00e8ge le plus fr\u00e9quent des m\u00e9tastases du cancer de la prostate:",
+    "options": [
+      "A. Le foie",
+      "B. les os",
+      "C. La peau",
+      "D. Le poumon",
+      "E. Le cerveau"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 1,
+    "id": 13,
+    "question": "*Quel est le types histologique le plus fr\u00e9quent de cancer testiculaire:",
+    "options": [
+      "A. Tumeurs germinales",
+      "B. lymphomes",
+      "C. carcino\u00efdes",
+      "D. tumeurs non germinales",
+      "E. aucune des r\u00e9ponses ci-dessus n'est exacte"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 1,
+    "id": 14,
+    "question": "*Quel est la m\u00e9thode standard d'\u00e9valuation des traumatismes v\u00e9sicaux:",
+    "options": [
+      "A. l'urographie intraveineuse",
+      "B. la py\u00e9lographie r\u00e9trograde",
+      "C. l\u2019\u00e9chographie abdomino pelvienne",
+      "D. cystographie r\u00e9trograde",
+      "E. ??"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 15,
+    "question": "*l'\u00e9tiologie de l'insuffisance aigu\u00eb de cause post-r\u00e9nale est avec une exception:",
+    "options": [
+      "A. Tumeurs r\u00e9tro-p\u00e9riton\u00e9ale",
+      "B. tumeur v\u00e9sicale infiltrante",
+      "C. cancer du col de l'ut\u00e9rus",
+      "D. ligature accidentelle de l'uret\u00e8re",
+      "E. la n\u00e9crose tubulaire aigu\u00eb"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 16,
+    "question": "la dysurie peut appara\u00eetre dans:",
+    "options": [
+      "A. les calculs v\u00e9sicaux",
+      "B. les tumeurs de la prostate",
+      "C. les tumeurs de l'\u00e9pididyme",
+      "D. la phimosis s\u00e9v\u00e8re",
+      "E. les r\u00e9tr\u00e9cissements ur\u00e9traux"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 17,
+    "question": "les causes pour l'\u00e9nur\u00e9sie sont:",
+    "options": [
+      "A. des facteurs psychog\u00e8nes",
+      "B. epilepsie",
+      "C. la st\u00e9nose du m\u00e9at ur\u00e9tral",
+      "D. la scl\u00e9rose du col v\u00e9sical",
+      "E. l'instauration tardive du contr\u00f4le sphinct\u00e9rien"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 18,
+    "question": "Les origines d\u2019une h\u00e9maturie initiale ne sont pas:",
+    "options": [
+      "A. Le rein",
+      "B. La prostate",
+      "C. L\u2019uret\u00e8re pelvien",
+      "D.  La vessie",
+      "E. L\u2019ur\u00e8tre"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 19,
+    "question": "La consommation de quel m\u00e9dicament ne peut pas faire l\u2019urine rouge:",
+    "options": [
+      "A. Aspirine",
+      "B. Ibuprof\u00e8ne",
+      "C. Furazolidone",
+      "D. Tamsulosin",
+      "E. Dutasteride"
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 20,
+    "question": "Les complications du rein polykystique sont:",
+    "options": [
+      "A. HTA",
+      "B. L\u2019infection urinaire",
+      "C. Kyste solitaire r\u00e9nal",
+      "D. H\u00e9maturie",
+      "E. Tumeur uroth\u00e9liale"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 21,
+    "question": "La ponction \u00e9choguid\u00e9e d\u2019\u00e9vacuation est appliqu\u00e9 en cas de:",
+    "options": [
+      "A. St\u00e9nose de la jonction py\u00e9lo-ur\u00e9t\u00e9rale",
+      "B. le rein multikystique",
+      "C. le kyste simple du rein",
+      "D. le reflux v\u00e9sico-ur\u00e9t\u00e9ral",
+      "E. le rein polykystique"
+    ],
+    "correct_answers": ["C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 22,
+    "question": "Les facteurs de risque pour les infections des voies urinaires sont:",
+    "options": [
+      "A. une tumeur de la prostate",
+      "B. le reflux v\u00e9sico-ur\u00e9t\u00e9ral",
+      "C. Une tumeur testiculaire",
+      "D. une contusion lombaire",
+      "E. un calcul obstructif"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 23,
+    "question": "Pour une py\u00e9lon\u00e9phrite aigu\u00eb sont valables :",
+    "options": [
+      "A. Est une infection bact\u00e9rienne du parenchyme r\u00e9nal",
+      "B. Triade clinique: fi\u00e8vre + douleur lombaire + pyurie",
+      "C. L\u2019ur\u00e9t\u00e9ro py\u00e9lographie r\u00e9trograde est obligatoire",
+      "D. La TDM est utile pour le diagnostic positif en cas de doute",
+      "E. La traitement fr\u00e9quent: ponction r\u00e9nale"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 24,
+    "question": "Sont des manifestations clinique de la tuberculose urog\u00e9nitale dans la phase parenchymateuse ferm\u00e9e:",
+    "options": [
+      "A. Fatigue",
+      "B. fi\u00e8vre l\u00e9g\u00e8re",
+      "C. h\u00e9maturie",
+      "D. polyurie",
+      "E.  perte de poids mod\u00e9r\u00e9e"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 25,
+    "question": "Lesquelles affirmations sont correctes en ce qui concerne la tuberculose uro-g\u00e9nitale?",
+    "options": [
+      "A. L\u2019installation de la maladie est insidieuse et le diagnostic est tr\u00e8s facile",
+      "B. la tuberculose r\u00e9nale est toujours secondaire \u00e0 une tuberculose pulmonaire",
+      "C. la maladie n\u2019affecte pas des sujets jeunes",
+      "D. la maladie et la gu\u00e9rison d\u00e9truisent le parenchyme r\u00e9nal",
+      "E. est la troisi\u00e8me comme fr\u00e9quence des tuberculoses extra-pulmonaires"
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 26,
+    "question": "Un calcul unique localis\u00e9e dans le bassinet r\u00e9nal est visualis\u00e9e par:",
+    "options": [
+      "A. l\u2019\u00e9chographie r\u00e9nale",
+      "B. la radiographie r\u00e9nale simple",
+      "C. la tomodensitom\u00e9trie",
+      "D. l\u2019urographie",
+      "E. l\u2019uretrographie r\u00e9trograde"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 27,
+    "question": "Dans le contexte de la lithiase urinaire l\u2019\u00e9chographie pr\u00e9sente de nombreux avantages:",
+    "options": [
+      "A. est une m\u00e9thode non-invasive qui peut \u00eatre r\u00e9p\u00e9t\u00e9e",
+      "B. Peut \u00eatre r\u00e9alis\u00e9e dans la colique sans une pr\u00e9paration pr\u00e9alable du patient",
+      "C. Permet un diagnostic rapide des complications apr\u00e8s LEC ou NLP",
+      "D. est en mesure de fournir des informations directes sur la fonction r\u00e9nale",
+      "E. est r\u00e9alis\u00e9e en anesth\u00e9sie locale"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 28,
+    "question": "Les indications de LEC sont:",
+    "options": [
+      "A. L\u2019obstacle distal par rapport \u00e0 la lithiase \u00e0 traiter",
+      "B. la grossesse",
+      "C. calcul py\u00e9lo-caliciel de moins de 2cm de diam\u00e8tre",
+      "D. l\u2019ob\u00e9sit\u00e9 de grade III",
+      "E. Lithiase ur\u00e9t\u00e9rale lombaire de moins de 1.2 cm"
+    ],
+    "correct_answers": ["C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 29,
+    "question": "Les signes cliniques trouve dans le cancer du rein sont:",
+    "options": [
+      "A. Masse lombaire",
+      "B. Hydroc\u00e8le",
+      "C. Lombalgie",
+      "D. H\u00e9maturie",
+      "E. Varicoc\u00e8le"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 30,
+    "question": "Le syndrome paran\u00e9oplasique dans le cancer du rein est caract\u00e9ris\u00e9 par:",
+    "options": [
+      "A. An\u00e9mie",
+      "B. syndrome de cushing",
+      "C. hyperglyc\u00e9mie",
+      "D. fi\u00e8vre",
+      "E. hypocalc\u00e9mie"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 31,
+    "question": "Dans un tableau clinique d\u2019une tumeur uroth\u00e9liale sup\u00e9rieure on peut trouver:",
+    "options": [
+      "A. Pyurie",
+      "B. h\u00e9maturie",
+      "C. des douleurs dorsales",
+      "D. dysurie",
+      "E. pollakiurie"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 32,
+    "question": "Les facteurs carcinog\u00e8nes qui peuvent conduire au d\u00e9veloppement des tumeurs uroth\u00e9liales sup\u00e9rieur sont:",
+    "options": [
+      "A. H\u00e9r\u00e9dit\u00e9",
+      "B. tabac",
+      "C. cyclophosphamide",
+      "D. syndrome de Von Hippel Lindau",
+      "E. n\u00e9phropathie interstitielle d\u00e9g\u00e9n\u00e9rative"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 33,
+    "question": "Les investigations utilis\u00e9e pour diagnostiquer les tumeurs uroth\u00e9liales sup\u00e9rieurs sont:",
+    "options": [
+      "A. Cystoscopie",
+      "B. \u00e9chographie",
+      "C. tomodensitom\u00e9trie",
+      "D. scintigraphie",
+      "E. l'ur\u00e9t\u00e9roscopie / La n\u00e9phroscopie"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 34,
+    "question": "lesquels des facteurs suivants sont incrimin\u00e9es dans l\u2019apparition de tumeur de la vessie:",
+    "options": [
+      "A. Le tabagisme",
+      "B. la bilharziose",
+      "C. influences hormonale",
+      "D. troubles de coagulation",
+      "E. l\u2019abus d\u2019analg\u00e9sique"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 35,
+    "question": "Dans la classification histologique des tumeurs v\u00e9sicale on peut trouver:",
+    "options": [
+      "A. Le carcinome non diff\u00e9rentiel",
+      "B. Carcinome transitionnel",
+      "C. sarcome",
+      "D. t\u00e9ratome",
+      "E. le carcinome \u00e0 cellules squameuses"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 36,
+    "question": "Pour les traitement des tumeurs v\u00e9sicales infiltrantes, les suivants sont vraies:",
+    "options": [
+      "A. le gold standard est la cystectomie radicale",
+      "B. la chimioth\u00e9rapie locale donne des bons r\u00e9sultats",
+      "C. le gold standard est la cystectomie radicale avec curage ganglionnaire ilio-obturateur",
+      "D. l'\u00e9lectro r\u00e9section transur\u00e9trale",
+      "E. la r\u00e9alisation d'une d\u00e9rivation urinaire est toujours n\u00e9cessaire"
+    ],
+    "correct_answers": ["C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 37,
+    "question": "des sympt\u00f4mes obstructifs dans un HBP sont:",
+    "options": [
+      "A. Imp\u00e9riosit\u00e9 mictionnelle",
+      "B. jet urinaire faible",
+      "C. douleur hypogastre",
+      "D. fausse incontinence urinaire",
+      "E. dysurie"
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 38,
+    "question": "la traitement m\u00e9dicamenteux avec inhibiteurs de 5-alpha-r\u00e9ductase pour le HBP, a la fin de:",
+    "options": [
+      "A. am\u00e9liorer le score de sympt\u00f4me de 15%",
+      "B. agir sur la composante dynamique de l\u2019obstruction par la relaxation de la musculature lisse p\u00e9riprostatique et cervicale",
+      "C. peuvent r\u00e9duire le volume prostatique de 20-30%",
+      "D. Peuvent donner \u00e9jaculation retrograde",
+      "E. am\u00e9liorer le flux urinaire"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 39,
+    "question": "Les complications qui peut appara\u00eetre dans un HBP sont:",
+    "options": [
+      "A. La r\u00e9tention chronique d'urine",
+      "B. l'ur\u00e9t\u00e9ro-hydron\u00e9phrose",
+      "C. prostatite",
+      "D. st\u00e9nose de l'ur\u00e8tre",
+      "E. h\u00e9maturie"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 40,
+    "question": "Pour le cancer de la prostate sont vraies tout les \u00e9nonc\u00e9s sauf:",
+    "options": [
+      "A. Il repr\u00e9sente la 2\u00e8me cause de d\u00e9c\u00e8s oncologique chez l\u2019homme apr\u00e8s le cancer du poumon",
+      "B. le cancer de la prostate ne se d\u00e9veloppe pas sous l'influence des androg\u00e8nes",
+      "C. les blancs ont deux fois le risque de d\u00e9velopper cancer de la prostate que les noirs",
+      "D. les eunuques ne sont pas atteints par le cancer de la prostate",
+      "E. le cancer de la prostate est localis\u00e9 dans 80% des cas dans la zone sous-capsulaire de la prostate"
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 41,
+    "question": "pour diagnostiquer un cancer de la prostate il faut qu'on utilise ces examens paracliniques:",
+    "options": [
+      "A. l\u2019imagerie par r\u00e9sonance magn\u00e9tique",
+      "B. la PCA3",
+      "C. l'\u00e9chographie transrectale",
+      "D. l\u2019ECBU",
+      "E. angiographie"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 42,
+    "question": "Les facteurs pronostiques dans un cancer de la prostate sont repr\u00e9sent\u00e9es par:",
+    "options": [
+      "A. stadialisation TNM",
+      "B. taux de PSA",
+      "C. Echographie",
+      "D. Score Gleason",
+      "E. Degr\u00e9e fuhrmann"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 43,
+    "question": "Au point de vue clinique, dans un cancer de testicule ont peut trouver:",
+    "options": [
+      "A. Apparition d\u2019un nodule dans le testicule",
+      "B. sensation de lourdeur scrotale",
+      "C. augmentation brusque",
+      "D. fi\u00e8vre",
+      "E. la perte de poids"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 44,
+    "question": "*La douleur de flanc qui rayonne vers la fosse iliaque, testicules ou des l\u00e8vres est produit g\u00e9n\u00e9ralement par:",
+    "options": [
+      "A. une obstruction ur\u00e9t\u00e9rale",
+      "B. cystite",
+      "C. ur\u00e9trite",
+      "D. prostatite",
+      "E. py\u00e9lon\u00e9phrite"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 1,
+    "id": 45,
+    "question": "*Le syndrome d\u2019h\u00e9maturie franche r\u00e9currente est d\u00e9fini par:",
+    "options": [
+      "A. la pr\u00e9sence d\u2019un nombre important des micro organismes pr\u00e9sents dans l\u2019urine",
+      "B. urine r\u00e9siduelle dans la vessie apr\u00e8s la miction",
+      "C. saignements intermittent ou continu, dans le tractus urinaire \u00e0 un degr\u00e9 suffisant pour alt\u00e9rer l\u2019apparence microscopique de l\u2019urine",
+      "D. le sang provient uniquement du tractus urinaire sup\u00e9rieur",
+      "E. la principale cause sont tous les types d\u2019infections"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 46,
+    "question": "*Dans la classification TNM pour carcinome r\u00e9nal T3b signifie:",
+    "options": [
+      "A. tumeur s\u2019\u00e9tend dans les veines principales ou envahit la glande surr\u00e9nale",
+      "B. tumeur envahit la glande surr\u00e9nale ou tissus p\u00e9riph\u00e9rique mais pas au-del\u00e0 du fascia de Gerota",
+      "C. Tumeur envahissant au-del\u00e0 du fascia Gerota",
+      "D. tumeur se prolonge dans la veine r\u00e9nale ou dans la veine cave sup\u00e9rieure au-dessus du diaphragme",
+      "E. tumeur se prolonge dans la veine r\u00e9nale ou la veine cave inf\u00e9rieur du diaphragme"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 47,
+    "question": "*Lequel des \u00e9nonc\u00e9s suivants est un sympt\u00f4me de l\u2019hyperplasie b\u00e9nigne de la prostate:",
+    "options": [
+      "A. H\u00e9sitation",
+      "B. dribble terminal",
+      "C. sensation de vidage incomplet de la vessie",
+      "D. alt\u00e9ration de la taille et la force du jet urinaire",
+      "E. tout ce qui pr\u00e9c\u00e8de"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 48,
+    "question": "*Les facteurs de risques pour la formation de calculs sont les suivants, \u00e0 une exception laquelle?",
+    "options": [
+      "A. D\u00e9but de la maladie apr\u00e8s 25 ans",
+      "B. seul rein",
+      "C. maladies li\u00e9es \u00e0 la formation de calculs",
+      "D. m\u00e9dicaments associ\u00e9es \u00e0 la formation de calculs",
+      "E. des anomalies anatomiques"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 1,
+    "id": 49,
+    "question": "*L\u2019enl\u00e8vement actif des calculs est indiqu\u00e9 dans toutes les situations suivantes avec une exception, laquelle?",
+    "options": [
+      "A. Obstruction unilat\u00e9rale par colique n\u00e9phr\u00e9tique au d\u00e9but",
+      "B. douleurs persistantes malgr\u00e9 les m\u00e9dicaments ad\u00e9quats",
+      "C. calculs avec infection des voies urinaires",
+      "D. risque de pyon\u00e9phrose",
+      "E. obstruction persistante avec risque d'insuffisance r\u00e9nale"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 1,
+    "id": 50,
+    "question": "*Le traitement des tumeurs r\u00e9nales peut \u00eatre constitu\u00e9es par:",
+    "options": [
+      "A. n\u00e9phrectomie \u00e9largie",
+      "B. n\u00e9phrolithotomie",
+      "C. N\u00e9phrostomie de d\u00e9compression",
+      "D. cystectomie",
+      "E. cystoplastie d\u2019augmentation"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 1,
+    "id": 51,
+    "question": "*L'enqu\u00eate principale qui offre plusieurs informations dans une seule investigation pour la classification/stadification TNM des tumeurs r\u00e9nales est repr\u00e9sent\u00e9 par:",
+    "options": [
+      "A. echographie",
+      "B. CT (tomodensitom\u00e9trie)",
+      "C. UIV",
+      "D. Angiographie de soustraction digitale",
+      "E. radiographie r\u00e9nale simple"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 1,
+    "id": 52,
+    "question": "*La valeur normale de PSA doit \u00eatre moins de:",
+    "options": [
+      "A. 2 ng/ml",
+      "B. 4 ng/ml",
+      "C. 8 ng/ml",
+      "D. 10 ng/ml",
+      "E. 20 ng/ml"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 1,
+    "id": 53,
+    "question": "*La survie \u00e0 5 ans pour le cancer du rein en stade III est de :",
+    "options": [
+      "A. 45-65 %",
+      "B. 35-50 %",
+      "C. 45-50 %",
+      "D. < 5 %",
+      "E. 65-75 %"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 1,
+    "id": 54,
+    "question": "*la plupart des tumeurs v\u00e9sicales sont :",
+    "options": [
+      "A. carcinome transitionnels",
+      "B. ad\u00e9nocarcinome",
+      "C. sarcomes",
+      "D. choriocarcinome",
+      "E. t\u00e9ratome"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 1,
+    "id": 55,
+    "question": "*Stade IIIb de cancer de la vessie a la d\u00e9finition suivante :",
+    "options": [
+      "A. tumeurs confin\u00e9es \u00e0 la muqueuse",
+      "B. invasion de la moiti\u00e9 de la couche musculaire",
+      "C. invasion pas plus profonde que la lamina propria",
+      "D. tumeur s\u2019\u00e9tend \u00e0 la graisse p\u00e9riv\u00e9sicale",
+      "E. invasion des ganglions lymphatiques"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 56,
+    "question": "*Le volume urinaire normal de la prostate est :",
+    "options": [
+      "A. 20-25 cmc",
+      "B. 40 cmc",
+      "C. 50 cmc",
+      "D. 60 cmc",
+      "E. 80 cmc"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 1,
+    "id": 57,
+    "question": "*La proc\u00e9dure diagnostique la plus importante dans la lithiase urinaire est :",
+    "options": [
+      "A. py\u00e9lographie IV",
+      "B. echographie",
+      "C. tomodensitom\u00e9trie CT",
+      "D. imagerie par r\u00e9sonance magn\u00e9tique",
+      "E. ur\u00e9t\u00e9ropy\u00e9lographie r\u00e9trograde"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 1,
+    "id": 58,
+    "question": "*Indications pour un traitement m\u00e9dical du HBP ne comprennent pas :",
+    "options": [
+      "A. des sympt\u00f4mes subjectifs",
+      "B. sympt\u00f4mes irritatifs",
+      "C. r\u00e9tention urinaire aigu\u00eb",
+      "D. petit volume d'urine r\u00e9siduelle apr\u00e8s < 50 ml",
+      "E. absence de complications"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 59,
+    "question": "la douleur dans les maladies urologiques sont localis\u00e9es dans :",
+    "options": [
+      "A. r\u00e9gion du flanc",
+      "B. loin (wtfff)",
+      "C. testicule ou les l\u00e8vres",
+      "D. thorax",
+      "E. fosse iliaque"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 60,
+    "question": "Anurie :",
+    "options": [
+      "A. est le passage de <500 ml d\u2019urine par jour",
+      "B. peut \u00eatre un signe d\u2019insuffisance r\u00e9nale",
+      "C. est l\u2019absence totale d\u2019\u00e9coulement de l\u2019urine",
+      "D. est la perte de la capacit\u00e9 normale de diff\u00e9ren??",
+      "E. est le passage de <350 ml d\u2019urine par jour"
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 61,
+    "question": "Les causes post r\u00e9nales d\u2019h\u00e9maturie :",
+    "options": [
+      "A. calculs ur\u00e9t\u00e9raux",
+      "B. tumeurs de vessie",
+      "C. cystite apr\u00e8s rayonnement",
+      "D. tuberculose r\u00e9nale",
+      "E. glom\u00e9rulon\u00e9phrite aigu\u00eb"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 62,
+    "question": "Nycturie",
+    "options": [
+      "A. est la n\u00e9cessit\u00e9 de lever pendant les heures de sonde pour vider la vessie",
+      "B. est plus fr\u00e9quemment observ\u00e9s chez les hommes pr\u00e9sentant une hypertrophie b\u00e9nigne de la prostate",
+      "C. est la perte de la capacit\u00e9 normale de diff\u00e9rer la m??",
+      "D. est l\u2019inconfort r\u00e9sultant de l\u2019appareil urinaire dans .. il y a une douleur imm\u00e9diatement avant, pendant ou imm\u00e9diatement apr\u00e8s la miction",
+      "E. implique le passage involontaire d\u2019urine"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 1,
+    "id": 63,
+    "question": "Toucher rectal :",
+    "options": [
+      "A. permet l\u2019\u00e9valuation de la glande prostatique",
+      "B. n\u2019est pas obligatoire pour tous les patients de sexe masculin",
+      "C. peut sugg\u00e9rer le changement malin par irr\u00e9gularit\u00e9 dure de la glande",
+      "D. /",
+      "E. /"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 64,
+    "question": "L\u2019urographie par voie intraveineuse :",
+    "options": [
+      "A. consiste en l\u2019injection de compos\u00e9s d\u2019iode organique qui sont excr\u00e9t\u00e9s et concentr\u00e9 par radiographie",
+      "B. donne moins d\u2019informations que les ultrasons sur le parenchyme r\u00e9nal",
+      "C. ne d\u00e9pend pas de la fonction r\u00e9nale",
+      "D. la qualit\u00e9 de l\u2019image est mauvaise chez les patients souffrant d\u2019insuffisance r\u00e9nale",
+      "E. est bonne technique pour examiner le syst\u00e8me collecteur r\u00e9nal, les uret\u00e8res et la vessie"
+    ],
+    "correct_answers": ["A", "B", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 65,
+    "question": "l\u2019art\u00e9riographie et phl\u00e9bographie :",
+    "options": [
+      "A. sont des m\u00e9thodes non invasives",
+      "B. sont utilis\u00e9s chez des patients s\u00e9lectionn\u00e9s",
+      "C. l\u2019indication plus fr\u00e9quente est chez les patients atteints d\u2019hypertension et/ou d\u2019insuffisance r\u00e9nale",
+      "D. peut d\u00e9tecter st\u00e9nose de l\u2019art\u00e8re r\u00e9nale",
+      "E. est utilis\u00e9 tr\u00e8s fr\u00e9quemment"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 66,
+    "question": "Plusieurs des \u00e9nonc\u00e9s suivant au sujet des carcinomes \u00e0 cellules r\u00e9nales ne sont pas vraies :",
+    "options": [
+      "A. il est plus fr\u00e9quent dans les populations d\u2019origine africaine ou asiatique",
+      "B. c\u2019est la deuxi\u00e8me cause de d\u00e9c\u00e8s par cancer",
+      "C. fumer est un facteur de risque significatif",
+      "D. il est plus fr\u00e9quent chez les femmes",
+      "E. il se produit plus fr\u00e9quemment entre 30 et 50 ans"
+    ],
+    "correct_answers": ["D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 67,
+    "question": "la plupart des sites fr\u00e9quents de m\u00e9tastase de carcinome r\u00e9nale de cellules sont :",
+    "options": [
+      "A. poumons",
+      "B. veine r\u00e9nale",
+      "C. pancr\u00e9as",
+      "D. vessie",
+      "E. foie"
+    ],
+    "correct_answers": ["A", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 68,
+    "question": "Le suivi post op\u00e9ratoire des patients atteints de carcinome \u00e0 cellules r\u00e9nales comprend :",
+    "options": [
+      "A. scintigraphie osseuse",
+      "B. radiographie pulmonaire",
+      "C. tomodensitom\u00e9trie",
+      "D. test fonctionnels h\u00e9patiques",
+      "E. dosage de la cr\u00e9atinine s\u00e9rique"
+    ],
+    "correct_answers": ["B", "C", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 69,
+    "question": "Les plus importantes caract\u00e9ristiques cliniques des tumeurs uroth\u00e9liales du bassinet et l\u2019uret\u00e8re sont :",
+    "options": [
+      "A. dyspn\u00e9e",
+      "B. r\u00e9tention urinaire aigu\u00eb",
+      "C. h\u00e9maturie",
+      "D. \u00e9rythrocytose",
+      "E. douleur du flanc"
+    ],
+    "correct_answers": ["C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 70,
+    "question": "Le protocole de suivi post op\u00e9ratoire des tumeurs uroth\u00e9liales du bassinet et l\u2019uret\u00e8re comprend :",
+    "options": [
+      "A. la scintigraphie osseuse",
+      "B. cystoscopie",
+      "C. cytologie urinaire",
+      "D. urographie",
+      "E. ur\u00e9t\u00e9roscopie"
+    ],
+    "correct_answers": ["B", "C", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 71,
+    "question": "Les autres facteurs associ\u00e9s au d\u00e9veloppement de l\u2019ad\u00e9nocarcinome r\u00e9nal comprennent :",
+    "options": [
+      "A. hypertension",
+      "B. oestrog\u00e9noth\u00e9rapie",
+      "C. ob\u00e9sit\u00e9",
+      "D. tabagisme",
+      "E. exposition aux produits p\u00e9troliers, m\u00e9taux lourds, solvants, \u00e9missions de four \u00e0 coke ou l\u2019amiante"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 72,
+    "question": "Les modalit\u00e9s de diagnostic permettant d\u2019\u00e9valuer et de stadification des masses r\u00e9nales comprennent :",
+    "options": [
+      "A. tomodensitom\u00e9trie",
+      "B. echographie",
+      "C. art\u00e9riographie",
+      "D. UFC",
+      "E. IRM"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 73,
+    "question": "Les proc\u00e9dures de diagnostic utilis\u00e9es pour les tumeurs uroth\u00e9liales comprennent:",
+    "options": [
+      "A. cystoscopie",
+      "B. urographie r\u00e9trograde",
+      "C. n\u00e9phroscopie percutan\u00e9e",
+      "D. urographie excr\u00e9toire (py\u00e9lographie intraveineuse)",
+      "E. ur\u00e9t\u00e9roscopie r\u00e9trograde"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 74,
+    "question": "En ce qui concerne les tumeurs uroth\u00e9liales, les prochaines affirmations sont correctes:",
+    "options": [
+      "A. les tumeurs du pelvis r\u00e9nal comptent pour environ 10 % de toutes les tumeurs r\u00e9nales",
+      "B. Les tumeurs du pelvis r\u00e9nal repr\u00e9sentent environ 5 % de toutes les tumeurs uroth\u00e9liales",
+      "C. l'\u00e2ge moyen de survenue est de 75 ans",
+      "D. tumeurs uroth\u00e9liales des voies urinaires se produisent plus fr\u00e9quemment chez les femmes",
+      "E. tumeurs uroth\u00e9liales des voies urinaires peuvent se manifester plus fr\u00e9quemment chez les blancs"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 75,
+    "question": "les manifestations du cancer du rein impliquent moins de 20% des organes suivants:",
+    "options": ["A. poumon", "B. foie", "C. cerveau", "D. peau", "E. os"],
+    "correct_answers": ["B", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 76,
+    "question": "Les composants de la prostate sont:",
+    "options": [
+      "A. capsule fibreuse",
+      "B. stroma fibromusculaire",
+      "C. ur\u00e8tre p\u00e9nien",
+      "D. les v\u00e9sicules s\u00e9minales",
+      "E. les structures glandulaires avec acini et canaux"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 77,
+    "question": "Le r\u00e9sultat de l\u2019HBP peut \u00eatre obstruction ur\u00e9trale induit par les m\u00e9canismes suivants:",
+    "options": [
+      "A. m\u00e9canique - par prolif\u00e9ration \u00e9pith\u00e9liale",
+      "B. m\u00e9canique - par contraction du muscle lisse",
+      "C. dynamique - par contraction du muscle lisse",
+      "D. dynamique - par prolif\u00e9ration \u00e9pith\u00e9liale",
+      "E. par combinaison de m\u00e9canismes m\u00e9caniques et dynamiques"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 78,
+    "question": "Une patiente de 55 ans tabagique se pr\u00e9sente pour h\u00e9maturie microscopique r\u00e9p\u00e9titive (parfois macroscopique), sans autre symptomatologie associ\u00e9e. Les r\u00e9sultats de l\u2019uroculture - 1000 germes/ml. Les diagnostics probables sont:",
+    "options": [
+      "A. tumeur v\u00e9sicale",
+      "B. tumeur des voies urinaires sup\u00e9rieures",
+      "C. infection urinaire",
+      "D. py\u00e9lon\u00e9phrite aigu\u00eb",
+      "E. hypertension art\u00e9rielle"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 1,
+    "id": 79,
+    "question": "Les th\u00e9rapies mini invasives pour HBP incluent :",
+    "options": [
+      "A. dilatation au ballonnet transurethrale",
+      "B. thermoth\u00e9rapie transur\u00e9trale \u00e0 micro onde",
+      "C. ablation laser de la prostate",
+      "D. prostatectomie sus pubienne",
+      "E. ablation d\u2019aiguille transur\u00e9tral"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 80,
+    "question": "les alpha bloquants :",
+    "options": [
+      "A. Les alpha bloquants sont recommand\u00e9s pour des prostates inf\u00e9rieures \u00e0 40g",
+      "B. les alpha bloquants sont recommand\u00e9s pour des prostates plus de 40 g",
+      "C. tamsulosine bloque seulement les r\u00e9cepteurs alpha 1-a qui se trouvent uniquement dans la prostate",
+      "D. finasteride bloque seulement les r\u00e9cepteurs alpha 1-A qui se trouvent uniquement dans la prostate",
+      "E. administration des alpha bloquants inhibent les contractions du muscle lisse"
+    ],
+    "correct_answers": ["A", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 81,
+    "question": "Les facteurs pr\u00e9disposants pour la formation des calculs sont:",
+    "options": [
+      "A. infections urinaire",
+      "B. hyperuricosurie",
+      "C. inconnu",
+      "D. les tumeurs de la vessie",
+      "E. uretero hydron\u00e9phrose"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 82,
+    "question": "les facteurs pr\u00e9dictifs plus important pour l\u2019\u00e9limination de calculs sont:",
+    "options": [
+      "A. dimension du calcul",
+      "B. infection urinaire",
+      "C. localisation du calcul",
+      "D. anomalies anatomiques des voies urinaires",
+      "E. tout ce qui pr\u00e9c\u00e8de"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 83,
+    "question": "Les sympt\u00f4mes de calculs de la vessie sont:",
+    "options": [
+      "A. h\u00e9maturie terminale",
+      "B. infection urinaire aigu\u00eb",
+      "C. dribbling post mictionnel",
+      "D. colique n\u00e9phr\u00e9tique",
+      "E. dysurie"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 84,
+    "question": "l\u2019imagerie pour l\u2019urolithiase comprend :",
+    "options": [
+      "A. radiographie pleins de l\u2019abdomen (film rein uret\u00e8re vessie)",
+      "B. urographie intraveineuse",
+      "C. tomodensitom\u00e9trie",
+      "D. d\u00e9bitm\u00e9trie urinaire",
+      "E. elastographie"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 85,
+    "question": "le traitement de pr\u00e9vention dans la maladie lithiasique de calcium est repr\u00e9sent\u00e9 par:",
+    "options": [
+      "A. apport de fruits et l\u00e9gumes comme les \u00e9pinards et les noix",
+      "B. haut apport liquidien",
+      "C. restriction de calcium dans l\u2019alimentation quotidienne",
+      "D. vitamine C \u00e0 des doses jusqu'\u00e0 4 grammes par jour peut \u00eatre pris sans probl\u00e8me",
+      "E. traitement pharmacologique devrait \u00eatre lanc\u00e9 avant le r\u00e9gime conservateur"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 1,
+    "id": 86,
+    "question": "pour l'enl\u00e8vement d\u2019un calcul :",
+    "options": [
+      "A. Il est recommand\u00e9 que les salicyl\u00e9s et les anticoagulants doivent \u00eatre arr\u00eat\u00e9s 2 jours avant l'enl\u00e8vement du calcul",
+      "B. les patients portant un stimulateur cardiaque ont une contre indication stricte pour l\u2019enl\u00e8vement d\u2019un calcul",
+      "C. consultation interniste pour saignement disorde",
+      "D. si les bact\u00e9ries sont pr\u00e9sentes un traitement antibiotique doit \u00eatre d\u00e9marr\u00e9 avant la proc\u00e9dure",
+      "E. tout ce qui pr\u00e9c\u00e8de"
+    ],
+    "correct_answers": ["A", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 87,
+    "question": "NLP (n\u00e9phrolithotomie percutan\u00e9e) :",
+    "options": [
+      "A. signifie l\u2019enl\u00e8vement de calcul par un acc\u00e8s minimal percutan\u00e9e",
+      "B. \u00e0 l\u2019aide d\u2019un n\u00e9phroscope, le calcul est localis\u00e9 et par la suite enlev\u00e9 \u00e0 l\u2019aide d\u2019une pince ou d\u00e9sint\u00e9gr\u00e9 par lithotriteur et enlev\u00e9 par fragments",
+      "C. \u00e0 la fin de la proc\u00e9dure, un tube n\u00e9phrostomie est plac\u00e9 pendant 24 \u00e0 72 h",
+      "D. l\u2019avantage est l\u2019absence de toute incision",
+      "E. complications post op sont l\u2019h\u00e9morragie, la fi\u00e8vre, colique n\u00e9phr\u00e9tique"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 88,
+    "question": "le taux global de passage pour les calculs ur\u00e9t\u00e9raux est :",
+    "options": [
+      "A. calculs \u00e0 l\u2019uret\u00e8re moyenne 55%",
+      "B. calculs \u00e0 l\u2019uret\u00e8re moyenne 45%",
+      "C. calculs ur\u00e9t\u00e9raux distal 70%",
+      "D. calculs ur\u00e9t\u00e9raux proximal 25%",
+      "E. calculs ur\u00e9t\u00e9raux distal 80%"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 89,
+    "question": "Un patient \u00e2g\u00e9 de 36 ans affirme que depuis 48 heures pr\u00e9sente des douleurs colliquatives lombaires gauches, avec une irradiation ant\u00e9rieure accompagn\u00e9s de naus\u00e9es, vomissements, fi\u00e8vre 39 et frissons. Quelle est la conduite th\u00e9rapeutique ad\u00e9quate ?",
+    "options": [
+      "A. n\u00e9phrostomie percutan\u00e9e",
+      "B. cath\u00e9ter ur\u00e9t\u00e9ral",
+      "C. aucun traitement",
+      "D. finasteride (traitement HBP)",
+      "E. antipyr\u00e9tique et r\u00e9\u00e9valuation apr\u00e8s 48 heures"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 1,
+    "id": 91,
+    "question": "Un patient porteur d\u2019un ad\u00e9nome prostatique \u00e9valu\u00e9 \u00e0 90g \u00e0 l\u2019\u00e9chographie et un r\u00e9sidu v\u00e9sical post-mictionnel de 150 ml a une indication de :",
+    "options": [
+      "A. r\u00e9section endoscopique de la prostate",
+      "B. ad\u00e9nomectomie r\u00e9tropubienne",
+      "C. incision trans ur\u00e9trale de la prostate",
+      "D. prostatectomie radicale",
+      "E. ad\u00e9nomectomie transv\u00e9sicale"
+    ],
+    "correct_answers": ["B", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 92,
+    "question": "Dans le traitement des tumeurs v\u00e9sicales superficielles, on pratique :",
+    "options": [
+      "A. r\u00e9section endoscopique",
+      "B. instillations aux chimioth\u00e9rapiques",
+      "C. instillations au BCG",
+      "D. Chimioth\u00e9rapie g\u00e9n\u00e9rale",
+      "E. cath\u00e9ter ur\u00e9t\u00e9ral JJ"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 93,
+    "question": "La r\u00e9tention aigu\u00eb d\u2019urine peut appara\u00eetre apr\u00e8s:",
+    "options": [
+      "A. Anesth\u00e9sie rachidienne",
+      "B. traumatismes",
+      "C. intervention chirurgicales",
+      "D. rupture post-traumatique",
+      "E. prostatite aigu\u00eb"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 94,
+    "question": "La dysurie peut appara\u00eetre dans:",
+    "options": [
+      "A. les tumeurs de la prostate",
+      "B. les calculs v\u00e9sicaux",
+      "C. les calculs ur\u00e9t\u00e9raux",
+      "D. les r\u00e9tr\u00e9cissements ur\u00e9traux",
+      "E. les tumeurs v\u00e9sicales"
+    ],
+    "correct_answers": ["A", "B", "C", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 95,
+    "question": "Il existe un potentiel de confusion de diagnostic de l\u2019h\u00e9maturie macroscopique avec :",
+    "options": [
+      "A. Porphynurie",
+      "B. cystinurie",
+      "C. conso de betterave",
+      "D. prise d\u2019anticoagulant",
+      "E. consommation de rifampicine"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 96,
+    "question": "Les affirmations suivantes sont vraies concernant l\u2019h\u00e9maturie :",
+    "options": [
+      "A. l\u2019h\u00e9maturie n\u2019est jamais physiologique ou fonctionnelle",
+      "B. l\u2019h\u00e9maturie microscopique est moins p\u00e9jorative que macroscopique",
+      "C. l\u2019h\u00e9maturie est toujours une urgence th\u00e9rapeutique",
+      "D. le traitement symptomatique est parfois suffisant dans le cas des h\u00e9maturies a faible abondance",
+      "E. ce ne sont pas seulement les affections urologiques qui peuvent d\u00e9terminer une h\u00e9maturie macroscopique"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 97,
+    "question": "Laquelle des maladies kystiques du rein \u00e9volue vers l\u2019IRC:",
+    "options": [
+      "A. Le kyste simple du p\u00f4le sup\u00e9rieur",
+      "B. le kyste simple parapy\u00e9lique",
+      "C. le rein multikystique",
+      "D. la maladie kystique intrasinusale",
+      "E. le rein polykystique"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 98,
+    "question": "Quelles sont les interventions \u00e0 effectuer en cas d\u2019hydron\u00e9phrose cong\u00e9nitale gr II-III:",
+    "options": [
+      "A. Py\u00e9loplastie",
+      "B. l\u2019endopy\u00e9lotomie",
+      "C. la n\u00e9phrectomie",
+      "D. la ponction \u00e9vacuatrice",
+      "E. aucune variante correcte"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 1,
+    "id": 99,
+    "question": "Laquelle des zones suivantes du rein est plus sensible \u00e0 l\u2019\u00e9mergence des infections et pourquoi?",
+    "options": [
+      "A. La zone corticale car le d\u00e9placement des leucocytes est plus facile dans ce domaine",
+      "B. la m\u00e9dullaire car le pH urinaire est accru et le d\u00e9bit sanguin plus rapide",
+      "C. l\u2019aire corticale parce que le flux urinaire intrar\u00e9nal \u201clave\u201d les bact\u00e9ries",
+      "D. la m\u00e9dullaire, parce que la concentration d\u2019ammoniac augment\u00e9e inactive le compl\u00e9ment",
+      "E. Toutes les r\u00e9ponses sont correctes"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 100,
+    "question": "Chez une patiente sans ATCD de lithiase r\u00e9no-ur\u00e9t\u00e9rale, la pr\u00e9sence de la triade: fi\u00e8vre (39-40)+ douleur lombaire + pyurie nous fait penser d\u2019abord \u00e0:",
+    "options": [
+      "A. appendicite aigu\u00eb",
+      "B. cystite aigu\u00eb",
+      "C. py\u00e9lon\u00e9phrite aigu\u00eb",
+      "D. annexite aigu\u00eb",
+      "E. chol\u00e9cystite aigu\u00eb"
+    ],
+    "correct_answers": ["A", "B", "C", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 101,
+    "question": "parmi les circonstances suivantes lesquelles peuvent \u00eatre r\u00e9v\u00e9lateurs pour la d\u00e9couverte d\u2019une tuberculose urog\u00e9nitale?",
+    "options": [
+      "A. la cystite rebelle avec des urines st\u00e9riles",
+      "B. h\u00e9mospermie le jeune adulte",
+      "C. h\u00e9matopyurie",
+      "D. IRC",
+      "E. \u00e9pididymite avec une \u00e9volution lente et fistulis\u00e9e spontan\u00e9ment"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 102,
+    "question": "A la suite duquel de ces examens on peut certifier le diagnostic de tuberculose urog\u00e9nitale?",
+    "options": [
+      "A. examen urographique",
+      "B. examen \u00e9chographie",
+      "C. examen bact\u00e9riologique",
+      "D. examen anatomo-pathologique",
+      "E. tous ces examens"
+    ],
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 103,
+    "question": "La colique n\u00e9phr\u00e9tique se manifeste habituellement par:",
+    "options": [
+      "A. des douleurs lombaires avec irradiation ant\u00e9rieure",
+      "B. des naus\u00e9es ou des vomissements",
+      "C. de la fi\u00e8vre",
+      "D. de la tachycardie et/ou de l\u2019hypertension",
+      "E. de l\u2019anurie"
+    ],
+    "correct_answers": ["A", "B", "C", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 104,
+    "question": "L\u2019examen le plus fiable pour diagnostiquer une colique n\u00e9phr\u00e9tique est:",
+    "options": [
+      "A. l\u2019\u00e9chographie r\u00e9no-v\u00e9sicale",
+      "B. la tomodensitom\u00e9trie abdomino-pelvienne",
+      "C. ASP (radiographie abdominale simple)",
+      "D. IRM (imagerie par r\u00e9sonance magn\u00e9tique nucl\u00e9aire)",
+      "E. l\u2019ur\u00e9t\u00e9ro-py\u00e9lographie r\u00e9trograde"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 1,
+    "id": 105,
+    "question": "le tableau clinique de la colique n\u00e9phr\u00e9tique comprend:",
+    "options": [
+      "A. la douleur lombaire avec irradiation ant\u00e9rieure",
+      "B. des naus\u00e9es, des vomissements",
+      "C. h\u00e9maturie initiale",
+      "D. fi\u00e8vre",
+      "E. polyurie"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 106,
+    "question": "La m\u00e9thode de choix pour le diagnostic de la lithiase urinaire est:",
+    "options": [
+      "A. radiographie r\u00e9nale simple",
+      "B. UIV",
+      "C. \u00e9chographie",
+      "D. TDM",
+      "E. la scintigraphie r\u00e9nale"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 107,
+    "question": "L'enqu\u00eate principale de la classification TNM des tumeurs r\u00e9nales est repr\u00e9sent\u00e9e par:",
+    "options": [
+      "A. Echographie",
+      "B. CT",
+      "C. UIV",
+      "D. Angiographie de soustraction digitale",
+      "E. simple radiographie r\u00e9nale"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 1,
+    "id": 108,
+    "question": "le traitement des tumeurs r\u00e9nales peut \u00eatre r\u00e9alis\u00e9 par:",
+    "options": [
+      "A. n\u00e9phrectomie \u00e9largie",
+      "B. n\u00e9phrectomie partielle dans les tumeurs r\u00e9nales bilat\u00e9rales",
+      "C. chimioth\u00e9rapie",
+      "D. radioth\u00e9rapie dans la r\u00e9gion r\u00e9nale",
+      "E. radioth\u00e9rapie + chimioth\u00e9rapie"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 1,
+    "id": 109,
+    "question": "Les manifestations cliniques suivantes peuvent \u00eatre rencontr\u00e9es chez un patient de 60 ans avec une tumeur uroth\u00e9liale localis\u00e9e dans le bassinet avec une seule exception :",
+    "options": [
+      "A. douleurs",
+      "B. h\u00e9maturie",
+      "C. pollakiurie accompagn\u00e9e de br\u00fblures mictionnelles",
+      "D. pyurie",
+      "E. fi\u00e8vre"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 110,
+    "question": "Le traitement de choix pour les tumeurs du haut appareil urinaire est repr\u00e9sent\u00e9 par :",
+    "options": [
+      "A. n\u00e9phrectomie radicale",
+      "B. ur\u00e9t\u00e9rectomie sous totale et curage r\u00e9trop\u00e9riton\u00e9al",
+      "C. n\u00e9phro-ur\u00e9t\u00e9rectomie totale avec cystectomie p\u00e9ri-m\u00e9atique",
+      "D. \u00e9lectror\u00e9section",
+      "E. radioth\u00e9rapie et chimioth\u00e9rapie de contact BCG"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 111,
+    "question": "L\u2019h\u00e9maturie macroscopique n\u2019est pas pr\u00e9sente en cas de :",
+    "options": [
+      "A. lithiase urinaire",
+      "B. tumeurs v\u00e9sicales",
+      "C. cancer de la prostate",
+      "D. cancer r\u00e9nal",
+      "E. aucune des variantes n\u2019est correcte"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 112,
+    "question": "Dans le traitement des tumeurs superficielles on pratique:",
+    "options": [
+      "A. la r\u00e9section endoscopique",
+      "B. les instillations chimioth\u00e9rapeutiques",
+      "C. des instillations au BCG",
+      "D. de la chimioth\u00e9rapie g\u00e9n\u00e9rale",
+      "E. la cystectomie radicale"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 113,
+    "question": "les sympt\u00f4mes de l\u2019obstruction de l\u2019ad\u00e9nome prostatique incluent:",
+    "options": [
+      "A. jet urinaire, difficult\u00e9 \u00e0 uriner",
+      "B. dysurie",
+      "C. la miction prolong\u00e9e (l\u2019\u00e9vacuation de la vessie dure tr\u00e8s longtemps)",
+      "D. imp\u00e9riosit\u00e9 mictionnelle",
+      "E. la r\u00e9tention d\u2019urine"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 114,
+    "question": "Les examens paracliniques utiles dans le diagnostic de l\u2019HBP sont:",
+    "options": [
+      "A. l\u2019uroflowm\u00e9trie",
+      "B. le toucher rectal",
+      "C. le dosage de PSA",
+      "D. la tomodensitom\u00e9trie",
+      "E. l'\u00e9chographie transrectale"
+    ],
+    "correct_answers": ["A", "B", "C", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 115,
+    "question": "Conditions qui peuvent fournir des aspects ressemblant au cancer de la prostate au toucher rectal avec deux exceptions:",
+    "options": [
+      "A. Prostatite aigu\u00eb",
+      "B. prostatite chronique",
+      "C. tuberculose de la prostate",
+      "D. abc\u00e8s de la prostate",
+      "E. lithiase prostatique"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 116,
+    "question": "Les manifestations cliniques du cancer de la prostate peuvent \u00eatre:",
+    "options": [
+      "A. dysurie de nature progressive",
+      "B. h\u00e9maturie",
+      "C. douleur p\u00e9rin\u00e9ale",
+      "D. perturbations mictionnelles occasionnelles",
+      "E. an\u00e9mie"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 117,
+    "question": "Lequel des types histologiques rencontr\u00e9s dans les tumeurs testiculaires est le plus radiosensible ?",
+    "options": [
+      "A. S\u00e9minome",
+      "B. gonadoblastome",
+      "C. choriocarcinome",
+      "D. carcinome embryonnaire",
+      "E. carcinome embryonnaire + t\u00e9ratome"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 1,
+    "id": 118,
+    "question": "l\u2019alpha foetoprot\u00e9ine AFP est utile dans le diagnostic, montrant des taux \u00e9lev\u00e9s chez les patients avec :",
+    "options": [
+      "A. s\u00e9minome",
+      "B. choriocarcinome",
+      "C. tumeur \u00e0 cellules de Sertoli",
+      "D. gonadoblastome",
+      "E. aucune variante correcte"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 1,
+    "id": 119,
+    "question": "l\u2019exploration chirurgicale d\u2019urgence est indiqu\u00e9e dans les cas suivants :",
+    "options": [
+      "A. Instabilit\u00e9 h\u00e9modynamique en pr\u00e9sence d\u2019une l\u00e9sion r\u00e9nale h\u00e9morragique",
+      "B. dans tous les traumatismes r\u00e9naux ferm\u00e9s",
+      "C. chez un patient qui a un p\u00e9nis en saxophone apr\u00e8s avoir d\u00e9crit la disparition brusque, douloureuse de l\u2019\u00e9rection pendant l\u2019acte sexuel",
+      "D. chez un patient o\u00f9 l\u2019on d\u00e9tecte \u00e0 l\u2019aide de l\u2019\u00e9chographie l\u2019apparition de liquide dans la vaginale testiculaire 3 heures apr\u00e8s un traumatisme testiculaire",
+      "E. /"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 1,
+    "id": 120,
+    "question": "l\u2019exploration \u201cgold standard\u201d dans les traumatismes de l\u2019uret\u00e8re est :",
+    "options": [
+      "A. urographie iv",
+      "B. ur\u00e9trographie r\u00e9trograde",
+      "C. tomographie comput\u00e9ris\u00e9e",
+      "D. ur\u00e9t\u00e9ropy\u00e9lographie r\u00e9trograde",
+      "E. \u00e9chographie abdominale"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 121,
+    "question": "Patient de 65 ans, connu DSII depuis 15 ans, est amen\u00e9 aux urgences suite \u00e0 un traumatisme routier survenu il y a 45 minutes. L\u2019inspection d\u00e9c\u00e8le un abdomen douloureux diffus dans les flancs, tr\u00e8s douloureux au niveau de l\u2019hypogastre sans signe \u00e9vidents de d\u00e9fense musculaire. Le patient a une bonne h\u00e9modynamique et les analyses r\u00e9colt\u00e9es en urgence sont normales \u00e0 l\u2019exception de la cr\u00e9atinine 2,1mg%. Apr\u00e8s la pose d\u2019une sonde uretro-v\u00e9sicale, environ 20 ml d\u2019urine h\u00e9maturique s\u2019ext\u00e9riorise. Quelle est la premi\u00e8re investigation recommand\u00e9e :",
+    "options": [
+      "A. \u00e9chographie abdomino pelvienne",
+      "B. radiographie du bassin & urographie iv",
+      "C. tomographie abdominale avec substance de contraste",
+      "D. tomographie abdomino pelvienne avec substance de contraste",
+      "E. tomographie abdomino pelvienne native avec cystographie r\u00e9trograde"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 122,
+    "question": "Suite \u00e0 la question du patient de 65 ans !  Quelles sont les l\u00e9sions probables :",
+    "options": [
+      "A. traumatisme r\u00e9nal avec atteinte des fois urinaire",
+      "B. traumatisme ur\u00e9t\u00e9ral",
+      "C. traumatisme v\u00e9sical extra p\u00e9riton\u00e9al",
+      "D. traumatisme v\u00e9sical intra p\u00e9riton\u00e9al",
+      "E. /"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 123,
+    "question": "La m\u00e9thode la plus utilis\u00e9e pour le diagnostic d\u2019une IRA obstructive (post-r\u00e9nale) est:",
+    "options": [
+      "A. L\u2019UIV",
+      "B. l'\u00e9chographie",
+      "C. le CT",
+      "D. la radiographie r\u00e9no-v\u00e9sicale simple (ASP)",
+      "E. l\u2019angiographie"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 1,
+    "id": 124,
+    "question": "Les indications d\u2019une n\u00e9phrostomie percutan\u00e9e de premier choix sont les suivantes:",
+    "options": [
+      "A. tumeur superficielle de la vessie",
+      "B. cancer du col ut\u00e9rin",
+      "C. lithiase ur\u00e9t\u00e9rale bilat\u00e9rale",
+      "D. ligature ur\u00e9t\u00e9rale accidentelle",
+      "E. n\u00e9oplasme trigonal invasif de la vessie"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 125,
+    "question": "Les uropathies obstructives impliqu\u00e9es dans l\u2019\u00e9tiologie de l\u2019IRC:",
+    "options": [
+      "A. L\u2019hyperplasie b\u00e9nigne de la prostate",
+      "B. la valve ur\u00e9trale post\u00e9rieure",
+      "C. la st\u00e9nose de l\u2019art\u00e8re r\u00e9nale",
+      "D. la fibrose r\u00e9trop\u00e9riton\u00e9ale",
+      "E. le reflux v\u00e9sico-ur\u00e9t\u00e9ral"
+    ],
+    "correct_answers": ["A", "B", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 126,
+    "question": "les affirmations suivantes sont vraies dans le cas de l\u2019IRC:",
+    "options": [
+      "A. dans le cas du rein polykystique l\u2019\u00e9volution vers l\u2019irc est assez rapide",
+      "B. les uropathies obstructives non trait\u00e9es \u00e9voluent vers l\u2019IRC",
+      "C. existence d\u2019une hypercalc\u00e9mie sanguine par une excr\u00e9tion r\u00e9nale d\u00e9ficitaire",
+      "D. la cr\u00e9atinine s\u00e9rique \u00e9lev\u00e9e repr\u00e9sente l\u2019indicateur le plus fid\u00e8le de la d\u00e9gradation de l\u2019\u00e9tat fonctionnel r\u00e9nal",
+      "E. en modifiant les doses selon la clearance de la cr\u00e9atinine on peut administrer sans probl\u00e8mes de la p\u00e9nicilline, de la c\u00e9phalosporine ou des t\u00e9tracyclines"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 127,
+    "question": "Concernant la torsion testiculaire, les d\u00e9clarations suivantes sont vraies:",
+    "options": [
+      "A. Le testicule est sur\u00e9lev\u00e9e, fix\u00e9 et dure \u00e0 la palpation",
+      "B. le scrotum est tum\u00e9fi\u00e9 et oed\u00e9mati\u00e9",
+      "C. L'\u00e9pididyme est bien d\u00e9limit\u00e9e",
+      "D. le canal d\u00e9f\u00e9rent n\u2019est pas douloureux",
+      "E. le canal d\u00e9f\u00e9rent est douloureux"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 128,
+    "question": "Laquelle des affirmation sont vraies sur le cancer de la prostate:",
+    "options": [
+      "A. le stade T2 indique le d\u00e9passement de la capsule prostatique",
+      "B. le cancer prostatique avanc\u00e9 b\u00e9nificie\u2026 ??",
+      "C. Les m\u00e9tastases pr\u00e9domine pour les os",
+      "D. le cancer prostatique a une symptomatologie typique",
+      "E. La scintigraphie met en \u00e9vidence la pr\u00e9sence de m\u00e9tastases osseuses"
+    ],
+    "correct_answers": ["C", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 129,
+    "question": "*Un patient de 63 ans, sans comorbidit\u00e9, \u00e0 \u00e9t\u00e9 diagnostiqu\u00e9 par un urologue d\u2019un ad\u00e9nocarcinome de la prostate T2N0M0, score de Gleason 3+4. le dosage des PSA d\u2019une pr\u00e9 biopsie prostatique sont de 7.1 ng/ml. Le patient vous sollicite afin d\u2019avoir un second avis m\u00e9dical afin de savoir quel est le meilleur traitement possible pour lui. Vous r\u00e9pondez:",
+    "options": [
+      "A. Le cancer a d\u00e9pass\u00e9 la capsule prostatique, on recommande donc une surveillance active",
+      "B. Le cancer a d\u00e9pass\u00e9 la capsule prostatique, on recommande donc une radioth\u00e9rapie externe",
+      "C. le cancer est localis\u00e9e dans la prostate, on recommande donc une prostatectomie radicale",
+      "D. le cancer est localis\u00e9e dans la prostate, on recommande donc une hormonoth\u00e9rapie avec des inhibiteurs de la 5-alpha r\u00e9ductase",
+      "E. le cancer est localis\u00e9e dans la prostate, on recommande donc une surveillance active"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 130,
+    "question": "En ce qui concerne le syndrome Von Hippel Lindau, lesquelles des affirmations suivantes sont vraies:",
+    "options": [
+      "A. C\u2019est une maladie h\u00e9r\u00e9ditaire, caus\u00e9 par une translocation entre le bras court du chromosome 6 et le bras long du chromosome 8",
+      "B. appara\u00eet dans le carcinome papillaire",
+      "C. est associ\u00e9 au carcinome \u00e0 cellules claires",
+      "D. est li\u00e9 avec l\u2019angiome r\u00e9tinien",
+      "E. caus\u00e9 par une mutation du g\u00e8ne VHL"
+    ],
+    "correct_answers": ["C", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 131,
+    "question": "Quel traitement fait partie de la prise en charge de la lithiase urinaire:",
+    "options": [
+      "A. Piridoxina",
+      "B. thiazide",
+      "C. Administration de m\u00e9dicaments \u00e0 vis\u00e9e litholytique : allopurinol",
+      "D. alcalinisation de l\u2019urine avec du citrate de sodium-potassium",
+      "E. citrate alcalin"
+    ],
+    "correct_answers": ["A", "B", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 132,
+    "question": "*lequel de ces agents s\u2019utilise dans le traitement instilatoire de la tumeur uroth\u00e9liale, SAUF:",
+    "options": [
+      "A. Gemcitabine",
+      "B. doxorubicine",
+      "C. mitomycine",
+      "D. le bacille de calmette gu\u00e9rin",
+      "E. cyclophosphamide"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 133,
+    "question": "Le traitement de la tumeur v\u00e9sicale non musculo-invasive est repr\u00e9sent\u00e9:",
+    "options": [
+      "A. chimioth\u00e9rapie instillatoire",
+      "B. immunoth\u00e9rapie syst\u00e9mique",
+      "C. biopsie \u00e9choguid\u00e9e",
+      "D. r\u00e9section endoscopique trans ur\u00e9trale de la tumeur",
+      "E. cystoscopie"
+    ],
+    "correct_answers": ["A", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 134,
+    "question": "Parmis ces micro-organisme gram + producteurs d\u2019ur\u00e9ases, lesquels sont responsables de la formation de calculs infect\u00e9s:",
+    "options": [
+      "A. micrococcus",
+      "B. haemophilus influenzae",
+      "C. corynebacterium",
+      "D. provindencia situartii",
+      "E. proteus mirabilis"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 135,
+    "question": "Font parti de l\u2019\u00e9tiologie gangr\u00e9neuse de Fournier:",
+    "options": [
+      "A. l\u2019ur\u00e9trite gonococcique",
+      "B. patient immunod\u00e9prim\u00e9",
+      "C. st\u00e9nose du m\u00e9at ur\u00e9tral",
+      "D. obstruction des voies urinaires",
+      "E. lithiase ur\u00e9t\u00e9rale"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 136,
+    "question": "Le diagnostic diff\u00e9rentiel de la colique r\u00e9nale se fait le plus fr\u00e9quent avec:",
+    "options": [
+      "A. infarctus intestinal",
+      "B. lombosciatique",
+      "C. Colique biliaire",
+      "D. orchi \u00e9pididymite",
+      "E. grossesse ectopique rompue"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 137,
+    "question": "la composition chimique des calculs provoquant la lithotritie extracorporelle avec des ondes de choc pour avoir de bonnes chances de succ\u00e8s:",
+    "options": [
+      "A. Oxalat de calcium dihydrate",
+      "B. acide urique",
+      "C. cystine",
+      "D. oxalat de calcium monohydrat\u00e9",
+      "E. hydroxyapatite"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 1,
+    "id": 138,
+    "question": "*Dans les tumeurs r\u00e9nales parenchymateuses, le stade T3 d\u00e9finit:",
+    "options": [
+      "A. tumeur sup\u00e9rieure \u00e0 7 cm",
+      "B. tumeur envahissant les veines ou le tissus p\u00e9ri r\u00e9nal",
+      "C. tumeur sup\u00e9rieure \u00e0 7 cm, mais limit\u00e9 au rein",
+      "D. tumeur inf\u00e9rieur \u00e0 7 cm",
+      "E. tumeur envahissant la glande surr\u00e9nale"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 1,
+    "id": 139,
+    "question": "Parmis ces substances lesquelles ne repr\u00e9sente pas le m\u00e9tabolisme actif de la testost\u00e9rone avec activation des cellules \u00e9pith\u00e9liales glandulaires prostatique:",
+    "options": [
+      "A. androst\u00e8nedione",
+      "B. dehydroepiandrosterone",
+      "C. flutamide",
+      "D. cyprot\u00e9rone ac\u00e9tate",
+      "E. dihydrotestosterone"
+    ],
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 140,
+    "question": "*Un patient \u00e2g\u00e9 de 70 ans avec hyperplasie b\u00e9nigne de la prostate, se pr\u00e9sente avec un volume prostatique de 60 cmc, un score IPSS de 27. Le Qmax de 12 ml/s et avec un r\u00e9sidu post mictionnel de 160 ml. L'indication th\u00e9rapeutique est:",
+    "options": [
+      "A. traitement avec alpha-bloquant et des inhibiteurs de la 5-alpha r\u00e9ductase",
+      "B. trans ur\u00e9tro r\u00e9section prostatique",
+      "C. incision transur\u00e9trale de la prostate",
+      "D. traitement avec alpha-bloquant et philoth\u00e9rapie",
+      "E. chirurgie ouverte"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 141,
+    "question": "lequel fait parti de l'\u00e9tiologie du cancer p\u00e9nien:",
+    "options": [
+      "A. paraphimosis",
+      "B. purgation de cath\u00e9ter ur\u00e9tro-v\u00e9sical",
+      "C. phimosis",
+      "D. inflammation chronique",
+      "E. maladie peyron"
+    ],
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 142,
+    "question": "lesquelles des situations suivantes repr\u00e9sente une cause de la lithog\u00e9n\u00e8se:",
+    "options": [
+      "A. diverticule caliciel",
+      "B. st\u00e9nose de la jonctions py\u00e9lo-ur\u00e9t\u00e9ral",
+      "C. infection urinaire \u00e0 causes des germes producteurs d\u2019ur\u00e9ase",
+      "D. hypoparathyro\u00efdisme",
+      "E. hypocalciurie"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 143,
+    "question": "Dans le cadre des traumatismes ur\u00e9t\u00e9raux, les attitudes th\u00e9rapeutiques qui ne sont pas \u00e0 tenir sont:",
+    "options": [
+      "A. uretero cystoneostomie",
+      "B. cath\u00e9ter ur\u00e9t\u00e9ral autostatique de type JJ",
+      "C. cystostomie",
+      "D. n\u00e9phrostomie",
+      "E. ur\u00e9t\u00e9roscopie"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 144,
+    "question": "*Le score international des sympt\u00f4mes prostatiques (IPSS) n'inclut pas:",
+    "options": [
+      "A. sensation de drainage incomplet",
+      "B. urgence mictionnelle",
+      "C. dysurie",
+      "D. urine intermittente",
+      "E. nycturie"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 145,
+    "question": "la symptomatologie t\u00e9moignant d\u2019un traumatisme r\u00e9nal peut inclure:",
+    "options": [
+      "A. h\u00e9maturie macroscopique",
+      "B. etat g\u00e9n\u00e9ral alt\u00e9r\u00e9",
+      "C. choc hypovol\u00e9mique",
+      "D. douleur lombaire violente",
+      "E. syndrome f\u00e9bril"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 146,
+    "question": "*Un patient \u00e2g\u00e9 de 62 ans, se pr\u00e9sente chez l\u2019urologue accusant: pollakiurie, nycturie, faible jet urinaire (score IPSS = 20), PSA de 5ng/ml, toucher rectal sans suspicion de malignit\u00e9, prostate avec un volume de 80 cmc, r\u00e9sidus post mictionnel de 40 ml, sans autres modification de l\u2019appareil urinaire. Le traitement optimal pour ce patient est:",
+    "options": [
+      "A. biopsie de ponction prostatique",
+      "B. RMN pelvien multiparam\u00e9trique et biopsie de ponction prostatique",
+      "C. traitement avec alpha bloquant et poursuite du traitement pendant 6 mois avec r\u00e9p\u00e9tition du dosage de PSA s\u00e9rique",
+      "D. double th\u00e9rapie (alpha bloquant et inhibiteur de la 5 alpha-r\u00e9ductase) et poursuite de ce traitement pendant 6 mois avec r\u00e9p\u00e9tition de IPSS, PSA s\u00e9rique et PSA libre",
+      "E. ad\u00e9nomectomie transv\u00e9sicale"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 147,
+    "question": "Les sympt\u00f4mes obstructifs sp\u00e9cifiques pour l\u2019hyperplasie b\u00e9nigne postratique n\u2019inclut pas:",
+    "options": [
+      "A. nycturie",
+      "B. difficult\u00e9 \u00e0 la miction au d\u00e9but",
+      "C. dysurie",
+      "D. jet urinaire faible",
+      "E. pollakiurie"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 148,
+    "question": "Lesquels des affirmations suivantes sur le cancer de la prostate sont fausses:",
+    "options": [
+      "A. Stade T2 indique qu\u2019il d\u00e9passe la capsule prostatique",
+      "B. scintigraphie met en \u00e9vidence les m\u00e9tastases osseuses",
+      "C. cancer prostatique a une symptomatologie typique",
+      "D. m\u00e9tastase est pr\u00e9dominante osseuse",
+      "E. cancer prostatique avanc\u00e9 b\u00e9n\u00e9ficie de castration chimique"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 149,
+    "question": "Dans le cadre des contusions r\u00e9nales de grade III peut \u00eatre trouv\u00e9 :",
+    "options": [
+      "A. h\u00e9matome sous capsulaire",
+      "B. h\u00e9matome r\u00e9tro p\u00e9riton\u00e9ale",
+      "C. int\u00e9resse la capsule et la corticale avec ouverture des canaux excr\u00e9teurs",
+      "D. avulsion pediculaire",
+      "E. h\u00e9matome p\u00e9rir\u00e9nal qui int\u00e9resse la capsule et la corticale"
+    ],
+    "correct_answers": ["C", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 150,
+    "question": "Patient \u00e2g\u00e9 de 54 ans, actif sexuellement, connu avec une hyperplasie b\u00e9nigne de la prostate (volume 35 cmc), sous traitement phytoth\u00e9rapeutique, se pr\u00e9sente pour une r\u00e9\u00e9valuation. Il pr\u00e9sente des sympt\u00f4mes urinaires persistants, score IPSS 15, PSA=1,4 ng/ml, tissus rectal normal, sans autre modification de l\u2019appareil urinaire. Le traitement optimal est dans ce cas :",
+    "options": [
+      "A. N\u00e9cessite TURP",
+      "B. N\u00e9cessite pas de poursuivre de traitement",
+      "C. le traitement est remplac\u00e9 par des alpha bloquant et inhibiteur de 5 alpha r\u00e9ductase",
+      "D. On ajoute un alpha bloquant au traitement phytoth\u00e9rapeutique pr\u00e9existant",
+      "E. Il poursuit uniquement le traitement phytoth\u00e9rapeutique"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 1,
+    "id": 151,
+    "question": "Ne se trouve pas dans le cadre d\u2019un syndrome paran\u00e9oplasique d\u2019une tumeur r\u00e9nale :",
+    "options": [
+      "A. hypothermie",
+      "B. hypercalc\u00e9mie",
+      "C. hypocalc\u00e9mie",
+      "D. hypopotass\u00e9mie",
+      "E. erythrocytose"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 152,
+    "question": "Les r\u00f4les et les t\u00e2ches du service de sant\u00e9 et de s\u00e9curit\u00e9 au travail (SSM) sont:",
+    "options": [
+      "A. accorder la premi\u00e8re aide",
+      "B. participer \u00e0 la r\u00e9habilitation professionnelle",
+      "C. traitement et exemption d\u2019une maladie chronique",
+      "D. surveiller la sant\u00e9 des travailleurs",
+      "E. former et \u00e9duquer dans le domaine du SSM"
+    ],
+    "correct_answers": ["A", "B", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 153,
+    "question": "Quels sont les complications imm\u00e9diates survenues apr\u00e8s un traitement chirurgical d\u2019une hyperplasie b\u00e9nigne de la prostate :",
+    "options": [
+      "A. dysfonction \u00e9rectile",
+      "B. scl\u00e9rose du col v\u00e9sicale",
+      "C. h\u00e9morragie",
+      "D. incontinence urinaire",
+      "E. infection urinaire"
+    ],
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 154,
+    "question": "Laquelle de ces situations repr\u00e9sente une cause de la lithogen\u00e8se ?",
+    "options": [
+      "A. st\u00e9nose de la jonction py\u00e9lo ur\u00e9t\u00e9ral",
+      "B. hypocalciurie",
+      "C. hypoparathyro\u00efdisme",
+      "D. diverticule caliciel",
+      "E.  infection urinaire aux germes qui produisent une ur\u00e9ase"
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 1,
+    "id": 155,
+    "question": "Lesquels des substances suivantes ne repr\u00e9sente pas le m\u00e9tabolisme actif de la testost\u00e9rone avec action des cellules \u00e9pith\u00e9liales glandulaires prostatiques?",
+    "options": [
+      "A. androst\u00e8nedione",
+      "B. dihydro\u00e9piandrosterone",
+      "C. flutamide",
+      "D. ac\u00e9tate de cyprot\u00e9rone",
+      "E. dihydrotestost\u00e9rone"
+    ],
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 156,
+    "question": "*Un patient de 60 ans, hypertensif, sans comorbidit\u00e9s, asymptomatique, a \u00e9t\u00e9 d\u00e9pist\u00e9 accidentellement avec une tumeur r\u00e9nale droite polaire inf\u00e9rieure de 3 cm. investigations suppl\u00e9mentaires et traitement optimal sont:",
+    "options": [
+      "A. Rx thorax, CT abdo et pelvien avec SDC, n\u00e9phrectomie polaire sup\u00e9rieur et cryoblastie",
+      "B. rx thorax, ct abdo pelvien avec SDC, n\u00e9phrectomie polaire inf\u00e9rieure et tumorectomie",
+      "C. rx thorax, ct abdo pelvien avec SDC, n\u00e9phrectomie radicale p\u00e9ri faciale",
+      "D. Rx thorax CT abdo et pelvien nativ, n\u00e9phrectomie polaire inf\u00e9rieure et tumorectomie",
+      "E. RX thorax, CT abdo et pelvien avec SDC, th\u00e9rapie anti angiog\u00e9nique et n\u00e9phrectomie cytor\u00e9ductrice"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 1,
+    "id": 157,
+    "question": "*Formes histologiques du cancer r\u00e9nal ne fait pas partie :",
+    "options": [
+      "A. avec cellules claires",
+      "B. du tube collecteur",
+      "C. papillaire",
+      "D. transitionnel",
+      "E. chromophobe"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 1,
+    "id": 158,
+    "question": "*Score international des sympt\u00f4mes prostatiques n\u2019inclut pas :",
+    "options": [
+      "A. dysurie",
+      "B. sensation de vidange incompl\u00e8te",
+      "C. miction intermittente",
+      "D. nocturie",
+      "E. urgence mictionnel"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 1,
+    "id": 159,
+    "question": "Les affirmations suivantes concernant la grande tumeur uroth\u00e9liale ne sont pas correctes :",
+    "options": [
+      "A. Les patients avec tumeur du bassinet et de l\u2019uret\u00e8re ne sont pas \u00e0 risque de d\u00e9velopper une tumeur v\u00e9sicale",
+      "B. approximativement 11-13 % des tumeurs ont des cellules transitionnels r\u00e9cidivants",
+      "C. fumer fait partie des facteurs de risque",
+      "D. patient avec tumeur v\u00e9sicale r\u00e9cidivante pr\u00e9sente un risque de d\u00e9velopper une grande tumeur v\u00e9sicale",
+      "E. tumeur de uroth\u00e9lium avec caract\u00e8re unifocal"
+    ],
+    "correct_answers": ["A", "E"]
+  }
 ]
