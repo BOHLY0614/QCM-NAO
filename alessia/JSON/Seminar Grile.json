@@ -1,0 +1,383 @@
+[
+    {
+        "chapitre": 0,
+        "id": 1,
+        "question": "Capacitatea de folosin\u021b\u0103 se dob\u00e2nde\u0219te de c\u0103tre persoana fizic\u0103:",
+        "options": [
+            "a. prin c\u0103s\u0103torie;",
+            "b. la \u00eemplinirea v\u00e2rstei de 18 ani;",
+            "c. la na\u0219terea persoanei.",
+            "",
+            ""
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 2,
+        "question": "Principiul infans conceptus se aplic\u0103:",
+        "options": [
+            "a. copilului n\u0103scut \u0219i viabil;",
+            "b. drepturilor copilului nen\u0103scut;",
+            "c. drepturilor copilului n\u0103scut viu.",
+            "",
+            ""
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 3,
+        "question": "Constituie o cauz\u0103 de \u00eencetare a capacit\u0103\u021bii de folosin\u021b\u0103 a persoanei fizice:",
+        "options": [
+            "a. punerea sub interdic\u021bie;",
+            "b. modificarea st\u0103rii civile;",
+            "c. decesul.",
+            "",
+            ""
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 4,
+        "question": "Persoana fizic\u0103 dob\u00e2nde\u0219te capacitatea de folosin\u021b\u0103:",
+        "options": [
+            "a. de la concep\u021bie, \u00een ceea ce prive\u0219te latura activ\u0103 a acestei capacit\u0103\u021bi;",
+            "b. de la na\u0219tere;",
+            "c. la \u00eemplinirea v\u00e2rstei de 14 ani;",
+            "d. la \u00eemplinirea v\u00e2rstei de 18 ani.",
+            ""
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 5,
+        "question": "Timpul legal al concep\u021biunii este stabilit de lege:",
+        "options": [
+            "a. \u00eentre a trei suta \u0219i a o sut\u0103 optzecea zi dinaintea na\u0219terii copilului;",
+            "b. \u00eentre 360 \u0219i 100 de zile \u00eenainte de na\u0219terea copilului;",
+            "c. potrivit conven\u021biei p\u0103r\u021bilor.",
+            "",
+            ""
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 6,
+        "question": "Declararea judec\u0103toreasc\u0103 a mor\u021bii:",
+        "options": [
+            "a. este condi\u021bionat\u0103 de declararea prealabil\u0103 a dispari\u021biei persoanei fizice;",
+            "b. nu este condi\u021bionat\u0103 de declararea prealabil\u0103 a dispari\u021biei persoanei fizice;",
+            "c. poate fi precedat\u0103 de declararea prealabil\u0103 a dispari\u021biei persoanei fizice;",
+            "d. niciun r\u0103spuns corect.",
+            ""
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 7,
+        "question": "Mo\u0219tenitorul de rea-credin\u021b\u0103 este obligat s\u0103 restituie, ca urmare a anul\u0103rii hot\u0103r\u00e2rii",
+        "options": [
+            "declarative de moarte:",
+            "a. numai bunurile;",
+            "b. bunurile \u0219i fructele culese;",
+            "c. bunurile, fructele culese \u0219i pe care le-ar fi putut culege, de\u0219i nu le-a cules \u00een realitate.",
+            ""
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 8,
+        "question": "Capacitatea de exerci\u021biu anticipat\u0103 se dob\u00e2nde\u0219te:",
+        "options": [
+            "a. la na\u0219tere;",
+            "b. la \u00eemplinirea v\u00e2rstei de 14 ani;",
+            "c. la \u00eemplinirea v\u00e2rstei de 16 ani, prin hot\u0103r\u00e2re judec\u0103toreasc\u0103;",
+            "d. din momentul concep\u021biunii.",
+            ""
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 9,
+        "question": "Punerea sub interdic\u021bie a persoanei fizice poate avea loc:",
+        "options": [
+            "a. dup\u0103 \u00eemplinirea v\u00e2rstei de 14 ani;",
+            "b. indiferent de v\u00e2rst\u0103;",
+            "c. dup\u0103 \u00eemplinirea v\u00e2rstei de 18 ani.",
+            "",
+            ""
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 10,
+        "question": "Capacitatea deplin\u0103 de exerci\u021biu \u00eenceteaz\u0103:",
+        "options": [
+            "a. prin divor\u021b;",
+            "b. pentru so\u021bul de rea-credin\u021b\u0103, \u00een cazul anul\u0103rii c\u0103s\u0103toriei putative;",
+            "c. \u00een cazul constat\u0103rii nulit\u0103\u021bii absolute a c\u0103s\u0103toriei.",
+            "",
+            ""
+        ],
+        "correct_answers": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 11,
+        "question": "\u00cen cazul copiilor din afara c\u0103s\u0103toriei, ai c\u0103ror p\u0103rin\u021bi nu convie\u021buiesc, autoritatea",
+        "options": [
+            "p\u0103rinteasc\u0103 se exercit\u0103:",
+            "a. numai de c\u0103tre p\u0103rintele la care locuie\u0219te copilul;",
+            "b. conform \u00een\u021belegerii p\u0103rin\u021bilor, de c\u0103tre ambii p\u0103rin\u021bi;",
+            "c. de c\u0103tre unul din p\u0103rin\u021bi, potrivit hot\u0103r\u00e2rii instan\u021bei de tutel\u0103.",
+            ""
+        ],
+        "correct_answers": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 12,
+        "question": "Instituirea tutelei minorului are loc:",
+        "options": [
+            "a. dac\u0103 ambii p\u0103rin\u021bi sunt dec\u0103zu\u021bi din exerci\u021biul drepturilor p\u0103rinte\u0219ti;",
+            "b. \u00een urma aplic\u0103rii unei sanc\u021biuni penale ambilor p\u0103rin\u021bi;",
+            "c. dac\u0103 p\u0103rin\u021bii sunt divor\u021ba\u021bi.",
+            "",
+            ""
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 13,
+        "question": "Curatela minorului se instituie:",
+        "options": [
+            "a. \u00een cazul contrariet\u0103\u021bii de interese \u00eentre minor \u0219i p\u0103rin\u021bi;",
+            "b. \u00een cazul contrariet\u0103\u021bii de interese \u00eentre minor \u0219i ocrotitorul legal;",
+            "c. \u00een cazul c\u0103s\u0103toriei minorului cu v\u00e2rsta \u00eentre 14 \u0219i 18 ani.",
+            "",
+            ""
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 14,
+        "question": "M\u0103sura supravegherii specializate se ia cu privire la:",
+        "options": [
+            "a. minorul neglijat de p\u0103rin\u021bi sau abandonat;",
+            "b. minorul de 13 ani care a s\u0103v\u00e2r\u0219it o fapt\u0103 penal\u0103;",
+            "c. minorul cu v\u00e2rsta cuprins\u0103 \u00eentre 14 \u0219i 18 ani care a s\u0103v\u00e2r\u0219it o fapt\u0103 penal\u0103 cu",
+            "discern\u0103m\u00e2nt.",
+            ""
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 15,
+        "question": "Ca urmare a punerii sub interdic\u021bie:",
+        "options": [
+            "a. \u00eenceteaz\u0103 capacitatea civil\u0103 a interzisului;",
+            "b. \u00eenceteaz\u0103 capacitatea de exerci\u021biu a interzisului;",
+            "c. se instituie tutela interzisului.",
+            "",
+            ""
+        ],
+        "correct_answers": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 16,
+        "question": "Curatela incapabilului se instituie cu privire la:",
+        "options": [
+            "a. persoanele v\u00e2rstnice;",
+            "b. minorii care nu au \u00eemplinit 14 ani;",
+            "c. persoanele puse sub interdic\u021bie.",
+            "",
+            ""
+        ],
+        "correct_answers": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 17,
+        "question": "Numele este dob\u00e2ndit de c\u0103tre persoana fizic\u0103:",
+        "options": [
+            "a. prin acte cu titlu gratuit;",
+            "b. prin mo\u0219tenire;",
+            "c. ca efect al filia\u021biei.",
+            "",
+            ""
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 18,
+        "question": "Re\u0219edin\u021ba persoanei fizice este:",
+        "options": [
+            "a. locuin\u021ba secundar\u0103 \u0219i temporar\u0103 a persoanei fizice;",
+            "b. locuin\u021ba familiei dup\u0103 c\u0103s\u0103torie;",
+            "c. locuin\u021ba permanent\u0103 \u0219i principal\u0103 a persoanei fizice.",
+            "",
+            ""
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 19,
+        "question": "Sunt persoane juridice de drept public:",
+        "options": [
+            "a. asocia\u021biile \u0219i funda\u021biile;",
+            "b. cultele religioase;",
+            "c. unit\u0103\u021bile administrativ-teritoriale.",
+            "",
+            ""
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 20,
+        "question": "Capacitatea de folosin\u021b\u0103 anticipat\u0103 a persoanei juridice este posibilitatea:",
+        "options": [
+            "a. de a-\u0219i asuma obliga\u021bii \u0219i de a dob\u00e2ndi drepturi \u00een vederea \u00eenfiin\u021b\u0103rii sale;",
+            "b. de a dob\u00e2ndi drepturile necesare constituirii valabile;",
+            "c. de a dob\u00e2ndi drepturi \u0219i de a-\u0219i asuma obliga\u021bii conform obiectului de activitate.",
+            "",
+            ""
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 21,
+        "question": "Desemnarea administratorului persoanei juridice se face prin:",
+        "options": [
+            "a. hot\u0103r\u00e2rea asocia\u021bilor;",
+            "b. actul constitutiv sau prin decizia de \u00eenfiin\u021bare;",
+            "c. lege special\u0103.",
+            "",
+            ""
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 22,
+        "question": "Actele juridice \u00eencheiate de administrator cu dep\u0103\u0219irea limitelor mandatului:",
+        "options": [
+            "a. nu sunt opozabile ter\u021bilor;",
+            "b. pot fi ratificate de c\u0103tre persoana juridic\u0103;",
+            "c. angajeaz\u0103 persoana juridic\u0103 \u00een mod valabil, dac\u0103, la momentul \u00eencheierii actului, ter\u021bii",
+            "nu cuno\u0219teau aceast\u0103 limitare.",
+            ""
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 23,
+        "question": "Dac\u0103 a fost cauzat un prejudiciu ter\u021bilor \u00een executarea mandatului organelor de",
+        "options": [
+            "conducere \u0219i de administrare, r\u0103spunderea revine:",
+            "a. numai persoanei juridice;",
+            "b. numai organelor de conducere, respectiv, de administrare;",
+            "c. r\u0103spunderea este solidar\u0103 \u00eentre persoana juridic\u0103 \u0219i organele sale.",
+            ""
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 24,
+        "question": "Reorganizarea persoanei juridice const\u0103 \u00een:",
+        "options": [
+            "a. fuziunea, divizarea ori transformarea persoanei juridice;",
+            "b. schimbarea consiliului de administra\u021bie;",
+            "c. modificarea sistemului de administrare.",
+            "",
+            ""
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 25,
+        "question": "Persoanele juridice se dizolv\u0103 de drept:",
+        "options": [
+            "a. prin hot\u0103r\u00e2rea instan\u021bei de judecat\u0103;",
+            "b. prin trecerea timpului stabilit ca durat\u0103 de func\u021bionare;",
+            "c. prin imposibilitatea realiz\u0103rii obiectului de activitate.",
+            ""
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    }
+]
