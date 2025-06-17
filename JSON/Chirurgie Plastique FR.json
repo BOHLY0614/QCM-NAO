@@ -1,587 +1,730 @@
 [
-    {
-        "chapitre": 0,
-        "id": 1,
-        "question": "La blessure/plaie granulaire :",
-        "options": [
-            "A. peut \u00eatre couverte d\u2019un phlyct\u00e8ne",
-            "B. le positionnement circulaire",
-            "C. n\u00e9cessite un environnement humide pour une gu\u00e9rison optimale",
-            "D. est caract\u00e9ris\u00e9e par la pr\u00e9sence de tissu de granulation sain",
-            "E. doit \u00eatre nettoy\u00e9e avec des antiseptiques forts pour \u00e9viter l\u2019infection"
-        ],
-        "correct_answers": [
-            "D",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 2,
-        "question": "*Les instruments micro chirurgicaux:",
-        "options": [
-            "A. ne n\u00e9cessite pas de manipulation attentive",
-            "B. peuvent s\u2019utiliser en dissection des structures macroscopique",
-            "C. peuvent \u00eatre maintenu m\u00e9lang\u00e9 avec les instruments de chirurgie g\u00e9n\u00e9rales",
-            "D. Peuvent \u00eatre laissez-les tomber au sol sans \u00eatre d\u00e9truits",
-            "E. leurs pointes ne sont pas autoris\u00e9es \u00e0 toucher des objets durs"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 3,
-        "question": "Les doigts suivants ont leurs propres tendons extenseurs:",
-        "options": [
-            "A. Doigt IV (annulaire)",
-            "B. Doigts I (pouce)",
-            "C. doigts III (majeur)",
-            "D. Doigts V (auriculaire)",
-            "E. Doigts II (index)"
-        ],
-        "correct_answers": [
-            "A",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 4,
-        "question": "Anastomose des art\u00e8res radiales et ulnaires r\u00e9alisent:",
-        "options": [
-            "A. un tronc art\u00e9riel",
-            "B. cette anastomose ne se r\u00e9alise pas",
-            "C. Deux arcades art\u00e9rielles palmaires",
-            "D. art\u00e8re interosseuse",
-            "E. une arcade superficielle et une profonde"
-        ],
-        "correct_answers": [
-            "B",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 5,
-        "question": "L\u00e9sions t\u00e9gumentaires dans une brulure \u00e9lectriques sont :",
-        "options": [
-            "A. marque de sortie",
-            "B. l\u00e9sion des voies respiratoires",
-            "C. marque de entr\u00e9e",
-            "D. l\u00e9sions t\u00e9gumentaire avec arc \u00e9lectrique",
-            "E. l\u00e9sions de br\u00fblure caus\u00e9 par des v\u00eatements qui br\u00fblent"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 6,
-        "question": "Les indications dans la r\u00e9implantation sont \u00e9num\u00e9r\u00e9s :",
-        "options": [
-            "A. amputation pouces",
-            "B. amputation chez l'enfant",
-            "C. amputation par \u00e9crasement",
-            "D. amputation d'un doigt qui bouge mal",
-            "E. amputation au niveau du bobo"
-        ],
-        "correct_answers": [
-            "A",
-            "B"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 7,
-        "question": "La vascularisation des mains est assur\u00e9e par les art\u00e8res:",
-        "options": [
-            "A. scapulaires",
-            "B. mammaires interne",
-            "C. radiale",
-            "D. ulnaire",
-            "E. thoraco dorsale"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 8,
-        "question": "neurorraphie (suture nerveuse) peut se faire:",
-        "options": [
-            "A. par secundam",
-            "B. perineural",
-            "C. \u00e9pineural",
-            "D. primaire",
-            "E. fasciculaire"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 9,
-        "question": "Dans les br\u00fblures chimiques:",
-        "options": [
-            "A. On n\u2019applique pas de solution neutralisante car cela aggrave les l\u00e9sions",
-            "B. on applique imm\u00e9diatement une solution neutralisante",
-            "C. On laisse les v\u00eatements en place",
-            "D. on lave abondamment les plaies et les t\u00e9guments contamin\u00e9s",
-            "E. la victime est d\u00e9plac\u00e9 loin de la source"
-        ],
-        "correct_answers": [
-            "A"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 10,
-        "question": "Fracture primaire du m\u00e9tacarpe :",
-        "options": [
-            "A. peut etre fracture de Bennet",
-            "B. ne n\u00e9cessite pas de traitement sp\u00e9cialis\u00e9e",
-            "C. on peut etre fracture rolando",
-            "D. pas d\u2019implications fonctionnelles",
-            "E. peut \u00eatre la fracture du boxeur"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 11,
-        "question": "Le r\u00e9glage des lentilles du microscope :",
-        "options": [
-            "A. pas n\u00e9cessaire de le r\u00e9gler quand on porte des lunettes de vue",
-            "B. on le recommande apr\u00e8s l\u2019application du champ st\u00e9rile",
-            "C. on obtient deux images diff\u00e9rentes dans chacune des lentilles",
-            "D. n\u2019est pas importante",
-            "E. on obtient une image pour les deux oculaires et on ajuste la distance interpupillaire"
-        ],
-        "correct_answers": [
-            "B",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 12,
-        "question": "Pronostic d'\u00e9volution d\u2019un patient br\u00fbl\u00e9 se fait en utilisant plusieurs scores standardis\u00e9 dont le score ABSI (abbreviated burn severity index) lequel continent les suivants facteurs :",
-        "options": [
-            "A. \u00e2ge",
-            "B. localisation br\u00fblure",
-            "C. sexe",
-            "D. agent \u00e9tiologique suspect",
-            "E. pathologie associ\u00e9"
-        ],
-        "correct_answers": [
-            "A",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 13,
-        "question": "les br\u00fblures de grade I:",
-        "options": [
-            "A. l\u00e9sions de l\u2019\u00e9piderme et de la membrane basale",
-            "B. est caract\u00e9ris\u00e9e par un \u00e9ryth\u00e8me",
-            "C. n'endommage que l'\u00e9piderme",
-            "D. n'endommage que la membrane basale",
-            "E. se gu\u00e9rit spontan\u00e9ment en 3 jours"
-        ],
-        "correct_answers": [
-            "B",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 14,
-        "question": "Mallet finger (doigt en marteau):",
-        "options": [
-            "A. peut produire une d\u00e9formation ult\u00e9rieure",
-            "B. peut d\u00e9tecter par manque d\u2019extension active au niveau de la phalange distale",
-            "C. repr\u00e9sente la l\u00e9sion du tendon fl\u00e9chisseur au niveau de la phalange distale",
-            "D. peut d\u00e9tecter par manque de flexion active au niveau de la phalange distale",
-            "E. repr\u00e9sente une l\u00e9sion du tendon extenseur au niveau de la phalange distale"
-        ],
-        "correct_answers": [
-            "B",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 15,
-        "question": "les causes des oed\u00e8mes dans les br\u00fblures sont:",
-        "options": [
-            "A. vasodilatation distale",
-            "B. diminution de la perm\u00e9abilit\u00e9 capillaire",
-            "C. augmentation de la perm\u00e9abilit\u00e9 capillaire",
-            "D. une temp\u00e9rature actionnant les facteurs \u00e9tiologique",
-            "E. vasoconstriction distale"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 16,
-        "question": "le r\u00f4le des microscopes op\u00e9rateurs est:",
-        "options": [
-            "A. permettent des mouvements fins de iulla main que l'\u0153il ne per\u00e7oit pas",
-            "B. peuvent \u00eatre remplac\u00e9 par des loupes chirurgicales",
-            "C. offre une pr\u00e9cision visuelle gr\u00e2ce au grossissement produit",
-            "D. est surestim\u00e9 car les techniques de microchirurgie peuvent se r\u00e9aliser \u00e0 l\u2019oeil nu",
-            "E. permet une chirurgie de diff\u00e9rents niveaux de dimension"
-        ],
-        "correct_answers": [
-            "D"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 17,
-        "question": "*Position de l\u2019aiguille dans le support :",
-        "options": [
-            "A. le support et l\u2019aiguille forment un angle droit",
-            "B. support et aiguille forment une ligne droite",
-            "C. support et aiguille forment un angle pointu",
-            "D. support et aiguille sont parall\u00e8le",
-            "E. support et aiguille forme un angle obtus"
-        ],
-        "correct_answers": [
-            "B",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 18,
-        "question": "*Le lieu de p\u00e9n\u00e9tration de l\u2019aiguille va jusqu\u2019au bord du vaisseau:",
-        "options": [
-            "A. doit \u00eatre \u00e0 \u00e9gale distance du double du diam\u00e8tre ???",
-            "B. peut se faire \u00e0 n\u2019importe quelle distance \u00e0 condition d\u2019\u00eatre confortable ???",
-            "C. doit \u00eatre \u00e0 distance \u00e9gale du triple du diam\u00e8tre ???",
-            "D. doit \u00eatre \u00e0 distance \u00e9gale du diam\u00e8tre de l\u2019aiguille",
-            "E. Peut \u00eatre fait avec n\u2019importe quel type d\u2019aiguille"
-        ],
-        "correct_answers": [
-            "A",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 19,
-        "question": "Facteurs qui influencent le tremblement de la main :",
-        "options": [
-            "A. effort manuel intense",
-            "B. conditions m\u00e9t\u00e9o",
-            "C. fumer",
-            "D. stade de nervosit\u00e9",
-            "E. sevrage de caf\u00e9ine"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "D",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 20,
-        "question": "microchirurgie implique l\u2019utilisation :",
-        "options": [
-            "A. Instrument fin d\u00e9di\u00e9e",
-            "B. technique de dissection de chirurgie g\u00e9n\u00e9rale",
-            "C. mat\u00e9riel de suture plus fin que les cheveux",
-            "D. microscope op\u00e9rateur",
-            "E. voir directement ce qui n\u00e9cessite une bonne acuit\u00e9 visuelle"
-        ],
-        "correct_answers": [
-            "A"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 21,
-        "question": "*pince microchirurgicale :",
-        "options": [
-            "A. Peut \u00eatre utile dans la dilatation des vaisseaux",
-            "B. peut \u00eatre remplac\u00e9 par une pince de chirurgie g\u00e9n\u00e9rale",
-            "C. il existe plusieurs variantes avec pointes droites",
-            "D. est utile \u00e0 la manipulation des sutures aussi ??",
-            "E. elle peut tomber au sol sans se casser"
-        ],
-        "correct_answers": [
-            "A",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 22,
-        "question": "Un noeud micro chirurgical est effectu\u00e9 correctement :",
-        "options": [
-            "A. Sans chevauchement des marges des vaisseaux",
-            "B. c\u2019est un noeud fort autant serr\u00e9 que possible",
-            "C. sans strangulation des marges des vaisseaux",
-            "D. c\u2019est un noeud aussi l\u00e2che que possible",
-            "E. approxime les marges des vaisseaux en les mettant en contact"
-        ],
-        "correct_answers": [
-            "A",
-            "B"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 23,
-        "question": "on consid\u00e8re une br\u00fblure mod\u00e9r\u00e9e:",
-        "options": [
-            "A. br\u00fblure partielle > 25% SC, chez l'adulte",
-            "B. br\u00fblure partielle de 10-20% SC, chez l\u2019enfant et les personne \u00e2g\u00e9es",
-            "C. br\u00fblure partielle de 15-25% SC, chez l'adulte",
-            "D. br\u00fblure partielle < 15% SC, chez l'adulte",
-            "E. les br\u00fblures de toute l'\u00e9paisseur du dermes de 2-10% SC, sans affections d'une zone sp\u00e9cifique de gravit\u00e9"
-        ],
-        "correct_answers": [
-            "A",
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 24,
-        "question": "*instruments microchirurgicale :",
-        "options": [
-            "A. peut \u00eatre utilis\u00e9 en dissection d\u2019une structure macroscopique",
-            "B. peut tomber au sol sans se casser",
-            "C. peut \u00eatre m\u00e9lang\u00e9 avec les instruments de chirurgie g\u00e9n\u00e9rale",
-            "D. n\u2019est pas permis que leurs pointes touchent des objets durs",
-            "E. ne n\u00e9cessite pas de manipulation attentive"
-        ],
-        "correct_answers": [
-            "A"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 25,
-        "question": "*Les fils de sutures microchirurgicales",
-        "options": [
-            "A. doivent \u00eatre ancr\u00e9es sur toute la dur\u00e9e tant qu\u2019ils ne sont pas avec le support chirurgical (portacul??)",
-            "B. sont faciles de fabrication",
-            "C. peuvent \u00eatre remplac\u00e9s par des fils de sutures utilis\u00e9s en chirurgie g\u00e9n\u00e9rale de 5-0 et 6-0 USP",
-            "D. ils peuvent \u00eatre manipul\u00e9s avec des instruments autres que le support microchirurgical",
-            "E. sont tr\u00e8s peu co\u00fbteux"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 26,
-        "question": "L\u2019objectif th\u00e9rapeutique essentiel dans les br\u00fblures sont:",
-        "options": [
-            "A. r\u00e9insertion sociale le plus tard possible",
-            "B. un r\u00e9sultat esth\u00e9tique acceptable",
-            "C. limitation des cons\u00e9quences psychologiques",
-            "D. obtention d\u2019un bon r\u00e9sultat esth\u00e9tique au d\u00e9triment de la pr\u00e9servation de la fonction du segment affect\u00e9",
-            "E. la survie du patient"
-        ],
-        "correct_answers": [
-            "A",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 27,
-        "question": "Dans les complications tardives cons\u00e9cutives \u00e0 l'exposition \u00e0 un courant \u00e9lectrique de haut voltage on peut \u00e9num\u00e9rer :",
-        "options": [
-            "A. cataracte avec d\u00e9but tardif",
-            "B. dysfonction neurologique",
-            "C. cicatrice hyperpigment\u00e9e",
-            "D. d\u00e9pression",
-            "E. tachycardie supraventriculaire"
-        ],
-        "correct_answers": [
-            "A",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 28,
-        "question": "Chaque doigt, sauf le pouce, pr\u00e9sentent les tendons fl\u00e9chisseurs suivants:",
-        "options": [
-            "A. Tendon fl\u00e9chisseurs profond",
-            "B. tendon fl\u00e9chisseur ulnaire",
-            "C. tendon fl\u00e9chisseurs des mains",
-            "D. tendons fl\u00e9chisseurs des carpes",
-            "E. tendons fl\u00e9chisseurs superficiel"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 29,
-        "question": "Segment amput\u00e9 est conserv\u00e9 :",
-        "options": [
-            "A. chaud",
-            "B. st\u00e9rile",
-            "C. froid",
-            "D. sec",
-            "E. mouill\u00e9"
-        ],
-        "correct_answers": [
-            "A",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 30,
-        "question": "*La position du microscope:",
-        "options": [
-            "A. C\u2019est l\u00e0 que le chirurgien se sent le mieux ???",
-            "B. ce n\u2019est pas un facteur important pour la pr\u00e9paration pr\u00e9op\u00e9ratoire ???",
-            "C. a besoin d\u2019aucun ajustement durant l\u2019op\u00e9ration",
-            "D. les mains et les avant-bras doivent \u00eatre en contact ?? (c'est celle l\u00e0)",
-            "E. A une importance non significative en termes de ???"
-        ],
-        "correct_answers": [
-            "A",
-            "B"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 31,
-        "question": "Le tendon long fl\u00e9chisseur du pouce:",
-        "options": [
-            "A. passe par le canal carpien",
-            "B. ne passe pas par le canal carpien",
-            "C. le corps musculaire correspondant est innerv\u00e9 par le nerf m\u00e9dian",
-            "D. le corps musculaire correspondant est innerv\u00e9 par le nerf ulnaire",
-            "E. r\u00e9alise la flexion articulaire interphalangienne du pouce"
-        ],
-        "correct_answers": [
-            "A",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 32,
-        "question": "la microchirurgie suppose l\u2019utilisation de:",
-        "options": [
-            "A. instruments fins",
-            "B. techniques de dissections de chirurgie g\u00e9n\u00e9rale",
-            "C. mat\u00e9riels de sutures plus fins qu\u2019un cheveu",
-            "D. microscope op\u00e9rateur",
-            "E. vision directe pour ceux qui ont une tr\u00e8s bonne acuit\u00e9 visuelle"
-        ],
-        "correct_answers": [
-            "B",
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 33,
-        "question": "*Les techniques de dissection en microchirurgie:",
-        "options": [
-            "A. ne n\u00e9cessite pas d\u2019\u00e9tude particuli\u00e8re",
-            "B. peuvent s\u2019appliquer qu\u2019en sp\u00e9cialit\u00e9 chirurgicale",
-            "C. Est atraumatique",
-            "D. est identique \u00e0 la chirurgie g\u00e9n\u00e9rale",
-            "E. peuvent \u00eatre appris tr\u00e8s facilement"
-        ],
-        "correct_answers": [
-            "B",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 34,
-        "question": "Les noeuds en microchirurgie:",
-        "options": [
-            "A. Il doivent \u00eatre dispos\u00e9s le plus loin possible le long de la suture",
-            "B. Il doivent \u00eatre dispos\u00e9s de fa\u00e7on \u00e9quidistante le long de la suture",
-            "C. Il doivent \u00eatre dispos\u00e9s de fa\u00e7on \u00e9quidistante le long de la suture",
-            "D. Et bobo woooo wooo wooo wooo woooo wooo woo, I'm felling down",
-            "E. Ils doivent \u00eatre r\u00e9alis\u00e9s avec le m\u00eame type de fil pour toutes les couches de tissu"
-        ],
-        "correct_answers": [
-            "D"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 35,
-        "question": "*La dilatation des vaisseaux:",
-        "options": [
-            "A. peut \u00eatre conserv\u00e9 de fa\u00e7on mixte avec les instruments de macrochirurgie",
-            "B. Ne doit pas \u00eatre nettoy\u00e9 \u00e0 la fin de l\u2019intervention",
-            "C. A la m\u00eame r\u00f4le qu\u2019une pince microchirurgicale",
-            "D. S'introduit dans la lumi\u00e8re des vaisseaux pour les plus grands calibres",
-            "E. est tr\u00e8s peu co\u00fbteux"
-        ],
-        "correct_answers": [
-            "A",
-            "B"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 36,
-        "question": "La main est innerv\u00e9e par:",
-        "options": [
-            "A. le nerf ulnaire",
-            "B. le nerfs musculocutan\u00e9",
-            "C. le nerf axillaire",
-            "D. le nerf m\u00e9dian",
-            "E. le nerf radial"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "E"
-        ]
-    }
+  {
+    "chapitre": 0,
+    "id": 1,
+    "question": "Le long tendon fl\u00e9chisseur du pouce :",
+    "options": [
+      "A. Traverse le canal carpien",
+      "B. Ne passe pas par le canal carpien",
+      "C. Le corps musculaire correspondant est innerv\u00e9 par le nerf m\u00e9dian.",
+      "D. Le corps musculaire correspondant est innerv\u00e9 par le nerf cubital.",
+      "E. Effectue une flexion de l'articulation interphalangienne du pouce"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 2,
+    "question": "Le r\u00f4le du microscope op\u00e9ratoire est le suivant :",
+    "options": [
+      "A. Permettre des mouvements fins de la main que l'\u0153il nu ne peut pas percevoir",
+      "B. Rempla\u00e7able par des loupes chirurgicales",
+      "C. Fournir une pr\u00e9cision visuelle gr\u00e2ce au grossissement",
+      "D. Surestim\u00e9es, les techniques de microchirurgie peuvent \u00e9galement \u00eatre r\u00e9alis\u00e9es \u00e0 l'\u0153il nu.",
+      "E. Permettre au chirurgien plusieurs niveaux d'agrandissement"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 3,
+    "question": "*Les pinces microchirurgicales :",
+    "options": [
+      "A. N'existent que dans une version avec des pointes droites",
+      "B. Peut \u00eatre remplac\u00e9e par des pinces chirurgicales g\u00e9n\u00e9rales",
+      "C. Sont utilis\u00e9s \u00e0 la fois pour la manipulation des sutures et des tissus.",
+      "D. Peut \u00eatre utilis\u00e9 comme dilatateur de vaisseaux",
+      "E. Peut tomber sans \u00eatre d\u00e9truit"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 4,
+    "question": "Chaque doigt, \u00e0 l'exception du pouce, poss\u00e8de les tendons fl\u00e9chisseurs suivants :",
+    "options": [
+      "A. Tendon fl\u00e9chisseur de la main",
+      "B. Tendon fl\u00e9chisseur superficiel",
+      "C. Tendon fl\u00e9chisseur du carpe",
+      "D. Tendon fl\u00e9chisseur du cubitus",
+      "E. Tendon fl\u00e9chisseur profond"
+    ],
+    "correct_answers": ["B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 5,
+    "question": "*Instruments de microchirurgie :",
+    "options": [
+      "A. Peut \u00eatre utilis\u00e9 pour la dissection de structures macroscopiques",
+      "B. Peut tomber sans \u00eatre d\u00e9truit",
+      "C. Peut \u00eatre stock\u00e9 m\u00e9lang\u00e9 avec les instruments chirurgicaux g\u00e9n\u00e9raux",
+      "D. Leur extr\u00e9mit\u00e9 ne doit pas toucher d'objets durs",
+      "E. Ne n\u00e9cessitent pas de manipulation soigneuse"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 6,
+    "question": "Le n\u0153ud microchirurgical :",
+    "options": [
+      "A. Le premier n\u0153ud est toujours simple",
+      "B. Le dernier n\u0153ud est toujours double",
+      "C. Le premier n\u0153ud est toujours double",
+      "D. Le deuxi\u00e8me n\u0153ud est toujours simple",
+      "E. Le deuxi\u00e8me n\u0153ud est toujours double"
+    ],
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 8,
+    "question": "La vascularisation de la main est assur\u00e9e par les art\u00e8res suivantes :",
+    "options": [
+      "A. Radial",
+      "B. Thoracodorsal",
+      "C. L'omoplate",
+      "D. Ulnaire",
+      "E. mammaire interne"
+    ],
+    "correct_answers": ["A", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 9,
+    "question": "*Le point d'entr\u00e9e de l'aiguille par rapport au bord du vaisseau :",
+    "options": [
+      "A. Doit se trouver \u00e0 une distance \u00e9gale \u00e0 deux ou trois fois le diam\u00e8tre de l'aiguille.",
+      "B. Toute distance peut \u00eatre utilis\u00e9e tant qu'elle est confortable.",
+      "C. Doit se trouver \u00e0 une distance \u00e9gale \u00e0 cinq fois le diam\u00e8tre de l'aiguille.",
+      "D. Doit \u00eatre \u00e0 une distance \u00e9gale au diam\u00e8tre de l'aiguille",
+      "E. L'aiguille peut \u00eatre tenue avec n'importe quel instrument"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 10,
+    "question": "Les doigts suivants ont leur propre tendon extenseur :",
+    "options": [
+      "A. Annulaire (IV)",
+      "B. Pouce (I)",
+      "C. Doigt du milieu (III)",
+      "D. Petit doigt (V)",
+      "E. Index (II)"
+    ],
+    "correct_answers": ["A", "B", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 11,
+    "question": "Les objectifs th\u00e9rapeutiques essentiels en mati\u00e8re de br\u00fblures sont les suivants",
+    "options": [
+      "A. R\u00e9int\u00e9gration sociale retard\u00e9e",
+      "B. R\u00e9sultat cosm\u00e9tique acceptable",
+      "C. Limiter les cons\u00e9quences psychologiques",
+      "D. Obtention d'un r\u00e9sultat cosm\u00e9tique au d\u00e9triment de la pr\u00e9servation de la fonction du segment affect\u00e9",
+      "E. Survie des patients"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 12,
+    "question": "La microchirurgie implique :",
+    "options": [
+      "A. Mat\u00e9riau de suture plus fin qu'un cheveu",
+      "B. Microscope op\u00e9ratoire",
+      "C. Instruments sp\u00e9cialis\u00e9s de qualit\u00e9",
+      "D. Vision directe pour les personnes ayant une tr\u00e8s bonne acuit\u00e9 visuelle",
+      "E. Techniques de dissection en chirurgie g\u00e9n\u00e9rale"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 13,
+    "question": "*Les instruments microchirurgicaux doivent :",
+    "options": [
+      "A. \u00eatre conserv\u00e9s dans une bo\u00eete \u00e0 instruments sp\u00e9ciale",
+      "B. Ne n\u00e9cessitent pas de nettoyage",
+      "C. Permettre l'utilisation simultan\u00e9e de plusieurs instruments avec la m\u00eame main",
+      "D. \u00catre pr\u00eat\u00e9 \u00e0 d'autres chirurgiens",
+      "E. \u00catre l\u00e2ch\u00e9 sans se d\u00e9t\u00e9riorer"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 14,
+    "question": "*Le porte-aiguille microchirurgical :",
+    "options": [
+      "A. Est toujours tenu dans la main non dominante",
+      "B. Peut \u00eatre utilis\u00e9 \u00e0 la place des pinces microchirurgicales",
+      "C. Utilis\u00e9 uniquement pour la manipulation de l'aiguille et des sutures microchirurgicales.",
+      "D. Peut \u00eatre remplac\u00e9 par un porte-aiguille de chirurgie g\u00e9n\u00e9rale",
+      "E. Recommand\u00e9 pour la manipulation des aiguilles de chirurgie g\u00e9n\u00e9rale (<6-0 USP)"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 15,
+    "question": "En cas de br\u00fblures chimiques :",
+    "options": [
+      "A. Laver soigneusement les plaies et la peau contamin\u00e9e",
+      "B. Appliquer imm\u00e9diatement des solutions neutralisantes",
+      "C. Ne pas appliquer de solutions neutralisantes, car elles aggravent la blessure.",
+      "D. Laisser les v\u00eatements en place",
+      "E. Retirer la victime de la source de courant"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 16,
+    "question": "La suture des nerfs (neurorraphie) peut \u00eatre effectu\u00e9e :",
+    "options": [
+      "A. Secondaire",
+      "B. Sur les fascicules",
+      "C. Principalement",
+      "D. P\u00e9rineural",
+      "E. Epineural"
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 17,
+    "question": "*La position de l'aiguille dans le support :",
+    "options": [
+      "A. Doit \u00eatre oblique par rapport au tissu \u00e0 p\u00e9n\u00e9trer",
+      "B. Toute position peut \u00eatre utilis\u00e9e \u00e0 condition qu'elle soit confortable pour l'op\u00e9rateur.",
+      "C. Doit \u00eatre perpendiculaire au tissu \u00e0 p\u00e9n\u00e9trer",
+      "D. L'aiguille peut \u00eatre tenue avec n'importe quel instrument",
+      "E. Doit \u00eatre parall\u00e8le au tissu \u00e0 p\u00e9n\u00e9trer"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 18,
+    "question": "*Le porte-aiguille maintient l'aiguille \u00e0 :",
+    "options": [
+      "A. La jonction des deux tiers distaux avec le tiers proximal",
+      "B. La jonction des deux moiti\u00e9s de l'aiguille",
+      "C. La jonction des deux tiers proximaux avec le tiers distal",
+      "D. L'aiguille peut \u00eatre tenue avec n'importe quel instrument",
+      "E. Toute position, \u00e0 condition qu'elle soit confortable pour l'op\u00e9rateur"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 19,
+    "question": "N\u0153ud microchirurgical correctement r\u00e9alis\u00e9 :",
+    "options": [
+      "A. Est asym\u00e9trique",
+      "B. Correct s'il emp\u00eache le saignement de la ligne de suture",
+      "C. Est oblique par rapport \u00e0 la ligne de suture",
+      "D. Est sym\u00e9trique dans la distance entre la ligne de suture et les points de p\u00e9n\u00e9tration sur le vaisseau",
+      "E. Est perpendiculaire \u00e0 la ligne de suture"
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 20,
+    "question": "N\u0153ud microchirurgical correctement r\u00e9alis\u00e9 :",
+    "options": [
+      "A. Est positionn\u00e9 lat\u00e9ralement par rapport \u00e0 la ligne de suture",
+      "B. Produit une approximation qui chevauche les bords du vaisseau",
+      "C. Est positionn\u00e9 exactement sur la ligne de suture",
+      "D. La position n'a pas d'importance tant que tous les n\u0153uds sont plac\u00e9s de la m\u00eame mani\u00e8re.",
+      "E. Produit une approximation sans tension"
+    ],
+    "correct_answers": ["C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 21,
+    "question": "N\u0153ud microchirurgical correctement r\u00e9alis\u00e9 :",
+    "options": [
+      "A. N'empi\u00e8te pas sur les bords de la cuve",
+      "B. Est un n\u0153ud le plus serr\u00e9 possible",
+      "C. N'\u00e9trangle pas les bords du navire",
+      "D. Est un n\u0153ud tr\u00e8s l\u00e2che",
+      "E. Rapproche les bords de la cuve, en les mettant en contact"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 22,
+    "question": "*Sutures microchirurgicales :",
+    "options": [
+      "A. Doivent \u00eatre ancr\u00e9s pendant toute la dur\u00e9e o\u00f9 ils ne sont pas manipul\u00e9s avec le porte-aiguille",
+      "B. Sont faciles \u00e0 fabriquer",
+      "C. Peut \u00eatre remplac\u00e9 par des sutures de chirurgie g\u00e9n\u00e9rale (5-0 et 6-0 USP)",
+      "D. Peut \u00eatre manipul\u00e9 avec d'autres instruments que le porte-aiguille microchirurgical",
+      "E. Sont extr\u00eamement bon march\u00e9"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 23,
+    "question": "N\u0153uds microchirurgicaux :",
+    "options": [
+      "A. Doit \u00eatre plac\u00e9 le plus dens\u00e9ment possible le long de la ligne de suture.",
+      "B. Doit \u00eatre plac\u00e9 (et non espac\u00e9) le long de la ligne de suture",
+      "C. Doit \u00eatre plac\u00e9 le moins possible le long de la ligne de suture",
+      "D. Doit \u00eatre plac\u00e9 de mani\u00e8re \u00e0 assurer une bonne approximation des deux extr\u00e9mit\u00e9s du vaisseau.",
+      "E. Doit \u00eatre plac\u00e9 de mani\u00e8re \u00e0 chevaucher les deux extr\u00e9mit\u00e9s de la cuve."
+    ],
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 24,
+    "question": "*R\u00e9glage du microscope op\u00e9ratoire :",
+    "options": [
+      "A. N'est pas n\u00e9cessaire lorsque l'op\u00e9rateur porte des lunettes",
+      "B. Doit \u00eatre effectu\u00e9 apr\u00e8s la mise en place des champs st\u00e9riles",
+      "C. Vise \u00e0 obtenir deux images diff\u00e9rentes \u00e0 travers les oculaires.",
+      "D. N'est pas important et peut \u00eatre ignor\u00e9",
+      "E. Vise \u00e0 obtenir une seule image \u00e0 travers les oculaires en ajustant la distance interpupillaire."
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 25,
+    "question": "L'aiguille microchirurgicale peut \u00eatre fix\u00e9e dans le porte-aiguille:",
+    "options": [
+      "A. Manuellement, en tenant l'aiguille \u00e0 la main",
+      "B. Sous vision directe",
+      "C. Relevage \u00e0 l'aide d'un porte-fil et ajustement \u00e0 la position id\u00e9ale pour le porte-aiguille",
+      "D. Par le technicien de l'instrument",
+      "E. De n'importe quelle mani\u00e8re, \u00e0 condition qu'elle soit effectu\u00e9e sous un microscope."
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 26,
+    "question": "La main est innerv\u00e9e par :",
+    "options": [
+      "A. Nerf m\u00e9dian",
+      "B. Nerf cubital",
+      "C. Nerf radial",
+      "D. Nerf musculo-cutan\u00e9",
+      "E. Nerf axillaire"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 27,
+    "question": "Les l\u00e9sions cutan\u00e9es des br\u00fblures \u00e9lectriques sont les suivantes :",
+    "options": [
+      "A. Marque de sortie",
+      "B. L\u00e9sions des voies respiratoires",
+      "C. Marque d'entr\u00e9e",
+      "D. L\u00e9sions cutan\u00e9es dues \u00e0 l'arc \u00e9lectrique",
+      "E. Br\u00fblures caus\u00e9es par des v\u00eatements enflamm\u00e9s"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 28,
+    "question": "Les muscles intrins\u00e8ques de la main sont repr\u00e9sent\u00e9s par :",
+    "options": [
+      "A. Muscles de l'\u00e9minence th\u00e9nar",
+      "B. Muscles fl\u00e9chisseurs",
+      "C. Muscles interosseux",
+      "D. Muscles de l'\u00e9minence hypoth\u00e9nar",
+      "E. Muscles lombaires"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 29,
+    "question": "L'anastomose des art\u00e8res radiale et cubitale se forme :",
+    "options": [
+      "A. Un tronc art\u00e9riel",
+      "B. Cette anastomose ne se produit pas",
+      "C. Deux arcs art\u00e9riels palmaires",
+      "D. Art\u00e8re interosseuse",
+      "E. Un arc superficiel et un arc profond"
+    ],
+    "correct_answers": ["C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 30,
+    "question": "*Technique de dissection microchirurgicale :",
+    "options": [
+      "A. Ne n\u00e9cessite pas de formation particuli\u00e8re",
+      "B. Ne peut \u00eatre utilis\u00e9 que dans une seule sp\u00e9cialit\u00e9 chirurgicale",
+      "C. Est atraumatique",
+      "D. Est identique \u00e0 celle de la chirurgie g\u00e9n\u00e9rale",
+      "E. Peut \u00eatre appris facilement"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 31,
+    "question": "*Dilatateur de vaisseau :",
+    "options": [
+      "A. Peut \u00eatre stock\u00e9 m\u00e9lang\u00e9 avec des instruments de macrochirurgie",
+      "B. N'a pas besoin d'\u00eatre nettoy\u00e9 apr\u00e8s l'op\u00e9ration",
+      "C. Joue le m\u00eame r\u00f4le que les pinces microchirurgicales",
+      "D. Est ins\u00e9r\u00e9 dans la lumi\u00e8re du vaisseau pour en augmenter le calibre.",
+      "E. Est extr\u00eamement bon march\u00e9"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 32,
+    "question": "Les causes de l'\u0153d\u00e8me dans les br\u00fblures sont les suivantes :",
+    "options": [
+      "A. Vasodilatation distale",
+      "B. Diminution de la perm\u00e9abilit\u00e9 capillaire",
+      "C. Augmentation de la perm\u00e9abilit\u00e9 capillaire",
+      "D. Temp\u00e9rature \u00e0 laquelle le facteur \u00e9tiologique agit",
+      "E. Vasoconstriction distale"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 33,
+    "question": "Br\u00fblures au premier degr\u00e9 :",
+    "options": [
+      "A. N'endommager que la membrane basale",
+      "B. Se caract\u00e9risent par un \u00e9ryth\u00e8me",
+      "C. Endommager l'\u00e9piderme et la membrane basale",
+      "D. N'endommagent que l'\u00e9piderme",
+      "E. Gu\u00e9rison spontan\u00e9e en 3 jours"
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 34,
+    "question": "Parmi les complications tardives cons\u00e9cutives \u00e0 l'exposition \u00e0 un courant \u00e9lectrique de haute tension, on peut citer",
+    "options": [
+      "A. Dysfonctionnements neurologiques",
+      "B. D\u00e9pression",
+      "C. Cicatrices hyperpigment\u00e9es",
+      "D. Tachycardie supraventriculaire",
+      "E. Cataracte tardive"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 35,
+    "question": "*Position des instruments dans la main :",
+    "options": [
+      "A. Les instruments peuvent \u00eatre d\u00e9tenus de n'importe quelle mani\u00e8re tant qu'ils peuvent \u00eatre utilis\u00e9s avec succ\u00e8s.",
+      "B. Elle est moins importante dans les interventions chirurgicales de longue dur\u00e9e",
+      "C. Ils doivent \u00eatre tenus dans la main comme un instrument d'\u00e9criture (stylo, crayon, stylet).",
+      "D. C'est la fa\u00e7on dont l'op\u00e9rateur les tient instinctivement",
+      "E. Peu importe, tant que nous travaillons debout."
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 36,
+    "question": "La peau palmaire est :",
+    "options": [
+      "A. Pigment\u00e9",
+      "B. Adh\u00e8re \u00e9troitement \u00e0 l'apon\u00e9vrose palmaire",
+      "C. lisse",
+      "D. Mince",
+      "E. Sans cheveux"
+    ],
+    "correct_answers": ["B", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 37,
+    "question": "Le pronostic de l'\u00e9volution du patient br\u00fbl\u00e9 se fait \u00e0 l'aide de plusieurs scores standardis\u00e9s, dont le score ABSI (abbreviated burn severity index) qui prend en compte les facteurs suivants :",
+    "options": [
+      "A. L'agent \u00e9tiologique suspect\u00e9",
+      "B. L'\u00e2ge",
+      "C. Localisation de la br\u00fblure",
+      "D. Pathologie associ\u00e9e",
+      "E. Genre"
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 38,
+    "question": "Les br\u00fblures mod\u00e9r\u00e9es sont consid\u00e9r\u00e9es comme telles :",
+    "options": [
+      "A. Br\u00fblures partielles > 25 % de la surface corporelle totale (TBSA) chez les adultes",
+      "B. Br\u00fblures partielles de 10 \u00e0 20 % de la surface corporelle chez les enfants et les personnes \u00e2g\u00e9es",
+      "C. Br\u00fblures partielles de 15 \u00e0 25 % de la surface corporelle chez l'adulte",
+      "D. Br\u00fblures partielles <15% de la surface corporelle chez l'adulte",
+      "E. Br\u00fblures de pleine \u00e9paisseur de 2 \u00e0 10 % de la surface corporelle sans atteinte des zones de gravit\u00e9 particuli\u00e8res"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 39,
+    "question": "Ampoules :",
+    "options": [
+      "A. Caract\u00e9riser les br\u00fblures partielles",
+      "B. Caract\u00e9riser l'escarre cutan\u00e9e",
+      "C. Form\u00e9 par l'accumulation de liquide d'\u0153d\u00e8me \u00e0 la jonction dermo-\u00e9pidermique l\u00e9s\u00e9e",
+      "D. Caract\u00e9riser les br\u00fblures profondes",
+      "E. Les br\u00fblures ne peuvent pas donner lieu \u00e0 la formation de cloques"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 40,
+    "question": "*Position au microscope :",
+    "options": [
+      "A. C'est celui o\u00f9 le chirurgien se sent le plus \u00e0 l'aise",
+      "B. Il ne s'agit pas d'un facteur important dans la pr\u00e9paration pr\u00e9op\u00e9ratoire.",
+      "C. Il ne doit pas \u00eatre ajust\u00e9 pendant l'op\u00e9ration",
+      "D. Les mains et les avant-bras doivent \u00eatre en contact avec la table d'op\u00e9ration.",
+      "E. Il n'a pas d'importance significative en termes de r\u00e9sultats."
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 41,
+    "question": "Parmi les indications de replantation, on peut citer",
+    "options": [
+      "A. Amputation de plusieurs doigts",
+      "B. Amputation chez l'enfant",
+      "C. Amputation du pouce",
+      "D. Amputation aux niveaux sup\u00e9rieurs",
+      "E. Amputation par \u00e9crasement"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 42,
+    "question": "Fracture du premier m\u00e9tacarpien :",
+    "options": [
+      "A. Il peut s'agir d'une fracture de Bennett",
+      "B. Ne n\u00e9cessite pas de traitement sp\u00e9cialis\u00e9",
+      "C. Il peut s'agir d'une fracture de Rolando",
+      "D. N'a pas d'implications fonctionnelles",
+      "E. Il peut s'agir d'une fracture de boxeur"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 43,
+    "question": "Doigt de maillet (marteau) :",
+    "options": [
+      "A. Elle peut entra\u00eener des d\u00e9formations ult\u00e9rieures",
+      "B. Elle est d\u00e9tect\u00e9e par l'absence d'extension active au niveau de la phalange distale.",
+      "C. Il s'agit d'une l\u00e9sion du tendon fl\u00e9chisseur au niveau de la phalange distale.",
+      "D. Elle est d\u00e9tect\u00e9e par l'absence de flexion active au niveau de la phalange distale.",
+      "E. Il s'agit d'une l\u00e9sion du tendon extenseur au niveau de la phalange distale."
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 44,
+    "question": "Plaie de granulation :",
+    "options": [
+      "A. Elle peut \u00eatre couverte d'ampoules",
+      "B. Positionn\u00e9 circulairement au niveau des membres",
+      "C. Il s'agit d'un tissu rouge et brillant qui a tendance \u00e0 saigner.",
+      "D. N\u00e9cessite une greffe de peau",
+      "E. Il est blanc, dur et indolore"
+    ],
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 45,
+    "question": "Dans les cas de br\u00fblures \u00e9tendues (plus de 30-40%) au troisi\u00e8me degr\u00e9, il est indiqu\u00e9 :",
+    "options": [
+      "A. Traitement ambulatoire \u00e0 domicile",
+      "B. Excision pr\u00e9coce et greffe",
+      "C. Excision marqu\u00e9e des escarres pour r\u00e9duire la masse de tissu n\u00e9crotique",
+      "D. Pas d'intervention chirurgicale au cours de la premi\u00e8re semaine",
+      "E. Strat\u00e9gie chirurgicale agressive au cours de la premi\u00e8re semaine"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 46,
+    "question": "La blessure/plaie granulaire :",
+    "options": [
+      "A. peut \u00eatre couverte d\u2019un phlyct\u00e8ne",
+      "B. le positionnement circulaire",
+      "C. n\u00e9cessite un environnement humide pour une gu\u00e9rison optimale",
+      "D. est caract\u00e9ris\u00e9e par la pr\u00e9sence de tissu de granulation sain",
+      "E. doit \u00eatre nettoy\u00e9e avec des antiseptiques forts pour \u00e9viter l\u2019infection"
+    ],
+    "correct_answers": ["D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 47,
+    "question": "*Les instruments micro chirurgicaux:",
+    "options": [
+      "A. ne n\u00e9cessite pas de manipulation attentive",
+      "B. peuvent s\u2019utiliser en dissection des structures macroscopique",
+      "C. peuvent \u00eatre maintenu m\u00e9lang\u00e9 avec les instruments de chirurgie g\u00e9n\u00e9rales",
+      "D. Peuvent \u00eatre laissez-les tomber au sol sans \u00eatre d\u00e9truits",
+      "E. leurs pointes ne sont pas autoris\u00e9es \u00e0 toucher des objets durs"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 48,
+    "question": "Le r\u00e9glage des lentilles du microscope :",
+    "options": [
+      "A. pas n\u00e9cessaire de le r\u00e9gler quand on porte des lunettes de vue",
+      "B. on le recommande apr\u00e8s l\u2019application du champ st\u00e9rile",
+      "C. on obtient deux images diff\u00e9rentes dans chacune des lentilles",
+      "D. n\u2019est pas importante",
+      "E. on obtient une image pour les deux oculaires et on ajuste la distance interpupillaire"
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 49,
+    "question": "le r\u00f4le des microscopes op\u00e9rateurs est:",
+    "options": [
+      "A. permettent des mouvements fins de la main que l'\u0153il ne per\u00e7oit pas",
+      "B. peuvent \u00eatre remplac\u00e9 par des loupes chirurgicales",
+      "C. offre une pr\u00e9cision visuelle gr\u00e2ce au grossissement produit",
+      "D. est surestim\u00e9 car les techniques de microchirurgie peuvent se r\u00e9aliser \u00e0 l\u2019oeil nu",
+      "E. permet une chirurgie de diff\u00e9rents niveaux de dimension"
+    ],
+    "correct_answers": ["C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 50,
+    "question": "Facteurs qui influencent le tremblement de la main :",
+    "options": [
+      "A. effort manuel intense",
+      "B. conditions m\u00e9t\u00e9o",
+      "C. fumer",
+      "D. stade de nervosit\u00e9",
+      "E. sevrage de caf\u00e9ine"
+    ],
+    "correct_answers": ["A", "B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 51,
+    "question": "Un noeud micro chirurgical est effectu\u00e9 correctement :",
+    "options": [
+      "A. Sans chevauchement des marges des vaisseaux",
+      "B. c\u2019est un noeud fort autant serr\u00e9 que possible",
+      "C. sans strangulation des marges des vaisseaux",
+      "D. c\u2019est un noeud aussi l\u00e2che que possible",
+      "E. approxime les marges des vaisseaux en les mettant en contact"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 52,
+    "question": "Chaque doigt, sauf le pouce, pr\u00e9sentent les tendons fl\u00e9chisseurs suivants:",
+    "options": [
+      "A. Tendon fl\u00e9chisseurs profond",
+      "B. tendon fl\u00e9chisseur ulnaire",
+      "C. tendon fl\u00e9chisseurs des mains",
+      "D. tendons fl\u00e9chisseurs des carpes",
+      "E. tendons fl\u00e9chisseurs superficiel"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 53,
+    "question": "Segment amput\u00e9 est conserv\u00e9 :",
+    "options": [
+      "A. chaud",
+      "B. st\u00e9rile",
+      "C. froid",
+      "D. sec",
+      "E. mouill\u00e9"
+    ],
+    "correct_answers": ["A", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 54,
+    "question": "Le tendon long fl\u00e9chisseur du pouce:",
+    "options": [
+      "A. passe par le canal carpien",
+      "B. ne passe pas par le canal carpien",
+      "C. le corps musculaire correspondant est innerv\u00e9 par le nerf m\u00e9dian",
+      "D. le corps musculaire correspondant est innerv\u00e9 par le nerf ulnaire",
+      "E. r\u00e9alise la flexion articulaire interphalangienne du pouce"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 55,
+    "question": "la microchirurgie suppose l\u2019utilisation de:",
+    "options": [
+      "A. instruments fins",
+      "B. techniques de dissections de chirurgie g\u00e9n\u00e9rale",
+      "C. mat\u00e9riels de sutures plus fins qu\u2019un cheveu",
+      "D. microscope op\u00e9rateur",
+      "E. vision directe pour ceux qui ont une tr\u00e8s bonne acuit\u00e9 visuelle"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 56,
+    "question": "Les noeuds en microchirurgie:",
+    "options": [
+      "A. Doit être placé le plus près possible le long de la ligne d'anastomose",
+      "B. Ils doivent être disposés le plus rarement possible le lon de la transe de suture",
+      "C. Il doivent être disposés de manière à assurer un bon rapprochement des deux extrémités du vaisseau sanguin",
+      "D. Des lignes équidistantes doivent être disposées le long de la suture",
+      "E. Ils doivent être disposés de manière à chevaucher les deux extrémités du vaisseau sanguin"
+    ],
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 57,
+    "question": "*Position de l'aiguille microchirurgicale dans le porte-aiguille:",
+    "options": [
+      "A. Le porte-aiguille et l'aiguille forment une ligne droite",
+      "B. Le porte-aiguille et l'aiguille forment un angle obtus",
+      "C. Le porte-aiguille et l'aiguille forment un angle aigu",
+      "D. Le porte-aiguille et l'aiguille forment un angle droit",
+      "E. Le porte-aiguille et l'aiguille sont parralleles"
+    ],
+    "correct_answers": ["C"]
+  }
 ]
