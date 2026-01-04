@@ -4,6 +4,7 @@ import json
 import random
 import time
 import os
+import ctypes
 
 # Définition des styles globaux
 LARGE_FONT = ("Arial", 16)
@@ -14,10 +15,22 @@ RESULT_FONT = ("Arial", 18)
 class QCMApp(tk.Tk):
     def __init__(self):
         super().__init__()
-        screen_width = self.winfo_screenwidth()
-        screen_height = self.winfo_screenheight()
-        self.geometry(f"{screen_width}x{screen_height}")
+
+        try:
+            # On définit un ID unique pour l'app (utilisez ce que vous voulez comme texte)
+            myappid = 'mon.qcm.app.version1.0' 
+            ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(myappid)
+        except Exception:
+            pass # On ignore si on n'est pas sous Windows
+
+        self.state('zoomed')
         self.title("Quiz QCM")
+
+        try:
+            self.iconbitmap("GF.ico")
+        except Exception as e:
+            print("Icône non trouvée:", e)
+ 
         self.configure(padx=20, pady=20)
         
         # Configuration pour un redimensionnement adaptatif
@@ -90,10 +103,22 @@ class QCMApp(tk.Tk):
         
         self.apply_theme()
         
-        # Charger les données
-        self.chapter_files = ["JSON/Endo1.json", "JSON/Hemato.json"] 
+        # Charger les données dynamiquement
+        self.base_dir = os.path.dirname(os.path.abspath(__file__))
+        json_dir = os.path.join(self.base_dir, "JSON")
+        
+        self.chapter_files = []
+        if os.path.exists(json_dir):
+            files = [f for f in os.listdir(json_dir) if f.endswith('.json')]
+            files.sort()
+            self.chapter_files = [os.path.join(json_dir, f) for f in files]
+        else:
+            print(f"Erreur : Le dossier {json_dir} est introuvable.")
+
         self.chapters = self.load_chapters()
         self.load_question_stats()
+
+        self.num_questions_var = tk.IntVar(value=20)
         self.create_main_menu()
         
         # Liaison pour le redimensionnement
@@ -316,7 +341,6 @@ class QCMApp(tk.Tk):
         
         ttk.Label(settings_frame, text="Nombre de questions:", font=LARGE_FONT).pack(side='left', padx=5)
         
-        self.num_questions_var = tk.IntVar(value=20)
         num_spinbox = ttk.Spinbox(
             settings_frame,
             from_=1,
@@ -333,10 +357,15 @@ class QCMApp(tk.Tk):
         button_frame = ttk.Frame(self.main_menu_frame)
         button_frame.pack(pady=20)
 
-        for i, chapter_name in enumerate(self.chapter_files):
+        for i, chapter_path in enumerate(self.chapter_files):
+            # Récupère le nom du fichier (ex: "Endo.json")
+            filename = os.path.basename(chapter_path)
+            # Enlève l'extension (ex: "Endo")
+            display_name = os.path.splitext(filename)[0]
+            
             chapter_button = ttk.Button(
                 button_frame, 
-                text=chapter_name[5:-5],
+                text=display_name,
                 command=lambda i=i: self.start_quiz(i),
                 style="Large.TButton"
             )
@@ -490,14 +519,14 @@ class QCMApp(tk.Tk):
         self.progress_bar = ttk.Progressbar(
             progress_frame,
             variable=self.progress_var,
-            maximum=len(self.current_chapter),
+            maximum=100,
             style="Custom.Horizontal.TProgressbar",
             mode='determinate'
         )
         self.progress_bar.pack(fill='x', expand=True)
         
         # Mettre à jour la progression
-        progress_value = (self.current_question / len(self.current_chapter)) * 100
+        progress_value = ((self.current_question) / len(self.current_chapter)) * 100
         self.progress_var.set(progress_value)
 
         # Barre d'information en bas
