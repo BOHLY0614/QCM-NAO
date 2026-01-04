@@ -6,7 +6,7 @@ import time
 import os
 import ctypes
 
-# Définition des styles globaux
+
 LARGE_FONT = ("Arial", 16)
 TITLE_FONT = ("Arial", 24, "bold")
 BUTTON_FONT = ("Arial", 14)
