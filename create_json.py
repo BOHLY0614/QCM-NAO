@@ -69,9 +69,9 @@ def read_questions_and_answers(questions_filename, answers_filename):
     return questions
 
 # Partie pour radio
-questions = read_questions_and_answers("RAW TXT/Chir_plast_en2.txt", "RAW TXT/REP_Chir_plast_en2.txt")
+questions = read_questions_and_answers("RAW TXT/MCS_EN.txt", "RAW TXT/REP_MCS_EN.txt")
 
-input_file = "RAW TXT/REP_Chir_plast_en2.txt"
+input_file = "RAW TXT/REP_MCS_EN.txt"
 convert_to_uppercase_inplace(input_file)
 
 with open(input_file, "r") as f:
@@ -91,7 +91,7 @@ for question in questions:
 
 # Pour chaque groupe de questions, écrivez les questions dans un fichier JSON séparé
 for chapitre, groupe in groupes.items():
-    nom_fichier = f"Chirurgie plastique EN2.json"
+    nom_fichier = f"MCS EN.json"
     with open(nom_fichier, "w") as f:
         json.dump([q.to_dict() for q in groupe], f, indent=4)
 

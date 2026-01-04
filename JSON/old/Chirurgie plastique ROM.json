@@ -1,0 +1,210 @@
+[
+  {
+    "chapitre": 0,
+    "id": 1,
+    "question": "Le rôle du microscope opératoire est:",
+    "options": [
+      "A. Permettre des mouvements fins de la main que l'œil nu ne peut pas percevoir",
+      "B. Remplaçable par des loupes chirurgicales",
+      "C. Fournir une précision visuelle grâce à l'agrandissement",
+      "D. Surestimées, les techniques de microchirurgie peuvent également être pratiquées à l'œil nu",
+      "E. Pour permettre au chirurgien de bénéficier de plusieurs niveaux de grossissement"
+    ],
+    "correct_answers": ["C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 2,
+    "question": "Le nœud microchirurgical :",
+    "options": [
+      "A. Le premier nœud est toujours simple",
+      "B. Le dernier nœud est toujours double",
+      "C. Le premier nœud est toujours double",
+      "D. Le deuxième nœud est toujours simple",
+      "E. Le deuxième nœud est toujours double"
+    ],
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 3,
+    "question": "*Le porte-aiguille microchirurgical :",
+    "options": [
+      "A. Est toujours tenu dans la main non dominante",
+      "B. Peut être utilisé à la place des pinces microchirurgicales",
+      "C. Utilisé uniquement pour la manipulation de l'aiguille et des sutures microchirurgicales",
+      "D. Peut être remplacé par un porte-aiguille de chirurgie générale",
+      "E. Recommandé pour la manipulation des aiguilles de chirurgie générale (<6-0 USP)"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 4,
+    "question": "*Le porte-aiguille maintient l'aiguille à :",
+    "options": [
+      "A. La jonction des deux tiers distaux avec le tiers proximal",
+      "B. La jonction des deux moitiés de l'aiguille",
+      "C. La jonction des deux tiers proximaux avec le tiers distal",
+      "D. L'aiguille peut être tenue avec n'importe quel instrument",
+      "E. N'importe quelle position pourvu qu'elle soit confortable pour l'opérateur"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 5,
+    "question": "Un nœud microchirurgical correctement réalisé :",
+    "options": [
+      "A. Est asymétrique",
+      "B. Correct s'il empêche le saignement de la ligne de suture",
+      "C. Est oblique par rapport à la ligne de suture",
+      "D. Est symétrique dans la distance entre la ligne de suture et les points de pénétration sur le vaisseau",
+      "E. Est perpendiculaire à la ligne de suture"
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 6,
+    "question": "Un nœud microchirurgical correctement réalisé :",
+    "options": [
+      "A. Est positionné latéralement par rapport à la ligne de suture",
+      "B. Produit une approximation qui chevauche les bords du vaisseau",
+      "C. Est positionné exactement sur la ligne de suture",
+      "D. La position n'a pas d'importance tant que tous les nœuds sont placés de la même manière",
+      "E. Produit une approximation sans tension"
+    ],
+    "correct_answers": ["A", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 7,
+    "question": "Nœuds microchirurgicaux :",
+    "options": [
+      "A. Doit être placé le plus densément possible le long de la ligne de suture",
+      "B. Doit être placé (et non espacé) le long de la ligne de suture",
+      "C. Doit être placé aussi peu que possible le long de la ligne de suture",
+      "D. Doit être placé de manière à assurer une bonne approximation des deux extrémités du vaisseau",
+      "E. Doit être placé de manière à chevaucher les deux extrémités de la cuve"
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 8,
+    "question": "*Réglage du microscope opératoire :",
+    "options": [
+      "A. N'est pas nécessaire lorsque l'opérateur porte des lunettes",
+      "B. Doit être effectué après la mise en place des champs stériles",
+      "C. Vise à obtenir deux images différentes à travers les oculaires",
+      "D. N'est pas important et peut être ignoré",
+      "E. Vise à obtenir une seule image à travers les oculaires en ajustant la distance interpupillaire"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 9,
+    "question": "L'aiguille peut être fixée dans le support :",
+    "options": [
+      "A. Manuellement, en tenant l'aiguille à la main",
+      "B. Sous vision directe",
+      "C. Relevage à l'aide d'un porte-fil et réglage de la position idéale pour le porte-aiguille",
+      "D. Par le technicien de l'instrument",
+      "E. De n'importe quelle manière, à condition que ce soit sous un microscope"
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 10,
+    "question": "Les lésions cutanées des brûlures électriques sont les suivantes :",
+    "options": [
+      "A. Marque de sortie",
+      "B. Lésions des voies respiratoires",
+      "C. Marque d'entrée",
+      "D. Lésions cutanées dues à l'arc électrique",
+      "E. Brûlures causées par des vêtements enflammés"
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 11,
+    "question": "Les muscles intrinsèques de la main sont représentés par :",
+    "options": [
+      "A. Muscles de l'éminence thénar",
+      "B. Muscles fléchisseurs",
+      "C. Muscles interosseux",
+      "D. Muscles de l'éminence hypothénar",
+      "E. Muscles lombaires"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 12,
+    "question": "*Position des instruments dans la main :",
+    "options": [
+      "A. Les instruments peuvent être détenus de n'importe quelle manière tant qu'ils peuvent être utilisés avec succès",
+      "B. Elle est moins importante pour les interventions chirurgicales de longue durée",
+      "C. Ils doivent être tenus dans la main comme un instrument d'écriture (stylo, crayon, stylet)",
+      "D. C'est la façon dont l'opérateur les tient instinctivement",
+      "E. Ce n'est pas grave tant que nous travaillons debout"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 13,
+    "question": "La peau palmaire est :",
+    "options": [
+      "A. Pigmenté",
+      "B. Adhère étroitement à l'aponévrose palmaire",
+      "C. Lisse",
+      "D. Mince",
+      "E. Sans cheveux"
+    ],
+    "correct_answers": ["B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 14,
+    "question": "Les Ampoules sont :",
+    "options": [
+      "A. Caracteristiques les brûlures partielles",
+      "B. Caracteristiques l'escarre cutanée",
+      "C. Formé par l'accumulation de liquide d'œdème à la jonction dermo-épidermique lésée",
+      "D. Caracteristiques les brûlures profondes",
+      "E. Les brûlures ne peuvent pas donner lieu à la formation de cloques"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 15,
+    "question": "Plaie de granulation :",
+    "options": [
+      "A. Elle peut être couverte d'ampoules",
+      "B. Positionné circulairement au niveau des membres",
+      "C. Il s'agit d'un tissu rouge et brillant qui a tendance à saigner",
+      "D. Nécessite une greffe de peau",
+      "E. Il est blanc, dur et indolore"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 16,
+    "question": "Dans les cas de brûlures étendues (plus de 30-40%) au troisième degré, il est indiqué :",
+    "options": [
+      "A. Traitement ambulatoire à domicile",
+      "B. Excision et greffe précoces",
+      "C. Excision marquée des escarres pour réduire la masse de tissu nécrotique",
+      "D. Pas d'intervention chirurgicale au cours de la première semaine",
+      "E. Stratégie chirurgicale agressive au cours de la première semaine"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  }
+]
