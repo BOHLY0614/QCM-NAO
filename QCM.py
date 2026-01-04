@@ -119,6 +119,7 @@ class QCMApp(tk.Tk):
         self.load_question_stats()
 
         self.num_questions_var = tk.IntVar(value=20)
+        self.shuffle_options_var = tk.BooleanVar(value=False)
         self.create_main_menu()
         
         # Liaison pour le redimensionnement
@@ -355,6 +356,19 @@ class QCMApp(tk.Tk):
             font=LARGE_FONT
         )
         num_spinbox.pack(side='left', padx=5)
+
+        shuffle_check = tk.Checkbutton(
+            settings_frame,
+            text="Mélanger l'ordre des réponses (A, B, C...)",
+            variable=self.shuffle_options_var,
+            font=("Arial", 12),
+            bg=self.themes[self.theme_mode]['bg'],
+            fg=self.themes[self.theme_mode]['fg'],
+            selectcolor=self.themes[self.theme_mode]['bg'],
+            activebackground=self.themes[self.theme_mode]['bg'],
+            activeforeground=self.themes[self.theme_mode]['fg']
+        )
+        shuffle_check.pack(pady=(10, 20))
 
         title = ttk.Label(self.main_menu_frame, text="Choisissez un chapitre", font=TITLE_FONT)
         title.pack(pady=40)
