@@ -403,8 +403,7 @@ class QCMApp(tk.Tk):
             self.current_chapter = self.mixed_chapter
         else:
             self.current_chapter = list(self.chapters[self.chapter_files[chapter]])
-            random.shuffle(self.current_chapter)
-            self.current_chapter = self.current_chapter[:min(num_questions, len(self.current_chapter))]
+            self.current_chapter = self.smart_select_questions(self.current_chapter, num_questions)
             
         self.total_questions = len(self.current_chapter)
         self.score = 0
@@ -727,6 +726,11 @@ class QCMApp(tk.Tk):
         if not self.feedback_mode:
             self.option_frames[option_index].configure(style="TFrame")
 
+    def get_question_key(self, question_data):
+        source = question_data.get("source_file", "unknown")
+        q_id = question_data.get("id", "0")
+        return f"{source}|{q_id}"
+
     def check_answer(self):
         self.feedback_mode = True
         theme = self.themes[self.theme_mode]
@@ -744,8 +748,9 @@ class QCMApp(tk.Tk):
         correct_answers = self.current_question_data["correct_answers"]
         user_answers = [chr(i + 65) for i, selected in enumerate(self.selected_answers) if selected.get()]
 
-        question_id = self.current_question_data["id"]
-        question_stats = self.question_stats.get(question_id, {"correct": 0, "incorrect": 0})
+        question_key = self.get_question_key(self.current_question_data)
+        question_stats = self.question_stats.get(str(question_key), {"correct": 0, "incorrect": 0})
+        self.question_stats[str(question_key)] = question_stats
 
         self.is_correct = sorted(correct_answers) == sorted(user_answers)
         
@@ -759,7 +764,7 @@ class QCMApp(tk.Tk):
             feedback_text = "✗ Mauvaise réponse"
             feedback_color = theme['incorrect']
 
-        self.question_stats[question_id] = question_stats
+        self.question_stats[str(question_key)] = question_stats
         
         # Afficher le feedback global
         feedback_frame = ttk.Frame(self.scrollable_frame)
@@ -799,6 +804,19 @@ class QCMApp(tk.Tk):
                     font=("Arial", 16, "bold")
                 )
 
+    def smart_select_questions(self, question_list, number_to_select):
+        """Mélange les questions mais priorise celles jamais ou peu vues"""
+        random.shuffle(question_list)
+
+        def get_seen_count(q):
+            key = self.get_question_key(q)
+            stats = self.question_stats.get(str(key), {"correct": 0, "incorrect": 0})
+            return stats["correct"] + stats["incorrect"]
+
+        question_list.sort(key=get_seen_count)
+        
+        return question_list[:min(number_to_select, len(question_list))]
+
     def next_question(self):
         """Passe à la question suivante"""
         self.current_question += 1
@@ -811,9 +829,9 @@ class QCMApp(tk.Tk):
     def mix_all_chapters(self):
         all_chapters = [self.chapters[file] for file in self.chapter_files]
         mixed_questions = [question for chapter in all_chapters for question in chapter]
-        random.shuffle(mixed_questions)
+        
         num_questions = self.num_questions_var.get()
-        self.mixed_chapter = random.sample(mixed_questions, min(num_questions, len(mixed_questions)))
+        self.mixed_chapter = self.smart_select_questions(mixed_questions, num_questions)
         self.start_quiz(-1)
 
     def show_final_score(self):
