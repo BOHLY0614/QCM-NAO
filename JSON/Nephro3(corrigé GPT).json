@@ -1,0 +1,915 @@
+[
+    {
+        "chapitre": 0,
+        "id": 1,
+        "question": "Les affirmations suivantes concernant l'hypertension r\u00e9no-vasculaire :",
+        "options": [
+            "A. Pour stimuler la synth\u00e8se de la r\u00e9nine, la st\u00e9nose doit d\u00e9terminer un gradient systolique trans-l\u00e9sionnel de 5-15 mmHg",
+            "B. L'embolie de l'art\u00e8re r\u00e9nale peut \u00eatre une cause d'hypertension r\u00e9no-vasculaire",
+            "C. La dysplasie fibromusculaire repr\u00e9sente plus de 85% de toutes les formes d'hypertension r\u00e9novasculaire",
+            "D. La pr\u00e9valence est plus \u00e9lev\u00e9e chez les patients hypertendus avant 30 ans et apr\u00e8s l'\u00e2ge de 50 ans",
+            "E. L'incidence des l\u00e9sions des organes cibles est accrue"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 2,
+        "question": "La cible de l'h\u00e9moglobine dans le traitement de l'an\u00e9mie secondaire r\u00e9nale chronique est :",
+        "options": [
+            "A. 13 g/dl",
+            "B. 9-10 g/dl",
+            "C. 13,5 g/dl",
+            "D. 11,5 g/dl",
+            "E. 11-12 g/dl"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 3,
+        "question": "Les croissants \u00e9pith\u00e9liaux cellulaires sont compos\u00e9s par :",
+        "options": [
+            "A. Macrophages",
+            "B. Collag\u00e8ne",
+            "C. Cellules \u00e9pith\u00e9liales pari\u00e9tales prolif\u00e9r\u00e9es",
+            "D. Fibroblastes",
+            "E. Cellules endoth\u00e9liales"
+        ],
+        "correct_answers": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 4,
+        "question": "La dysplasie fibromusculaire des art\u00e8res r\u00e9nales principales :",
+        "options": [
+            "A. Affecte les jeunes patients < 30 ans",
+            "B. Touche le sujet \u00e2g\u00e9 et/ou ath\u00e9romateux (apr\u00e8s l'\u00e2ge de 50 ans)",
+            "C. La progression de la st\u00e9nose est lente",
+            "D. La fonction r\u00e9nale est g\u00e9n\u00e9ralement bien conserv\u00e9e",
+            "E. Repr\u00e9sente plus de 85% de toutes les formes de l'hypertension"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 5,
+        "question": "Quels sont les m\u00e9canismes adaptatifs r\u00e9naux (modification h\u00e9modynamiques et m\u00e9taboliques) pendant la grossesse normale :",
+        "options": [
+            "A. \u00c9l\u00e9vation de la pression oncotique dans le capillaire glom\u00e9rulaire",
+            "B. \u00c9l\u00e9vation du DFG (D\u00e9bit de Filtration Glom\u00e9rulaire)",
+            "C. Les reins diminuent en taille de 1-1,5 cm",
+            "D. \u00c9l\u00e9vation de la cr\u00e9atinine s\u00e9rique",
+            "E. Dilatation du syst\u00e8me py\u00e9lo-caliciel"
+        ],
+        "correct_answers": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 6,
+        "question": "Concernant la pr\u00e9-\u00e9clampsie, les affirmations suivantes sont vraies :",
+        "options": [
+            "A. L'hypertension art\u00e9rielle, la prot\u00e9inurie et les \u0153d\u00e8mes apparaissent avant la 20\u00e8me semaine de grossesse",
+            "B. La pr\u00e9-\u00e9clampsie peut se r\u00e9p\u00e9ter dans les grossesses suivantes",
+            "C. Apr\u00e8s l'accouchement les signes cliniques et biologiques disparaissent compl\u00e8tement",
+            "D. La pr\u00e9-\u00e9clampsie peut initier l'apparition de l'HTA essentielle",
+            "E. La pr\u00e9-\u00e9clampsie peut \u00e9voluer vers l'\u00e9clampsie"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 7,
+        "question": "Le traitement de la maladie min\u00e9rale-osseuse associ\u00e9e \u00e0 la maladie r\u00e9nale chronique consiste \u00e0 :",
+        "options": [
+            "A. Le maintien de calcium et phosphore dans les limites de la normale",
+            "B. Sevelamer hydrochloride (ch\u00e9lateurs du phosphate sans calcium)",
+            "C. La suppl\u00e9mentation en calcium doit \u00eatre introduite uniquement lorsque la phosphat\u00e9mie < 5,5 mg%",
+            "D. Administration de carbonate de calcium",
+            "E. R\u00e9gime hyperprot\u00e9in\u00e9"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 8,
+        "question": "Les traitements de la glom\u00e9rulon\u00e9phrite rapidement progressive (GNRP) reposent sur :",
+        "options": [
+            "A. Azathioprine - 5 mg/kg/jour voie orale",
+            "B. Cyclophosphamide - 2 mg/kg/jour, voie orale, 6-12 mois",
+            "C. Azathioprine - 2 mg/kg/jour voie orale - 12 mois",
+            "D. Cyclophosphamide 500-1000 mg/m2/mois, iv, 1-3 mois (Bolus)",
+            "E. Azathioprine - 0,5 mg/kg/jour, voie orale - 12 mois"
+        ],
+        "correct_answers": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 9,
+        "question": "Les signes ECG de l'hyperkali\u00e9mie sont :",
+        "options": [
+            "A. Ondes T n\u00e9gatives",
+            "B. Absence d'ondes T",
+            "C. \u00c9largissement du complexe QRS",
+            "D. Les arythmies ventriculaires",
+            "E. Apparition d'ondes U"
+        ],
+        "correct_answers": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 10,
+        "question": "En ce qui concerne la classification de la glom\u00e9rulon\u00e9phrite rapidement progressive, le type II est m\u00e9di\u00e9 par :",
+        "options": [
+            "A. Anticorps anti-cytoplasme des polynucl\u00e9aires neutrophiles (ANCA)",
+            "B. Complexes immuns",
+            "C. Anticorps anti-membrane basale glom\u00e9rulaire",
+            "D. Anticorps anti-r\u00e9cepteur de la phospholipase A2",
+            "E. Anticorps anti-cytoplasme des polynucl\u00e9aires neutrophiles et anticorps anti-membrane basale glom\u00e9rulaire"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 11,
+        "question": "Les formes histologiques de la glom\u00e9rulon\u00e9phrite focale et segmentaire (HFS) sont :",
+        "options": [
+            "A. Forme avec infiltrat \u00e9osinophilique",
+            "B. Forme avec collapsus (Collapsing)",
+            "C. Variante type polaire (Tip lesion)",
+            "D. Variante p\u00e9rihilaire",
+            "E. Variante cellulaire"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 12,
+        "question": "Antibiotiques potentiellement n\u00e9phrotoxiques sont :",
+        "options": [
+            "A. Streptomycine",
+            "B. Cyclosporine",
+            "C. Amikacine",
+            "D. Gentamicine",
+            "E. Ibuprof\u00e8ne"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 13,
+        "question": "Les causes des glom\u00e9rulon\u00e9phrites focales et segmentaires (HFS) secondaires sont :",
+        "options": [
+            "A. D\u00e9ficit de vitamine D",
+            "B. H\u00e9r\u00e9ditaires (mutations g\u00e9n\u00e9tiques)",
+            "C. R\u00e9duction de la masse r\u00e9nale",
+            "D. Idiopathiques",
+            "E. Malnutrition"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 14,
+        "question": "La n\u00e9phropathie analg\u00e9sique se caract\u00e9rise par :",
+        "options": [
+            "A. Anorexie, douleurs \u00e9pigastriques",
+            "B. La capacit\u00e9 de concentration est r\u00e9duite dans les premiers stades",
+            "C. Les \u0153d\u00e8mes sont toujours pr\u00e9sents",
+            "D. L'ingestion chronique d'analg\u00e9siques",
+            "E. Prot\u00e9inurie > 3,5 g/24h"
+        ],
+        "correct_answers": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 15,
+        "question": "Quels sont les 2 germes les plus fr\u00e9quents dans les infections urinaires :",
+        "options": [
+            "A. Escherichia Coli",
+            "B. Le streptocoque du groupe B",
+            "C. Staphylococcus aureus",
+            "D. Proteus mirabilis",
+            "E. Candida albicans"
+        ],
+        "correct_answers": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 16,
+        "question": "Les infections bact\u00e9riennes pouvant entra\u00eener une n\u00e9phropathie interstitielle aigu\u00eb sont les suivantes :",
+        "options": [
+            "A. Corynebacterium diphtheriae",
+            "B. Hanta virus",
+            "C. Epstein-Barr",
+            "D. Salmonella",
+            "E. Streptocoque"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 17,
+        "question": "Le traitement anti-hypertenseur dans l'HTA s\u00e9v\u00e8re pendant la grossesse :",
+        "options": [
+            "A. Irb\u00e9sartan 150 mg/jour",
+            "B. Lab\u00e9talol 20mg i.v",
+            "C. Hydralazine - 5mg i.v.",
+            "D. Furos\u00e9mide 40 mg, voie orale",
+            "E. Nif\u00e9dipine - 10mg s.l."
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 18,
+        "question": "La microscopie optique de la n\u00e9phropathie \u00e0 IgA montre :",
+        "options": [
+            "A. D\u00e9p\u00f4ts m\u00e9sangiaux d'IgA et C3 (Immunofluorescence)",
+            "B. D\u00e9p\u00f4ts \u00e9lectrono-denses m\u00e9sangiaux (Microscopie \u00e9lectronique)",
+            "C. Hypercellularit\u00e9 m\u00e9sangiale",
+            "D. Expansion de la matrice m\u00e9sangiale",
+            "E. \u00c9paississement de la membrane basale glom\u00e9rulaire"
+        ],
+        "correct_answers": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 19,
+        "question": "Les contre-indications absolues pour l'h\u00e9modialyse sont :",
+        "options": [
+            "A. L'insuffisance cardiaque de classe NYHA IV",
+            "B. Le n\u00e9oplasie",
+            "C. L'acc\u00e8s vasculaire compromis",
+            "D. Les maladies syst\u00e9miques avanc\u00e9es",
+            "E. Le refus clair et \u00e9crit du patient"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 20,
+        "question": "Le traitement de l'hyperkali\u00e9mie repose sur :",
+        "options": [
+            "A. Diur\u00e9tique d'anse",
+            "B. Bloqueurs des canaux calciques",
+            "C. Glucose avec insuline",
+            "D. Bloqueurs de canaux potassiques",
+            "E. B\u00eata-2 agonistes (Salbutamol)"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 21,
+        "question": "Dans le tableau clinique du syndrome de Fanconi, on trouve les \u00e9l\u00e9ments suivants :",
+        "options": [
+            "A. Phosphaturie",
+            "B. Hyperkali\u00e9mie",
+            "C. Hypercalciurie",
+            "D. Prot\u00e9inurie glom\u00e9rulaire",
+            "E. Aminoacidurie"
+        ],
+        "correct_answers": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 22,
+        "question": "Chez les patients ayant une n\u00e9crose tubulaire aigu\u00eb, la reprise de la diur\u00e8se (phase polyurique) peut avoir comme cons\u00e9quences :",
+        "options": [
+            "A. Hyperkali\u00e9mie",
+            "B. D\u00e9shydratation",
+            "C. Hyponatr\u00e9mie",
+            "D. Hyperuric\u00e9mie",
+            "E. Hypermagn\u00e9s\u00e9mie"
+        ],
+        "correct_answers": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 23,
+        "question": "Quelle est la voie d'acc\u00e8s vasculaire pour h\u00e9modialyse dans l'urgence (LRA) :",
+        "options": [
+            "A. Greffe r\u00e9nale",
+            "B. Cath\u00e9ter veineux central temporaire",
+            "C. Cath\u00e9ter veineux central permanent",
+            "D. Fistule art\u00e9rio-veineuse",
+            "E. Tous les quatre"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 24,
+        "question": "L'acidose m\u00e9tabolique se caract\u00e9rise par :",
+        "options": [
+            "A. pH > 7.38",
+            "B. PaCO2 > 35 mmHg",
+            "C. Bicarbonate standard > 20 mEq/L",
+            "D. Exc\u00e8s de bases < - 3 mmol/L",
+            "E. Respiration de Kussmaul"
+        ],
+        "correct_answers": [
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 25,
+        "question": "Les suivants appartiennent \u00e0 la classe de m\u00e9dicaments immunosuppresseurs :",
+        "options": [
+            "A. Inhibiteurs de l'enzyme de conversion",
+            "B. Antagonistes des r\u00e9cepteurs de l'angiotensine II",
+            "C. Cyclophosphamide",
+            "D. Cyclosporine A",
+            "E. Azathioprine"
+        ],
+        "correct_answers": [
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 26,
+        "question": "La microscopie optique de la GNA post-streptococcique montre :",
+        "options": [
+            "A. La prolif\u00e9ration des cellules m\u00e9sangiales et endoth\u00e9liales",
+            "B. L'extension de la matrice m\u00e9sangiale",
+            "C. Une atteinte importante des vaisseaux r\u00e9naux",
+            "D. D\u00e9p\u00f4ts \u00e9lectron-denses sous-\u00e9pith\u00e9liaux - humps",
+            "E. Infiltrats glom\u00e9rulaires de polynucl\u00e9aires neutrophiles (PMN)"
+        ],
+        "correct_answers": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 27,
+        "question": "Quelles sont les causes principales de l'azot\u00e9mie post-r\u00e9nale (obstructive) ?",
+        "options": [
+            "A. D\u00e9shydratation",
+            "B. Uropathies obstructives",
+            "C. Tumeurs pelviennes/r\u00e9trop\u00e9riton\u00e9ales",
+            "D. La st\u00e9nose de l'art\u00e8re r\u00e9nale",
+            "E. Caillots sanguins dans les voies excr\u00e9trices"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 28,
+        "question": "Quelle est la composition de la barri\u00e8re de filtration glom\u00e9rulaire ?",
+        "options": [
+            "A. Endoth\u00e9lium fen\u00eatr\u00e9",
+            "B. \u00c9pith\u00e9lium malpighien",
+            "C. Membrane basale glom\u00e9rulaire",
+            "D. Cellules tubulaires",
+            "E. Prolongements cytoplasmiques des podocytes"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 29,
+        "question": "Concernant le syndrome n\u00e9phritique aigu, quelles sont les affirmations vraies :",
+        "options": [
+            "A. L'association avec une infection bact\u00e9rienne qui pr\u00e9c\u00e8de la n\u00e9phrite",
+            "B. L'infection streptococcique est la plus commune cause de syndrome n\u00e9phritique aigu",
+            "C. La n\u00e9phrite suit l'infection apr\u00e8s une p\u00e9riode de latence libre (1-3 semaines)",
+            "D. D\u00e9but brutal clinico-biologique imm\u00e9diatement apr\u00e8s une infection",
+            "E. Il n'y a aucun lien entre les facteurs infectieux et l'apparition d'un syndrome n\u00e9phritique aigu"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 30,
+        "question": "Dans quelles maladies on peut rencontrer la glom\u00e9rulon\u00e9phrite extra-membraneuse (GEM) secondaire ?",
+        "options": [
+            "A. N\u00e9oplasies (tumeurs solides)",
+            "B. H\u00e9patite B",
+            "C. Utilisation chronique des drogues (AINS, Sels d'or)",
+            "D. Rhabdomyolyse",
+            "E. Lupus \u00c9ryth\u00e9mateux Syst\u00e9mique (LES)"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 31,
+        "question": "Les signes cliniques et biologiques suivants diff\u00e9rencient une py\u00e9lon\u00e9phrite d'une infection urinaire basse :",
+        "options": [
+            "A. Les douleurs lombaires",
+            "B. La fi\u00e8vre",
+            "C. La pollakiurie",
+            "D. La dysurie",
+            "E. La leucocyturie"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 32,
+        "question": "Le syndrome HELLP est d\u00e9fini par :",
+        "options": [
+            "A. An\u00e9mie ferriprive",
+            "B. \u00c9l\u00e9vation des enzymes h\u00e9patiques (EL)",
+            "C. Thrombocytop\u00e9nie (LP)",
+            "D. H\u00e9molyse (H)",
+            "E. Dyslipid\u00e9mie"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 33,
+        "question": "Quel est l'aspect histologique caract\u00e9ristique d'une glom\u00e9rulon\u00e9phrite extra-membraneuse (GEM) :",
+        "options": [
+            "A. Membrane basale \u00e9paisse et spicul\u00e9e sur son versant externe (Spikes)",
+            "B. Fusion des processus podocytaires des cellules \u00e9pith\u00e9liales en ME",
+            "C. Glom\u00e9rules compl\u00e8tement normaux en microscopie optique",
+            "D. D\u00e9p\u00f4ts hyalins segmentaires et focaux",
+            "E. D\u00e9p\u00f4ts granuleux d'IgG et C3 le long de la membrane basale en IF"
+        ],
+        "correct_answers": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 34,
+        "question": "Un patient a un d\u00e9bit de filtration glom\u00e9rulaire estim\u00e9 de 40 ml/min. Quel est le stade de cette maladie r\u00e9nale chronique ?",
+        "options": [
+            "A. Stade G2",
+            "B. Stade G4",
+            "C. Stade G3b",
+            "D. Stade G3a",
+            "E. Stade G5"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 35,
+        "question": "L'aspect morpho-pathologique du rein isch\u00e9mique (st\u00e9nose art\u00e8re r\u00e9nale) comprend :",
+        "options": [
+            "A. Taille accrue",
+            "B. Absence de fibrose interstitielle",
+            "C. Atrophie tubulaire",
+            "D. Glom\u00e9rules petits et collab\u00e9s",
+            "E. Absence d'atrophie tubulaire"
+        ],
+        "correct_answers": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 36,
+        "question": "Quelles sont les complications chroniques de la maladie r\u00e9nale chronique :",
+        "options": [
+            "A. Acidose m\u00e9tabolique",
+            "B. Alcalose m\u00e9tabolique",
+            "C. An\u00e9mie secondaire normochrome, normocytaire",
+            "D. An\u00e9mie secondaire due \u00e0 un d\u00e9ficit de la vitamine B12",
+            "E. Troubles du m\u00e9tabolisme phosphocalcique"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 37,
+        "question": "Concernant les types des glom\u00e9rulon\u00e9phrites m\u00e9sangio-capillaires (GNMP), lesquelles des affirmations sont vraies :",
+        "options": [
+            "A. Le type I est m\u00e9di\u00e9 par des complexes immuns (voie classique)",
+            "B. Le type II est m\u00e9di\u00e9 par alt\u00e9rations du syst\u00e8me compl\u00e9ment (voie alterne)",
+            "C. Le type II est aussi appel\u00e9 \"maladie des d\u00e9p\u00f4ts denses\"",
+            "D. Le type III implique la voie terminale du compl\u00e9ment",
+            "E. Dans le type I est impliqu\u00e9e la voie classique de l'activation"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 38,
+        "question": "Quels cylindres sont rencontr\u00e9s dans l'examen d'urine chez les patients atteints d'une glom\u00e9rulon\u00e9phrite active :",
+        "options": [
+            "A. Les cylindres hyalins",
+            "B. Les cylindres leucocytaires",
+            "C. Les cylindres granulaires",
+            "D. Les cylindres h\u00e9matiques",
+            "E. Les cylindres cireux"
+        ],
+        "correct_answers": [
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 39,
+        "question": "Quelles sont les indications pour la biopsie r\u00e9nale dans une glom\u00e9rulon\u00e9phrite aigu\u00eb :",
+        "options": [
+            "A. GNA avec polyurie",
+            "B. DFG diminu\u00e9 (Insuffisance r\u00e9nale aigu\u00eb)",
+            "C. H\u00e9maturie microscopique et/ou prot\u00e9inurie persistante",
+            "D. Syndrome n\u00e9phrotique impur",
+            "E. La fraction C3 du compl\u00e9ment reste basse > 8-12 semaines"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 40,
+        "question": "Concernant le traitement de la glom\u00e9rulon\u00e9phrite aigu\u00eb post-streptococcique, quelles sont les affirmations correctes ?",
+        "options": [
+            "A. P\u00e9nicilline ou \u00e9rythromycine pour \u00e9radiquer le foyer infectieux",
+            "B. Les corticost\u00e9ro\u00efdes sont indiqu\u00e9s de routine",
+            "C. Ils sont pr\u00e9f\u00e9r\u00e9s les diur\u00e9tiques de l'anse pour traiter la surcharge",
+            "D. La dialyse est indiqu\u00e9e chez les patients avec insuffisance r\u00e9nale s\u00e9v\u00e8re/hyperkali\u00e9mie r\u00e9fractaire",
+            "E. Le repos au lit est conseill\u00e9 en phase aigu\u00eb"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 41,
+        "question": "Chez les patients atteints d'une glom\u00e9rulon\u00e9phrite chronique, le traitement anti-prot\u00e9inurique (n\u00e9phroprotecteur) repose sur :",
+        "options": [
+            "A. Bloqueurs des canaux calciques",
+            "B. Inhibiteurs de l'enzyme de conversion (IEC)",
+            "C. Antagonistes des r\u00e9cepteurs de l'angiotensine II (ARA II)",
+            "D. Diur\u00e9tiques \u00e9pargneurs de potassium",
+            "E. Anti-inflammatoires non-st\u00e9ro\u00efdiens"
+        ],
+        "correct_answers": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 42,
+        "question": "Les investigations de laboratoire chez les patients atteints d'une glom\u00e9ruloscl\u00e9rose focale et segmentaire (HFS) primitive montrent :",
+        "options": [
+            "A. Fraction C3 du compl\u00e9ment diminu\u00e9e",
+            "B. Habituellement, prot\u00e9inurie de rang n\u00e9phrotique",
+            "C. H\u00e9maturie microscopique fr\u00e9quente",
+            "D. Dyslipid\u00e9mie fr\u00e9quente",
+            "E. Fraction C3 du compl\u00e9ment normale"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 43,
+        "question": "En ce qui concerne la classification de la glom\u00e9rulon\u00e9phrite rapidement progressive, le type IV (selon certaines classifications) ou \"double anticorps\" est m\u00e9di\u00e9 par :",
+        "options": [
+            "A. Anticorps anti-cytoplasme des polynucl\u00e9aires neutrophiles (ANCA)",
+            "B. Anticorps anti-membrane basale glom\u00e9rulaire",
+            "C. Complexes immuns",
+            "D. Anticorps anti-r\u00e9cepteur de la phospholipase A2",
+            "E. Association ANCA + Anti-MBG"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 44,
+        "question": "Un patient a un d\u00e9bit de filtration glom\u00e9rulaire estim\u00e9 de 12 ml/min/1,73 m\u00b2. Quel est le stade de cette maladie r\u00e9nale chronique ?",
+        "options": [
+            "A. Stade G1",
+            "B. Stade G2",
+            "C. Stade G4",
+            "D. Stade G3",
+            "E. Stade G5"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 45,
+        "question": "L'h\u00e9maturie glom\u00e9rulaire est caract\u00e9ris\u00e9e par :",
+        "options": [
+            "A. H\u00e9maturie avec globules rouges urinaires eumorphiques",
+            "B. Cylindres leucocytaires",
+            "C. H\u00e9maturie avec des caillots",
+            "D. \u00c9rythrocytes dysmorphiques",
+            "E. Cylindres h\u00e9matiques"
+        ],
+        "correct_answers": [
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 46,
+        "question": "Les contre-indications pour la transplantation r\u00e9nale sont :",
+        "options": [
+            "A. N\u00e9oplasies aux stades avanc\u00e9s / m\u00e9tastatiques",
+            "B. Insuffisance cardiaque s\u00e9v\u00e8re non corrigible",
+            "C. Glom\u00e9rulon\u00e9phrites chroniques",
+            "D. Graves malformations cong\u00e9nitales de l'appareil urinaire",
+            "E. Reins polykystiques"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 47,
+        "question": "Les anti-inflammatoires non-st\u00e9ro\u00efdiens (AINS) peuvent induire :",
+        "options": [
+            "A. L\u00e9sion r\u00e9nale aigu\u00eb h\u00e9modynamique (fonctionnelle)",
+            "B. Glom\u00e9rulon\u00e9phrite \u00e0 l\u00e9sions minimes (associ\u00e9e \u00e0 une n\u00e9phrite interstitielle)",
+            "C. Hyperkali\u00e9mie",
+            "D. N\u00e9crose papillaire",
+            "E. Hypocalc\u00e9mie"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 48,
+        "question": "Quels sont les contre-indications de la dialyse p\u00e9riton\u00e9ale ?",
+        "options": [
+            "A. Patients atteints par la maladie r\u00e9nale chronique",
+            "B. Patients \u00e2g\u00e9s > 60 ans",
+            "C. Carcinose p\u00e9riton\u00e9ale",
+            "D. Chirurgie abdominale majeure r\u00e9cente / Adh\u00e9rences multiples",
+            "E. Hernies abdominales non trait\u00e9es"
+        ],
+        "correct_answers": [
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 49,
+        "question": "Les affirmations suivantes sur la n\u00e9phropathie membraneuse sont vraies :",
+        "options": [
+            "A. Le syndrome n\u00e9phrotique est caract\u00e9ristique",
+            "B. L'alt\u00e9ration de la fonction r\u00e9nale se produit dans les premiers jours",
+            "C. Le C3 est normal",
+            "D. Environ 30% des patients se remettent spontan\u00e9ment (r\u00e9mission spontan\u00e9e)",
+            "E. La th\u00e9rapie immunosuppressive est indiqu\u00e9e chez les patients \u00e0 haut risque"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 50,
+        "question": "Quels sont les m\u00e9dicaments qui augmentent les taux de potassium (Hyperkali\u00e9mie) ?",
+        "options": [
+            "A. Furos\u00e9mide",
+            "B. Insuline",
+            "C. P\u00e9rindopril (IEC)",
+            "D. Spironolactone",
+            "E. Irb\u00e9sartan (ARA II)"
+        ],
+        "correct_answers": [
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 51,
+        "question": "Les cellules effectrices de l'immunit\u00e9 cellulaire impliqu\u00e9es dans les glom\u00e9rulon\u00e9phrites sont :",
+        "options": [
+            "A. Les macrophages",
+            "B. Les lymphocytes T",
+            "C. Le syst\u00e8me du compl\u00e9ment",
+            "D. Les podocytes",
+            "E. L'endoth\u00e9lium fen\u00eatr\u00e9"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 52,
+        "question": "Choisissez les formes d'infections urinaires compliqu\u00e9es :",
+        "options": [
+            "A. L'obstruction des voies urinaires",
+            "B. La py\u00e9lon\u00e9phrite aigu\u00eb",
+            "C. La cystite simple",
+            "D. La grossesse",
+            "E. Le diab\u00e8te sucr\u00e9"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 53,
+        "question": "Les facteurs favorisant l'infection urinaire sont :",
+        "options": [
+            "A. L'activit\u00e9 sexuelle chez la femme",
+            "B. La grossesse",
+            "C. Le diab\u00e8te sucr\u00e9",
+            "D. Le reflux v\u00e9sico-ur\u00e9t\u00e9ral",
+            "E. La lithiase urinaire"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 54,
+        "question": "Parmi les suivants, quels sont les crit\u00e8res (cliniques et immunologiques) pour poser le diagnostic de Lupus \u00c9ryth\u00e9mateux Syst\u00e9mique (LES) :",
+        "options": [
+            "A. Prot\u00e9inurie > 0.5g/j ou cylindres",
+            "B. Rash malaire (Photosensibilit\u00e9)",
+            "C. Convulsions / Psychose",
+            "D. S\u00e9rosite (Pleur\u00e9sie, P\u00e9ricardite)",
+            "E. Anticorps anti-ADN natif ou anti-Sm positifs"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 55,
+        "question": "Les classes de m\u00e9dicaments suivants sont potentiellement n\u00e9phrotoxiques :",
+        "options": [
+            "A. B\u00eata-bloquants",
+            "B. Cisplatine",
+            "C. Aminosides",
+            "D. Bloqueurs de canaux de calcium",
+            "E. Produits de contraste iod\u00e9s"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "E"
+        ]
+    }
+]

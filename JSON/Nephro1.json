@@ -1,0 +1,652 @@
+[
+  {
+    "chapitre": 0,
+    "id": 1,
+    "question": "Lesquels des anticorps suivants sont hautement sp\u00e9cifiques pour la n\u00e9phropathie lupique :",
+    "options": [
+      "A. Anticorps anti-ADN simple brin",
+      "B. Anticorps anti-ADN double brin",
+      "C. Anticorps ANCA",
+      "D. Anticorps anti-MBG",
+      "E. Anticorps anti-Sm"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 2,
+    "question": "Les n\u00e9phropathies tubulo-interstitielles aigu\u00ebs post-administration de m\u00e9dicaments sont caract\u00e9ris\u00e9es par :",
+    "options": [
+      "A. D\u00e9but aigu",
+      "B. \u00c9ruption cutan\u00e9e (rash)",
+      "C. Les anticorps anti-membrane basale tubulaire peuvent \u00eatre pr\u00e9sents",
+      "D. Eosinophiles dans l'interstitium",
+      "E. Absence d'\u00e9osinophiles dans l'interstitium"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 3,
+    "question": "*Le standard d'or dans le diagnostic de la st\u00e9nose de l'art\u00e8re r\u00e9nale c'est :",
+    "options": [
+      "A. L'\u00e9chographie Doppler",
+      "B. La scintigraphie r\u00e9nale",
+      "C. La biopsie r\u00e9nales",
+      "D. L'angiographie/art\u00e9riographie du rein",
+      "E. L'urographie intraveineuse"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 4,
+    "question": "Le traitement curatif de la cystite aigu\u00eb :",
+    "options": [
+      "A. Est recommand\u00e9 pour 14-21 jours",
+      "B. Est le plus souvent recommand\u00e9 pendant 3 jours",
+      "C. Est recommand\u00e9 pour 6-12 semaines",
+      "D. Chez les patients avec facteurs favorisants pour l'ITU il doit \u00eatre pratiqu\u00e9 pendant 5-7 jours",
+      "E. Chez les patients diab\u00e9tiques, le traitement \u00e0 dose unique est utilis\u00e9"
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 5,
+    "question": "Quels sont les sympt\u00f4mes cliniques de l'\u00e9clampsie ?",
+    "options": [
+      "A. Hypertension s\u00e9v\u00e8re",
+      "B. Hypertension chronique",
+      "C. Convulsions g\u00e9n\u00e9ralis\u00e9es",
+      "D. La prot\u00e9inurie est toujours pr\u00e9sente",
+      "E. L'\u0153d\u00e8me pourrait \u00eatre pr\u00e9sent"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 6,
+    "question": "L'\u00e9chographie en cas de py\u00e9lon\u00e9phrite aigu\u00eb r\u00e9v\u00e8le :",
+    "options": [
+      "A. L'\u00e9largissement des aires r\u00e9nales",
+      "B. Des images hyper\u00e9chog\u00e8nes multiples qui peuvent indiquer des microabc\u00e8s",
+      "C. Une image hypo\u00e9chog\u00e8ne non homog\u00e8ne peut indiquer l'\u00e9volution vers un processus suppuratif (abc\u00e8s r\u00e9nal)",
+      "D. Les reins sont petits, in\u00e9gaux et de forme irr\u00e9guli\u00e8re",
+      "E. Hyper\u00e9chog\u00e9nicit\u00e9 de la zone cortico-m\u00e9dullaire"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 7,
+    "question": "*Lesquels des crit\u00e8res suivants sont n\u00e9cessaires et suffisants pour le diagnostic du syndrome n\u00e9phrotique ?",
+    "options": [
+      "A. H\u00e9maturie microscopique",
+      "B. Prot\u00e9inurie > 3.5g/jour et 1.73m\u00b2 surface corporelle",
+      "C. Les \u0153d\u00e8mes",
+      "D. Hypoprot\u00e9in\u00e9mie",
+      "E. Hypoalbumin\u00e9mie"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 8,
+    "question": "Le diagnostic de laboratoire d'une py\u00e9lon\u00e9phrite aigu\u00eb est bas\u00e9 sur :",
+    "options": [
+      "A. Leucocyturie",
+      "B. Cultures d'urine positives",
+      "C. Hyperkali\u00e9mie",
+      "D. Cylindres leucocytaires",
+      "E. Anticorps antinucl\u00e9aires positifs"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 9,
+    "question": "Le diagnostic diff\u00e9rentiel de l'hypertension r\u00e9novasculaire est fait avec :",
+    "options": [
+      "A. Hypertension art\u00e9rielle essentielle",
+      "B. Py\u00e9lon\u00e9phrite aigu\u00eb",
+      "C. Glom\u00e9rulon\u00e9phrite aigu\u00eb",
+      "D. Rein hypoplasique",
+      "E. Maladie de Conn"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 10,
+    "question": "L'examen de laboratoire dans la glom\u00e9rulon\u00e9phrite aigu\u00eb post-streptococcique montre :",
+    "options": [
+      "A. Le taux d'ASLO (Anti-streptolysines O) \u00e9lev\u00e9",
+      "B. Baisse du taux de C3",
+      "C. Vitesse de s\u00e9dimentation \u00e9lev\u00e9e",
+      "D. H\u00e9maturie avec h\u00e9maties dysmorphiques",
+      "E. Anticorps antinucl\u00e9aires positifs"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 11,
+    "question": "Les affirmations suivantes concernant la d\u00e9finition de la l\u00e9sion r\u00e9nale aigu\u00eb sont vraies :",
+    "options": [
+      "A. La perte de la fonction r\u00e9nale se produit progressivement en quelques mois",
+      "B. La perte de la fonction r\u00e9nale est brusque en quelques jours/semaines",
+      "C. Les reins conservent leur capacit\u00e9 de participer \u00e0 la r\u00e9gulation d'\u00e9quilibre hydro-\u00e9lectrolytique et acido-basique",
+      "D. Les reins ne peuvent plus \u00e9liminer les produits de d\u00e9gradation du m\u00e9tabolisme des prot\u00e9ines ce qui conduit \u00e0 une accumulation de toxines",
+      "E. La l\u00e9sion r\u00e9nale aigu\u00eb secondaire \u00e0 des interventions chirurgicales repr\u00e9sente la situation la plus courante rencontr\u00e9e en pratique clinique"
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 12,
+    "question": "Les affirmations suivantes concernant l'azot\u00e9mie pr\u00e9-r\u00e9nale sont vraies :",
+    "options": [
+      "A. Elle peut se produire secondaire \u00e0 la r\u00e9duction du volume circulant",
+      "B. La restauration de la vol\u00e9mie n'est pas suivie d'une restauration rapide de la production d'urine",
+      "C. Elle peut appara\u00eetre secondaire \u00e0 un d\u00e9s\u00e9quilibre entre la r\u00e9sistance vasculaire r\u00e9nale et la r\u00e9sistance vasculaire syst\u00e9mique",
+      "D. La restauration de la vol\u00e9mie conduit \u00e0 une restauration rapide de la production d'urine et \u00e0 la normalisation de l'ur\u00e9e s\u00e9rique et de la cr\u00e9atinine s\u00e9rique",
+      "E. Elle peut \u00eatre secondaire \u00e0 une diminution du d\u00e9bit cardiaque"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 13,
+    "question": "Les m\u00e9dicaments les plus utilis\u00e9s pour traiter l'HTA au cours de la grossesse sont :",
+    "options": [
+      "A. Hydralazine",
+      "B. Diur\u00e9tiques",
+      "C. C\u00e9phalosporines",
+      "D. M\u00e9thyldopa",
+      "E. Clonidine"
+    ],
+    "correct_answers": ["A", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 14,
+    "question": "Les principaux facteurs qui favorisent l'hypocalc\u00e9mie dans la maladie r\u00e9nale chronique sont :",
+    "options": [
+      "A. La baisse de l'\u00e9limination des phosphates",
+      "B. La baisse de la synth\u00e8se de 1,25(OH)2D3",
+      "C. L'augmentation de la r\u00e9sistance du squelette \u00e0 l'action de la parathormone",
+      "D. L'augmentation du niveau s\u00e9rique de 1,25 (OH)2D3",
+      "E. L'augmentation du niveau s\u00e9rique des phosphates"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 15,
+    "question": "Concernant le traitement conservateur de la maladie r\u00e9nale chronique, lesquelles des affirmations suivantes sont vraies :",
+    "options": [
+      "A. S'adresse aux stades 1-4 de la maladie r\u00e9nale chronique",
+      "B. A pour but le ralentissement du d\u00e9clin de la fonction r\u00e9nale",
+      "C. Le r\u00e9gime hypoprot\u00e9in\u00e9 augmente le taux de d\u00e9gradation de la fonction r\u00e9nale",
+      "D. L'acidose m\u00e9tabolique peut \u00eatre corrig\u00e9e par le bicarbonate de sodium",
+      "E. Les infections repr\u00e9sentent l'une des plus fr\u00e9quentes complications de la maladie r\u00e9nale chronique"
+    ],
+    "correct_answers": ["A", "B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 16,
+    "question": "*Quelle est la l\u00e9sion principale qui d\u00e9finit morphopathologiquement la maladie \u00e0 l\u00e9sions minimes :",
+    "options": [
+      "A. La prolif\u00e9ration m\u00e9sangiale",
+      "B. Fusion des processus podocytaires et leur d\u00e9tachement de la membrane basale glom\u00e9rulaire",
+      "C. La scl\u00e9rose glom\u00e9rulaire focale et segmentaire",
+      "D. L'\u00e9paississement de la membrane basale glom\u00e9rulaire",
+      "E. Les d\u00e9p\u00f4ts m\u00e9sangiaux d'IgA"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 17,
+    "question": "Les caract\u00e9ristiques cliniques et biologiques de la n\u00e9phropathie \u00e0 IgA sont :",
+    "options": [
+      "A. L'h\u00e9maturie macroscopique r\u00e9cidivante",
+      "B. Le syndrome n\u00e9phrotique complet",
+      "C. Niveaux s\u00e9riques augment\u00e9s d'IgA chez 50% des patients",
+      "D. Cryoglobulines",
+      "E. Anticorps anti-ADNdc"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 18,
+    "question": "Les indications de l'h\u00e9modialyse dans la maladie r\u00e9nale chronique sont repr\u00e9sent\u00e9es par :",
+    "options": [
+      "A. La p\u00e9ricardite ur\u00e9mique",
+      "B. L'hypertension art\u00e9rielle non-contr\u00f4lable",
+      "C. L'enc\u00e9phalopathie ur\u00e9mique",
+      "D. L'acidose m\u00e9tabolique avec pH < 7.2",
+      "E. La r\u00e9tention hydrosaline non-contr\u00f4lable m\u00e9dicamenteusement"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 19,
+    "question": "*La m\u00e9thode de suppl\u00e9ance de la fonction r\u00e9nale qui permet la meilleure qualit\u00e9 de la vie est :",
+    "options": [
+      "A. L'h\u00e9modialyse",
+      "B. L'h\u00e9modialyse et la transplantation r\u00e9nale, \u00e9galement",
+      "C. L'h\u00e9modialyse et la dialyse p\u00e9riton\u00e9ale, \u00e9galement",
+      "D. La transplantation r\u00e9nale",
+      "E. La dialyse p\u00e9riton\u00e9ale"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 20,
+    "question": "Les crit\u00e8res d'hospitalisation en cas de py\u00e9lon\u00e9phrite aigu\u00eb sont :",
+    "options": [
+      "A. L'intol\u00e9rance digestive",
+      "B. La py\u00e9lon\u00e9phrite aigu\u00eb non compliqu\u00e9e",
+      "C. La py\u00e9lon\u00e9phrite aigu\u00eb compliqu\u00e9e",
+      "D. Non compliance \u00e0 la th\u00e9rapie par antibiotiques",
+      "E. La pr\u00e9sence du syndrome de la cystite"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 21,
+    "question": "Lesquels des effets suivants peuvent \u00eatre attribu\u00e9s \u00e0 la prot\u00e9inurie qui se produit dans le syndrome n\u00e9phrotique de la n\u00e9phropathie membraneuse :",
+    "options": [
+      "A. Hyperlipid\u00e9mie",
+      "B. Pertes de la transferrine",
+      "C. Hypoprot\u00e9in\u00e9mie",
+      "D. Hypertension",
+      "E. D\u00e9t\u00e9rioration de la fonction r\u00e9nale"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 22,
+    "question": "Lesquels des m\u00e9dicaments suivants sont choisis de fa\u00e7on \u00e9lective dans le traitement du syndrome n\u00e9phrotique de la glom\u00e9rulon\u00e9phrite membrano-prolif\u00e9rative en raison de leurs propri\u00e9t\u00e9s antiprot\u00e9inurique :",
+    "options": [
+      "A. M\u00e9loxicam",
+      "B. Ramipril",
+      "C. M\u00e9toprolol",
+      "D. Pentoxifylline",
+      "E. Dipyridamole"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 23,
+    "question": "Lesquelles des formes pathologiques suivantes correspondent \u00e0 la classification ISN/RPS-2003 de la n\u00e9phrite lupique :",
+    "options": [
+      "A. NL m\u00e9sangiale minime",
+      "B. NL prolif\u00e9rative extracapillaire",
+      "C. NL membraneuse",
+      "D. NL prolif\u00e9rative diffuse",
+      "E. NL avec glom\u00e9ruloscl\u00e9rose segmentaire et focale"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 24,
+    "question": "*Dans le traitement de la n\u00e9phrite lupique de classe IV (ISN / RPS-2003), le sch\u00e9ma d'induction qui utilise le guide international inclut :",
+    "options": [
+      "A. Pouls de cyclophosphamide + pouls de m\u00e9thylprednisolone, suivies de prednisolone orale",
+      "B. Prednisone + mycoph\u00e9nolate mof\u00e9til",
+      "C. Prednisone + azathioprine",
+      "D. Prednisone + chlorambucil",
+      "E. Cyclophosphamide + rituximab"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 25,
+    "question": "Les principales causes de l'hypertension r\u00e9novasculaire sont :",
+    "options": [
+      "A. Dysplasie fibromusculaire",
+      "B. Ath\u00e9roscl\u00e9rose",
+      "C. Compression extrins\u00e8que des vaisseaux r\u00e9naux",
+      "D. Neurofibromatose et art\u00e9rite de Takayasu",
+      "E. Embolie art\u00e9rielle r\u00e9nale et thrombose"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 26,
+    "question": "Les complications de l'\u00e9clampsie sont :",
+    "options": [
+      "A. H\u00e9morragies c\u00e9r\u00e9brales",
+      "B. \u0152d\u00e8me pulmonaire aigu",
+      "C. Abc\u00e8s r\u00e9nal",
+      "D. Mort f\u0153tale intra-ut\u00e9rine",
+      "E. Ur\u00e9t\u00e9ro-hydron\u00e9phrose"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 27,
+    "question": "Lesquelles des affirmations suivantes concernant l'hyperkali\u00e9mie au cours d'une l\u00e9sion r\u00e9nale aigu\u00eb sont vraies ?",
+    "options": [
+      "A. Dans les formes compliqu\u00e9es de l\u00e9sion r\u00e9nale aigu\u00eb, le K s\u00e9rique peut augmenter de 1-2 mEq/L/jour",
+      "B. Le tableau clinique de l'hyperkali\u00e9mie peut comprendre : paresth\u00e9sie (picotements), naus\u00e9es, vomissements, faiblesse, paralysie progressive",
+      "C. L'ECG peut montrer : ondes T hautes, perte de l'onde P, \u00e9largissement du QRS, arythmie ventriculaire",
+      "D. L'ECG peut montrer : ondes T petites, sous-d\u00e9nivellation ST, prolongation QT",
+      "E. Hyperkali\u00e9mie > 6.5 mmol/L qui ne r\u00e9pond pas \u00e0 la th\u00e9rapie conservatrice, repr\u00e9sente une indication du traitement de substitution r\u00e9nale d'urgence"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 28,
+    "question": "Lesquelles des affirmations suivantes concernant le traitement de l'an\u00e9mie associ\u00e9e \u00e0 la maladie r\u00e9nale chronique sont vraies :",
+    "options": [
+      "A. L'\u00e9valuation de l'an\u00e9mie commence \u00e0 une clairance de la cr\u00e9atinine < 60 ml/min",
+      "B. La correction de l'an\u00e9mie contribue au d\u00e9clin du DFG",
+      "C. La correction de l'an\u00e9mie se fait par l'\u00e9rythropo\u00ef\u00e9tine humaine recombinante et des pr\u00e9parations de fer",
+      "D. L'augmentation de l'h\u00e9matocrite par la correction de l'an\u00e9mie peut entra\u00eener une augmentation des valeurs de la tension art\u00e9rielle",
+      "E. La correction de l'an\u00e9mie s'accompagne d'une diminution des troubles h\u00e9morragiques"
+    ],
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 29,
+    "question": "*L'oligurie est d\u00e9finie par :",
+    "options": [
+      "A. Diur\u00e8se > 500 ml/24h",
+      "B. Diur\u00e8se < 400 ml/24h",
+      "C. Diur\u00e8se < 500 ml/24h",
+      "D. Diur\u00e8se < 50 ml/24h",
+      "E. Diur\u00e8se < 750 ml/24h"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 30,
+    "question": "Les m\u00e9dicaments de choix dans le traitement de l'hypertension r\u00e9novasculaire secondaire \u00e0 la st\u00e9nose unilat\u00e9rale de l'art\u00e8re r\u00e9nale sont repr\u00e9sent\u00e9s par :",
+    "options": [
+      "A. Inhibiteurs de l'enzyme de conversion de l'angiotensine",
+      "B. B\u00eata-bloquants",
+      "C. Bloquants des canaux calciques",
+      "D. Bloquants des r\u00e9cepteurs de l'angiotensine",
+      "E. Alpha-2 agonistes centraux"
+    ],
+    "correct_answers": ["A", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 31,
+    "question": "Lesquels des \u00e9nonc\u00e9s suivants concernant la py\u00e9lon\u00e9phrite chronique sont vrais ?",
+    "options": [
+      "A. La biopsie r\u00e9nale doit \u00eatre pratiqu\u00e9e habituellement",
+      "B. L'\u00e9chographie r\u00e9nale montre des reins in\u00e9gaux de forme irr\u00e9guli\u00e8re",
+      "C. L'anamn\u00e8se r\u00e9v\u00e8le une histoire d'infections urinaires",
+      "D. Elle est toujours associ\u00e9e au syndrome \u0153d\u00e9mateux",
+      "E. L'\u00e9chographie r\u00e9nale montre des reins augment\u00e9s de taille"
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 32,
+    "question": "Lesquels des \u00e9nonc\u00e9s suivants concernant la n\u00e9phropathie tubulo interstitielle (NTIA) secondaire aux AINS sont vrais ?",
+    "options": [
+      "A. Il y a une p\u00e9riode de latence (mois - un an) entre le d\u00e9but de l'administration des AINS et le d\u00e9but de NTIA",
+      "B. Sans p\u00e9riode de latence entre le d\u00e9but de l'administration des AINS et le d\u00e9but de NTIA",
+      "C. Les sympt\u00f4mes d'hypersensibilit\u00e9 sont absents",
+      "D. Les sympt\u00f4mes d'hypersensibilit\u00e9 sont pr\u00e9sents",
+      "E. Elle appara\u00eet chez les personnes \u00e2g\u00e9es, le plus souvent apr\u00e8s 60 ans"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 33,
+    "question": "Les signes cliniques dans la n\u00e9phropathie analg\u00e9sique sont :",
+    "options": [
+      "A. Asth\u00e9nie",
+      "B. C\u00e9phal\u00e9e",
+      "C. P\u00e2leur avec une teinte grise",
+      "D. Les \u0153d\u00e8mes sont d'habitude absents",
+      "E. Les \u0153d\u00e8mes sont d'habitude pr\u00e9sents"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 34,
+    "question": "*Laquelle des n\u00e9phropathies glom\u00e9rulaires suivantes \u00e9volue avec syndrome n\u00e9phrotique pur ?",
+    "options": [
+      "A. AGN \u00e0 l\u00e9sions glom\u00e9rulaires minimes",
+      "B. GN m\u00e9sangio-capillaire",
+      "C. GN membraneuse",
+      "D. Glom\u00e9ruloscl\u00e9rose segmentaire et focale",
+      "E. GN \u00e0 d\u00e9p\u00f4ts m\u00e9sangiaux d'IgA"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 35,
+    "question": "Lesquelles des suivantes sont vraies pour la n\u00e9phroscl\u00e9rose b\u00e9nigne :",
+    "options": [
+      "A. Elle est une n\u00e9phropathie vasculaire bilat\u00e9rale",
+      "B. Elle est une n\u00e9phropathie tubulaire",
+      "C. Elle appara\u00eet apr\u00e8s plusieurs ann\u00e9es d'\u00e9volution de l'hypertension art\u00e9rielle",
+      "D. Elle est une n\u00e9phropathie glom\u00e9rulaire",
+      "E. Elle peut conduire \u00e0 la maladie r\u00e9nale chronique"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 36,
+    "question": "Des affirmations suivantes concernant les complexes immuns impliqu\u00e9s dans la pathog\u00e9nie des glom\u00e9rulon\u00e9phrites, lesquelles sont vraies ?",
+    "options": [
+      "A. Les complexes immuns sont le r\u00e9sultat d'une interaction entre un anticorps et un antig\u00e8ne",
+      "B. La formation d'un complexe immun antig\u00e8ne-anticorps d\u00e9termine fr\u00e9quemment l'activation par la voie classique du compl\u00e9ment",
+      "C. Les complexes immuns peuvent \u00eatre circulants ou peuvent se former \"in situ\" par l'interaction d'un anticorps avec un antig\u00e8ne situ\u00e9 (\"plant\u00e9\") au niveau du glom\u00e9rule",
+      "D. Les complexes immuns form\u00e9s dans l'organisme sont fr\u00e9quemment \u00e9limin\u00e9s par le syst\u00e8me des microphages et macrophages.",
+      "E. Les complexes immuns ne peuvent pas se d\u00e9poser au niveau des glom\u00e9rules"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 37,
+    "question": "Lesquelles des affirmations suivantes concernant l'\u00e9tiologie et la pathog\u00e9nie des glom\u00e9rulon\u00e9phrites sont vraies ?",
+    "options": [
+      "A. Des antig\u00e8nes bact\u00e9riens peuvent \u00eatre impliqu\u00e9s dans l'\u00e9tiologie et la pathog\u00e9nie des glom\u00e9rulon\u00e9phrites",
+      "B. Des antig\u00e8nes viraux peuvent \u00eatre impliqu\u00e9s dans l'\u00e9tiologie et la pathog\u00e9nie des glom\u00e9rulon\u00e9phrites",
+      "C. Des antig\u00e8nes parasitaires peuvent \u00eatre impliqu\u00e9s dans l'\u00e9tiologie et la pathog\u00e9nie des glom\u00e9rulon\u00e9phrites",
+      "D. Des antig\u00e8nes tumoraux peuvent \u00eatre impliqu\u00e9s dans l'\u00e9tiologie et la pathog\u00e9nie des glom\u00e9rulon\u00e9phrites",
+      "E. La pathog\u00e9nie des glom\u00e9rulon\u00e9phrites n'implique pas g\u00e9n\u00e9ralement des m\u00e9canismes immuns."
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 38,
+    "question": "Dans l'\u0153d\u00e8me pulmonaire aigu apparu secondairement \u00e0 l'insuffisance cardiaque aigu\u00eb chez les patients atteints d'IRC/MRC le traitement consiste en :",
+    "options": [
+      "A. Hydrochlorothiazide",
+      "B. Diur\u00e9tique de l'anse dans le cas o\u00f9 la diur\u00e8se est encore pr\u00e9sente",
+      "C. H\u00e9modialyse",
+      "D. Nitroglyc\u00e9rine sublinguale ou en perfusion",
+      "E. Activateur du r\u00e9cepteur de la vitamine D"
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 39,
+    "question": "*Laquelle des n\u00e9phropathies glom\u00e9rulaires d'en bas pr\u00e9sente caract\u00e9ristiquement dans son tableau clinique l'h\u00e9maturie macroscopique r\u00e9currente :",
+    "options": [
+      "A. La maladie \u00e0 l\u00e9sions minimes",
+      "B. La scl\u00e9rose glom\u00e9rulaire focale et segmentaire",
+      "C. La glom\u00e9rulon\u00e9phrite m\u00e9sangio-capillaire",
+      "D. La n\u00e9phropathie prolif\u00e9rative m\u00e9sangiale \u00e0 d\u00e9p\u00f4ts d'IgA",
+      "E. La n\u00e9phropathie membraneuse"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 40,
+    "question": "Dans l'azot\u00e9mie pr\u00e9-r\u00e9nale le tableau biologique se caract\u00e9rise par :",
+    "options": [
+      "A. Indice d'insuffisance r\u00e9nale (RFI) < 1",
+      "B. S\u00e9diment urinaire pauvre en \u00e9l\u00e9ments",
+      "C. Excr\u00e9tion fractionn\u00e9e de sodium (FeNa) < 1%",
+      "D. Densit\u00e9 urinaire > 1020",
+      "E. Natriurie > 20 mEq/L"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 41,
+    "question": "Dans l'azot\u00e9mie r\u00e9nale intrins\u00e8que, le tableau biologique se caract\u00e9rise par :",
+    "options": [
+      "A. Densit\u00e9 urinaire ~1010-1015",
+      "B. Osmolarit\u00e9 urinaire < 350-400 mOsm/kg",
+      "C. Natriurie > 40 mEq/L",
+      "D. Excr\u00e9tion fractionn\u00e9e de sodium (FeNa) > 1%",
+      "E. Indice d'insuffisance r\u00e9nale > 1"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 42,
+    "question": "*La pathog\u00e9nie de la granulomatose de Wegener implique habituellement :",
+    "options": [
+      "A. Anticorps contre la membrane basale glom\u00e9rulaire et anticorps contre la membrane basale pulmonaire",
+      "B. Facteur n\u00e9phritique C3 (C3NeF)",
+      "C. Anticorps cytoplasmiques anti-neutrophiles (ANCA)",
+      "D. Anticorps anti-nucl\u00e9aires (ANA)",
+      "E. Anticorps anti-streptolysine O (anticorps ASO)"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 43,
+    "question": "Dans le cas de l'uro-sepsis :",
+    "options": [
+      "A. Les h\u00e9mocultures (cultures du sang) doivent \u00eatre entreprises",
+      "B. L'utilisation d'associations d'antibiotiques est n\u00e9cessaire",
+      "C. Le traitement ne commence qu'apr\u00e8s avoir identifi\u00e9 le type de germe",
+      "D. L'adaptation des doses d'antibiotiques au niveau de la fonction r\u00e9nale en cas de LRA est n\u00e9cessaire",
+      "E. La d\u00e9faillance multiple d'organes (d\u00e9faillance multivisc\u00e9rale) peut se produire"
+    ],
+    "correct_answers": ["A", "B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 44,
+    "question": "Lesquels des arguments suivants plaident en faveur du caract\u00e8re \u00ab aigu \u00bb d'une l\u00e9sion r\u00e9nale aigu\u00eb constat\u00e9e de novo :",
+    "options": [
+      "A. Les reins sont agrandis/normaux \u00e0 l'\u00e9chographie",
+      "B. Une histoire positive de polyurie/nycturie",
+      "C. L'existence document\u00e9e d'une fonction r\u00e9nale basale normale avant le d\u00e9but de l'insuffisance r\u00e9nale",
+      "D. Un historique positif pour une exposition r\u00e9cente aux agents n\u00e9phrotoxiques",
+      "E. Changements en imagerie par rayons X de type de r\u00e9sorption sous-p\u00e9riost\u00e9e augment\u00e9e"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 45,
+    "question": "Les suivantes sont vraies concernant la l\u00e9sion r\u00e9nale aigu\u00eb :",
+    "options": [
+      "A. Le pronostic du patient d\u00e9pend de l'\u00e2ge, du degr\u00e9 de dysfonctionnement de la fonction r\u00e9nale, de l'\u00e9tiologie de la l\u00e9sion r\u00e9nale aigu\u00eb et de la pr\u00e9sence de la d\u00e9faillance multiple d'organes",
+      "B. Les complications cardio-vasculaires telles que la p\u00e9ricardite, l'embolie pulmonaire, l'infarctus aigu du myocarde peuvent survenir",
+      "C. Les complications infectieuses sont fr\u00e9quentes et influencent le taux de mortalit\u00e9 de ces patients",
+      "D. La coagulation intravasculaire diss\u00e9min\u00e9e (CID) complique la l\u00e9sion r\u00e9nale aigu\u00eb secondaire au choc septique",
+      "E. Au cours de la l\u00e9sion r\u00e9nale aigu\u00eb, des complications neurologiques accompagn\u00e9es des changements/alt\u00e9rations de l'\u00e9tat mental peuvent appara\u00eetre"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 46,
+    "question": "Les affirmations suivantes concernant l'azot\u00e9mie r\u00e9nale intrins\u00e8que sont vraies :",
+    "options": [
+      "A. La baisse brusque du DFG est associ\u00e9e \u00e0 des alt\u00e9rations r\u00e9nales structurales",
+      "B. La restauration du flux sanguin (plasma) r\u00e9nal ou l'arr\u00eat de l'action de l'agent toxique est suivie d'une normalisation imm\u00e9diate du DFG",
+      "C. Dans la production de la n\u00e9crose tubulaire aigu\u00eb, des m\u00e9canismes isch\u00e9miques et toxiques sont impliqu\u00e9s",
+      "D. Il y a une exposition accrue des tubules r\u00e9naux aux agents n\u00e9phrotoxiques, 25% du d\u00e9bit cardiaque \u00e9tant d\u00e9livr\u00e9 au(x) rein(s)",
+      "E. Les m\u00e9canismes isch\u00e9miques peuvent \u00eatre impliqu\u00e9s dans plus de 80% des cas d'azot\u00e9mie r\u00e9nale intrins\u00e8que"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 47,
+    "question": "Lesquelles des affirmations suivantes concernant la n\u00e9crose tubulaire aigu\u00eb secondaire \u00e0 un m\u00e9canisme toxique sont vraies :",
+    "options": [
+      "A. Les m\u00e9canismes pathophysiologiques impliqu\u00e9s peuvent \u00eatre la vasoconstriction r\u00e9nale et l'hypoperfusion r\u00e9nale, ainsi que des m\u00e9canismes cellulaires toxiques directs",
+      "B. Elle NE peut pas \u00eatre produite par des compos\u00e9s toxiques exog\u00e8nes (m\u00e9dicaments, solvants organiques, poisons synth\u00e9tiques et naturels)",
+      "C. Elle peut \u00eatre secondaire \u00e0 des compos\u00e9s toxiques endog\u00e8nes (pigments, cristallurie, substances qui s'accumulent dans les n\u00e9oplasies)",
+      "D. Il y a un appauvrissement des r\u00e9serves cellulaires d'ATP au niveau des cellules endoth\u00e9liales et tubulaires",
+      "E. Il y a des alt\u00e9rations du cytosquelette d'actine des cellules \u00e9pith\u00e9liales tubulaires"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 48,
+    "question": "Dans la l\u00e9sion r\u00e9nale aigu\u00eb, l'examen histopathologique montre :",
+    "options": [
+      "A. L'\u0153d\u00e8me et l'infiltrat inflammatoire au niveau de l'interstitium",
+      "B. N\u00e9crose des cellules \u00e9pith\u00e9liales tubulaires",
+      "C. Macroscopiquement, les reins sont agrandis",
+      "D. Perte de la bordure en brosse des cellules \u00e9pith\u00e9liales tubulaires",
+      "E. Diminution du turnover cellulaire"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 49,
+    "question": "Les principales caract\u00e9ristiques cliniques de l'hypertension r\u00e9novasculaire sont :",
+    "options": [
+      "A. Il s'agit d'une hypertension grave/r\u00e9fractaire au traitement",
+      "B. L'\u00e2ge au d\u00e9but < 30 ans ou > 50 ans",
+      "C. L'hypertension grave avec l\u00e9sions ath\u00e9roscl\u00e9rotiques g\u00e9n\u00e9ralis\u00e9es des vaisseaux carotides coronaires/p\u00e9riph\u00e9riques",
+      "D. Episodes r\u00e9p\u00e9t\u00e9s d'h\u00e9maturie macroscopique",
+      "E. Episodes r\u00e9p\u00e9t\u00e9s d'\u0153d\u00e8me pulmonaire aigu"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 50,
+    "question": "La maladie min\u00e9rale osseuse de la maladie r\u00e9nale chronique se caract\u00e9rise par :",
+    "options": [
+      "A. Hyperphosphat\u00e9mie",
+      "B. L'augmentation de la phosphatase alcaline",
+      "C. Hypophosphat\u00e9mie",
+      "D. Diminution de la PTH s\u00e9rique",
+      "E. Diminution du 1,25 (OH) 2D3 s\u00e9rique"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  }
+]

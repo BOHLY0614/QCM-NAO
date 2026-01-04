@@ -1,0 +1,652 @@
+[
+  {
+    "chapitre": 0,
+    "id": 1,
+    "question": "La dystrophie musculaire progressive forme maligne (la maladie Duchenne) a :",
+    "options": [
+      "A. Caract\u00e8re h\u00e9r\u00e9do-familial",
+      "B. \u00c9volution vers invalidit\u00e9 et mort",
+      "C. Elle d\u00e9bute \u00e0 l'enfant",
+      "D. Les enzymes musculaires sont normales",
+      "E. Initialement est int\u00e9ress\u00e9e la musculature de la ceinture pelvienne, puis celle de la ceinture scapulo-hum\u00e9rale"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 2,
+    "question": "La myasth\u00e9nie pr\u00e9sente les caract\u00e8res suivants :",
+    "options": [
+      "A. Maladie autoimmune",
+      "B. La diminution des r\u00e9cepteurs fonctionnels d'ac\u00e9tylcholine",
+      "C. La musculature oculomotrice intrins\u00e8que est int\u00e9ress\u00e9e",
+      "D. Fatigabilit\u00e9 musculaire excessive \u00e0 l'effort",
+      "E. Signe Babinski pr\u00e9sent"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 3,
+    "question": "*Depuis quel stade de la classification d'Osserman de la myasth\u00e9nie existe la paralysie de la musculature pharyngo-laryngienne ?",
+    "options": [
+      "A. Stade I",
+      "B. Stade II A",
+      "C. Stade II B",
+      "D. Stade III",
+      "E. Stade IV"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 4,
+    "question": "Le syndrome de neurone moteur p\u00e9riph\u00e9rique est caract\u00e9ris\u00e9 par :",
+    "options": [
+      "A. H\u00e9mipar\u00e9sie",
+      "B. Signe Babinski pr\u00e9sent",
+      "C. Hypotonie musculaire",
+      "D. R\u00e9flexes ost\u00e9o-tendineux diminu\u00e9s",
+      "E. Hypertonie musculaire"
+    ],
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 5,
+    "question": "La mononeuropathie du nerf radial est caract\u00e9ris\u00e9e par :",
+    "options": [
+      "A. Elle peut \u00eatre produite par des fractures du f\u00e9mur",
+      "B. Troubles de la sensibilit\u00e9 dans la r\u00e9gion interne du bras",
+      "C. La paralysie de l'adduction du pouce",
+      "D. Main en \"cou de cygne\"",
+      "E. R\u00e9flexe stylo-radial aboli"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 6,
+    "question": "La mononeuropathie du nerf crural se manifeste par :",
+    "options": [
+      "A. Elle peut \u00eatre produite par une compression due \u00e0 une tumeur r\u00e9trop\u00e9riton\u00e9ale",
+      "B. L'impossibilit\u00e9 de l'extension de la jambe sur la cuisse",
+      "C. L'impossibilit\u00e9 de l'extension de la cuisse sur l'abdomen",
+      "D. L'impossibilit\u00e9 de la flexion de la cuisse sur l'abdomen",
+      "E. L'impossibilit\u00e9 de la flexion de la jambe sur la cuisse"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 7,
+    "question": "*Une des propositions suivantes est fausse :",
+    "options": [
+      "A. La hernie de disque peut d\u00e9terminer des douleurs radiculaires",
+      "B. Elle est rencontr\u00e9e plus fr\u00e9quemment apr\u00e8s 30 ans",
+      "C. Les disques thoraciques sont le plus fr\u00e9quemment affect\u00e9s",
+      "D. La sciatique paralysante a une indication op\u00e9ratoire d'urgence",
+      "E. La hernie de disque est caract\u00e9ris\u00e9e par la fragmentation du nucl\u00e9us, avec sa herniation par les fissures de l'anneau fibreux, avec la compression des racines"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 8,
+    "question": "*Le syndrome de la queue de cheval inf\u00e9rieur (S3-S5) est caract\u00e9ris\u00e9 par :",
+    "options": [
+      "A. Paralysie au niveau des membres inf\u00e9rieurs",
+      "B. La pr\u00e9sence de signe du Babinski",
+      "C. L'abolition du r\u00e9flexe achill\u00e9en",
+      "D. Anesth\u00e9sie au niveau des faces ant\u00e9rieure et interne de la cuisse",
+      "E. Troubles sphinct\u00e9riens"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 9,
+    "question": "La polyradiculon\u00e9vrite se caract\u00e9rise par :",
+    "options": [
+      "A. La d\u00e9g\u00e9n\u00e9rescence wall\u00e9rienne des racines et des nerfs p\u00e9riph\u00e9riques",
+      "B. La d\u00e9my\u00e9linisation segmentaire des racines et des nerfs p\u00e9riph\u00e9riques associ\u00e9e avec un infiltrat inflammatoire",
+      "C. La paralysie d\u00e9bute toujours au niveau des nerfs oculomoteurs",
+      "D. Le r\u00e9sultat de la ponction lombaire est normal pendant toute l'\u00e9volution de la maladie",
+      "E. La paralysie d\u00e9bute sp\u00e9cialement au niveau des membres inf\u00e9rieurs"
+    ],
+    "correct_answers": ["B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 10,
+    "question": "*Quelle affirmation concernant la my\u00e9lite aigu\u00eb est fausse ?",
+    "options": [
+      "A. C'est une maladie inflammatoire de la moelle \u00e9pini\u00e8re",
+      "B. Le patient n'a pas des troubles sphinct\u00e9riens",
+      "C. Apr\u00e8s la phase de choc spinal s'installe la phase d'automatisme spinal",
+      "D. La paralysie est de type parapl\u00e9gie ou t\u00e9trapl\u00e9gie",
+      "E. Au d\u00e9but, les r\u00e9flexes ost\u00e9o-tendineux sont abolis"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 11,
+    "question": "La scl\u00e9rose lat\u00e9rale amyotrophique est caract\u00e9ris\u00e9e par les syndromes suivants :",
+    "options": [
+      "A. Pyramidal",
+      "B. De corne ant\u00e9rieure m\u00e9dullaire",
+      "C. C\u00e9r\u00e9belleux",
+      "D. De corne post\u00e9rieure m\u00e9dullaire",
+      "E. Pseudobulbaire"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 12,
+    "question": "Le syndrome Wallenberg se caract\u00e9rise par :",
+    "options": [
+      "A. Anesth\u00e9sie thermo-algique au niveau de l'h\u00e9micorps controlat\u00e9ral",
+      "B. Au niveau de la l\u00e9sion : anesth\u00e9sie de l'h\u00e9miface (V), nystagmus (VIII), dysphagie, dysphonie (IX, X)",
+      "C. De l'autre c\u00f4t\u00e9 de la l\u00e9sion : anesth\u00e9sie de l'h\u00e9miface (V), nystagmus (VIII), dysphagie, dysphonie (IX, X)",
+      "D. Syndrome pal\u00e9oc\u00e9r\u00e9belleux du c\u00f4t\u00e9 de la l\u00e9sion",
+      "E. H\u00e9mipl\u00e9gie controlat\u00e9rale"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 13,
+    "question": "*Le syndrome de sinus caverneux est caract\u00e9ris\u00e9 par :",
+    "options": [
+      "A. La l\u00e9sion des nerfs VII, VIII au niveau de la l\u00e9sion",
+      "B. La l\u00e9sion des nerfs III, IV, V, VI au niveau de la l\u00e9sion",
+      "C. La l\u00e9sion de nerf XII homolat\u00e9ral",
+      "D. La l\u00e9sion de nerf XII de l'autre c\u00f4t\u00e9 de la l\u00e9sion",
+      "E. La l\u00e9sion des nerfs III, IV, V, VI de l'autre c\u00f4t\u00e9 de la l\u00e9sion"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 14,
+    "question": "L'ataxie c\u00e9r\u00e9belleuse est compos\u00e9e par :",
+    "options": [
+      "A. L'asynergie",
+      "B. Le tremblement de repos",
+      "C. L'hypertonie musculaire",
+      "D. L'adiadococin\u00e9sie",
+      "E. La dysm\u00e9trie"
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 15,
+    "question": "La migraine :",
+    "options": [
+      "A. C'est une c\u00e9phal\u00e9e secondaire",
+      "B. Elle peut s'associer avec une photophobie ou naus\u00e9e",
+      "C. La c\u00e9phal\u00e9e est toujours bilat\u00e9rale",
+      "D. C'est une c\u00e9phal\u00e9e primaire",
+      "E. La c\u00e9phal\u00e9e a une intensit\u00e9 mod\u00e9r\u00e9e ou s\u00e9v\u00e8re"
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 16,
+    "question": "La c\u00e9phal\u00e9e du syndrome d'hypertension intracr\u00e2nienne :",
+    "options": [
+      "A. Est accentu\u00e9e par des actes qui augmentent la pression endocr\u00e2nienne",
+      "B. Est le plus fr\u00e9quent sympt\u00f4me dans ce syndrome",
+      "C. Elle n'est pas am\u00e9lior\u00e9e par le mannitol 20%",
+      "D. Elle est am\u00e9lior\u00e9e par les analg\u00e9siques usuels",
+      "E. Elle est associ\u00e9e avec des vomissements et un \u0153d\u00e8me papillaire"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 17,
+    "question": "Dans la n\u00e9vralgie trig\u00e9minale symptomatique :",
+    "options": [
+      "A. Il y a des douleurs continues, de petite intensit\u00e9, associ\u00e9es avec des exacerbations paroxystiques",
+      "B. Il n'y a pas des troubles de sensibilit\u00e9 objective dans le territoire du trijumeau",
+      "C. Il y a des troubles de la sensibilit\u00e9 objective au niveau du territoire du trijumeau",
+      "D. Le r\u00e9flexe corn\u00e9en est aboli de l'autre c\u00f4t\u00e9 de la l\u00e9sion",
+      "E. Le r\u00e9flexe corn\u00e9en est aboli du c\u00f4t\u00e9 de la l\u00e9sion"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 18,
+    "question": "Le syndrome thalamique global est caract\u00e9ris\u00e9 par :",
+    "options": [
+      "A. H\u00e9mi-hypoesth\u00e9sie homolat\u00e9rale",
+      "B. H\u00e9mi-ataxie homolat\u00e9rale",
+      "C. Douleur thalamique",
+      "D. H\u00e9mi-hypoesth\u00e9sie controlat\u00e9rale",
+      "E. H\u00e9mianopsie homonyme homolat\u00e9rale"
+    ],
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 19,
+    "question": "*Le syndrome pal\u00e9ostri\u00e9 n'est pas caract\u00e9ris\u00e9 par :",
+    "options": [
+      "A. Bradykin\u00e9sie",
+      "B. Akin\u00e9sie",
+      "C. Tremblement de repos",
+      "D. Hypertonie musculaire",
+      "E. Paralysie"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 20,
+    "question": "La maladie de Parkinson pr\u00e9sente :",
+    "options": [
+      "A. Le d\u00e9but clinique est toujours avant 45-50 ans",
+      "B. Il y a un tremblement de repos",
+      "C. Il y a un tremblement intentionnel final",
+      "D. Il y a un tremblement postural",
+      "E. Le d\u00e9but clinique est souvent apr\u00e8s 45-50 ans"
+    ],
+    "correct_answers": ["B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 21,
+    "question": "La chor\u00e9e chronique Huntington :",
+    "options": [
+      "A. Pr\u00e9sente une \u00e9tiologie infecto-allergique",
+      "B. \u00c9volue vers d\u00e9mence",
+      "C. Elle se manifeste par hypotonie",
+      "D. Est une maladie h\u00e9r\u00e9ditaire",
+      "E. Elle pr\u00e9sente des mouvements involontaires"
+    ],
+    "correct_answers": ["B", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 22,
+    "question": "La d\u00e9g\u00e9n\u00e9rescence h\u00e9pato-lenticulaire :",
+    "options": [
+      "A. Existe une cirrhose h\u00e9patique",
+      "B. Il y a des l\u00e9sions de la moelle \u00e9pini\u00e8re",
+      "C. Les noyaux stri\u00e9s pr\u00e9sentent des l\u00e9sions",
+      "D. Les noyaux stri\u00e9s ne pr\u00e9sentent pas des l\u00e9sions",
+      "E. Elle se manifeste par un syndrome panstri\u00e9"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 23,
+    "question": "*Le syndrome frontal ne se caract\u00e9rise pas par :",
+    "options": [
+      "A. Des crises \u00e9pileptiques partielles motrices",
+      "B. Aphasie de Wernicke",
+      "C. Aphasie de Broca",
+      "D. R\u00e9flexe de pr\u00e9hension forc\u00e9 controlat\u00e9ral",
+      "E. H\u00e9mipar\u00e9sie controlat\u00e9rale"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 24,
+    "question": "L'aphasie Wernicke se caract\u00e9rise par :",
+    "options": [
+      "A. Dysarthrie",
+      "B. Troubles s\u00e9v\u00e8res de la compr\u00e9hension orale",
+      "C. Paragrammatisme",
+      "D. Troubles discrets de la compr\u00e9hension orale",
+      "E. Anomie"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 25,
+    "question": "*La somatognosie est localis\u00e9e au niveau des aires Brodmann :",
+    "options": [
+      "A. A 5 et 7 du lobe pari\u00e9tal droit",
+      "B. A 39 et 40 du lobe pari\u00e9tal gauche",
+      "C. A 2 Brodmann du lobe pari\u00e9tal gauche",
+      "D. A 5 et 7 Brodmann du lobe pari\u00e9tal gauche",
+      "E. A 39 et 40 Brodmann du lobe pari\u00e9tal droit"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 26,
+    "question": "La c\u00e9cit\u00e9 corticale se produit en cas de :",
+    "options": [
+      "A. L\u00e9sion destructive bilat\u00e9rale des A 17 Brodmann",
+      "B. L\u00e9sion destructive de l'A 17 Brodmann gauche",
+      "C. Infarctus dans le territoire profond de l'art\u00e8re c\u00e9r\u00e9brale post\u00e9rieure droite",
+      "D. L\u00e9sion destructive de l'A 17 Brodmann droite",
+      "E. Infarctus dans le territoire superficiel des deux art\u00e8res c\u00e9r\u00e9brales post\u00e9rieures"
+    ],
+    "correct_answers": ["A", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 27,
+    "question": "Le diagnostic positif de d\u00e9mence inclut les crit\u00e8res suivants :",
+    "options": [
+      "A. L'affection obligatoire de la m\u00e9moire",
+      "B. Les d\u00e9ficits cognitifs sont pr\u00e9sents seulement dans un \u00e9pisode de delirium",
+      "C. Parfois, la perte de la m\u00e9moire n'est pas le sympt\u00f4me pr\u00e9dominant",
+      "D. Aphasie, agnosie, apraxie, ou l'affection des fonctions ex\u00e9cutives",
+      "E. Le d\u00e9ficit des fonctions cognitives progresse dans le temps"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 28,
+    "question": "La s\u00e9miologie pathognomonique des accidents isch\u00e9miques transitoires dans le territoire carotidien est repr\u00e9sent\u00e9e par :",
+    "options": [
+      "A. C\u00e9cit\u00e9 monoculaire",
+      "B. H\u00e9mianopsie homonyme controlat\u00e9rale",
+      "C. Vertige",
+      "D. Aphasie",
+      "E. Ataxie c\u00e9r\u00e9belleuse"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 29,
+    "question": "Les 3 plus fr\u00e9quents types des accidents vasculaires c\u00e9r\u00e9braux isch\u00e9miques sont repr\u00e9sent\u00e9s par :",
+    "options": [
+      "A. L'infarctus c\u00e9r\u00e9bral ath\u00e9ro-thrombotique",
+      "B. L'infarctus cons\u00e9cutif \u00e0 la dissection des art\u00e8res cervicales",
+      "C. L'infarctus lacunaire",
+      "D. L'infarctus cardio-embolique",
+      "E. L'infarctus cons\u00e9cutif aux vascularites"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 30,
+    "question": "L'infarctus sylvien total se manifeste par :",
+    "options": [
+      "A. H\u00e9mipl\u00e9gie controlat\u00e9rale \u00e0 la l\u00e9sion",
+      "B. H\u00e9mianopsie homonyme homolat\u00e9rale",
+      "C. H\u00e9mianesth\u00e9sie controlat\u00e9rale",
+      "D. H\u00e9mipl\u00e9gie homolat\u00e9rale",
+      "E. H\u00e9mianesth\u00e9sie homolat\u00e9rale"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 31,
+    "question": "Le traitement anticoagulant oral est indiqu\u00e9 dans :",
+    "options": [
+      "A. L'infarctus lacunaire",
+      "B. La phl\u00e9bothrombose c\u00e9r\u00e9brale",
+      "C. L'infarctus cardio-embolique",
+      "D. L'h\u00e9morragie c\u00e9r\u00e9brale lobaire",
+      "E. L'h\u00e9morragie m\u00e9ning\u00e9e"
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 32,
+    "question": "L'\u00e9tiologie des accidents vasculaires c\u00e9r\u00e9braux h\u00e9morragiques est repr\u00e9sent\u00e9e par :",
+    "options": [
+      "A. L'hypertension art\u00e9rielle",
+      "B. Le traitement anticoagulant",
+      "C. Le traitement h\u00e9mostatique",
+      "D. Les malformations vasculaires rompues",
+      "E. L'angiopathie amylo\u00efde"
+    ],
+    "correct_answers": ["A", "B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 33,
+    "question": "L'h\u00e9morragie c\u00e9r\u00e9brale repr\u00e9sente :",
+    "options": [
+      "A. 80% du total des accidents vasculaires c\u00e9r\u00e9braux",
+      "B. Le vaisseau c\u00e9r\u00e9bral se rompt et le sang passe dans le parenchyme c\u00e9r\u00e9bral",
+      "C. L'hypertension art\u00e9rielle repr\u00e9sente la plus fr\u00e9quente cause",
+      "D. La c\u00e9phal\u00e9e est un sympt\u00f4me fr\u00e9quent",
+      "E. La localisation la plus fr\u00e9quente est au niveau du cervelet"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 34,
+    "question": "*L'h\u00e9morragie m\u00e9ning\u00e9e non-traumatique suit \u00e0 une fissure des art\u00e8res du polygone de Willis dans :",
+    "options": [
+      "A. 80% des cas",
+      "B. 10% des cas",
+      "C. 20% des cas",
+      "D. 30% des cas",
+      "E. 40% des cas"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 35,
+    "question": "La symptomatologie des phl\u00e9bothromboses c\u00e9r\u00e9brales est repr\u00e9sent\u00e9e par :",
+    "options": [
+      "A. Des d\u00e9ficits neurologiques focaux",
+      "B. Le syndrome de sinus caverneux",
+      "C. Le syndrome myopathique",
+      "D. C\u00e9phal\u00e9e",
+      "E. Crises \u00e9pileptiques"
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 36,
+    "question": "Les crises \u00e9pileptiques focales simples se caract\u00e9risent par :",
+    "options": [
+      "A. Sympt\u00f4mes/signes cliniques suggestifs pour la localisation du foyer \u00e9pileptog\u00e8ne",
+      "B. Anomalie focale sur l'EEG",
+      "C. La perte de la conscience",
+      "D. La conscience est maintenue",
+      "E. Elles ne peuvent pas \u00eatre suivies par une crise \u00e9pileptique g\u00e9n\u00e9ralis\u00e9e"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 37,
+    "question": "Les crises \u00e9pileptiques motrices jacksoniennes se caract\u00e9risent par :",
+    "options": [
+      "A. Au d\u00e9but il y a des contractions toniques suivies par des contractions cloniques au niveau d'un segment du corps",
+      "B. La modification de l'\u00e9tat de conscience",
+      "C. L'EEG rel\u00e8ve une l\u00e9sion pari\u00e9tale",
+      "D. Elles peuvent \u00eatre suivies par une crise \u00e9pileptique g\u00e9n\u00e9ralis\u00e9e",
+      "E. L'EEG rel\u00e8ve une l\u00e9sion frontale"
+    ],
+    "correct_answers": ["A", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 38,
+    "question": "Les crises \u00e9pileptiques temporales se caract\u00e9risent par :",
+    "options": [
+      "A. La conservation de la conscience",
+      "B. La modification de la conscience",
+      "C. La pr\u00e9sence des automatismes",
+      "D. La perte de la conscience",
+      "E. Elles ne peuvent pas \u00eatre continu\u00e9es par une crise g\u00e9n\u00e9ralis\u00e9e"
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 39,
+    "question": "Les crises \u00e9pileptiques g\u00e9n\u00e9ralis\u00e9es se caract\u00e9risent par :",
+    "options": [
+      "A. La perte de la conscience",
+      "B. Des manifestations motrices bilat\u00e9rales",
+      "C. Anomalies EEG g\u00e9n\u00e9ralis\u00e9es",
+      "D. La conservation de la conscience",
+      "E. L'amn\u00e9sie de la crise"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 40,
+    "question": "L'aura :",
+    "options": [
+      "A. Existe dans 40-50% des crises \u00e9pileptiques g\u00e9n\u00e9ralis\u00e9es",
+      "B. Existe dans toutes les crises \u00e9pileptiques g\u00e9n\u00e9ralis\u00e9es",
+      "C. Existe dans 10-20% des crises \u00e9pileptiques g\u00e9n\u00e9ralis\u00e9es",
+      "D. Elles sont toujours diff\u00e9rentes au m\u00eame malade",
+      "E. Elles sont identiques au m\u00eame malade"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 41,
+    "question": "Dans le status grand mal :",
+    "options": [
+      "A. Existent des troubles v\u00e9g\u00e9tatifs",
+      "B. Existe une seule crise \u00e9pileptique courte (1-2 min)",
+      "C. Les crises tonico-cloniques ont un caract\u00e8re sous-intrant (avec la perte de l'\u00e9tat de conscience pendant tout ce temps)",
+      "D. Il n'est pas une urgence m\u00e9dicale",
+      "E. Il est favoris\u00e9 par des diff\u00e9rents facteurs : (infections, etc)"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 42,
+    "question": "Les principaux signes survenus au d\u00e9but de la scl\u00e9rose en plaques sont :",
+    "options": [
+      "A. Paralysies",
+      "B. Paresth\u00e9sies",
+      "C. N\u00e9vrite optique",
+      "D. Aphasie",
+      "E. Crises \u00e9pileptiques"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 43,
+    "question": "La paralysie dans la scl\u00e9rose en plaques est caract\u00e9ris\u00e9e par :",
+    "options": [
+      "A. R\u00e9flexes ost\u00e9o-tendineux diminu\u00e9s",
+      "B. R\u00e9flexes cutan\u00e9s abdominaux augment\u00e9s",
+      "C. Le signe du Babinski est pr\u00e9sent",
+      "D. H\u00e9mipar\u00e9sie fr\u00e9quente",
+      "E. Il y a des l\u00e9sions au niveau des voies pyramidales cervicales"
+    ],
+    "correct_answers": ["C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 44,
+    "question": "La s\u00e9miologie de la scl\u00e9rose en plaques est repr\u00e9sent\u00e9e par :",
+    "options": [
+      "A. N\u00e9vrite optique",
+      "B. Syndrome c\u00e9r\u00e9belleux",
+      "C. Syndrome pyramidal",
+      "D. S\u00e9miologie pure psychiatrique fr\u00e9quente",
+      "E. Troubles oculomoteurs"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 45,
+    "question": "Polioenc\u00e9phalites :",
+    "options": [
+      "A. L'inflammation est localis\u00e9e au niveau de la substance grise de l'enc\u00e9phale",
+      "B. L'enc\u00e9phalite herp\u00e9tique c'est une polioenc\u00e9phalite",
+      "C. L'enc\u00e9phalite japonaise c'est une polioenc\u00e9phalite",
+      "D. La fi\u00e8vre c'est un sympt\u00f4me fr\u00e9quent",
+      "E. La c\u00e9phal\u00e9e ne se manifeste pas dans les polioenc\u00e9phalites"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 46,
+    "question": "Le syndrome m\u00e9ning\u00e9 se manifeste par :",
+    "options": [
+      "A. Le signe de Hoffman",
+      "B. Le signe de Babinski",
+      "C. Hypotonie musculaire",
+      "D. Rigidit\u00e9 de la nuque",
+      "E. Le signe de Kernig"
+    ],
+    "correct_answers": ["D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 47,
+    "question": "L'enc\u00e9phalite herp\u00e9tique se caract\u00e9rise par :",
+    "options": [
+      "A. Le lobe temporal est affect\u00e9",
+      "B. C'est une polioenc\u00e9phalite",
+      "C. C'est une panenc\u00e9phalite",
+      "D. Le lobe occipital est affect\u00e9",
+      "E. Aphasie et troubles de la m\u00e9moire"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 48,
+    "question": "Dans le 3\u00e8me stade des comas (m\u00e9senc\u00e9phalique) :",
+    "options": [
+      "A. Les r\u00e9flexes de d\u00e9glutition sont abolis",
+      "B. Les r\u00e9flexes corn\u00e9ens sont conserv\u00e9s",
+      "C. Les r\u00e9flexes photomoteurs sont abolis",
+      "D. Les r\u00e9flexes photomoteurs sont conserv\u00e9s",
+      "E. Les r\u00e9flexes corn\u00e9ens sont abolis"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 49,
+    "question": "Dans le 4\u00e8me stade des comas (pontique) :",
+    "options": [
+      "A. Les r\u00e9flexes de d\u00e9glutition sont conserv\u00e9s",
+      "B. Les r\u00e9flexes corn\u00e9ens sont conserv\u00e9s",
+      "C. Les r\u00e9flexes photomoteurs sont conserv\u00e9s",
+      "D. Les r\u00e9flexes corn\u00e9ens sont abolis",
+      "E. Les r\u00e9flexes photomoteurs sont abolis"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 50,
+    "question": "Dans le 5\u00e8me stade des comas (bulbaire) :",
+    "options": [
+      "A. Les r\u00e9flexes corn\u00e9ens sont conserv\u00e9s",
+      "B. Les r\u00e9flexes de d\u00e9glutition sont abolis",
+      "C. Les r\u00e9flexes photomoteurs sont conserv\u00e9s",
+      "D. Les r\u00e9flexes photomoteurs sont abolis",
+      "E. Les r\u00e9flexes corn\u00e9ens sont abolis"
+    ],
+    "correct_answers": ["B", "D", "E"]
+  }
+]
