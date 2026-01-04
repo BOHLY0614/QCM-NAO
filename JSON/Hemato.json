@@ -1,838 +1,646 @@
 [
-    {
-        "chapitre": 0,
-        "id": 1,
-        "question": "Leuc\u00e9mie my\u00e9lo\u00efde aigu\u00eb investigations :",
-        "options": [
-            "A. CBC (Cell Blood Count) et diff\u00e9renciation",
-            "B. Moelle osseuse - aspiration et biopsie",
-            "C. CT/IRM",
-            "D. Niveau de ferritine",
-            "E. Aucune de ces r\u00e9ponses"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 2,
-        "question": "Leuc\u00e9mie lymphoblastique aigu\u00eb - Caract\u00e9ristiques cliniques :",
-        "options": [
-            "A. Infections, saignements, an\u00e9mie",
-            "B. Lymphad\u00e9nopathie g\u00e9n\u00e9ralis\u00e9e",
-            "C. Spl\u00e9nom\u00e9galie",
-            "D. Signes SNC (Syst\u00e8me Nerveux Central)",
-            "E. Tout ce qui pr\u00e9c\u00e8de"
-        ],
-        "correct_answers": [
-            "E"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 3,
-        "question": "Leuc\u00e9mie lymphoblastique aigu\u00eb - Traitement sp\u00e9cifique :",
-        "options": [
-            "A. Greffe de cellules souches pour tous comme traitement d'induction",
-            "B. Induction",
-            "C. Consolidation",
-            "D. Maintenance pendant 2 ans",
-            "E. Prophylaxie du SNC"
-        ],
-        "correct_answers": [
-            "B",
-            "C",
-            "D",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 4,
-        "question": "An\u00e9mie ferriprive - \u00c9tiologie :",
-        "options": [
-            "A. Grossesse et allaitement",
-            "B. Achlorhydrie",
-            "C. Saignement GI (Gastro-intestinal)",
-            "D. Stress",
-            "E. Douleur osseuse"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 5,
-        "question": "R\u00e9sultats de laboratoire dans l'an\u00e9mie ferriprive :",
-        "options": [
-            "A. An\u00e9mie - faible taux d'h\u00e9moglobine, faibles globules rouges",
-            "B. Frottis sanguin - microcytaire, hypochrome, anisocytose et po\u00efkilocytose",
-            "C. Ferritine s\u00e9rique - Faible",
-            "D. Moelle osseuse montrant l'absence de fer colorable",
-            "E. Tout ce qui pr\u00e9c\u00e8de"
-        ],
-        "correct_answers": [
-            "E"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 6,
-        "question": "Laquelle des situations suivantes peut d\u00e9clencher des m\u00e9canismes pathologiques CID (CIVD) :",
-        "options": [
-            "A. Infection bact\u00e9rienne",
-            "B. Leuc\u00e9mie promy\u00e9locytaire aigu\u00eb",
-            "C. H\u00e9molyse aigu\u00eb",
-            "D. Carence en fer avanc\u00e9e",
-            "E. Choc h\u00e9morragique, choc septique"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 7,
-        "question": "Parmi les formes suivantes, lesquelles sont des lymphomes de bas grade :",
-        "options": [
-            "A. Petit lymphome lymphocytaire",
-            "B. Lymphome lymphoblastique",
-            "C. Lymphome de Burkitt",
-            "D. Lymphome folliculaire \u00e0 petites cellules cliv\u00e9es",
-            "E. Lymphome mixte folliculaire"
-        ],
-        "correct_answers": [
-            "A",
-            "D",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 8,
-        "question": "Caract\u00e9ristiques cliniques des lymphomes non hodgkiniens :",
-        "options": [
-            "A. Lymphad\u00e9nopathie",
-            "B. Cytop\u00e9nies",
-            "C. Sympt\u00f4mes syst\u00e9miques",
-            "D. H\u00e9patospl\u00e9nom\u00e9galie",
-            "E. Fractures"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 9,
-        "question": "* Qu'est-ce qu'un lymphome indolent :",
-        "options": [
-            "A. Une l\u00e9sion b\u00e9nigne",
-            "B. Une l\u00e9sion pr\u00e9maligne",
-            "C. Une lymphoprolif\u00e9ration non trait\u00e9e peut survivre des ann\u00e9es",
-            "D. Une lymphoprolif\u00e9ration non trait\u00e9e peut survivre des mois",
-            "E. Une lymphoprolif\u00e9ration non trait\u00e9e peut survivre des semaines"
-        ],
-        "correct_answers": [
-            "C"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 10,
-        "question": "Le traitement des lymphomes non hodgkiniens contient :",
-        "options": [
-            "A. Chimioth\u00e9rapie",
-            "B. Radioth\u00e9rapie",
-            "C. Th\u00e9rapie par anticorps monoclonaux",
-            "D. Greffes de moelle osseuse et de cellules souches",
-            "E. Aucune de ces r\u00e9ponses"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 11,
-        "question": "Sch\u00e9mas de chimioth\u00e9rapie dans le lymphome de Hodgkin :",
-        "options": [
-            "A. CHOP",
-            "B. MOPP",
-            "C. ABVD",
-            "D. FCR",
-            "E. BEACOPP"
-        ],
-        "correct_answers": [
-            "B",
-            "C",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 12,
-        "question": "Dans le my\u00e9lome multiple, les manifestations cliniques comprennent :",
-        "options": [
-            "A. Neuropathie",
-            "B. Douleur due \u00e0 la compression vert\u00e9brale",
-            "C. Fracture pathologique",
-            "D. Toux",
-            "E. N\u00e9phropathie"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 13,
-        "question": "Dans le my\u00e9lome multiple, les changements de laboratoire suivants peuvent survenir :",
-        "options": [
-            "A. Plus de 30% de blastes dans le sang p\u00e9riph\u00e9rique",
-            "B. An\u00e9mie",
-            "C. Immunoglobulines monoclonales s\u00e9riques hautement quantitatives (IgA, IgG, IgM)",
-            "D. Hypercalc\u00e9mie",
-            "E. Troubles de la coagulation"
-        ],
-        "correct_answers": [
-            "B",
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 14,
-        "question": "La macroglobulin\u00e9mie de Waldenstr\u00f6m est :",
-        "options": [
-            "A. N\u00e9oplasie granulocytaire",
-            "B. N\u00e9oplasie pulmonaire",
-            "C. N\u00e9oplasie lymphoplasmocytaire",
-            "D. N\u00e9oplasie r\u00e9nale",
-            "E. An\u00e9mie"
-        ],
-        "correct_answers": [
-            "C"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 15,
-        "question": "Les modifications de laboratoire de la macroglobulin\u00e9mie de Waldenstr\u00f6m comprennent :",
-        "options": [
-            "A. An\u00e9mie",
-            "B. Polyglobulie",
-            "C. Infiltrat de moelle avec lymphoplasmocytes",
-            "D. Thrombocytop\u00e9nie",
-            "E. Plus de 30% de blastes dans le sang p\u00e9riph\u00e9rique"
-        ],
-        "correct_answers": [
-            "A",
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 16,
-        "question": "* Parmi les explorations non invasives suivantes, laquelle ne peut pas voir la rate :",
-        "options": [
-            "A. Scintigraphie h\u00e9patospl\u00e9nique",
-            "B. \u00c9chographie",
-            "C. Tomographie abdominale par ordinateur (TDM)",
-            "D. Techniques de radio-isotopes utilisant le 51Cr",
-            "E. Radiographies thoraciques"
-        ],
-        "correct_answers": [
-            "E"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 17,
-        "question": "Causes de la spl\u00e9nom\u00e9galie massive :",
-        "options": [
-            "A. Leuc\u00e9mie my\u00e9lo\u00efde chronique",
-            "B. Lymphomes malins",
-            "C. La leuc\u00e9mie lymphocytaire chronique",
-            "D. Pneumonie",
-            "E. Maladie de Gaucher"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 18,
-        "question": "Indications de la spl\u00e9nectomie :",
-        "options": [
-            "A. \u00c0 un stade de la maladie et pour contr\u00f4ler (lymphome, sph\u00e9rocytose h\u00e9r\u00e9ditaire)",
-            "B. Pour supprimer les cons\u00e9quences secondaires de l'hyperspl\u00e9nisme",
-            "C. En cas de rupture traumatique ou spontan\u00e9e",
-            "D. Infection urinaire tactile",
-            "E. La dermatite atopique"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 19,
-        "question": "La pr\u00e9sentation clinique de la leuc\u00e9mie my\u00e9lo\u00efde chronique (LMC) comprend :",
-        "options": [
-            "A. Spl\u00e9nom\u00e9galie",
-            "B. Perte de poids",
-            "C. Sati\u00e9t\u00e9 pr\u00e9coce",
-            "D. Sueurs nocturnes",
-            "E. C\u00e9cit\u00e9"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 20,
-        "question": "Le traitement de la leuc\u00e9mie my\u00e9lo\u00efde chronique (LMC) comprend :",
-        "options": [
-            "A. Hydroxiur\u00e9e",
-            "B. Melphalan",
-            "C. Interf\u00e9ron",
-            "D. Allogreffe",
-            "E. Th\u00e9rapie CHOP"
-        ],
-        "correct_answers": [
-            "A",
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 21,
-        "question": "Dans la leuc\u00e9mie lympho\u00efde chronique g\u00e9n\u00e9rale, les signes non sp\u00e9cifiques sont :",
-        "options": [
-            "A. Fatigue",
-            "B. Perte de poids",
-            "C. Sueurs nocturnes",
-            "D. Perte d'app\u00e9tit",
-            "E. Tout ce qui pr\u00e9c\u00e8de"
-        ],
-        "correct_answers": [
-            "E"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 22,
-        "question": "Les crit\u00e8res biologiques pour un diagnostic positif dans la leuc\u00e9mie lympho\u00efde chronique sont :",
-        "options": [
-            "A. Sang p\u00e9riph\u00e9rique - plus de 5000 lymphocytes/mm3",
-            "B. Moelle osseuse - plus de 40% de lymphocytose",
-            "C. Sang p\u00e9riph\u00e9rique - plus de 30% de blastes",
-            "D. Dans la moelle - plus de 30% de blastes",
-            "E. Moelle osseuse - plus de 30% de plasmocytes"
-        ],
-        "correct_answers": [
-            "A",
-            "B"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 23,
-        "question": "Les m\u00e9dicaments suivants sont utilis\u00e9s pour traiter la leuc\u00e9mie lympho\u00efde chronique :",
-        "options": [
-            "A. Hydroxiur\u00e9e",
-            "B. Agents alkylants",
-            "C. Fludarabine",
-            "D. Des anticorps monoclonaux",
-            "E. Melphalan"
-        ],
-        "correct_answers": [
-            "B",
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 24,
-        "question": "Les manifestations cliniques du PTI surviennent lentement en quelques mois et consistent en :",
-        "options": [
-            "A. Purpura",
-            "B. P\u00e9t\u00e9chies",
-            "C. Bulles h\u00e9morragiques sur la muqueuse",
-            "D. \u00c9pistaxis",
-            "E. Les infections"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 25,
-        "question": "Le traitement du PTI comprend :",
-        "options": [
-            "A. Prednisone",
-            "B. Spl\u00e9nectomie",
-            "C. Immunoglobulines",
-            "D. Agents immunosuppresseurs",
-            "E. Les antid\u00e9presseurs"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 26,
-        "question": "* Caract\u00e9ristiques cliniques de la leuc\u00e9mie my\u00e9lo\u00efde aigu\u00eb :",
-        "options": [
-            "A. Fi\u00e8vre, malaise, sympt\u00f4mes an\u00e9miques, infections",
-            "B. Saignement, purpura, ecchymose spontan\u00e9e",
-            "C. Signes leucostatiques",
-            "D. Infiltration des tissus mous",
-            "E. Tout ce qui pr\u00e9c\u00e8de"
-        ],
-        "correct_answers": [
-            "E"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 27,
-        "question": "Leuc\u00e9mie my\u00e9lo\u00efde aigu\u00eb - Traitement :",
-        "options": [
-            "A. Hydratation et allopurinol",
-            "B. Substitution de la vitamine B12",
-            "C. Prise en charge des globules rouges et des plaquettes",
-            "D. Traitement sp\u00e9cifique - Induction + consolidation",
-            "E. Produits en fer"
-        ],
-        "correct_answers": [
-            "A",
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 28,
-        "question": "Classification FAB dans la leuc\u00e9mie lymphoblastique aigu\u00eb (L1-L3) :",
-        "options": [
-            "A. L2 - Petites cellules homog\u00e8nes",
-            "B. L1 - Petites cellules homog\u00e8nes, avec un cytoplasme peu abondant",
-            "C. L3 - Cellules h\u00e9t\u00e9rog\u00e8nes de grande taille",
-            "D. L2 - H\u00e9t\u00e9rog\u00e8nes, grandes cellules. Noyau et cytoplasme variables",
-            "E. L3 - Grandes cellules homog\u00e8nes, basophilie avec vacuolisation cytoplasmique"
-        ],
-        "correct_answers": [
-            "B",
-            "D",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 29,
-        "question": "L'an\u00e9mie hypochrome microcytaire pr\u00e9sente les caract\u00e9ristiques suivantes :",
-        "options": [
-            "A. VGM faible",
-            "B. VGM augment\u00e9",
-            "C. CCMH augment\u00e9e",
-            "D. Diminution de la CCMH",
-            "E. Frottis sanguin p\u00e9riph\u00e9rique caract\u00e9ristique - microcytaire, po\u00efkilocytose, hypochromie"
-        ],
-        "correct_answers": [
-            "A",
-            "D",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 30,
-        "question": "Le diagnostic diff\u00e9rentiel de l'an\u00e9mie m\u00e9galoblastique est pos\u00e9 avec :",
-        "options": [
-            "A. Syndromes my\u00e9lodisplasiques",
-            "B. Thalass\u00e9mie",
-            "C. Sph\u00e9rocytose h\u00e9r\u00e9ditaire",
-            "D. D\u00e9ficience en fer",
-            "E. Leuc\u00e9mies"
-        ],
-        "correct_answers": [
-            "A",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 31,
-        "question": "An\u00e9mie m\u00e9galoblastique - \u00c9tiologie :",
-        "options": [
-            "A. Malnutrition",
-            "B. Saignement",
-            "C. Gastrectomie, r\u00e9section il\u00e9ale",
-            "D. Anticorps anti-facteur intrins\u00e8que - An\u00e9mie pernicieuse",
-            "E. Maladie intestinale inflammatoire"
-        ],
-        "correct_answers": [
-            "A",
-            "C",
-            "D",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 32,
-        "question": "L'h\u00e9mophilie A est :",
-        "options": [
-            "A. D\u00e9ficit cong\u00e9nital en facteur VIII",
-            "B. D\u00e9ficit cong\u00e9nital en facteur IX",
-            "C. D\u00e9ficit cong\u00e9nital en facteur XI",
-            "D. D\u00e9ficit cong\u00e9nital en facteur von Willebrand",
-            "E. D\u00e9ficit cong\u00e9nital en facteurs VIII, IX et XI"
-        ],
-        "correct_answers": [
-            "A"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 33,
-        "question": "Lesquelles des formes suivantes sont des formes de lymphome de haut grade :",
-        "options": [
-            "A. Lymphome petit lymphocytaire",
-            "B. Lymphome lymphoblastique",
-            "C. Lymphome de Burkitt",
-            "D. Lymphome immunoblastique \u00e0 grandes cellules",
-            "E. Lymphome mixte folliculaire"
-        ],
-        "correct_answers": [
-            "B",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 34,
-        "question": "Qu'est-ce que l'examen de laboratoire essentiel dans le diagnostic du LNH :",
-        "options": [
-            "A. Examen histopathologique associ\u00e9 \u00e0 l'immunohistochimie de la pi\u00e8ce biopsi\u00e9e",
-            "B. Dosage de l'olate et de la vitamine B12 dans le s\u00e9rum",
-            "C. Num\u00e9ration globulaire compl\u00e8te",
-            "D. Dosage de l'albumine s\u00e9rique",
-            "E. Frottis de moelle osseuse"
-        ],
-        "correct_answers": [
-            "A"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 35,
-        "question": "Parmi ces explorations, lesquelles sont n\u00e9cessaires dans le diagnostic et la stadification du LNH :",
-        "options": [
-            "A. Examen histopathologique",
-            "B. Num\u00e9ration globulaire compl\u00e8te",
-            "C. Radiographie, scanner, IRM",
-            "D. Biopsie de la moelle osseuse",
-            "E. Ferritine s\u00e9rique"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 36,
-        "question": "Parmi les entit\u00e9s histologiques suivantes, lesquelles sont des sous-types de lymphome de Hodgkin :",
-        "options": [
-            "A. Riche en lymphocytes",
-            "B. Scl\u00e9rose nodulaire",
-            "C. Cellularit\u00e9 mixte",
-            "D. D\u00e9pl\u00e9tion lymphocytaire",
-            "E. Grande cellule diffuse"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 37,
-        "question": "* Dans le my\u00e9lome multiple, la principale manifestation clinique est :",
-        "options": [
-            "A. Toux",
-            "B. Dyspn\u00e9e",
-            "C. Douleur osseuse",
-            "D. Fi\u00e8vre",
-            "E. Peeling de la peau"
-        ],
-        "correct_answers": [
-            "C"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 38,
-        "question": "Les principaux crit\u00e8res diagnostiques du my\u00e9lome multiple sont :",
-        "options": [
-            "A. Pr\u00e9sence d'une globuline s\u00e9rique monoclonale",
-            "B. Plasmocytes de la moelle osseuse de 10 \u00e0 30%",
-            "C. Plus de 30% de blastes dans le sang p\u00e9riph\u00e9rique",
-            "D. Plasmocytes de la moelle osseuse > 30%",
-            "E. Diagnostic histopathologique du plasmocytome \u00e0 partir du tissu biopsi\u00e9"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 39,
-        "question": "Le traitement sp\u00e9cifique du my\u00e9lome multiple peut inclure :",
-        "options": [
-            "A. Polychimioth\u00e9rapie",
-            "B. Autotransplantation",
-            "C. Interf\u00e9ron alpha",
-            "D. Om\u00e9prazole",
-            "E. Antid\u00e9presseurs"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 40,
-        "question": "* La macroglobulin\u00e9mie de Waldenstr\u00f6m est caract\u00e9ris\u00e9e par :",
-        "options": [
-            "A. Hypertrophie thyro\u00efdienne",
-            "B. Hyperplasie granulocytaire",
-            "C. D\u00e9viation m\u00e9galoblastique",
-            "D. Plus de 30% de blastes dans la moelle osseuse",
-            "E. Hyperproduction d'IgM monoclonale"
-        ],
-        "correct_answers": [
-            "E"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 41,
-        "question": "La rate a plusieurs fonctions :",
-        "options": [
-            "A. C'est un organe sp\u00e9cialis\u00e9 dans la r\u00e9ponse immunitaire",
-            "B. A un r\u00f4le dans la respiration",
-            "C. A des fonctions dans le transport",
-            "D. A un r\u00f4le dans la capture et l'\u00e9limination des cellules sanguines anormales",
-            "E. Dans des situations pathologiques, la rate peut \u00eatre un lieu majeur d'h\u00e9matopo\u00ef\u00e8se"
-        ],
-        "correct_answers": [
-            "A",
-            "D",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 42,
-        "question": "Les causes les plus fr\u00e9quentes de spl\u00e9nom\u00e9galie sont :",
-        "options": [
-            "A. Maladies infiltratives de la rate",
-            "B. Paludisme",
-            "C. An\u00e9mies h\u00e9molytiques",
-            "D. Insuffisance respiratoire aigu\u00eb",
-            "E. Syndromes my\u00e9loprolif\u00e9ratifs"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 43,
-        "question": "L'hyperspl\u00e9nisme est caract\u00e9ris\u00e9 par :",
-        "options": [
-            "A. Spl\u00e9nom\u00e9galie",
-            "B. Cytop\u00e9nie",
-            "C. Moelle osseuse normale ou hyperplasique",
-            "D. R\u00e9ponse \u00e0 la spl\u00e9nectomie",
-            "E. Aucune r\u00e9ponse correcte"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 44,
-        "question": "Le tableau biologique de la leuc\u00e9mie my\u00e9lo\u00efde chronique - LMC comprend :",
-        "options": [
-            "A. Leucop\u00e9nie",
-            "B. Leucocytose",
-            "C. Apparition dans le sang p\u00e9riph\u00e9rique de granulocytes \u00e0 tous les stades de d\u00e9veloppement",
-            "D. Basophilie",
-            "E. Plus de 40% de lymphocytes dans la moelle osseuse"
-        ],
-        "correct_answers": [
-            "B",
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 45,
-        "question": "Le diagnostic diff\u00e9rentiel de la leuc\u00e9mie my\u00e9lo\u00efde chronique (LMC) est fait avec :",
-        "options": [
-            "A. Polycyth\u00e9mie vera (PV)",
-            "B. My\u00e9lome multiple",
-            "C. Cancer du poumon",
-            "D. My\u00e9lofibrose idiopathique (MMM)",
-            "E. Thrombocyt\u00e9mie essentielle (ET)"
-        ],
-        "correct_answers": [
-            "A",
-            "E"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 46,
-        "question": "Le traitement de la polycyth\u00e9mie vera (PV) comprend :",
-        "options": [
-            "A. Transfusion sanguine",
-            "B. Phl\u00e9botomie",
-            "C. Hydroxiur\u00e9e",
-            "D. Substitution du fer",
-            "E. \u00c9rythropo\u00ef\u00e9tine"
-        ],
-        "correct_answers": [
-            "B",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 47,
-        "question": "Dans la leuc\u00e9mie lympho\u00efde chronique, le d\u00e9but peut \u00eatre :",
-        "options": [
-            "A. D\u00e9tection d'une hyperleucocytose lors d'investigations de routine",
-            "B. La d\u00e9couverte d'une lymphad\u00e9nopathie g\u00e9n\u00e9ralis\u00e9e",
-            "C. La d\u00e9couverte de la spl\u00e9nom\u00e9galie",
-            "D. Infections r\u00e9currentes r\u00e9p\u00e9t\u00e9es",
-            "E. Tout ce qui pr\u00e9c\u00e8de"
-        ],
-        "correct_answers": [
-            "E"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 48,
-        "question": "Les \u00e9l\u00e9ments suivants sont r\u00e9els \u00e0 propos de la classification Binet pour la LLC :",
-        "options": [
-            "A. Stade A : <3 zones impliqu\u00e9es, Hb > 10g%, Plt > 100G/L",
-            "B. Stade B : > 3 zones impliqu\u00e9es, Hb > 10g%, Plt > 100G/L",
-            "C. Stade C : N'importe quel nombre de zones impliqu\u00e9es, Hb < 10g% ou Plt < 100G/L",
-            "D. Stade C : <3 zones impliqu\u00e9es, Hb > 10g%, Plt > 100G/L",
-            "E. Stade A : Nombre de zones impliqu\u00e9es, Hb < 10g%, Plt < 100G/L"
-        ],
-        "correct_answers": [
-            "A",
-            "B",
-            "C"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 49,
-        "question": "Le PTI (purpura thrombocytop\u00e9nique auto-immun ou idiopathique) est une maladie acquise de l'enfant et de l'adulte, caract\u00e9ris\u00e9e par :",
-        "options": [
-            "A. Thrombocytose",
-            "B. Thrombocytop\u00e9nie",
-            "C. Moelle osseuse d'aspect normal",
-            "D. Absence d'autres conditions potentiellement associ\u00e9es \u00e0 une thrombocytop\u00e9nie",
-            "E. An\u00e9mie"
-        ],
-        "correct_answers": [
-            "B",
-            "C",
-            "D"
-        ]
-    },
-    {
-        "chapitre": 0,
-        "id": 50,
-        "question": "Effets secondaires potentiels du traitement des lymphomes non hodgkiniens :",
-        "options": [
-            "A. Naus\u00e9es, vomissements, diarrh\u00e9e",
-            "B. Fractures",
-            "C. Num\u00e9ration sanguine (my\u00e9losuppression)",
-            "D. Alop\u00e9cie - perte de cheveux",
-            "E. Fatigue"
-        ],
-        "correct_answers": [
-            "A",
-            "C",
-            "D",
-            "E"
-        ]
-    }
+  {
+    "chapitre": 0,
+    "id": 1,
+    "question": "Leucémie myéloïde aiguë investigations :",
+    "options": [
+      "A. CBC (Cell Blood Count) et différenciation",
+      "B. Moelle osseuse - aspiration et biopsie",
+      "C. CT/IRM",
+      "D. Niveau de ferritine",
+      "E. Aucune de ces réponses"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 2,
+    "question": "Leucémie lymphoblastique aiguë - Caractéristiques cliniques :",
+    "options": [
+      "A. Infections, saignements, anémie",
+      "B. Lymphadénopathie généralisée",
+      "C. Splénomégalie",
+      "D. Signes SNC (Système Nerveux Central)",
+      "E. Tout ce qui précède"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 3,
+    "question": "Leucémie lymphoblastique aiguë - Traitement spécifique :",
+    "options": [
+      "A. Greffe de cellules souches pour tous comme traitement d'induction",
+      "B. Induction",
+      "C. Consolidation",
+      "D. Maintenance pendant 2 ans",
+      "E. Prophylaxie du SNC"
+    ],
+    "correct_answers": ["B", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 4,
+    "question": "Anémie ferriprive - Étiologie :",
+    "options": [
+      "A. Grossesse et allaitement",
+      "B. Achlorhydrie",
+      "C. Saignement GI (Gastro-intestinal)",
+      "D. Stress",
+      "E. Douleur osseuse"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 5,
+    "question": "Résultats de laboratoire dans l'anémie ferriprive :",
+    "options": [
+      "A. Anémie - faible taux d'hémoglobine, faibles globules rouges",
+      "B. Frottis sanguin - microcytaire, hypochrome, anisocytose et poïkilocytose",
+      "C. Ferritine sérique - Faible",
+      "D. Moelle osseuse montrant l'absence de fer colorable",
+      "E. Tout ce qui précède"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 6,
+    "question": "Laquelle des situations suivantes peut déclencher des mécanismes pathologiques CID (CIVD) :",
+    "options": [
+      "A. Infection bactérienne",
+      "B. Leucémie promyélocytaire aiguë",
+      "C. Hémolyse aiguë",
+      "D. Carence en fer avancée",
+      "E. Choc hémorragique, choc septique"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 7,
+    "question": "Parmi les formes suivantes, lesquelles sont des lymphomes de bas grade :",
+    "options": [
+      "A. Petit lymphome lymphocytaire",
+      "B. Lymphome lymphoblastique",
+      "C. Lymphome de Burkitt",
+      "D. Lymphome folliculaire à petites cellules clivées",
+      "E. Lymphome mixte folliculaire"
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 8,
+    "question": "Caractéristiques cliniques des lymphomes non hodgkiniens :",
+    "options": [
+      "A. Lymphadénopathie",
+      "B. Cytopénies",
+      "C. Symptômes systémiques",
+      "D. Hépatosplénomégalie",
+      "E. Fractures"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 9,
+    "question": "* Qu'est-ce qu'un lymphome indolent :",
+    "options": [
+      "A. Une lésion bénigne",
+      "B. Une lésion prémaligne",
+      "C. Une lymphoprolifération non traitée peut survivre des années",
+      "D. Une lymphoprolifération non traitée peut survivre des mois",
+      "E. Une lymphoprolifération non traitée peut survivre des semaines"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 10,
+    "question": "Le traitement des lymphomes non hodgkiniens contient :",
+    "options": [
+      "A. Chimiothérapie",
+      "B. Radiothérapie",
+      "C. Thérapie par anticorps monoclonaux",
+      "D. Greffes de moelle osseuse et de cellules souches",
+      "E. Aucune de ces réponses"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 11,
+    "question": "Schémas de chimiothérapie dans le lymphome de Hodgkin :",
+    "options": ["A. CHOP", "B. MOPP", "C. ABVD", "D. FCR", "E. BEACOPP"],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 12,
+    "question": "Dans le myélome multiple, les manifestations cliniques comprennent :",
+    "options": [
+      "A. Neuropathie",
+      "B. Douleur due à la compression vertébrale",
+      "C. Fracture pathologique",
+      "D. Toux",
+      "E. Néphropathie"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 13,
+    "question": "Dans le myélome multiple, les changements de laboratoire suivants peuvent survenir :",
+    "options": [
+      "A. Plus de 30% de blastes dans le sang périphérique",
+      "B. Anémie",
+      "C. Immunoglobulines monoclonales sériques hautement quantitatives (IgA, IgG, IgM)",
+      "D. Hypercalcémie",
+      "E. Troubles de la coagulation"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 14,
+    "question": "La macroglobulinémie de Waldenström est :",
+    "options": [
+      "A. Néoplasie granulocytaire",
+      "B. Néoplasie pulmonaire",
+      "C. Néoplasie lymphoplasmocytaire",
+      "D. Néoplasie rénale",
+      "E. Anémie"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 15,
+    "question": "Les modifications de laboratoire de la macroglobulinémie de Waldenström comprennent :",
+    "options": [
+      "A. Anémie",
+      "B. Polyglobulie",
+      "C. Infiltrat de moelle avec lymphoplasmocytes",
+      "D. Thrombocytopénie",
+      "E. Plus de 30% de blastes dans le sang périphérique"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 16,
+    "question": "* Parmi les explorations non invasives suivantes, laquelle ne peut pas voir la rate :",
+    "options": [
+      "A. Scintigraphie hépatosplénique",
+      "B. Échographie",
+      "C. Tomographie abdominale par ordinateur (TDM)",
+      "D. Techniques de radio-isotopes utilisant le 51Cr",
+      "E. Radiographies thoraciques"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 17,
+    "question": "Causes de la splénomégalie massive :",
+    "options": [
+      "A. Leucémie myéloïde chronique",
+      "B. Lymphomes malins",
+      "C. La leucémie lymphocytaire chronique",
+      "D. Pneumonie",
+      "E. Maladie de Gaucher"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 18,
+    "question": "Indications de la splénectomie :",
+    "options": [
+      "A. À un stade de la maladie et pour contrôler (lymphome, sphérocytose héréditaire)",
+      "B. Pour supprimer les conséquences secondaires de l'hypersplénisme",
+      "C. En cas de rupture traumatique ou spontanée",
+      "D. Infection urinaire tactile",
+      "E. La dermatite atopique"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 19,
+    "question": "La présentation clinique de la leucémie myéloïde chronique (LMC) comprend :",
+    "options": [
+      "A. Splénomégalie",
+      "B. Perte de poids",
+      "C. Satiété précoce",
+      "D. Sueurs nocturnes",
+      "E. Cécité"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 20,
+    "question": "Le traitement de la leucémie myéloïde chronique (LMC) comprend :",
+    "options": [
+      "A. Hydroxiurée",
+      "B. Melphalan",
+      "C. Interféron",
+      "D. Allogreffe",
+      "E. Thérapie CHOP"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 21,
+    "question": "Dans la leucémie lymphoïde chronique générale, les signes non spécifiques sont :",
+    "options": [
+      "A. Fatigue",
+      "B. Perte de poids",
+      "C. Sueurs nocturnes",
+      "D. Perte d'appétit",
+      "E. Tout ce qui précède"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 22,
+    "question": "Les critères biologiques pour un diagnostic positif dans la leucémie lymphoïde chronique sont :",
+    "options": [
+      "A. Sang périphérique - plus de 5000 lymphocytes/mm3",
+      "B. Moelle osseuse - plus de 40% de lymphocytose",
+      "C. Sang périphérique - plus de 30% de blastes",
+      "D. Dans la moelle - plus de 30% de blastes",
+      "E. Moelle osseuse - plus de 30% de plasmocytes"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 23,
+    "question": "Les médicaments suivants sont utilisés pour traiter la leucémie lymphoïde chronique :",
+    "options": [
+      "A. Hydroxiurée",
+      "B. Agents alkylants",
+      "C. Fludarabine",
+      "D. Des anticorps monoclonaux",
+      "E. Melphalan"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 24,
+    "question": "Les manifestations cliniques du PTI surviennent lentement en quelques mois et consistent en :",
+    "options": [
+      "A. Purpura",
+      "B. Pétéchies",
+      "C. Bulles hémorragiques sur la muqueuse",
+      "D. Épistaxis",
+      "E. Les infections"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 25,
+    "question": "Le traitement du PTI comprend :",
+    "options": [
+      "A. Prednisone",
+      "B. Splénectomie",
+      "C. Immunoglobulines",
+      "D. Agents immunosuppresseurs",
+      "E. Les antidépresseurs"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 26,
+    "question": "* Caractéristiques cliniques de la leucémie myéloïde aiguë :",
+    "options": [
+      "A. Fièvre, malaise, symptômes anémiques, infections",
+      "B. Saignement, purpura, ecchymose spontanée",
+      "C. Signes leucostatiques",
+      "D. Infiltration des tissus mous",
+      "E. Tout ce qui précède"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 27,
+    "question": "Leucémie myéloïde aiguë - Traitement :",
+    "options": [
+      "A. Hydratation et allopurinol",
+      "B. Substitution de la vitamine B12",
+      "C. Prise en charge des globules rouges et des plaquettes",
+      "D. Traitement spécifique - Induction + consolidation",
+      "E. Produits en fer"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 28,
+    "question": "Classification FAB dans la leucémie lymphoblastique aiguë (L1-L3) :",
+    "options": [
+      "A. L2 - Petites cellules homogènes",
+      "B. L1 - Petites cellules homogènes, avec un cytoplasme peu abondant",
+      "C. L3 - Cellules hétérogènes de grande taille",
+      "D. L2 - Hétérogènes, grandes cellules. Noyau et cytoplasme variables",
+      "E. L3 - Grandes cellules homogènes, basophilie avec vacuolisation cytoplasmique"
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 29,
+    "question": "L'anémie hypochrome microcytaire présente les caractéristiques suivantes :",
+    "options": [
+      "A. VGM faible",
+      "B. VGM augmenté",
+      "C. CCMH augmentée",
+      "D. Diminution de la CCMH",
+      "E. Frottis sanguin périphérique caractéristique - microcytaire, poïkilocytose, hypochromie"
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 30,
+    "question": "Le diagnostic différentiel de l'anémie mégaloblastique est posé avec :",
+    "options": [
+      "A. Syndromes myélodisplasiques",
+      "B. Thalassémie",
+      "C. Sphérocytose héréditaire",
+      "D. Déficience en fer",
+      "E. Leucémies"
+    ],
+    "correct_answers": ["A", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 31,
+    "question": "Anémie mégaloblastique - Étiologie :",
+    "options": [
+      "A. Malnutrition",
+      "B. Saignement",
+      "C. Gastrectomie, résection iléale",
+      "D. Anticorps anti-facteur intrinsèque - Anémie pernicieuse",
+      "E. Maladie intestinale inflammatoire"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 32,
+    "question": "L'hémophilie A est :",
+    "options": [
+      "A. Déficit congénital en facteur VIII",
+      "B. Déficit congénital en facteur IX",
+      "C. Déficit congénital en facteur XI",
+      "D. Déficit congénital en facteur von Willebrand",
+      "E. Déficit congénital en facteurs VIII, IX et XI"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 33,
+    "question": "Lesquelles des formes suivantes sont des formes de lymphome de haut grade :",
+    "options": [
+      "A. Lymphome petit lymphocytaire",
+      "B. Lymphome lymphoblastique",
+      "C. Lymphome de Burkitt",
+      "D. Lymphome immunoblastique à grandes cellules",
+      "E. Lymphome mixte folliculaire"
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 34,
+    "question": "Qu'est-ce que l'examen de laboratoire essentiel dans le diagnostic du LNH :",
+    "options": [
+      "A. Examen histopathologique associé à l'immunohistochimie de la pièce biopsiée",
+      "B. Dosage de l'olate et de la vitamine B12 dans le sérum",
+      "C. Numération globulaire complète",
+      "D. Dosage de l'albumine sérique",
+      "E. Frottis de moelle osseuse"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 35,
+    "question": "Parmi ces explorations, lesquelles sont nécessaires dans le diagnostic et la stadification du LNH :",
+    "options": [
+      "A. Examen histopathologique",
+      "B. Numération globulaire complète",
+      "C. Radiographie, scanner, IRM",
+      "D. Biopsie de la moelle osseuse",
+      "E. Ferritine sérique"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 36,
+    "question": "Parmi les entités histologiques suivantes, lesquelles sont des sous-types de lymphome de Hodgkin :",
+    "options": [
+      "A. Riche en lymphocytes",
+      "B. Sclérose nodulaire",
+      "C. Cellularité mixte",
+      "D. Déplétion lymphocytaire",
+      "E. Grande cellule diffuse"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 37,
+    "question": "* Dans le myélome multiple, la principale manifestation clinique est :",
+    "options": [
+      "A. Toux",
+      "B. Dyspnée",
+      "C. Douleur osseuse",
+      "D. Fièvre",
+      "E. Peeling de la peau"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 38,
+    "question": "Les principaux critères diagnostiques du myélome multiple sont :",
+    "options": [
+      "A. Présence d'une globuline sérique monoclonale",
+      "B. Plasmocytes de la moelle osseuse de 10 à 30%",
+      "C. Plus de 30% de blastes dans le sang périphérique",
+      "D. Plasmocytes de la moelle osseuse > 30%",
+      "E. Diagnostic histopathologique du plasmocytome à partir du tissu biopsié"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 39,
+    "question": "Le traitement spécifique du myélome multiple peut inclure :",
+    "options": [
+      "A. Polychimiothérapie",
+      "B. Autotransplantation",
+      "C. Interféron alpha",
+      "D. Oméprazole",
+      "E. Antidépresseurs"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 40,
+    "question": "* La macroglobulinémie de Waldenström est caractérisée par :",
+    "options": [
+      "A. Hypertrophie thyroïdienne",
+      "B. Hyperplasie granulocytaire",
+      "C. Déviation mégaloblastique",
+      "D. Plus de 30% de blastes dans la moelle osseuse",
+      "E. Hyperproduction d'IgM monoclonale"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 41,
+    "question": "La rate a plusieurs fonctions :",
+    "options": [
+      "A. C'est un organe spécialisé dans la réponse immunitaire",
+      "B. A un rôle dans la respiration",
+      "C. A des fonctions dans le transport",
+      "D. A un rôle dans la capture et l'élimination des cellules sanguines anormales",
+      "E. Dans des situations pathologiques, la rate peut être un lieu majeur d'hématopoïèse"
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 42,
+    "question": "Les causes les plus fréquentes de splénomégalie sont :",
+    "options": [
+      "A. Maladies infiltratives de la rate",
+      "B. Paludisme",
+      "C. Anémies hémolytiques",
+      "D. Insuffisance respiratoire aiguë",
+      "E. Syndromes myéloprolifératifs"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 43,
+    "question": "L'hypersplénisme est caractérisé par :",
+    "options": [
+      "A. Splénomégalie",
+      "B. Cytopénie",
+      "C. Moelle osseuse normale ou hyperplasique",
+      "D. Réponse à la splénectomie",
+      "E. Aucune réponse correcte"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 44,
+    "question": "Le tableau biologique de la leucémie myéloïde chronique - LMC comprend :",
+    "options": [
+      "A. Leucopénie",
+      "B. Leucocytose",
+      "C. Apparition dans le sang périphérique de granulocytes à tous les stades de développement",
+      "D. Basophilie",
+      "E. Plus de 40% de lymphocytes dans la moelle osseuse"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 45,
+    "question": "Le diagnostic différentiel de la leucémie myéloïde chronique (LMC) est fait avec :",
+    "options": [
+      "A. Polycythémie vera (PV)",
+      "B. Myélome multiple",
+      "C. Cancer du poumon",
+      "D. Myélofibrose idiopathique (MMM)",
+      "E. Thrombocytémie essentielle (ET)"
+    ],
+    "correct_answers": ["A", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 46,
+    "question": "Le traitement de la polycythémie vera (PV) comprend :",
+    "options": [
+      "A. Transfusion sanguine",
+      "B. Phlébotomie",
+      "C. Hydroxiurée",
+      "D. Substitution du fer",
+      "E. Érythropoïétine"
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 47,
+    "question": "Dans la leucémie lymphoïde chronique, le début peut être :",
+    "options": [
+      "A. Détection d'une hyperleucocytose lors d'investigations de routine",
+      "B. La découverte d'une lymphadénopathie généralisée",
+      "C. La découverte de la splénomégalie",
+      "D. Infections récurrentes répétées",
+      "E. Tout ce qui précède"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 48,
+    "question": "Les éléments suivants sont réels à propos de la classification Binet pour la LLC :",
+    "options": [
+      "A. Stade A : <3 zones impliquées, Hb > 10g%, Plt > 100G/L",
+      "B. Stade B : > 3 zones impliquées, Hb > 10g%, Plt > 100G/L",
+      "C. Stade C : N'importe quel nombre de zones impliquées, Hb < 10g% ou Plt < 100G/L",
+      "D. Stade C : <3 zones impliquées, Hb > 10g%, Plt > 100G/L",
+      "E. Stade A : Nombre de zones impliquées, Hb < 10g%, Plt < 100G/L"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 49,
+    "question": "Le PTI (purpura thrombocytopénique auto-immun ou idiopathique) est une maladie acquise de l'enfant et de l'adulte, caractérisée par :",
+    "options": [
+      "A. Thrombocytose",
+      "B. Thrombocytopénie",
+      "C. Moelle osseuse d'aspect normal",
+      "D. Absence d'autres conditions potentiellement associées à une thrombocytopénie",
+      "E. Anémie"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 50,
+    "question": "Effets secondaires potentiels du traitement des lymphomes non hodgkiniens :",
+    "options": [
+      "A. Nausées, vomissements, diarrhée",
+      "B. Fractures",
+      "C. Numération sanguine (myélosuppression)",
+      "D. Alopécie - perte de cheveux",
+      "E. Fatigue"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  }
 ]

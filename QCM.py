@@ -320,10 +320,15 @@ class QCMApp(tk.Tk):
 
     def load_chapters(self):
         chapters = {}
-        for file in self.chapter_files:
-            with open(file, "r", encoding="utf-8") as f:
-                chapter_data = json.load(f)
-                chapters[file] = chapter_data
+        for file_path in self.chapter_files:
+            try:
+                with open(file_path, "r", encoding="utf-8") as f:
+                    chapter_data = json.load(f)
+                    for question in chapter_data:
+                        question["source_file"] = file_path
+                    chapters[file_path] = chapter_data
+            except Exception as e:
+                print(f"Erreur lors du chargement de {file_path}: {e}")
         return chapters
 
     def create_main_menu(self):
@@ -513,7 +518,7 @@ class QCMApp(tk.Tk):
                 w.bind("<Enter>", lambda e, idx=i: self.on_option_hover(idx))
                 w.bind("<Leave>", lambda e, idx=i: self.on_option_leave(idx))
 
-        # Bouton Valider
+       # Bouton Valider
         button_frame = ttk.Frame(main_container)
         button_frame.grid(row=1, column=0, columnspan=2, pady=20, sticky="ew")
         
@@ -523,7 +528,20 @@ class QCMApp(tk.Tk):
             command=self.check_answer,
             style="Large.TButton"
         )
-        self.validate_button.pack(pady=20)
+        self.validate_button.pack(side='top', pady=10) # J'ai changé en side='top' pour empiler
+
+        edit_button = tk.Button(
+            button_frame,
+            text="✏️Corriger une erreur",
+            command=self.open_editor,
+            font=("Arial", 10, "italic"),
+            fg="gray",
+            bd=0,
+            bg=self.themes[self.theme_mode]['bg'],
+            activebackground=self.themes[self.theme_mode]['bg'],
+            cursor="hand2"
+        )
+        edit_button.pack(side='top', pady=5)
 
         # Barre de progression
         progress_frame = ttk.Frame(main_container)
@@ -568,6 +586,121 @@ class QCMApp(tk.Tk):
 
         # Mise à jour dynamique du wraplength
         self.update_wraplengths()
+
+    def open_editor(self):
+        """Ouvre une fenêtre pour éditer la question actuelle"""
+        editor = tk.Toplevel(self)
+        editor.title("Éditeur de question")
+        editor.geometry("600x700")
+        
+        # Récupérer le thème actuel pour l'appliquer à l'éditeur
+        theme = self.themes[self.theme_mode]
+        editor.configure(bg=theme['bg'])
+        
+        # Style local pour l'éditeur
+        lbl_style = {"bg": theme['bg'], "fg": theme['fg'], "font": ("Arial", 12, "bold")}
+        
+        # --- Zone Question ---
+        tk.Label(editor, text="Question :", **lbl_style).pack(anchor="w", padx=10, pady=5)
+        txt_question = scrolledtext.ScrolledText(editor, height=5, font=("Arial", 12))
+        txt_question.insert("1.0", self.current_question_data["question"])
+        txt_question.pack(fill="x", padx=10)
+
+        # --- Zone Options ---
+        tk.Label(editor, text="Options :", **lbl_style).pack(anchor="w", padx=10, pady=(10, 5))
+        
+        entries_options = []
+        vars_correct = []
+        
+        options_frame = tk.Frame(editor, bg=theme['bg'])
+        options_frame.pack(fill="x", padx=10)
+
+        current_opts = self.current_question_data["options"]
+        correct_answers = self.current_question_data["correct_answers"]
+
+        for i in range(5): # On suppose max 5 options A, B, C, D, E
+            row_frame = tk.Frame(options_frame, bg=theme['bg'])
+            row_frame.pack(fill="x", pady=2)
+            
+            # Lettre (A, B...)
+            letter = chr(65 + i)
+            tk.Label(row_frame, text=f"{letter}.", font=("Arial", 12, "bold"), 
+                     bg=theme['bg'], fg=theme['fg']).pack(side="left")
+            
+            # Champ texte de l'option
+            entry = tk.Entry(row_frame, font=("Arial", 12))
+            # Si l'option existe, on la met, sinon vide
+            val = current_opts[i] if i < len(current_opts) else ""
+            entry.insert(0, val)
+            entry.pack(side="left", fill="x", expand=True, padx=5)
+            entries_options.append(entry)
+            
+            # Checkbox "Correcte"
+            is_correct = letter in correct_answers
+            var = tk.BooleanVar(value=is_correct)
+            vars_correct.append(var)
+            cb = tk.Checkbutton(row_frame, text="Correcte", variable=var, 
+                                bg=theme['bg'], fg=theme['fg'], selectcolor=theme['bg'])
+            cb.pack(side="right")
+
+        # --- Boutons Sauvegarder / Annuler ---
+        btn_frame = tk.Frame(editor, bg=theme['bg'])
+        btn_frame.pack(pady=20)
+
+        def save_changes():
+            # 1. Mise à jour des données en mémoire
+            new_question_text = txt_question.get("1.0", "end-1c").strip()
+            new_options = [e.get().strip() for e in entries_options if e.get().strip()]
+            new_correct = [chr(65+i) for i, var in enumerate(vars_correct) if var.get()]
+            
+            if not new_question_text or not new_options or not new_correct:
+                tk.messagebox.showwarning("Erreur", "Veuillez remplir la question, des options et au moins une bonne réponse.", parent=editor)
+                return
+
+            # Mise à jour de l'objet en mémoire
+            self.current_question_data["question"] = new_question_text
+            self.current_question_data["options"] = new_options
+            self.current_question_data["correct_answers"] = new_correct
+            
+            # 2. Écriture dans le fichier JSON
+            source_file = self.current_question_data.get("source_file")
+            if source_file and os.path.exists(source_file):
+                try:
+                    with open(source_file, "r", encoding="utf-8") as f:
+                        full_data = json.load(f)
+                    
+                    # On cherche la question par son ID pour la remplacer
+                    found = False
+                    for idx, q in enumerate(full_data):
+                        if q["id"] == self.current_question_data["id"]:
+                            # On garde les clés qu'on ne modifie pas (chapitre, id, source_file...)
+                            # et on met à jour le reste
+                            full_data[idx]["question"] = new_question_text
+                            full_data[idx]["options"] = new_options
+                            full_data[idx]["correct_answers"] = new_correct
+                            found = True
+                            break
+                    
+                    if found:
+                        with open(source_file, "w", encoding="utf-8") as f:
+                            json.dump(full_data, f, indent=4, ensure_ascii=False)
+                        print(f"Sauvegardé dans {source_file}")
+                    else:
+                        print("Erreur: Question non trouvée dans le fichier source.")
+                        
+                except Exception as e:
+                    tk.messagebox.showerror("Erreur", f"Impossible de sauvegarder le fichier :\n{e}", parent=editor)
+                    return
+
+            # 3. Rafraîchir l'interface
+            editor.destroy()
+            self.show_question() # Recharge l'affichage avec les nouvelles données
+
+        tk.Button(btn_frame, text="Sauvegarder", command=save_changes, 
+                  bg="#2ecc71", fg="white", font=BUTTON_FONT).pack(side="left", padx=10)
+        
+        tk.Button(btn_frame, text="Annuler", command=editor.destroy, 
+                  bg="#e74c3c", fg="white", font=BUTTON_FONT).pack(side="left", padx=10)
 
     def update_timer(self):
         """Met à jour le timer chaque seconde"""
