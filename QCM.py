@@ -5,6 +5,7 @@ import random
 import time
 import os
 import ctypes
+import re
 
 
 LARGE_FONT = ("Arial", 16)
@@ -359,7 +360,7 @@ class QCMApp(tk.Tk):
 
         shuffle_check = tk.Checkbutton(
             settings_frame,
-            text="Mélanger l'ordre des réponses (A, B, C...)",
+            text="Shuffle",
             variable=self.shuffle_options_var,
             font=("Arial", 12),
             bg=self.themes[self.theme_mode]['bg'],
@@ -441,18 +442,13 @@ class QCMApp(tk.Tk):
         self.feedback_mode = False
         self.clear_frame(self.quiz_frame)
 
-        # Frame principale avec gestion de redimensionnement
+        # Frame principale
         main_container = ttk.Frame(self.quiz_frame)
         main_container.pack(fill='both', expand=True)
-        
-        # Configuration pour un redimensionnement adaptatif
         main_container.grid_columnconfigure(0, weight=1)
-        main_container.grid_rowconfigure(0, weight=1)  # Pour le contenu
-        main_container.grid_rowconfigure(1, weight=0)  # Pour le bouton
-        main_container.grid_rowconfigure(2, weight=0)  # Pour la barre de progression
-        main_container.grid_rowconfigure(3, weight=0)  # Pour la barre d'info
-
-        # Canvas avec barre de défilement
+        main_container.grid_rowconfigure(0, weight=1)
+        
+        # Canvas et Scrollbar
         theme = self.themes[self.theme_mode]
         canvas = tk.Canvas(main_container, bg=theme['canvas'], highlightthickness=0)
         scrollbar = ttk.Scrollbar(main_container, orient="vertical", command=canvas.yview)
@@ -462,23 +458,46 @@ class QCMApp(tk.Tk):
             "<Configure>",
             lambda e: canvas.configure(scrollregion=canvas.bbox("all"))
         )
-
         canvas.create_window((0, 0), window=self.scrollable_frame, anchor="nw")
         canvas.configure(yscrollcommand=scrollbar.set)
-
         canvas.grid(row=0, column=0, sticky="nsew")
         scrollbar.grid(row=0, column=1, sticky="ns")
 
-        # Mise à jour dynamique de la largeur
         def on_canvas_configure(event):
             canvas.itemconfig("all", width=event.width)
             self.scrollable_frame.configure(width=event.width)
-        
         canvas.bind("<Configure>", on_canvas_configure)
 
+        # Récupération des données de la question
         self.current_question_data = self.current_chapter[self.current_question]
         
-        # Question avec label adaptatif
+        # --- LOGIQUE DE MÉLANGE DES RÉPONSES (NOUVEAU) ---
+        raw_options = self.current_question_data["options"]
+        raw_correct = self.current_question_data["correct_answers"]
+        
+        # On vérifie si la case est cochée (nécessite l'étape 1 & 2)
+        if hasattr(self, 'shuffle_options_var') and self.shuffle_options_var.get():
+            # 1. On associe chaque texte à son index original
+            indexed_options = list(enumerate(raw_options))
+            # 2. On mélange
+            random.shuffle(indexed_options)
+            # 3. On sépare pour l'affichage
+            self.display_options = [text for _, text in indexed_options]
+            
+            # 4. On recalcule les bonnes réponses
+            original_correct_indices = [ord(c) - 65 for c in raw_correct] # A->0, B->1...
+            self.current_correct_answers_list = []
+            
+            for new_index, (old_index, text) in enumerate(indexed_options):
+                if old_index in original_correct_indices:
+                    self.current_correct_answers_list.append(chr(65 + new_index))
+        else:
+            # Pas de mélange
+            self.display_options = list(raw_options)
+            self.current_correct_answers_list = list(raw_correct)
+        # -----------------------------------------------
+
+        # Affichage de la question
         self.question_label = ttk.Label(
             self.scrollable_frame, 
             text=self.current_question_data["question"],
@@ -489,20 +508,24 @@ class QCMApp(tk.Tk):
         )
         self.question_label.pack(fill='x', padx=20, pady=20, anchor='w')
 
-        # Options avec labels adaptatifs
-        self.selected_answers = [tk.BooleanVar() for _ in self.current_question_data["options"]]
-        
-        # Listes pour stocker les éléments d'interface
+        # Listes pour l'interface
+        self.selected_answers = [tk.BooleanVar() for _ in self.display_options]
         self.option_frames = []
         self.option_labels = []
         self.option_checkbuttons = []
         
-        for i, option in enumerate(self.current_question_data["options"]):
+        # --- BOUCLE D'AFFICHAGE MODIFIÉE ---
+        # On utilise self.display_options (l'ordre mélangé) au lieu des données brutes
+        for i, option_text in enumerate(self.display_options):
+            # 1. NETTOYAGE : On enlève "A.", "B)", "1." au début du texte
+            # Le code cherche une lettre majuscule ou un chiffre au début (^), 
+            # suivi d'un point ou parenthèse ([\.\)]), suivi d'espaces (\s*)
+            clean_text = re.sub(r'^[A-E0-9][\.\)]\s*', '', option_text)
+            
             option_frame = ttk.Frame(self.scrollable_frame)
             option_frame.pack(fill='x', padx=20, pady=5, anchor='w')
             self.option_frames.append(option_frame)
             
-            # Case à cocher
             answer_checkbutton = ttk.Checkbutton(
                 option_frame, 
                 variable=self.selected_answers[i],
@@ -511,10 +534,13 @@ class QCMApp(tk.Tk):
             answer_checkbutton.pack(side='left', anchor='w', padx=(0, 10))
             self.option_checkbuttons.append(answer_checkbutton)
             
-            # Texte de l'option
+            # 2. AFFICHAGE : On ajoute notre propre lettre (A, B...) proprement
+            # On affiche "A. " + le texte nettoyé
+            display_label = f"{chr(65+i)}. {clean_text}"
+            
             option_label = ttk.Label(
                 option_frame, 
-                text=option,
+                text=display_label,  # On utilise notre texte propre
                 font=LARGE_FONT,
                 wraplength=self.winfo_width() - 150,
                 justify="left",
@@ -523,15 +549,14 @@ class QCMApp(tk.Tk):
             option_label.pack(side='left', fill='x', expand=True, anchor='w')
             self.option_labels.append(option_label)
             
-            # Lier le label à la case à cocher
+            # ... (Le reste des "bind" reste identique) ...
             option_label.bind("<Button-1>", lambda e, idx=i: self.option_checkbuttons[idx].invoke())
             
-            # Ajouter des événements de survol pour l'option
             for w in (option_frame, answer_checkbutton, option_label):
                 w.bind("<Enter>", lambda e, idx=i: self.on_option_hover(idx))
                 w.bind("<Leave>", lambda e, idx=i: self.on_option_leave(idx))
 
-       # Bouton Valider
+        # Bouton Valider
         button_frame = ttk.Frame(main_container)
         button_frame.grid(row=1, column=0, columnspan=2, pady=20, sticky="ew")
         
@@ -541,11 +566,11 @@ class QCMApp(tk.Tk):
             command=self.check_answer,
             style="Large.TButton"
         )
-        self.validate_button.pack(side='top', pady=10) # J'ai changé en side='top' pour empiler
+        self.validate_button.pack(pady=20)
 
         edit_button = tk.Button(
             button_frame,
-            text="✏️Corriger une erreur",
+            text="✏️ Corriger une erreur",
             command=self.open_editor,
             font=("Arial", 10, "italic"),
             fg="gray",
@@ -564,40 +589,28 @@ class QCMApp(tk.Tk):
         self.progress_bar = ttk.Progressbar(
             progress_frame,
             variable=self.progress_var,
-            maximum=100,
+            maximum=100, # Rappel : on avait mis 100 ici pour le pourcentage
             style="Custom.Horizontal.TProgressbar",
             mode='determinate'
         )
         self.progress_bar.pack(fill='x', expand=True)
         
-        # Mettre à jour la progression
-        progress_value = ((self.current_question) / len(self.current_chapter)) * 100
+        progress_value = ((self.current_question + 1) / len(self.current_chapter)) * 100
         self.progress_var.set(progress_value)
 
-        # Barre d'information en bas
+        # Info en bas
         bottom_frame = ttk.Frame(main_container)
         bottom_frame.grid(row=3, column=0, columnspan=2, sticky="ew", padx=20, pady=10)
 
-        # Timer dynamique
         self.time_label_var = tk.StringVar()
         self.update_timer()
         
-        time_label = ttk.Label(
-            bottom_frame, 
-            textvariable=self.time_label_var,
-            font=LARGE_FONT
-        )
+        time_label = ttk.Label(bottom_frame, textvariable=self.time_label_var, font=LARGE_FONT)
         time_label.pack(side='left')
 
-        remaining_questions = len(self.current_chapter) - self.current_question
-        remaining_label = ttk.Label(
-            bottom_frame, 
-            text=f"Questions restantes : {remaining_questions}",
-            font=LARGE_FONT
-        )
-        remaining_label.pack(side='right')
+        remaining = len(self.current_chapter) - self.current_question
+        ttk.Label(bottom_frame, text=f"Questions restantes : {remaining}", font=LARGE_FONT).pack(side='right')
 
-        # Mise à jour dynamique du wraplength
         self.update_wraplengths()
 
     def open_editor(self):
@@ -749,22 +762,20 @@ class QCMApp(tk.Tk):
         self.feedback_mode = True
         theme = self.themes[self.theme_mode]
         
-        # Appliquer les styles pour le feedback
-        self.style.configure(
-            "Correct.TFrame", 
-            background=theme['correct_bg']
-        )
-        self.style.configure(
-            "Incorrect.TFrame", 
-            background=theme['incorrect_bg']
-        )
+        # Styles feedback (inchangé)
+        self.style.configure("Correct.TFrame", background=theme['correct_bg'])
+        self.style.configure("Incorrect.TFrame", background=theme['incorrect_bg'])
         
-        correct_answers = self.current_question_data["correct_answers"]
+        # --- MODIFICATION ICI : On utilise la liste recalculée ---
+        # Au lieu de : correct_answers = self.current_question_data["correct_answers"]
+        correct_answers = self.current_correct_answers_list
+        # ---------------------------------------------------------
+
         user_answers = [chr(i + 65) for i, selected in enumerate(self.selected_answers) if selected.get()]
 
+        # Clé unique pour les stats (Rappel de l'étape stats)
         question_key = self.get_question_key(self.current_question_data)
         question_stats = self.question_stats.get(str(question_key), {"correct": 0, "incorrect": 0})
-        self.question_stats[str(question_key)] = question_stats
 
         self.is_correct = sorted(correct_answers) == sorted(user_answers)
         
