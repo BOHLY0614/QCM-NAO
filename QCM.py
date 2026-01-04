@@ -18,16 +18,16 @@ class QCMApp(tk.Tk):
 
         try:
             # On définit un ID unique pour l'app (utilisez ce que vous voulez comme texte)
-            myappid = 'mon.qcm.app.version1.0' 
+            myappid = 'QCM NAO' 
             ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(myappid)
         except Exception:
-            pass # On ignore si on n'est pas sous Windows
+            pass 
 
         self.state('zoomed')
         self.title("Quiz QCM")
 
         try:
-            self.iconbitmap("GF.ico")
+            self.iconbitmap("Assets/GF.ico")
         except Exception as e:
             print("Icône non trouvée:", e)
  
@@ -381,6 +381,9 @@ class QCMApp(tk.Tk):
 
     def start_quiz(self, chapter):   
         self.main_menu_frame.pack_forget()
+        
+        self.last_chapter_index = chapter 
+
         self.quiz_frame = ttk.Frame(self)
         self.quiz_frame.pack(fill='both', expand=True, padx=20, pady=20)
         
@@ -394,9 +397,10 @@ class QCMApp(tk.Tk):
         if chapter == -1:
             self.current_chapter = self.mixed_chapter
         else:
-            self.current_chapter = self.chapters[self.chapter_files[chapter]]
+            self.current_chapter = list(self.chapters[self.chapter_files[chapter]])
             random.shuffle(self.current_chapter)
             self.current_chapter = self.current_chapter[:min(num_questions, len(self.current_chapter))]
+            
         self.total_questions = len(self.current_chapter)
         self.score = 0
         self.start_time = time.time()
@@ -404,6 +408,16 @@ class QCMApp(tk.Tk):
         self.final_time = None
 
         self.show_question()
+
+    def restart_quiz(self):
+        """Relance le QCM avec les mêmes paramètres"""
+        self.clear_frame(self.quiz_frame)
+        self.quiz_frame.pack_forget()
+        
+        if self.last_chapter_index == -1:
+            self.mix_all_chapters()
+        else:
+            self.start_quiz(self.last_chapter_index)
 
     def show_question(self):
         self.feedback_mode = False
@@ -704,6 +718,14 @@ class QCMApp(tk.Tk):
 
         button_frame = ttk.Frame(center_frame)
         button_frame.pack(pady=20)
+
+        restart_button = ttk.Button(
+            button_frame, 
+            text="Recommencer ce QCM", 
+            command=self.restart_quiz,
+            style="Large.TButton"
+        )
+        restart_button.pack(pady=10, fill='x')
 
         menu_button = ttk.Button(
             button_frame, 
