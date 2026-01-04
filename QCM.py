@@ -91,7 +91,7 @@ class QCMApp(tk.Tk):
         self.apply_theme()
         
         # Charger les données
-        self.chapter_files = ["JSON/Chirurgie plastique FR.json"] 
+        self.chapter_files = ["JSON/Endo1.json"] 
         self.chapters = self.load_chapters()
         self.load_question_stats()
         self.create_main_menu()

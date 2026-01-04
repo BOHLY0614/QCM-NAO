@@ -1,0 +1,52 @@
+Variante A :
+
+1) A 
+2) E
+3) E
+4)B
+5) E
+6) B
+7) E 
+8. B
+9) D
+10) D
+ 11) Ae
+12) Abd 
+13) acd 
+14)Bd 
+15) cd 
+16) bcde 
+17)ace
+18) abde
+19) de
+20) abce
+21) ade
+22) abc 
+23) bcde
+24) cde 
+25) abd
+26) acde 
+27) abce 
+28) acd 
+29) cde
+30) ac 
+31) ade
+32) abce 
+33) acd 
+34) Abe 
+35) A...
+36) abd
+37) Abe 
+38) acd 
+39) ace 
+40) AB 
+41) BCD 
+42) Ac
+43) abcd 
+44) ace 
+45) abc 
+46) cde 
+47) cd 
+48) abc 
+49) bcde 
+50) Abe

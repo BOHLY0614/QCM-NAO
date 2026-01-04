@@ -1,0 +1,349 @@
+1. *Recherche :
+a. Nécessite une définition ambiguë
+b. Il n'est pas nécessaire d'avoir une définition objective
+c. Provient d'une question
+d. Cela ne peut être fait que par des spécialistes
+e. Elle ne peut pas être réalisée par des étudiants
+
+2. La recherche est :
+a. Une analyse des résultats obtenus jusqu'à présent sur un sujet donné
+b. Une manière de comprendre un phénomène donné et de communiquer les données obtenues
+c. Transposition des données d'une étude à une autre pour compléter les informations manquantes
+d. Un processus systématique d'analyse et de collecte de données
+e. Copier des données publiées par d'autres auteurs et les republier
+
+3. *L'une des caractéristiques de la recherche est :
+a. Il ne suit pas de plan spécifique
+b. Cela ne vient pas d'un problème
+c. Il ne peut pas être reproduit
+d. Peut générer des données positives et négatives
+e. Il n'est pas structuré d'une manière spécifique
+
+4. Recherche :
+a. part d'une question ou d'un problème qui nécessite une résolution
+b. suit une procédure spécifique afin de résoudre le problème
+c. ne nécessite pas d'objectif clair, celui-ci sera déterminé à partir des résultats
+d. implique la division du problème principal en plusieurs sous-problèmes qui peuvent être résolus séparément
+e. peut donner la réponse à plusieurs hypothèses principales en même temps
+
+5. Recherche :
+a. implique une connaissance préalable du résultat final
+b. implique la collecte et l'interprétation de données continues
+c. nécessite un objectif clair et bien défini
+d. nécessite une formation logistique préalable
+e. peut être réalisé par les étudiants
+
+6. Recherche :
+a. Il s'agit d'un processus systématique d'analyse et de collecte de données
+b. Ne peut pas être reproduit par une autre équipe de chercheurs
+c. Conduit à une augmentation du niveau de compréhension d'un phénomène
+d. Change le mode de communication dans une communauté scientifique
+e. N'est utile qu'à ceux qui souhaitent une carrière universitaire
+
+7. Recherche :
+a. Naît du besoin de répondre à une question
+b. Nécessite une délimitation claire d'un chapitre
+c. Exiger une délimitation claire d'un objectif
+d. Produit uniquement des résultats positifs
+e. N'est utile que si elle produit les résultats escomptés
+
+8. La méthodologie scientifique implique :
+a. Identification d'un problème
+b. Annonce d'une hypothèse
+c. Annonce d'un problème
+d. Collecte de données pertinentes pour la vérification de l'hypothèse
+e. Une documentation scientifique uniquement lorsque nous ne connaissons pas bien le sujet
+
+9. *L'hypothèse représente :
+a. Une hypothèse erronée
+b. Une hypothèse logique
+c. Un problème
+d. Une solution vérifiée
+e. Une solution démontrée par d'autres
+
+10. Documentation scientifique :
+a. Se fait notamment en recherchant sur PubMed
+b. Vérifie si la réponse que nous recherchons existe déjà
+c. N'est pas nécessaire lorsque nous étudions un nouveau sujet
+d. La manière dont l'opération a été réalisée doit être décrite dans le chapitre sur le matériel et les méthodes.
+e. N'est nécessaire que si nous ne connaissons pas bien le sujet
+
+11. *Documentation scientifique :
+a. ne prend pas en compte les résultats publiés précédemment
+b. doit être effectué par une personne extérieure à l'équipe de recherche qui étudie ce sujet
+c. se fait en recherchant sur Google
+d. aide à avoir une meilleure opinion sur le sujet étudié
+e. se fait en recherchant dans les journaux et les tabloïds
+
+12. * Documentation scientifique :
+a. il suffit que cela soit fait à l'aide de livres imprimés à partir d'une bibliothèque
+b. Nécessite l'accès à des bases de données contenant des articles médicaux
+c. Peut être évité si nous connaissons le résultat de l'étude
+d. Peut être fait maintenant et sans accès Internet
+e. N'est pas nécessaire si nous avons étudié le sujet dans le passé
+
+13. *Rechercher des informations médicales à l'aide de PubMed :
+a. Des mots plus généraux doivent être utilisés pour obtenir plus de résultats
+b. Des mots clés aussi spécifiques que possible doivent être utilisés
+c. Les premiers résultats affichés sont les plus utiles, comme les résultats de recherche Google
+d. Les articles gratuits disponibles suffisent pour la documentation
+e. Les noms populaires des termes médicaux doivent être utilisés comme mots-clés
+
+14. Recherche sur PubMed :
+a. Vous devez utiliser le moins de mots-clés possible
+b. Vous devez utiliser autant de mots-clés que possible
+c. Vous devez utiliser suffisamment de mots-clés pour obtenir un nombre pertinent de résultats
+d. Utiliser comme mots-clés des termes médicaux populaires
+e. Utiliser comme mots-clés des termes médicaux vérifiés par MeSH
+
+15. *Les articles scientifiques les plus pertinents sont :
+a. Présentations de cas
+b. Études cas-témoins
+c. L'avis de l'expert le plus connu dans le domaine
+d. Lettres à l'éditeur
+e. Ils ont tous la même pertinence
+
+16. *Les articles scientifiques les plus pertinents sont :
+a. Études de cohorte
+b. Études de séries de cas
+c. Essais randomisés
+d. Essais non randomisés
+e. Ils ont tous la même pertinence
+
+17. *Les articles scientifiques les moins pertinents sont :
+a. Études de cohorte
+b. Études de séries de cas
+c. Essais randomisés
+d. Essais non randomisés
+e. Ils ont tous la même pertinence
+
+18. * Les articles scientifiques les moins pertinents sont :
+a. Revues systématiques
+b. Essais randomisés en double aveugle
+c. Essais contrôlés randomisés
+d. Méta-analyse
+e. Ils ont tous la même pertinence
+
+19. Revues systématiques :
+a. Représente la preuve médicale la plus faible possible
+b. Avec la méta-analyse, représente la preuve médicale la plus élevée possible
+c. Nous les trouvons en consultant PubMed
+d. Nous les trouvons en consultant les bases de données Cochrane
+e. Nécessite l'inclusion du plus grand nombre possible de patients dans notre groupe d'étude clinique
+
+20. Un projet de recherche doit :
+a. Obligation de suivre et de poursuivre l'idée d'autres projets
+b. Approfondir les connaissances sur le sujet étudié
+c. Essayez de résoudre une question ou un problème important
+d. Produire une conclusion objective et applicable
+e. À exécuter même s'il n'y a pas de fonds nécessaires à son fonctionnement
+
+21. *Un article médical :
+a. Essaie de trouver une solution à de nombreux problèmes médicaux en même temps
+b. Suit la structure : introduction, matériel et méthode, résultats, conclusion, discussion
+c. Présente un résumé dans lequel sont brièvement décrits l'objectif, les résultats et la conclusion de l'étude
+d. Est identique sous la forme d'une présentation médicale dans un congrès
+e. Il doit avoir le plus d'impact possible, il est donc écrit de la même manière qu'un article de journal
+
+22. Le but de la publication d'un article médical est :
+a. Obtenir des revenus grâce à la publication de l'article
+b. Diffuser nos connaissances dans le domaine médical
+c. Présenter uniquement les résultats positifs obtenus dans une étude scientifique
+d. Améliorer le CV des auteurs
+e. Fournir un minimum d'informations sur la méthode suivie, afin qu'elle ne puisse pas être reproduite par d'autres chercheurs
+
+23. Le titre d'un article scientifique :
+a. Il doit produire un impact, car il utilise des titres similaires à ceux de la presse tabloïd
+b. Résume le concept de l'étude décrite dans l'article
+c. Lorsque c'est le cas, indiquez l'espèce animale utilisée dans l'étude décrite
+d. Indique le type d'étude
+e. Rédigé sous forme de question, il suscite davantage d'intérêt pour la lecture de l'article
+
+24. *Le titre d'un article scientifique :
+a. Est rédigé avant la réalisation de l'étude
+b. Son rôle est d'amener le lecteur à lire le résumé
+c. Doit présenter en détail les résultats de l'étude
+d. Doit fournir le moins d'informations possible sur l'étude afin de ne pas partager les résultats dès le début
+e. Utilise des termes aussi généraux que possible pour s'afficher comme résultat dans autant de recherches Google que possible
+
+25. *Le résumé d'un article médical scientifique :
+a. Son rôle est de fournir les données nécessaires au lecteur, afin qu'il puisse lire l'article sans le lire en entier
+b. Son rôle est de présenter uniquement la conclusion de l'étude
+c. Son rôle est d'amener le lecteur à lire l'article dans son intégralité
+d. Est moins important que l'article
+e. Contient des phrases essentielles copiées du texte de l'article
+
+27.* Le résumé d'un article scientifique médical
+a. Il est rédigé avant de mener l'étude
+b. Il s'agit d'un résumé de chaque section de l'article
+c. Il est composé en copiant des phrases importantes du reste des sections de l'article
+d. Il doit présenter uniquement les conclusions de l'étude.
+e. Cela peut être la source d'information sur laquelle nous nous appuyons lorsque nous prenons une décision médicale importante
+
+28. Introduction du chapitre
+a. doit expliquer pourquoi l'étude réalisée est importante
+b. décrit les aspects généraux du problème étudié de manière aussi détaillée que possible
+c. citer des travaux antérieurs qui soutiennent l'idée de votre présence
+d. il présente l'objectif de l'étude et l'hypothèse de travail.
+e. Cela n'est important que pour ceux qui ne connaissent pas bien le sujet
+
+29. *Le chapitre d'introduction d'une présentation scientifique :
+a. sera prononcé dans 5 minutes
+b. sera prononcé dans 1 minute
+c. doit expliquer l'importance du sujet présenté
+d. doit expliquer les méthodes utilisées au moment de l'étude
+e. doit détailler toutes les études réalisées précédemment sur le même sujet
+
+30. Chapitre de discussion
+a. est précédé du chapitre des conclusions
+b. vise à répertorier les informations déjà publiées sur le même sujet
+c. est suivi du chapitre des conclusions
+d. comparer les nouvelles informations obtenues à la suite de l'étude avec celles de la littérature
+e. il suit le chapitre des résultats
+
+31. Le chapitre matériel et méthodes
+a. indique entre parenthèses les noms commerciaux des produits médicaux utilisés,
+b. doit préciser la taille de l'échantillon utilisé
+c. mentionne uniquement les méthodes statistiques utilisées, sans donner de détails à leur sujet
+d. s'il présente les critères d'inclusion, il n'est plus nécessaire de présenter les critères d'exclusion
+e. présente les résultats essentiels obtenus
+
+32. Le chapitre des résultats dans une présentation scientifique :
+a. représente le noyau central de la présentation
+b. représente 10 % des informations présentées
+c. représente 33 % des informations présentées
+d. représente 66% des informations présentées
+e. représente 99% des informations présentées
+
+33. Chapitre des résultats
+a. utiliser des tableaux et des figures pour communiquer des informations plus facilement
+b. répétez les informations des tableaux et des figures sous forme de texte
+c. les résultats les plus importants sont affichés en premier
+d. montre uniquement les résultats positifs
+e. montre uniquement les résultats négatifs
+
+34.* Le chapitre des résultats explique :
+a. Matériaux utilisés
+b. Importance de l'étude
+c. Interprétation statistique des données mesurées et collectées
+d. Les différences entre la présente étude et d'autres études similaires
+e. Les limites apparues au cours de l'étude
+
+35. Le chapitre des conclusions :
+a. est suivi du chapitre de discussion
+b. indiquer les applications cliniques des résultats obtenus
+c. préciser si des études supplémentaires sont nécessaires pour fournir une réponse plus précise
+d. résume l'étude réalisée
+e. suit le chapitre des résultats
+
+36.* La bibliographie d'un article médical :
+a. représente les articles médicaux utilisés pour étayer les idées présentées
+b. peut inclure des articles présentés lors de congrès médicaux
+c. les index bibliographiques sont placés avant les signes de ponctuation
+d. plusieurs systèmes de référence peuvent être utilisés au sein d'un même article médical
+e. peut inclure des articles de presse
+
+37. Dans une présentation scientifique, sont admis :
+a. Maximum 7 mots par colonne
+b. Maximum 7 mots par ligne
+c. Maximum 7 lignes par diapositive
+d. Maximum 7 mots par diapositive
+e. Minimum 7 images par diapositive
+
+38. *La combinaison de couleurs qui offre la meilleure visibilité du texte sur la diapositive dans une présentation scientifique :
+a. Écriture rouge sur fond bleu
+b. Écriture jaune sur fond blanc
+c. Écriture jaune sur fond bleu
+d. Écriture blanche sur fond jaune
+e. Toute combinaison de couleurs pour l'écriture et l'arrière-plan
+
+39. Dans une présentation scientifique :
+a. le contenu est présenté de manière détaillée sous forme de phrases dans les diapositives
+b. le contenu est présenté uniquement sous forme d'idées
+c. le texte d'une diapositive est réparti uniformément sur toute la surface de la diapositive
+d. les informations des tableaux sont répétées dans le texte des diapositives
+e. des phrases complètes sont préférables aux mots-clés, pour expliquer de manière aussi détaillée que possible
+
+40. *Dans une présentation scientifique, la structure est :
+a. Matériels et méthodes, explication des résultats
+b. Introduction, contenu, résultats
+c. Introduction, matériels et méthodes, résultats, discussions et conclusions
+d. Le texte de l'article médical écrit, divisé en diapositives
+e. Lors du choix du présentateur, il n'y a pas de règles claires de structuration
+
+41. Dans une présentation scientifique :
+a. Le présentateur regarde l'écran de projection
+b. L'utilisation de pauses est encouragée
+c. La présentation se termine par un diaporama de remerciements
+d. La présentation se termine après que le présentateur a répondu aux questions du public.
+e. Le présentateur doit parler autant que possible et le plus rapidement possible pour transmettre le plus d'informations possible.
+
+42. *La médecine fondée sur des preuves est :
+a. traitement statistique des données collectées
+b. interprétation des conclusions cliniques dans les décisions orientées vers la prise en charge des patients
+c. création d'une prescription universellement applicable à tous les patients atteints d'une certaine maladie
+d. moins important que l'avis de médecins très médiatisés
+e. moins important que ce qui est écrit dans le cours que nous apprenions
+
+43. Médecine fondée sur des preuves :
+a. n'ignore pas la pratique clinique
+b. favorise une approche basée sur des protocoles médicaux
+c. offre la possibilité de mettre en œuvre ses propres décisions cliniques
+d. n'apporte pas de réponse à plus de 70 % des situations cliniques rencontrées
+e. n'est pas pertinent lorsque dans une clinique médicale il existe une tradition concernant la meilleure façon de procéder
+
+44. À la recherche de réponses aux questions cliniques, il est fondamental de se tourner vers :
+a. bases de données en ligne (PubMed, Cochrane)
+b. littérature spécialisée sous forme de lignes directrices et de protocoles des prestigieuses sociétés médicales
+c. uniquement à l'expérience clinique d'autres médecins renommés
+d. intuition personnelle
+e. sites qui apparaissent sur la première page d'une recherche Google
+
+45. Un essai clinique devient pertinent lorsque :
+a. il est randomisé
+b. le médecin traitant sait tout sur le traitement administré aux groupes d'étude
+c. les patients qui ne sont pas restés dans le groupe de l'étude jusqu'à sa fin sont exclus des statistiques
+d. le suivi des patients s'effectue sur une longue période
+e. Il contient un nombre suffisamment grand de patients, calculé à la fréquence du problème étudié
+
+46. *Une étude dans laquelle les radiographies sont comparées entre 800 fumeurs et 200 non-fumeurs une étude de type :
+a. Transversale
+b. Cohorte
+c. Cas-témoins
+d. Méta-analyse
+e. Rapport de cas
+
+47. *Une étude dans laquelle on suit l'évolution de 100 patients atteints d'artériopathie périphérique chronique et on détermine l'incidence des amputations à 10 ans, une étude de type :
+a. Transversale
+b.Témoins de cas
+c. Cohorte
+d. Méta-analyse
+e. Rapport de cas
+
+48. Les articles et présentations scientifiques sont :
+a. la meilleure façon de communiquer des informations scientifiques à la communauté concernée
+b. une manière pratique d'identifier les violations ou les erreurs logiques dans sa propre façon de penser
+C. une source constante de revenus pour les auteurs
+d. une étape facultative dans la carrière universitaire en médecine
+e. est un moyen de se faire connaître dans le monde universitaire
+
+49. * Une œuvre originale :
+a. est le résultat d'un effort créatif indépendant
+b. est entièrement copié à partir d'une œuvre déjà existante
+c. peut être la synthèse d'autres œuvres originales
+d. il peut être partiellement copié à partir d'autres œuvres originales
+e. il suffit de changer le titre pour un autre ouvrage déjà publié
+
+50. Le plagiat est :
+a. Lorsque vous demandez à votre collègue les bonnes réponses à l'examen
+b. Lorsque vous soumettez les mêmes devoirs qu'un autre collègue, même des années précédentes
+c. Utiliser le même sujet de mémoire de licence qu'un autre collègue
+d. Une forme de vol
+e. Acceptable tant qu'il n'est pas découvert
+
+51.* Fournir des informations incorrectes concernant la source utilisée est :
+a. Une opportunité d'écrire un article médical
+b. Une forme de plagiat
+c. Acceptable avec l'approbation du permis de superviseur
+d. Acceptable tant qu'il est souvent rencontré
+e. Acceptable tant qu'il n'est pas découvert
