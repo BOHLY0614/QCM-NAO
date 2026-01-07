@@ -1,18 +1,23 @@
 import tkinter as tk
-from tkinter import ttk, scrolledtext, messagebox
+from tkinter import ttk, scrolledtext, messagebox, simpledialog
 import time
 import os
 import ctypes
 import re
-import random 
-
-# Import de notre backend
+import random
+import wave
+import struct
+import tempfile  # Pour créer le fichier son temporaire
 import backend
 
 LARGE_FONT = ("Arial", 16)
 TITLE_FONT = ("Arial", 24, "bold")
 BUTTON_FONT = ("Arial", 14)
 RESULT_FONT = ("Arial", 18)
+
+# --- CONFIGURATION ---
+SHOW_DEBUG_BUTTON = True   # Mettre False pour cacher le bouton de test
+DEFAULT_VOLUME = 0.1       # 0.1 = 10% du volume (Recommandé car WAV souvent très fort)
 
 class QCMApp(tk.Tk):
     def __init__(self):
@@ -27,7 +32,6 @@ class QCMApp(tk.Tk):
         self.state('zoomed')
         self.title("Quiz QCM")
 
-        # Chemin de base pour les assets
         self.base_dir = os.path.dirname(os.path.abspath(__file__))
 
         try:
@@ -40,6 +44,11 @@ class QCMApp(tk.Tk):
         self.grid_columnconfigure(0, weight=1)
         self.grid_rowconfigure(0, weight=1)
         
+        # Variables
+        self.current_sound_path = None
+        self.temp_sound_file = None # Pour stocker le chemin du fichier temporaire
+        self.volume_level = DEFAULT_VOLUME
+
         # --- THÈMES ---
         self.theme_mode = "light"
         self.themes = {
@@ -72,16 +81,87 @@ class QCMApp(tk.Tk):
         
         self.apply_theme()
         
-        # Chargement données
         json_dir = backend.get_json_dir(__file__)
         self.chapter_files, self.chapters = backend.load_chapters(json_dir)
         self.question_stats = backend.load_stats()
 
+        # --- VARIABLES DE CONFIGURATION ---
         self.num_questions_var = tk.IntVar(value=20)
         self.shuffle_options_var = tk.BooleanVar(value=False)
+        self.easter_egg_enabled_var = tk.BooleanVar(value=True)
+
         self.create_main_menu()
         
         self.bind("<Configure>", self.on_window_resize)
+
+    # --- GESTION AUDIO (STABLE via Fichier Temporaire) ---
+    def create_volume_adjusted_file(self, file_path, volume):
+        """Crée un fichier temporaire avec le volume réduit"""
+        try:
+            with wave.open(file_path, 'rb') as wav_in:
+                if wav_in.getsampwidth() != 2: 
+                    return file_path # On ne touche pas si format exotique
+                
+                params = wav_in.getparams()
+                frames = wav_in.readframes(params.nframes)
+
+            # Traitement binaire
+            fmt = "<" + "h" * (len(frames) // 2)
+            samples = list(struct.unpack(fmt, frames))
+            # Réduction du volume
+            samples = [int(s * volume) for s in samples]
+            new_frames = struct.pack(fmt, *samples)
+            
+            # Création fichier temp physique (pas en mémoire)
+            fd, temp_path = tempfile.mkstemp(suffix=".wav")
+            with os.fdopen(fd, 'wb') as temp_wav:
+                with wave.open(temp_wav, 'wb') as wav_out:
+                    wav_out.setparams(params)
+                    wav_out.writeframes(new_frames)
+            
+            return temp_path
+        except Exception as e:
+            print(f"Erreur création son temp: {e}")
+            return file_path
+
+    def play_looping_sound(self, file_path):
+        if os.name != 'nt': return 
+        import winsound
+        
+        # Nettoyage préventif
+        self.stop_sound()
+
+        target_path = file_path
+        
+        # Si on veut changer le volume, on passe par un fichier temporaire
+        if self.volume_level < 0.99:
+            target_path = self.create_volume_adjusted_file(file_path, self.volume_level)
+            # Si un fichier temp a été créé (chemin différent de l'original)
+            if target_path != file_path:
+                self.temp_sound_file = target_path
+
+        self.current_sound_path = target_path
+        
+        try:
+            # Lecture depuis le DISQUE (Stable)
+            winsound.PlaySound(target_path, winsound.SND_LOOP | winsound.SND_ASYNC | winsound.SND_FILENAME)
+        except Exception as e:
+            print(f"Erreur lecture son: {e}")
+
+    def stop_sound(self):
+        if os.name == 'nt':
+            import winsound
+            try:
+                # 1. On arrête le son
+                winsound.PlaySound(None, winsound.SND_PURGE)
+                
+                # 2. On supprime le fichier temporaire s'il existe
+                if self.temp_sound_file and os.path.exists(self.temp_sound_file):
+                    try:
+                        os.remove(self.temp_sound_file)
+                    except: pass # Parfois Windows verrouille le fichier un court instant
+                    self.temp_sound_file = None
+            except: pass
 
     # --- THEME & WIDGETS ---
     def apply_theme(self):
@@ -175,7 +255,7 @@ class QCMApp(tk.Tk):
                             if isinstance(subchild, ttk.Label) and subchild.winfo_exists():
                                 subchild.configure(wraplength=new_width - 50)
 
-    # --- MENU PRINCIPAL (AVEC SCROLL) ---
+    # --- MENU PRINCIPAL ---
     def create_main_menu(self):
         self.main_menu_frame = ttk.Frame(self)
         self.main_menu_frame.pack(expand=True, fill='both')
@@ -201,16 +281,27 @@ class QCMApp(tk.Tk):
         def _on_mousewheel(event):
             canvas.yview_scroll(int(-1*(event.delta/120)), "units")
         
-        # Binding global pour le scroll
         canvas.bind_all("<MouseWheel>", _on_mousewheel)
         self.unbind_scroll = lambda: canvas.unbind_all("<MouseWheel>")
 
         scrollable_frame.grid_columnconfigure(0, weight=1)
 
-        settings_frame = ttk.Frame(scrollable_frame)
-        settings_frame.pack(pady=10, anchor='ne')
+        # --- BARRE DE CONFIGURATION (HAUT) ---
+        top_controls_frame = ttk.Frame(scrollable_frame)
+        top_controls_frame.pack(fill='x', pady=10, padx=10)
+
+        ee_check = tk.Checkbutton(
+            top_controls_frame, text="🎉 Animations", variable=self.easter_egg_enabled_var,
+            font=("Arial", 12), bg=theme['bg'], fg=theme['fg'],
+            selectcolor=theme['bg'], activebackground=theme['bg'],
+            activeforeground=theme['fg']
+        )
+        ee_check.pack(side='left', padx=5)
+
+        settings_frame = ttk.Frame(top_controls_frame)
+        settings_frame.pack(side='right')
         
-        ttk.Label(settings_frame, text="Nombre de questions:", font=LARGE_FONT).pack(side='left', padx=5)
+        ttk.Label(settings_frame, text="Questions:", font=LARGE_FONT).pack(side='left', padx=5)
         num_spinbox = ttk.Spinbox(settings_frame, from_=1, to=100, textvariable=self.num_questions_var, width=5, font=LARGE_FONT)
         num_spinbox.pack(side='left', padx=5)
 
@@ -220,12 +311,23 @@ class QCMApp(tk.Tk):
             selectcolor=theme['bg'], activebackground=theme['bg'],
             activeforeground=theme['fg']
         )
-        shuffle_check.pack(pady=(10, 20))
+        shuffle_check.pack(side='left', padx=(10, 0))
 
+        # --- TITRE ET CHAPITRES ---
         ttk.Label(scrollable_frame, text="Choisissez un chapitre", font=TITLE_FONT).pack(pady=20)
 
         button_frame = ttk.Frame(scrollable_frame)
         button_frame.pack(pady=10, fill='x', padx=50)
+
+        if SHOW_DEBUG_BUTTON:
+            debug_btn = tk.Button(
+                button_frame,
+                text="🛠️ TEST SCORE / DEBUG",
+                command=self.debug_show_score,
+                font=("Arial", 10, "bold"),
+                bg="#f1c40f", fg="black"
+            )
+            debug_btn.pack(pady=5, fill='x')
 
         for i, chapter_path in enumerate(self.chapter_files):
             filename = os.path.basename(chapter_path)
@@ -257,11 +359,30 @@ class QCMApp(tk.Tk):
         
         ttk.Frame(button_frame, height=50).pack()
 
+    # --- DEBUG ---
+    def debug_show_score(self):
+        score_input = simpledialog.askinteger("Debug", "Entrez le score en % (0-100) :", parent=self, minvalue=0, maxvalue=100)
+        if score_input is None: return
+
+        self.main_menu_frame.pack_forget()
+        self.unbind_scroll()
+        self.quiz_frame = ttk.Frame(self)
+        self.quiz_frame.pack(fill='both', expand=True, padx=20, pady=20)
+        
+        self.current_chapter = ["Fake"] * 10
+        self.score = int(len(self.current_chapter) * (score_input / 100))
+        self.final_time = 125 
+        self.start_time = time.time()
+        self.last_chapter_index = -1
+        
+        self.show_final_score()
+
     # --- LOGIQUE QUIZ ---
     def start_quiz(self, chapter_index):   
-        # Nettoyage du scroll précédent
         if hasattr(self, 'unbind_scroll'):
             self.unbind_scroll()
+        
+        self.stop_sound()
             
         self.main_menu_frame.pack_forget()
         self.last_chapter_index = chapter_index 
@@ -307,6 +428,8 @@ class QCMApp(tk.Tk):
         self.start_quiz(-1)
 
     def restart_quiz(self):
+        self.stop_sound()
+            
         self.clear_frame(self.quiz_frame)
         self.quiz_frame.pack_forget()
         if self.last_chapter_index == -1:
@@ -338,7 +461,6 @@ class QCMApp(tk.Tk):
         
         canvas.bind("<Configure>", lambda e: (canvas.itemconfig("all", width=e.width), self.scrollable_frame.configure(width=e.width)))
         
-        # Scroll à la souris pour les questions aussi
         def _on_mousewheel(event):
             canvas.yview_scroll(int(-1*(event.delta/120)), "units")
         canvas.bind_all("<MouseWheel>", _on_mousewheel)
@@ -473,64 +595,73 @@ class QCMApp(tk.Tk):
             self.show_final_score()
 
     def show_final_score(self):
-        # On utilise maintenant une fenêtre avec Scrollbar, comme le Menu Principal
         self.clear_frame(self.quiz_frame)
         
-        # Frame principale qui va contenir le canvas
         container = ttk.Frame(self.quiz_frame)
         container.pack(fill='both', expand=True)
         
         theme = self.themes[self.theme_mode]
         
-        # Canvas + Scrollbar
         canvas = tk.Canvas(container, bg=theme['bg'], highlightthickness=0)
         scrollbar = ttk.Scrollbar(container, orient="vertical", command=canvas.yview)
         scrollable_frame = ttk.Frame(canvas)
 
         scrollable_frame.bind("<Configure>", lambda e: canvas.configure(scrollregion=canvas.bbox("all")))
-
         canvas_frame = canvas.create_window((0, 0), window=scrollable_frame, anchor="nw")
         canvas.configure(yscrollcommand=scrollbar.set)
-
         canvas.pack(side="left", fill="both", expand=True)
         scrollbar.pack(side="right", fill="y")
 
-        # Adaptation responsive largeur
         def on_canvas_configure(event):
             canvas.itemconfig(canvas_frame, width=event.width)
         canvas.bind("<Configure>", on_canvas_configure)
 
-        # Molette souris
         def _on_mousewheel(event):
             canvas.yview_scroll(int(-1*(event.delta/120)), "units")
         canvas.bind_all("<MouseWheel>", _on_mousewheel)
         self.unbind_scroll = lambda: canvas.unbind_all("<MouseWheel>")
 
-        # Centrage du contenu
         scrollable_frame.grid_columnconfigure(0, weight=1)
         
-        # --- CONTENU DE LA PAGE DE RÉSULTAT ---
+        # --- CALCUL SCORE ---
+        if len(self.current_chapter) > 0:
+            percentage = (self.score / len(self.current_chapter)) * 100
+        else:
+            percentage = 0
+            
+        # --- EASTER EGGS (Seulement si cochés) ---
+        if self.easter_egg_enabled_var.get():
+            score_bracket = int((percentage // 10) * 10)
+            
+            # CHEMINS
+            png_filename = f"score_{score_bracket}.png"
+            png_path = os.path.join(self.base_dir, "Assets", "Images", png_filename)
+            
+            wav_filename = f"score_{score_bracket}.wav"
+            wav_path = os.path.join(self.base_dir, "Assets", "Sounds", wav_filename)
 
-        # EASTER EGG IMAGE (Sans le son)
-        if self.score == len(self.current_chapter) and self.score > 0:
-            img_path = os.path.join(self.base_dir, "Assets", "victory.png")
-            if os.path.exists(img_path):
+            # 1. Son
+            if os.path.exists(wav_path):
+                self.play_looping_sound(wav_path)
+
+            # 2. Image
+            if os.path.exists(png_path):
                 try:
-                    self.victory_img = tk.PhotoImage(file=img_path)
-                    img_label = tk.Label(scrollable_frame, image=self.victory_img, bg=theme['bg'])
+                    self.score_img = tk.PhotoImage(file=png_path)
+                    img_label = tk.Label(scrollable_frame, image=self.score_img, bg=theme['bg'])
                     img_label.pack(pady=20)
                 except Exception as e:
-                    print(f"Impossible de charger l'image victory.png : {e}")
+                    print(f"Erreur chargement PNG: {e}")
 
-        # Score et Temps
-        ttk.Label(scrollable_frame, text=f"Score final : {self.score}/{len(self.current_chapter)}", font=TITLE_FONT).pack(pady=20)
+        # Score & Temps
+        ttk.Label(scrollable_frame, text=f"Score final : {self.score}/{len(self.current_chapter)} ({int(percentage)}%)", font=TITLE_FONT).pack(pady=10)
         
         total_time = int(self.final_time)
         hours, remainder = divmod(total_time, 3600)
         minutes, seconds = divmod(remainder, 60)
-        ttk.Label(scrollable_frame, text=f"Temps total : {hours}h {minutes}m {seconds}s", font=RESULT_FONT).pack(pady=10)
+        ttk.Label(scrollable_frame, text=f"Temps total : {hours}h {minutes}m {seconds}s", font=RESULT_FONT).pack(pady=5)
 
-        # Boutons de navigation
+        # Boutons Navigation
         button_frame = ttk.Frame(scrollable_frame)
         button_frame.pack(pady=20, fill='x', padx=50)
         
@@ -538,12 +669,14 @@ class QCMApp(tk.Tk):
         ttk.Button(button_frame, text="Retour au menu principal", command=self.return_to_main_menu, style="Large.TButton").pack(pady=10, fill='x')
         ttk.Button(button_frame, text="Quitter", command=self.quit, style="Large.TButton").pack(pady=10, fill='x')
         
-        # Marge en bas pour être sûr de tout voir
         ttk.Frame(button_frame, height=50).pack()
 
-        backend.save_stats(self.question_stats)
+        if self.last_chapter_index != -1 or len(self.current_chapter) > 0:
+             backend.save_stats(self.question_stats)
 
     def return_to_main_menu(self):
+        self.stop_sound()
+            
         self.clear_frame(self.quiz_frame)
         self.quiz_frame.pack_forget()
         self.create_main_menu()
