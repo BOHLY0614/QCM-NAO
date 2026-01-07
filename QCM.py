@@ -16,7 +16,7 @@ BUTTON_FONT = ("Arial", 14)
 RESULT_FONT = ("Arial", 18)
 
 # --- CONFIGURATION ---
-SHOW_DEBUG_BUTTON = True   # Mettre False pour cacher le bouton de test
+SHOW_DEBUG_BUTTON = False   # Mettre False pour cacher le bouton de test
 DEFAULT_VOLUME = 0.1       # 0.1 = 10% du volume (Recommandé car WAV souvent très fort)
 
 class QCMApp(tk.Tk):
