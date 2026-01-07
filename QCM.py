@@ -4,9 +4,8 @@ import time
 import os
 import ctypes
 import re
-import random # Utilisé pour le mélange des options d'affichage
+import random 
 
-# Import de notre nouveau module logique
 import backend
 
 LARGE_FONT = ("Arial", 16)
@@ -58,7 +57,6 @@ class QCMApp(tk.Tk):
             }
         }
         
-        # Barre d'outils
         self.toolbar_frame = ttk.Frame(self)
         self.toolbar_frame.pack(fill='x', padx=10, pady=5)
         
@@ -70,7 +68,7 @@ class QCMApp(tk.Tk):
         
         self.apply_theme()
         
-        # --- CHARGEMENT DES DONNÉES VIA BACKEND ---
+        # Chargement données
         json_dir = backend.get_json_dir(__file__)
         self.chapter_files, self.chapters = backend.load_chapters(json_dir)
         self.question_stats = backend.load_stats()
@@ -81,7 +79,6 @@ class QCMApp(tk.Tk):
         
         self.bind("<Configure>", self.on_window_resize)
 
-    # --- GESTION DES THÈMES (Inchangé ou presque) ---
     def apply_theme(self):
         theme = self.themes[self.theme_mode]
         self.configure(background=theme['bg'])
@@ -101,7 +98,6 @@ class QCMApp(tk.Tk):
         self.style.configure("Large.TCheckbutton", font=LARGE_FONT)
         self.style.configure("TScrollbar", background=theme['scrollbar'], troughcolor=theme['bg'])
         self.style.configure("Hover.TFrame", background=theme['hover'])
-        
         self.style.configure("Custom.Horizontal.TProgressbar", background=theme['primary'],
                              troughcolor=theme['bg'], bordercolor=theme['bg'],
                              lightcolor=theme['primary'], darkcolor=theme['primary'])
@@ -121,7 +117,7 @@ class QCMApp(tk.Tk):
             if widget_type == 'Frame': widget.configure(background=theme['bg'])
             elif widget_type == 'Label': widget.configure(background=theme['bg'], foreground=theme['fg'])
             elif widget_type == 'Button':
-                if widget != self.theme_button: # Ne pas écraser le bouton thème s'il est géré manuellement
+                if widget != self.theme_button:
                      widget.configure(bg=theme['button_bg'], fg=theme['button_fg'],
                                      activebackground=theme['primary'], activeforeground=theme['button_fg'])
             elif widget_type == 'Checkbutton':
@@ -178,12 +174,54 @@ class QCMApp(tk.Tk):
     def create_main_menu(self):
         self.main_menu_frame = ttk.Frame(self)
         self.main_menu_frame.pack(expand=True, fill='both')
-        self.main_menu_frame.grid_columnconfigure(0, weight=1)
-        self.main_menu_frame.grid_rowconfigure(0, weight=1)
-        self.main_menu_frame.grid_rowconfigure(1, weight=1)
+        
+        # --- MISE EN PLACE DU SCROLL (Comme pour les questions) ---
+        theme = self.themes[self.theme_mode]
+        
+        # 1. Création du Canvas et de la Scrollbar
+        canvas = tk.Canvas(self.main_menu_frame, bg=theme['bg'], highlightthickness=0)
+        scrollbar = ttk.Scrollbar(self.main_menu_frame, orient="vertical", command=canvas.yview)
+        
+        # 2. Frame interne qui contiendra les boutons
+        scrollable_frame = ttk.Frame(canvas)
 
-        settings_frame = ttk.Frame(self.main_menu_frame)
-        settings_frame.pack(pady=10, anchor='ne')
+        # 3. Configuration du redimensionnement de la zone de scroll
+        scrollable_frame.bind(
+            "<Configure>",
+            lambda e: canvas.configure(scrollregion=canvas.bbox("all"))
+        )
+
+        # 4. Création de la fenêtre dans le canvas
+        canvas_frame = canvas.create_window((0, 0), window=scrollable_frame, anchor="nw")
+        canvas.configure(yscrollcommand=scrollbar.set)
+
+        # 5. Affichage (Pack)
+        canvas.pack(side="left", fill="both", expand=True)
+        scrollbar.pack(side="right", fill="y")
+
+        # 6. Adaptation de la largeur (Responsive)
+        def on_canvas_configure(event):
+            canvas.itemconfig(canvas_frame, width=event.width)
+        canvas.bind("<Configure>", on_canvas_configure)
+
+        # 7. Activation de la molette de la souris (Mousewheel)
+        def _on_mousewheel(event):
+            canvas.yview_scroll(int(-1*(event.delta/120)), "units")
+        
+        # On lie la molette au canvas et au frame interne
+        canvas.bind_all("<MouseWheel>", _on_mousewheel)
+        
+        # On sauvegarde une référence pour pouvoir désactiver le scroll plus tard
+        self.unbind_scroll = lambda: canvas.unbind_all("<MouseWheel>")
+
+        # --- CONTENU DU MENU (Inséré dans scrollable_frame) ---
+        
+        # Configuration Grid pour centrer le contenu
+        scrollable_frame.grid_columnconfigure(0, weight=1)
+
+        # Sélecteur de nombre de questions
+        settings_frame = ttk.Frame(scrollable_frame)
+        settings_frame.pack(pady=10, anchor='ne') # Ancré en haut à droite
         
         ttk.Label(settings_frame, text="Nombre de questions:", font=LARGE_FONT).pack(side='left', padx=5)
         num_spinbox = ttk.Spinbox(settings_frame, from_=1, to=100, textvariable=self.num_questions_var, width=5, font=LARGE_FONT)
@@ -191,26 +229,61 @@ class QCMApp(tk.Tk):
 
         shuffle_check = tk.Checkbutton(
             settings_frame, text="Shuffle", variable=self.shuffle_options_var,
-            font=("Arial", 12), bg=self.themes[self.theme_mode]['bg'], fg=self.themes[self.theme_mode]['fg'],
-            selectcolor=self.themes[self.theme_mode]['bg'], activebackground=self.themes[self.theme_mode]['bg'],
-            activeforeground=self.themes[self.theme_mode]['fg']
+            font=("Arial", 12), bg=theme['bg'], fg=theme['fg'],
+            selectcolor=theme['bg'], activebackground=theme['bg'],
+            activeforeground=theme['fg']
         )
         shuffle_check.pack(pady=(10, 20))
 
-        ttk.Label(self.main_menu_frame, text="Choisissez un chapitre", font=TITLE_FONT).pack(pady=40)
+        # Titre
+        ttk.Label(scrollable_frame, text="Choisissez un chapitre", font=TITLE_FONT).pack(pady=20)
 
-        button_frame = ttk.Frame(self.main_menu_frame)
-        button_frame.pack(pady=20)
+        # Conteneur des boutons de chapitres
+        button_frame = ttk.Frame(scrollable_frame)
+        button_frame.pack(pady=10, fill='x', padx=50) # Padding X pour ne pas coller aux bords
 
+        # Liste des chapitres
         for i, chapter_path in enumerate(self.chapter_files):
             filename = os.path.basename(chapter_path)
             display_name = os.path.splitext(filename)[0]
-            ttk.Button(button_frame, text=display_name, command=lambda i=i: self.start_quiz(i), style="Large.TButton").pack(pady=10, fill='x')
+            
+            btn = ttk.Button(
+                button_frame, 
+                text=display_name, 
+                command=lambda i=i: self.start_quiz(i), 
+                style="Large.TButton"
+            )
+            btn.pack(pady=5, fill='x')
 
-        ttk.Button(button_frame, text="Mélange de tous les chapitres", command=self.mix_all_chapters, style="Large.TButton").pack(pady=10, fill='x')
+        # Séparateur visuel
+        ttk.Separator(button_frame, orient='horizontal').pack(fill='x', pady=20)
+
+        # Boutons Spéciaux
+        ttk.Button(button_frame, text="Mélange de tous les chapitres", command=self.mix_all_chapters, style="Large.TButton").pack(pady=5, fill='x')
+        
+        # Bouton Erreurs (Mise en valeur)
+        error_btn = tk.Button(
+            button_frame,
+            text="⚠️ Revoir mes erreurs",
+            command=self.start_error_review,
+            font=("Arial", 14, "bold"),
+            bg="#e74c3c", # Rouge clair pour attirer l'oeil
+            fg="white",
+            relief="flat",
+            pady=10
+        )
+        error_btn.pack(pady=15, fill='x')
+        
+        # Espace vide en bas pour être sûr qu'on peut scroller jusqu'au bout
+        ttk.Frame(button_frame, height=50).pack()
+
 
     # --- LOGIQUE QUIZ ---
     def start_quiz(self, chapter_index):   
+
+        if hasattr(self, 'unbind_scroll'):
+            self.unbind_scroll()
+
         self.main_menu_frame.pack_forget()
         self.last_chapter_index = chapter_index 
         self.quiz_frame = ttk.Frame(self)
@@ -222,11 +295,11 @@ class QCMApp(tk.Tk):
         num_questions = self.num_questions_var.get()
         
         if chapter_index == -1:
-            # Chapitre mixte déjà préparé
+            # Mode personnalisé (Mélange ou Erreurs) : self.current_chapter est déjà défini
             pass 
         else:
+            # Mode Chapitre classique
             raw_chapter = list(self.chapters[self.chapter_files[chapter_index]])
-            # Utilisation de backend pour la sélection intelligente
             self.current_chapter = backend.smart_select_questions(raw_chapter, num_questions, self.question_stats)
             
         self.total_questions = len(self.current_chapter)
@@ -240,15 +313,39 @@ class QCMApp(tk.Tk):
         all_chapters = [self.chapters[file] for file in self.chapter_files]
         mixed_questions = [question for chapter in all_chapters for question in chapter]
         num_questions = self.num_questions_var.get()
-        # Utilisation de backend pour le mélange
         self.current_chapter = backend.smart_select_questions(mixed_questions, num_questions, self.question_stats)
+        self.start_quiz(-1)
+
+    def start_error_review(self):
+        """Lance un quiz composé uniquement des questions incorrectes"""
+        # 1. On récupère TOUTES les questions chargées en mémoire
+        all_questions = [q for chapter in self.chapters.values() for q in chapter]
+        
+        # 2. On demande au backend de filtrer celles qu'on a ratées
+        error_questions = backend.get_incorrect_questions(all_questions, self.question_stats)
+        
+        # 3. Sécurité : Si pas d'erreurs (ou fichier stats inexistant), on prévient l'utilisateur
+        if not error_questions:
+            messagebox.showinfo("Attention !", "Aucune erreur enregistrée pour le moment.\nContinue à t'entraîner sur les chapitres")
+            return
+
+        # 4. On mélange les erreurs pour ne pas toujours avoir le même ordre
+        random.shuffle(error_questions)
+        
+        # 5. On lance le quiz avec cette liste
+        self.current_chapter = error_questions
+        # On définit last_chapter_index à -2 pour identifier le mode "Erreur" si besoin de redémarrer
+        self.last_chapter_index = -2 
         self.start_quiz(-1)
 
     def restart_quiz(self):
         self.clear_frame(self.quiz_frame)
         self.quiz_frame.pack_forget()
+        
         if self.last_chapter_index == -1:
             self.mix_all_chapters()
+        elif self.last_chapter_index == -2: # Redémarrer mode erreurs
+            self.start_error_review()
         else:
             self.start_quiz(self.last_chapter_index)
 
@@ -271,12 +368,12 @@ class QCMApp(tk.Tk):
         canvas.configure(yscrollcommand=scrollbar.set)
         canvas.grid(row=0, column=0, sticky="nsew")
         scrollbar.grid(row=0, column=1, sticky="ns")
-
+        
         canvas.bind("<Configure>", lambda e: (canvas.itemconfig("all", width=e.width), self.scrollable_frame.configure(width=e.width)))
 
         self.current_question_data = self.current_chapter[self.current_question]
         
-        # --- MÉLANGE DES RÉPONSES (Logique d'affichage locale) ---
+        # Mélange des options
         raw_options = self.current_question_data["options"]
         raw_correct = self.current_question_data["correct_answers"]
         
@@ -369,7 +466,6 @@ class QCMApp(tk.Tk):
         correct_answers = self.current_correct_answers_list
         user_answers = [chr(i + 65) for i, selected in enumerate(self.selected_answers) if selected.get()]
 
-        # Mise à jour des stats via backend
         question_key = backend.get_question_key(self.current_question_data)
         question_stats = self.question_stats.get(str(question_key), {"correct": 0, "incorrect": 0})
 
@@ -410,7 +506,6 @@ class QCMApp(tk.Tk):
         center_frame.pack(expand=True, fill='both')
         center_frame.grid_columnconfigure(0, weight=1)
         
-        # Labels de fin
         ttk.Label(center_frame, text=f"Score final : {self.score}/{len(self.current_chapter)}", font=TITLE_FONT).pack(pady=20)
         
         total_time = int(self.final_time)
@@ -425,7 +520,6 @@ class QCMApp(tk.Tk):
         ttk.Button(button_frame, text="Retour au menu principal", command=self.return_to_main_menu, style="Large.TButton").pack(pady=10, fill='x')
         ttk.Button(button_frame, text="Quitter", command=self.quit, style="Large.TButton").pack(pady=10, fill='x')
         
-        # Sauvegarde stats via backend
         backend.save_stats(self.question_stats)
 
     def return_to_main_menu(self):
@@ -479,15 +573,12 @@ class QCMApp(tk.Tk):
                 messagebox.showwarning("Erreur", "Remplir tous les champs.", parent=editor)
                 return
 
-            # Mise à jour mémoire
             self.current_question_data["question"] = new_q
             self.current_question_data["options"] = new_opts
             self.current_question_data["correct_answers"] = new_correct
             
-            # Appel backend pour sauvegarde disque
             success, msg = backend.update_question_in_file(self.current_question_data, new_q, new_opts, new_correct)
             if success:
-                print(msg)
                 editor.destroy()
                 self.show_question()
             else:
@@ -498,7 +589,6 @@ class QCMApp(tk.Tk):
         tk.Button(btn_frame, text="Sauvegarder", command=save_changes, bg="#2ecc71", fg="white", font=BUTTON_FONT).pack(side="left", padx=10)
         tk.Button(btn_frame, text="Annuler", command=editor.destroy, bg="#e74c3c", fg="white", font=BUTTON_FONT).pack(side="left", padx=10)
 
-    # --- UTILITAIRES INTERFACE ---
     def update_timer(self):
         if hasattr(self, 'start_time') and not hasattr(self, 'final_time'):
             if not self.winfo_exists(): return

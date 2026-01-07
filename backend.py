@@ -103,3 +103,18 @@ def update_question_in_file(question_data, new_q, new_opts, new_correct):
         except Exception as e:
             return False, str(e)
     return False, "Fichier source introuvable."
+
+def get_incorrect_questions(all_questions, stats):
+    incorrect_questions = []
+    
+    if not stats:
+        return []
+
+    for q in all_questions:
+        key = get_question_key(q)
+        q_stats = stats.get(str(key))
+        
+        if q_stats and q_stats.get("incorrect", 0) > 0:
+            incorrect_questions.append(q)
+            
+    return incorrect_questions
