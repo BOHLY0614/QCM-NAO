@@ -14,19 +14,6 @@
   },
   {
     "chapitre": 0,
-    "id": 2,
-    "question": "* La calcitonine :",
-    "options": [
-      "A. Est sécrétée par les glandes parathyroïde",
-      "B. Est sécrétée par les cellules C parafolliculaires thyroïdiennes",
-      "C. Est sécrétée par les cellules folliculaires thyroïdiennes",
-      "D. Est élevée dans l'hyperparathyroïdie primaire",
-      "E. Est sécrétée par les thyrocytes"
-    ],
-    "correct_answers": ["B"]
-  },
-  {
-    "chapitre": 0,
     "id": 3,
     "question": "* Le signe clinique évocateur d’un phéochromocytome est :",
     "options": [
@@ -112,19 +99,6 @@
   },
   {
     "chapitre": 0,
-    "id": 10,
-    "question": "* la cause plus fréquente de la forme ACTH indépendante du syndrome de Cushing est :",
-    "options": [
-      "A. L’adénome",
-      "B. Hyperplasie macronodulaire bilatérale",
-      "C. Hyperplasie micronodulaire pigmentaire",
-      "D. La Corticothérapie",
-      "E. Le Corticosurrénalome"
-    ],
-    "correct_answers": ["D"]
-  },
-  {
-    "chapitre": 0,
     "id": 11,
     "question": "le risque évolutif dans l’hyperthyroïdie est représenté  par",
     "options": [
@@ -135,32 +109,6 @@
       "E. L’ostéoporose"
     ],
     "correct_answers": ["C", "D", "E"]
-  },
-  {
-    "chapitre": 0,
-    "id": 12,
-    "question": "l'hyperthyroïdie iodo induit est produit par le :",
-    "options": [
-      "A. Opiacés",
-      "B. Mé??",
-      "C. ..",
-      "D. Amiodarone",
-      "E. Produits de contraste"
-    ],
-    "correct_answers": ["D", "E"]
-  },
-  {
-    "chapitre": 0,
-    "id": 13,
-    "question": "Le traitement de l'hyperparathyroïdie secondaire comprend :",
-    "options": [
-      "A. L’augmentation des apports protidiques",
-      "B. La chélation intestinale de l’hyperphosphorémie avec gluconate de calcium",
-      "C. L’apport de calcium",
-      "D. L’apport des dérivés actifs de  la vitamine D",
-      "E. La réduction parathyroïdienne"
-    ],
-    "correct_answers": ["B", "C", "D", "E"]
   },
   {
     "chapitre": 0,
@@ -213,45 +161,6 @@
       "E. A comme signe biologique essentiel  la présence de titres très élevés d’anticorps anti-microsomes thyroïdiens"
     ],
     "correct_answers": ["A", "D", "E"]
-  },
-  {
-    "chapitre": 0,
-    "id": 18,
-    "question": "Les causes d'hypothyroïdie du nouveau-né sont:",
-    "options": [
-      "A.",
-      "B. La thyroïdite de riedel",
-      "C.",
-      "D. sarcoidose",
-      "E. Carence iodé"
-    ],
-    "correct_answers": ["A", "C", "E"]
-  },
-  {
-    "chapitre": 0,
-    "id": 19,
-    "question": "Ces médicaments inhibent la conversion périphérique de T4  ou  T3 ?",
-    "options": [
-      "A. Les glucocorticoïdes",
-      "B. Les sédatifs",
-      "C. Les Antithyroïdiens de synthèse",
-      "D. Propranolol",
-      "E. La solution de lugol"
-    ],
-    "correct_answers": ["A", "C", "D"]
-  },
-  {
-    "chapitre": 0,
-    "id": 20,
-    "question": "L’iode radioactif a comme indication :",
-    "options": [
-      "A. L’adénome toxique",
-      "B. La maladie de basedow",
-      "C. L’hyperthyroïdie iodo-induites",
-      "D. La crise aiguë thyroïdienne",
-      "E. La goitre multihétéronodulaire toxique"
-    ],
-    "correct_answers": ["A", "B", "E"]
   },
   {
     "chapitre": 0,
@@ -320,32 +229,6 @@
   },
   {
     "chapitre": 0,
-    "id": 26,
-    "question": "le système rénine angiotensine",
-    "options": [
-      "A. Est produit dans la glande surrénale",
-      "B. Intervient dans le contrôle de la zone glomérulée  des corticosurrénales",
-      "C. Contrôle la sécrétion des hormones minéralocorticoïde",
-      "D. contrôle la sécrétion de cortisol",
-      "E. contrôle la production d’aldostérone"
-    ],
-    "correct_answers": ["B", "C", "E"]
-  },
-  {
-    "chapitre": 0,
-    "id": 27,
-    "question": "le neurohypophyse contient",
-    "options": [
-      "A. l’hormone de croissance",
-      "B. la prolactine",
-      "C. l’hormone antidiurétique",
-      "D. la vasopressine",
-      "E. l’ocytocine"
-    ],
-    "correct_answers": ["C", "D", "E"]
-  },
-  {
-    "chapitre": 0,
     "id": 28,
     "question": "Les hyperprolactinémies organiques ont les suivantes étiologiques :",
     "options": [
@@ -356,19 +239,6 @@
       "E. les tumeurs développées à partir des cellules à prolactine"
     ],
     "correct_answers": ["B", "C", "D", "E"]
-  },
-  {
-    "chapitre": 0,
-    "id": 29,
-    "question": "L’hyperkaliémie peut être causée par",
-    "options": [
-      "A. L’insuffisance surrénalienne aiguë sur la maladie d’Addison",
-      "B. L’insuffisance surrénalienne secondaire",
-      "C. Le syndrome de Cushing",
-      "D. La corticothérapie",
-      "E. L’insuffisance surrénalienne primitive"
-    ],
-    "correct_answers": ["A", "E"]
   },
   {
     "chapitre": 0,
@@ -421,19 +291,6 @@
       "E. A comme objectif thérapeutique l’augmentation du turnover osseux"
     ],
     "correct_answers": ["B", "C", "D"]
-  },
-  {
-    "chapitre": 0,
-    "id": 34,
-    "question": "* Les critères échographique de malignités des nodules thyroïdiens sont :",
-    "options": [
-      "A. Formation vasculaire centrale",
-      "B. halo présent",
-      "C. formation christique",
-      "D. lésion hyperéchogène",
-      "E. Absence de la mobilité par rapport aux plans sous et supra-jacents"
-    ],
-    "correct_answers": ["A"]
   },
   {
     "chapitre": 0,
