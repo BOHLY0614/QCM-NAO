@@ -1,12 +1,13 @@
 import tkinter as tk
-from tkinter import ttk, scrolledtext
-import json
-import random
+from tkinter import ttk, scrolledtext, messagebox
 import time
 import os
 import ctypes
 import re
+import random # Utilisé pour le mélange des options d'affichage
 
+# Import de notre nouveau module logique
+import backend
 
 LARGE_FONT = ("Arial", 16)
 TITLE_FONT = ("Arial", 24, "bold")
@@ -18,7 +19,6 @@ class QCMApp(tk.Tk):
         super().__init__()
 
         try:
-            # On définit un ID unique pour l'app (utilisez ce que vous voulez comme texte)
             myappid = 'QCM NAO' 
             ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(myappid)
         except Exception:
@@ -34,285 +34,139 @@ class QCMApp(tk.Tk):
  
         self.configure(padx=20, pady=20)
         
-        # Configuration pour un redimensionnement adaptatif
         self.grid_columnconfigure(0, weight=1)
         self.grid_rowconfigure(0, weight=1)
         
-        # Initialisation du thème
-        self.theme_mode = "light"  # 'light' ou 'dark'
+        # --- THÈMES ---
+        self.theme_mode = "light"
         self.themes = {
             "light": {
-                "bg": "#ffffff",
-                "fg": "#000000",
-                "button_bg": "#f0f0f0",
-                "button_fg": "#000000",
-                "primary": "#1a73e8",
-                "text_bg": "#ffffff",
-                "correct": "#2ecc71",
-                "incorrect": "#e74c3c",
-                "scrollbar": "#c0c0c0",
-                "canvas": "#ffffff",
-                "entry": "#ffffff",
-                "toolbar": "#e0e0e0",
-                "hover": "#306eac",
-                "checkbox": "#1a73e8",
-                "selected_bg": "#f0f8ff",
-                "correct_bg": "#2e7d32",    # Fond pour réponses correctes
-                "correct_fg": "#2e7d32",    # Texte pour réponses correctes
-                "incorrect_bg": "#c62828",  # Fond pour réponses incorrectes
-                "incorrect_fg": "#c62828"   # Texte pour réponses incorrectes
+                "bg": "#ffffff", "fg": "#000000", "button_bg": "#f0f0f0", "button_fg": "#000000",
+                "primary": "#1a73e8", "text_bg": "#ffffff", "correct": "#2ecc71", "incorrect": "#e74c3c",
+                "scrollbar": "#c0c0c0", "canvas": "#ffffff", "entry": "#ffffff", "toolbar": "#e0e0e0",
+                "hover": "#306eac", "checkbox": "#1a73e8", "selected_bg": "#f0f8ff",
+                "correct_bg": "#2e7d32", "correct_fg": "#2e7d32", 
+                "incorrect_bg": "#c62828", "incorrect_fg": "#c62828"
             },
             "dark": {
-                "bg": "#1e1e1e",
-                "fg": "#ffffff",
-                "button_bg": "#3d3d3d",
-                "button_fg": "#ffffff",
-                "primary": "#4a9cff",
-                "text_bg": "#2d2d2d",
-                "correct": "#27ae60",
-                "incorrect": "#c0392b",
-                "scrollbar": "#606060",
-                "canvas": "#1e1e1e",
-                "entry": "#333333",
-                "toolbar": "#333333",
-                "hover": "#306eac",
-                "checkbox": "#6ab0ff",
-                "selected_bg": "#2a3a4a",
-                "correct_bg": "#1b5e20",   # Fond pour réponses correctes
-                "correct_fg": "#a5d6a7",   # Texte pour réponses correctes
-                "incorrect_bg": "#7f0000",  # Fond pour réponses incorrectes
-                "incorrect_fg": "#ff8a80"   # Texte pour réponses incorrectes
+                "bg": "#1e1e1e", "fg": "#ffffff", "button_bg": "#3d3d3d", "button_fg": "#ffffff",
+                "primary": "#4a9cff", "text_bg": "#2d2d2d", "correct": "#27ae60", "incorrect": "#c0392b",
+                "scrollbar": "#606060", "canvas": "#1e1e1e", "entry": "#333333", "toolbar": "#333333",
+                "hover": "#306eac", "checkbox": "#6ab0ff", "selected_bg": "#2a3a4a",
+                "correct_bg": "#1b5e20", "correct_fg": "#a5d6a7",
+                "incorrect_bg": "#7f0000", "incorrect_fg": "#ff8a80"
             }
         }
         
-        # Créer une barre d'outils pour le bouton de thème
+        # Barre d'outils
         self.toolbar_frame = ttk.Frame(self)
         self.toolbar_frame.pack(fill='x', padx=10, pady=5)
         
-        # Bouton de bascule de thème en haut à droite
         self.theme_button = tk.Button(
-            self.toolbar_frame,
-            text="☀️" if self.theme_mode == "light" else "🌙",
-            command=self.toggle_theme,
-            font=("Arial", 14),
-            bd=0,
-            relief="flat",
-            padx=10,
-            pady=5
+            self.toolbar_frame, text="☀️", command=self.toggle_theme,
+            font=("Arial", 14), bd=0, relief="flat", padx=10, pady=5
         )
         self.theme_button.pack(side='right', padx=5, pady=5)
         
         self.apply_theme()
         
-        # Charger les données dynamiquement
-        self.base_dir = os.path.dirname(os.path.abspath(__file__))
-        json_dir = os.path.join(self.base_dir, "JSON")
-        
-        self.chapter_files = []
-        if os.path.exists(json_dir):
-            files = [f for f in os.listdir(json_dir) if f.endswith('.json')]
-            files.sort()
-            self.chapter_files = [os.path.join(json_dir, f) for f in files]
-        else:
-            print(f"Erreur : Le dossier {json_dir} est introuvable.")
-
-        self.chapters = self.load_chapters()
-        self.load_question_stats()
+        # --- CHARGEMENT DES DONNÉES VIA BACKEND ---
+        json_dir = backend.get_json_dir(__file__)
+        self.chapter_files, self.chapters = backend.load_chapters(json_dir)
+        self.question_stats = backend.load_stats()
 
         self.num_questions_var = tk.IntVar(value=20)
         self.shuffle_options_var = tk.BooleanVar(value=False)
         self.create_main_menu()
         
-        # Liaison pour le redimensionnement
         self.bind("<Configure>", self.on_window_resize)
 
+    # --- GESTION DES THÈMES (Inchangé ou presque) ---
     def apply_theme(self):
-        """Applique le thème actuel à tous les widgets"""
         theme = self.themes[self.theme_mode]
-        
-        # Configurer la fenêtre principale
         self.configure(background=theme['bg'])
-        
-        # Configurer les styles ttk
         self.style = ttk.Style()
         self.style.theme_use('default')
         
-        # Configuration des styles
-        self.style.configure(
-            "TFrame", 
-            background=theme['bg']
-        )
-        self.style.configure(
-            "TLabel", 
-            background=theme['bg'], 
-            foreground=theme['fg']
-        )
-        self.style.configure(
-            "TButton", 
-            background=theme['button_bg'],
-            foreground=theme['button_fg'],
-            borderwidth=1,
-            relief="solid",
-            font=BUTTON_FONT
-        )
-        self.style.map(
-            "TButton",
-            background=[('active', theme['primary'])]
-        )
-        self.style.configure(
-            "Large.TButton", 
-            font=BUTTON_FONT, 
-            padding=10
-        )
+        self.style.configure("TFrame", background=theme['bg'])
+        self.style.configure("TLabel", background=theme['bg'], foreground=theme['fg'])
+        self.style.configure("TButton", background=theme['button_bg'], foreground=theme['button_fg'],
+                             borderwidth=1, relief="solid", font=BUTTON_FONT)
+        self.style.map("TButton", background=[('active', theme['primary'])])
+        self.style.configure("Large.TButton", font=BUTTON_FONT, padding=10)
         
-        # Style pour les cases à cocher
-        self.style.configure(
-            "TCheckbutton", 
-            background=theme['bg'], 
-            foreground=theme['fg'],
-            indicatorbackground=theme['bg'],
-            indicatorforeground=theme['checkbox'],
-            selectcolor=theme['selected_bg']
-        )
-        self.style.configure(
-            "Large.TCheckbutton", 
-            font=LARGE_FONT
-        )
-        self.style.configure(
-            "TScrollbar", 
-            background=theme['scrollbar'],
-            troughcolor=theme['bg']
-        )
+        self.style.configure("TCheckbutton", background=theme['bg'], foreground=theme['fg'],
+                             indicatorbackground=theme['bg'], indicatorforeground=theme['checkbox'],
+                             selectcolor=theme['selected_bg'])
+        self.style.configure("Large.TCheckbutton", font=LARGE_FONT)
+        self.style.configure("TScrollbar", background=theme['scrollbar'], troughcolor=theme['bg'])
+        self.style.configure("Hover.TFrame", background=theme['hover'])
         
-        # Style pour le survol
-        self.style.configure(
-            "Hover.TFrame", 
-            background=theme['hover']
-        )
+        self.style.configure("Custom.Horizontal.TProgressbar", background=theme['primary'],
+                             troughcolor=theme['bg'], bordercolor=theme['bg'],
+                             lightcolor=theme['primary'], darkcolor=theme['primary'])
         
-        # Style pour la barre de progression
-        self.style.configure(
-            "Custom.Horizontal.TProgressbar",
-            background=theme['primary'],
-            troughcolor=theme['bg'],
-            bordercolor=theme['bg'],
-            lightcolor=theme['primary'],
-            darkcolor=theme['primary']
-        )
-        
-        # Mettre à jour la barre d'outils
-        self.theme_button.configure(
-            bg=theme['toolbar'],
-            fg=theme['fg'],
-            activebackground=theme['toolbar'],
-            activeforeground=theme['fg']
-        )
-        
-        # Appliquer à tous les widgets existants
+        self.theme_button.configure(bg=theme['toolbar'], fg=theme['fg'],
+                                    activebackground=theme['toolbar'], activeforeground=theme['fg'])
         self.update_all_widgets()
 
     def update_all_widgets(self):
-        """Met à jour tous les widgets avec le thème actuel"""
         theme = self.themes[self.theme_mode]
         for widget in self.winfo_children():
             self.update_widget_colors(widget, theme)
 
     def update_widget_colors(self, widget, theme):
-        """Met à jour récursivement les couleurs d'un widget et de ses enfants"""
-        widget_type = widget.winfo_class()
+        try:
+            widget_type = widget.winfo_class()
+            if widget_type == 'Frame': widget.configure(background=theme['bg'])
+            elif widget_type == 'Label': widget.configure(background=theme['bg'], foreground=theme['fg'])
+            elif widget_type == 'Button':
+                if widget != self.theme_button: # Ne pas écraser le bouton thème s'il est géré manuellement
+                     widget.configure(bg=theme['button_bg'], fg=theme['button_fg'],
+                                     activebackground=theme['primary'], activeforeground=theme['button_fg'])
+            elif widget_type == 'Checkbutton':
+                widget.configure(bg=theme['bg'], fg=theme['fg'], activebackground=theme['bg'],
+                                activeforeground=theme['fg'], selectcolor=theme['selected_bg'])
+            elif widget_type == 'Canvas': widget.configure(bg=theme['canvas'], highlightthickness=0)
+            elif widget_type == 'Scrollbar': widget.configure(bg=theme['scrollbar'], troughcolor=theme['bg'])
+            elif widget_type == 'Progressbar': widget.configure(style="Custom.Horizontal.TProgressbar")
+        except: pass
         
-        # Appliquer les couleurs en fonction du type de widget
-        if widget_type == 'Frame':
-            widget.configure(background=theme['bg'])
-        elif widget_type == 'Label':
-            widget.configure(background=theme['bg'], foreground=theme['fg'])
-        elif widget_type == 'Button':
-            widget.configure(
-                bg=theme['button_bg'], 
-                fg=theme['button_fg'],
-                activebackground=theme['primary'],
-                activeforeground=theme['button_fg']
-            )
-        elif widget_type == 'Checkbutton':
-            widget.configure(
-                bg=theme['bg'], 
-                fg=theme['fg'],
-                activebackground=theme['bg'],
-                activeforeground=theme['fg'],
-                selectcolor=theme['selected_bg']
-            )
-        elif widget_type == 'Canvas':
-            widget.configure(bg=theme['canvas'], highlightthickness=0)
-        elif widget_type == 'Scrollbar':
-            widget.configure(
-                bg=theme['scrollbar'],
-                troughcolor=theme['bg']
-            )
-        elif widget_type == 'Progressbar':
-            widget.configure(style="Custom.Horizontal.TProgressbar")
-        
-        # Traiter les enfants récursivement
         for child in widget.winfo_children():
             self.update_widget_colors(child, theme)
 
     def toggle_theme(self):
-        """Bascule entre les modes clair et sombre"""
         self.theme_mode = "dark" if self.theme_mode == "light" else "light"
         self.apply_theme()
         self.theme_button.configure(text="☀️" if self.theme_mode == "light" else "🌙")
-        
-        # Mettre à jour l'affichage si on est en mode feedback
         if hasattr(self, 'feedback_mode') and self.feedback_mode:
             self.update_feedback_colors()
 
     def update_feedback_colors(self):
-        """Met à jour les couleurs du feedback lors du changement de thème"""
         theme = self.themes[self.theme_mode]
+        if self.is_correct: self.feedback_label.configure(foreground=theme['correct'])
+        else: self.feedback_label.configure(foreground=theme['incorrect'])
         
-        # Mettre à jour le message de résultat
-        if self.is_correct:
-            self.feedback_label.configure(foreground=theme['correct'])
-        else:
-            self.feedback_label.configure(foreground=theme['incorrect'])
-        
-        # Mettre à jour les couleurs des options
-        correct_answers = self.current_question_data["correct_answers"]
+        correct_answers = self.current_correct_answers_list
         for i in range(len(self.option_labels)):
             option_char = chr(65 + i)
             if option_char in correct_answers:
-                # Bonne réponse
                 self.option_frames[i].configure(style="Correct.TFrame")
-                self.option_labels[i].configure(
-                    foreground=theme['correct_fg'],
-                    font=("Arial", 16, "bold")
-                )
+                self.option_labels[i].configure(foreground=theme['correct_fg'], font=("Arial", 16, "bold"))
             elif self.selected_answers[i].get():
-                # Réponse incorrecte sélectionnée
                 self.option_frames[i].configure(style="Incorrect.TFrame")
-                self.option_labels[i].configure(
-                    foreground=theme['incorrect_fg'],
-                    font=("Arial", 16, "bold")
-                )
+                self.option_labels[i].configure(foreground=theme['incorrect_fg'], font=("Arial", 16, "bold"))
             else:
-                # Réponse non sélectionnée
                 self.option_frames[i].configure(style="TFrame")
-                self.option_labels[i].configure(
-                    foreground=theme['fg'],
-                    font=LARGE_FONT
-                )
+                self.option_labels[i].configure(foreground=theme['fg'], font=LARGE_FONT)
 
     def on_window_resize(self, event):
-        """Met à jour les éléments lors du redimensionnement de la fenêtre"""
-        # Mettre à jour les wraplengths
-        if hasattr(self, 'question_label'):
-            self.update_wraplengths()
+        self.update_wraplengths()
 
     def update_wraplengths(self):
-        """Met à jour les wraplengths pour l'adaptation responsive"""
         if hasattr(self, 'question_label') and self.question_label.winfo_exists():
             new_width = self.winfo_width() - 100
             self.question_label.configure(wraplength=new_width)
-            
             if hasattr(self, 'scrollable_frame') and self.scrollable_frame.winfo_exists():
                 for child in self.scrollable_frame.winfo_children():
                     if child.winfo_exists():
@@ -320,119 +174,79 @@ class QCMApp(tk.Tk):
                             if isinstance(subchild, ttk.Label) and subchild.winfo_exists():
                                 subchild.configure(wraplength=new_width - 50)
 
-    def load_chapters(self):
-        chapters = {}
-        for file_path in self.chapter_files:
-            try:
-                with open(file_path, "r", encoding="utf-8") as f:
-                    chapter_data = json.load(f)
-                    for question in chapter_data:
-                        question["source_file"] = file_path
-                    chapters[file_path] = chapter_data
-            except Exception as e:
-                print(f"Erreur lors du chargement de {file_path}: {e}")
-        return chapters
-
+    # --- MENU PRINCIPAL ---
     def create_main_menu(self):
         self.main_menu_frame = ttk.Frame(self)
         self.main_menu_frame.pack(expand=True, fill='both')
-        
-        # Configuration pour un redimensionnement adaptatif
         self.main_menu_frame.grid_columnconfigure(0, weight=1)
         self.main_menu_frame.grid_rowconfigure(0, weight=1)
         self.main_menu_frame.grid_rowconfigure(1, weight=1)
 
-        # Sélecteur de nombre de questions
         settings_frame = ttk.Frame(self.main_menu_frame)
         settings_frame.pack(pady=10, anchor='ne')
         
         ttk.Label(settings_frame, text="Nombre de questions:", font=LARGE_FONT).pack(side='left', padx=5)
-        
-        num_spinbox = ttk.Spinbox(
-            settings_frame,
-            from_=1,
-            to=100,
-            textvariable=self.num_questions_var,
-            width=5,
-            font=LARGE_FONT
-        )
+        num_spinbox = ttk.Spinbox(settings_frame, from_=1, to=100, textvariable=self.num_questions_var, width=5, font=LARGE_FONT)
         num_spinbox.pack(side='left', padx=5)
 
         shuffle_check = tk.Checkbutton(
-            settings_frame,
-            text="Shuffle",
-            variable=self.shuffle_options_var,
-            font=("Arial", 12),
-            bg=self.themes[self.theme_mode]['bg'],
-            fg=self.themes[self.theme_mode]['fg'],
-            selectcolor=self.themes[self.theme_mode]['bg'],
-            activebackground=self.themes[self.theme_mode]['bg'],
+            settings_frame, text="Shuffle", variable=self.shuffle_options_var,
+            font=("Arial", 12), bg=self.themes[self.theme_mode]['bg'], fg=self.themes[self.theme_mode]['fg'],
+            selectcolor=self.themes[self.theme_mode]['bg'], activebackground=self.themes[self.theme_mode]['bg'],
             activeforeground=self.themes[self.theme_mode]['fg']
         )
         shuffle_check.pack(pady=(10, 20))
 
-        title = ttk.Label(self.main_menu_frame, text="Choisissez un chapitre", font=TITLE_FONT)
-        title.pack(pady=40)
+        ttk.Label(self.main_menu_frame, text="Choisissez un chapitre", font=TITLE_FONT).pack(pady=40)
 
         button_frame = ttk.Frame(self.main_menu_frame)
         button_frame.pack(pady=20)
 
         for i, chapter_path in enumerate(self.chapter_files):
-            # Récupère le nom du fichier (ex: "Endo.json")
             filename = os.path.basename(chapter_path)
-            # Enlève l'extension (ex: "Endo")
             display_name = os.path.splitext(filename)[0]
-            
-            chapter_button = ttk.Button(
-                button_frame, 
-                text=display_name,
-                command=lambda i=i: self.start_quiz(i),
-                style="Large.TButton"
-            )
-            chapter_button.pack(pady=10, fill='x')
+            ttk.Button(button_frame, text=display_name, command=lambda i=i: self.start_quiz(i), style="Large.TButton").pack(pady=10, fill='x')
 
-        mix_all_button = ttk.Button(
-            button_frame, 
-            text="Mélange de tous les chapitres",
-            command=self.mix_all_chapters,
-            style="Large.TButton"
-        )
-        mix_all_button.pack(pady=10, fill='x')
+        ttk.Button(button_frame, text="Mélange de tous les chapitres", command=self.mix_all_chapters, style="Large.TButton").pack(pady=10, fill='x')
 
-    def start_quiz(self, chapter):   
+    # --- LOGIQUE QUIZ ---
+    def start_quiz(self, chapter_index):   
         self.main_menu_frame.pack_forget()
-        
-        self.last_chapter_index = chapter 
-
+        self.last_chapter_index = chapter_index 
         self.quiz_frame = ttk.Frame(self)
         self.quiz_frame.pack(fill='both', expand=True, padx=20, pady=20)
-        
-        # Configuration pour un redimensionnement adaptatif
         self.quiz_frame.grid_columnconfigure(0, weight=1)
         self.quiz_frame.grid_rowconfigure(0, weight=1)
 
         self.current_question = 0
         num_questions = self.num_questions_var.get()
         
-        if chapter == -1:
-            self.current_chapter = self.mixed_chapter
+        if chapter_index == -1:
+            # Chapitre mixte déjà préparé
+            pass 
         else:
-            self.current_chapter = list(self.chapters[self.chapter_files[chapter]])
-            self.current_chapter = self.smart_select_questions(self.current_chapter, num_questions)
+            raw_chapter = list(self.chapters[self.chapter_files[chapter_index]])
+            # Utilisation de backend pour la sélection intelligente
+            self.current_chapter = backend.smart_select_questions(raw_chapter, num_questions, self.question_stats)
             
         self.total_questions = len(self.current_chapter)
         self.score = 0
         self.start_time = time.time()
         self.feedback_mode = False
         self.final_time = None
-
         self.show_question()
 
+    def mix_all_chapters(self):
+        all_chapters = [self.chapters[file] for file in self.chapter_files]
+        mixed_questions = [question for chapter in all_chapters for question in chapter]
+        num_questions = self.num_questions_var.get()
+        # Utilisation de backend pour le mélange
+        self.current_chapter = backend.smart_select_questions(mixed_questions, num_questions, self.question_stats)
+        self.start_quiz(-1)
+
     def restart_quiz(self):
-        """Relance le QCM avec les mêmes paramètres"""
         self.clear_frame(self.quiz_frame)
         self.quiz_frame.pack_forget()
-        
         if self.last_chapter_index == -1:
             self.mix_all_chapters()
         else:
@@ -442,339 +256,121 @@ class QCMApp(tk.Tk):
         self.feedback_mode = False
         self.clear_frame(self.quiz_frame)
 
-        # Frame principale
         main_container = ttk.Frame(self.quiz_frame)
         main_container.pack(fill='both', expand=True)
         main_container.grid_columnconfigure(0, weight=1)
         main_container.grid_rowconfigure(0, weight=1)
         
-        # Canvas et Scrollbar
         theme = self.themes[self.theme_mode]
         canvas = tk.Canvas(main_container, bg=theme['canvas'], highlightthickness=0)
         scrollbar = ttk.Scrollbar(main_container, orient="vertical", command=canvas.yview)
         self.scrollable_frame = ttk.Frame(canvas)
 
-        self.scrollable_frame.bind(
-            "<Configure>",
-            lambda e: canvas.configure(scrollregion=canvas.bbox("all"))
-        )
+        self.scrollable_frame.bind("<Configure>", lambda e: canvas.configure(scrollregion=canvas.bbox("all")))
         canvas.create_window((0, 0), window=self.scrollable_frame, anchor="nw")
         canvas.configure(yscrollcommand=scrollbar.set)
         canvas.grid(row=0, column=0, sticky="nsew")
         scrollbar.grid(row=0, column=1, sticky="ns")
 
-        def on_canvas_configure(event):
-            canvas.itemconfig("all", width=event.width)
-            self.scrollable_frame.configure(width=event.width)
-        canvas.bind("<Configure>", on_canvas_configure)
+        canvas.bind("<Configure>", lambda e: (canvas.itemconfig("all", width=e.width), self.scrollable_frame.configure(width=e.width)))
 
-        # Récupération des données de la question
         self.current_question_data = self.current_chapter[self.current_question]
         
-        # --- LOGIQUE DE MÉLANGE DES RÉPONSES (NOUVEAU) ---
+        # --- MÉLANGE DES RÉPONSES (Logique d'affichage locale) ---
         raw_options = self.current_question_data["options"]
         raw_correct = self.current_question_data["correct_answers"]
         
-        # On vérifie si la case est cochée (nécessite l'étape 1 & 2)
-        if hasattr(self, 'shuffle_options_var') and self.shuffle_options_var.get():
-            # 1. On associe chaque texte à son index original
+        if self.shuffle_options_var.get():
             indexed_options = list(enumerate(raw_options))
-            # 2. On mélange
             random.shuffle(indexed_options)
-            # 3. On sépare pour l'affichage
             self.display_options = [text for _, text in indexed_options]
-            
-            # 4. On recalcule les bonnes réponses
-            original_correct_indices = [ord(c) - 65 for c in raw_correct] # A->0, B->1...
+            original_correct_indices = [ord(c) - 65 for c in raw_correct]
             self.current_correct_answers_list = []
-            
             for new_index, (old_index, text) in enumerate(indexed_options):
                 if old_index in original_correct_indices:
                     self.current_correct_answers_list.append(chr(65 + new_index))
         else:
-            # Pas de mélange
             self.display_options = list(raw_options)
             self.current_correct_answers_list = list(raw_correct)
-        # -----------------------------------------------
 
-        # Affichage de la question
         self.question_label = ttk.Label(
-            self.scrollable_frame, 
-            text=self.current_question_data["question"],
-            font=LARGE_FONT,
-            wraplength=self.winfo_width() - 100,
-            justify="left",
-            anchor="w"
+            self.scrollable_frame, text=self.current_question_data["question"],
+            font=LARGE_FONT, wraplength=self.winfo_width() - 100, justify="left", anchor="w"
         )
         self.question_label.pack(fill='x', padx=20, pady=20, anchor='w')
 
-        # Listes pour l'interface
         self.selected_answers = [tk.BooleanVar() for _ in self.display_options]
         self.option_frames = []
         self.option_labels = []
         self.option_checkbuttons = []
         
-        # --- BOUCLE D'AFFICHAGE MODIFIÉE ---
-        # On utilise self.display_options (l'ordre mélangé) au lieu des données brutes
         for i, option_text in enumerate(self.display_options):
-            # 1. NETTOYAGE : On enlève "A.", "B)", "1." au début du texte
-            # Le code cherche une lettre majuscule ou un chiffre au début (^), 
-            # suivi d'un point ou parenthèse ([\.\)]), suivi d'espaces (\s*)
             clean_text = re.sub(r'^[A-E0-9][\.\)]\s*', '', option_text)
             
             option_frame = ttk.Frame(self.scrollable_frame)
             option_frame.pack(fill='x', padx=20, pady=5, anchor='w')
             self.option_frames.append(option_frame)
             
-            answer_checkbutton = ttk.Checkbutton(
-                option_frame, 
-                variable=self.selected_answers[i],
-                style="Large.TCheckbutton"
-            )
+            answer_checkbutton = ttk.Checkbutton(option_frame, variable=self.selected_answers[i], style="Large.TCheckbutton")
             answer_checkbutton.pack(side='left', anchor='w', padx=(0, 10))
             self.option_checkbuttons.append(answer_checkbutton)
             
-            # 2. AFFICHAGE : On ajoute notre propre lettre (A, B...) proprement
-            # On affiche "A. " + le texte nettoyé
             display_label = f"{chr(65+i)}. {clean_text}"
-            
             option_label = ttk.Label(
-                option_frame, 
-                text=display_label,  # On utilise notre texte propre
-                font=LARGE_FONT,
-                wraplength=self.winfo_width() - 150,
-                justify="left",
-                anchor="w"
+                option_frame, text=display_label, font=LARGE_FONT,
+                wraplength=self.winfo_width() - 150, justify="left", anchor="w"
             )
             option_label.pack(side='left', fill='x', expand=True, anchor='w')
             self.option_labels.append(option_label)
             
-            # ... (Le reste des "bind" reste identique) ...
             option_label.bind("<Button-1>", lambda e, idx=i: self.option_checkbuttons[idx].invoke())
-            
             for w in (option_frame, answer_checkbutton, option_label):
                 w.bind("<Enter>", lambda e, idx=i: self.on_option_hover(idx))
                 w.bind("<Leave>", lambda e, idx=i: self.on_option_leave(idx))
 
-        # Bouton Valider
         button_frame = ttk.Frame(main_container)
         button_frame.grid(row=1, column=0, columnspan=2, pady=20, sticky="ew")
         
-        self.validate_button = ttk.Button(
-            button_frame, 
-            text="Valider", 
-            command=self.check_answer,
-            style="Large.TButton"
-        )
+        self.validate_button = ttk.Button(button_frame, text="Valider", command=self.check_answer, style="Large.TButton")
         self.validate_button.pack(pady=20)
 
         edit_button = tk.Button(
-            button_frame,
-            text="✏️ Corriger une erreur",
-            command=self.open_editor,
-            font=("Arial", 10, "italic"),
-            fg="gray",
-            bd=0,
-            bg=self.themes[self.theme_mode]['bg'],
-            activebackground=self.themes[self.theme_mode]['bg'],
-            cursor="hand2"
+            button_frame, text="✏️ Corriger une erreur", command=self.open_editor,
+            font=("Arial", 10, "italic"), fg="gray", bd=0, bg=self.themes[self.theme_mode]['bg'],
+            activebackground=self.themes[self.theme_mode]['bg'], cursor="hand2"
         )
         edit_button.pack(side='top', pady=5)
 
-        # Barre de progression
         progress_frame = ttk.Frame(main_container)
         progress_frame.grid(row=2, column=0, columnspan=2, sticky="ew", padx=20, pady=10)
         
         self.progress_var = tk.DoubleVar()
-        self.progress_bar = ttk.Progressbar(
-            progress_frame,
-            variable=self.progress_var,
-            maximum=100, # Rappel : on avait mis 100 ici pour le pourcentage
-            style="Custom.Horizontal.TProgressbar",
-            mode='determinate'
-        )
+        self.progress_bar = ttk.Progressbar(progress_frame, variable=self.progress_var, maximum=100, style="Custom.Horizontal.TProgressbar", mode='determinate')
         self.progress_bar.pack(fill='x', expand=True)
-        
-        progress_value = ((self.current_question + 1) / len(self.current_chapter)) * 100
-        self.progress_var.set(progress_value)
+        self.progress_var.set(((self.current_question + 1) / len(self.current_chapter)) * 100)
 
-        # Info en bas
         bottom_frame = ttk.Frame(main_container)
         bottom_frame.grid(row=3, column=0, columnspan=2, sticky="ew", padx=20, pady=10)
 
         self.time_label_var = tk.StringVar()
         self.update_timer()
-        
-        time_label = ttk.Label(bottom_frame, textvariable=self.time_label_var, font=LARGE_FONT)
-        time_label.pack(side='left')
-
+        ttk.Label(bottom_frame, textvariable=self.time_label_var, font=LARGE_FONT).pack(side='left')
         remaining = len(self.current_chapter) - self.current_question
         ttk.Label(bottom_frame, text=f"Questions restantes : {remaining}", font=LARGE_FONT).pack(side='right')
 
         self.update_wraplengths()
 
-    def open_editor(self):
-        """Ouvre une fenêtre pour éditer la question actuelle"""
-        editor = tk.Toplevel(self)
-        editor.title("Éditeur de question")
-        editor.geometry("600x700")
-        
-        # Récupérer le thème actuel pour l'appliquer à l'éditeur
-        theme = self.themes[self.theme_mode]
-        editor.configure(bg=theme['bg'])
-        
-        # Style local pour l'éditeur
-        lbl_style = {"bg": theme['bg'], "fg": theme['fg'], "font": ("Arial", 12, "bold")}
-        
-        # --- Zone Question ---
-        tk.Label(editor, text="Question :", **lbl_style).pack(anchor="w", padx=10, pady=5)
-        txt_question = scrolledtext.ScrolledText(editor, height=5, font=("Arial", 12))
-        txt_question.insert("1.0", self.current_question_data["question"])
-        txt_question.pack(fill="x", padx=10)
-
-        # --- Zone Options ---
-        tk.Label(editor, text="Options :", **lbl_style).pack(anchor="w", padx=10, pady=(10, 5))
-        
-        entries_options = []
-        vars_correct = []
-        
-        options_frame = tk.Frame(editor, bg=theme['bg'])
-        options_frame.pack(fill="x", padx=10)
-
-        current_opts = self.current_question_data["options"]
-        correct_answers = self.current_question_data["correct_answers"]
-
-        for i in range(5): # On suppose max 5 options A, B, C, D, E
-            row_frame = tk.Frame(options_frame, bg=theme['bg'])
-            row_frame.pack(fill="x", pady=2)
-            
-            # Lettre (A, B...)
-            letter = chr(65 + i)
-            tk.Label(row_frame, text=f"{letter}.", font=("Arial", 12, "bold"), 
-                     bg=theme['bg'], fg=theme['fg']).pack(side="left")
-            
-            # Champ texte de l'option
-            entry = tk.Entry(row_frame, font=("Arial", 12))
-            # Si l'option existe, on la met, sinon vide
-            val = current_opts[i] if i < len(current_opts) else ""
-            entry.insert(0, val)
-            entry.pack(side="left", fill="x", expand=True, padx=5)
-            entries_options.append(entry)
-            
-            # Checkbox "Correcte"
-            is_correct = letter in correct_answers
-            var = tk.BooleanVar(value=is_correct)
-            vars_correct.append(var)
-            cb = tk.Checkbutton(row_frame, text="Correcte", variable=var, 
-                                bg=theme['bg'], fg=theme['fg'], selectcolor=theme['bg'])
-            cb.pack(side="right")
-
-        # --- Boutons Sauvegarder / Annuler ---
-        btn_frame = tk.Frame(editor, bg=theme['bg'])
-        btn_frame.pack(pady=20)
-
-        def save_changes():
-            # 1. Mise à jour des données en mémoire
-            new_question_text = txt_question.get("1.0", "end-1c").strip()
-            new_options = [e.get().strip() for e in entries_options if e.get().strip()]
-            new_correct = [chr(65+i) for i, var in enumerate(vars_correct) if var.get()]
-            
-            if not new_question_text or not new_options or not new_correct:
-                tk.messagebox.showwarning("Erreur", "Veuillez remplir la question, des options et au moins une bonne réponse.", parent=editor)
-                return
-
-            # Mise à jour de l'objet en mémoire
-            self.current_question_data["question"] = new_question_text
-            self.current_question_data["options"] = new_options
-            self.current_question_data["correct_answers"] = new_correct
-            
-            # 2. Écriture dans le fichier JSON
-            source_file = self.current_question_data.get("source_file")
-            if source_file and os.path.exists(source_file):
-                try:
-                    with open(source_file, "r", encoding="utf-8") as f:
-                        full_data = json.load(f)
-                    
-                    # On cherche la question par son ID pour la remplacer
-                    found = False
-                    for idx, q in enumerate(full_data):
-                        if q["id"] == self.current_question_data["id"]:
-                            # On garde les clés qu'on ne modifie pas (chapitre, id, source_file...)
-                            # et on met à jour le reste
-                            full_data[idx]["question"] = new_question_text
-                            full_data[idx]["options"] = new_options
-                            full_data[idx]["correct_answers"] = new_correct
-                            found = True
-                            break
-                    
-                    if found:
-                        with open(source_file, "w", encoding="utf-8") as f:
-                            json.dump(full_data, f, indent=4, ensure_ascii=False)
-                        print(f"Sauvegardé dans {source_file}")
-                    else:
-                        print("Erreur: Question non trouvée dans le fichier source.")
-                        
-                except Exception as e:
-                    tk.messagebox.showerror("Erreur", f"Impossible de sauvegarder le fichier :\n{e}", parent=editor)
-                    return
-
-            # 3. Rafraîchir l'interface
-            editor.destroy()
-            self.show_question() # Recharge l'affichage avec les nouvelles données
-
-        tk.Button(btn_frame, text="Sauvegarder", command=save_changes, 
-                  bg="#2ecc71", fg="white", font=BUTTON_FONT).pack(side="left", padx=10)
-        
-        tk.Button(btn_frame, text="Annuler", command=editor.destroy, 
-                  bg="#e74c3c", fg="white", font=BUTTON_FONT).pack(side="left", padx=10)
-
-    def update_timer(self):
-        """Met à jour le timer chaque seconde"""
-        if hasattr(self, 'start_time') and not hasattr(self, 'final_time'):
-            # Vérifier si l'application est toujours en cours
-            if not self.winfo_exists():
-                return
-                
-            elapsed_time = int(time.time() - self.start_time)
-            hours, remainder = divmod(elapsed_time, 3600)
-            minutes, seconds = divmod(remainder, 60)
-            self.time_label_var.set(f"Temps écoulé : {hours}h {minutes}m {seconds}s")
-            
-            # Planifier la prochaine mise à jour dans 1 seconde
-            self.after(1000, self.update_timer)
-
-    def on_option_hover(self, option_index):
-        """Effet visuel lorsque la souris survole une option"""
-        if not self.feedback_mode:
-            self.option_frames[option_index].configure(style="Hover.TFrame")
-
-    def on_option_leave(self, option_index):
-        """Effet visuel lorsque la souris quitte une option"""
-        if not self.feedback_mode:
-            self.option_frames[option_index].configure(style="TFrame")
-
-    def get_question_key(self, question_data):
-        source = question_data.get("source_file", "unknown")
-        q_id = question_data.get("id", "0")
-        return f"{source}|{q_id}"
-
     def check_answer(self):
         self.feedback_mode = True
         theme = self.themes[self.theme_mode]
-        
-        # Styles feedback (inchangé)
         self.style.configure("Correct.TFrame", background=theme['correct_bg'])
         self.style.configure("Incorrect.TFrame", background=theme['incorrect_bg'])
         
-        # --- MODIFICATION ICI : On utilise la liste recalculée ---
-        # Au lieu de : correct_answers = self.current_question_data["correct_answers"]
         correct_answers = self.current_correct_answers_list
-        # ---------------------------------------------------------
-
         user_answers = [chr(i + 65) for i, selected in enumerate(self.selected_answers) if selected.get()]
 
-        # Clé unique pour les stats (Rappel de l'étape stats)
-        question_key = self.get_question_key(self.current_question_data)
+        # Mise à jour des stats via backend
+        question_key = backend.get_question_key(self.current_question_data)
         question_stats = self.question_stats.get(str(question_key), {"correct": 0, "incorrect": 0})
 
         self.is_correct = sorted(correct_answers) == sorted(user_answers)
@@ -791,59 +387,16 @@ class QCMApp(tk.Tk):
 
         self.question_stats[str(question_key)] = question_stats
         
-        # Afficher le feedback global
         feedback_frame = ttk.Frame(self.scrollable_frame)
         feedback_frame.pack(fill='x', padx=20, pady=10, anchor='w')
-        
-        self.feedback_label = ttk.Label(
-            feedback_frame, 
-            text=feedback_text,
-            font=("Arial", 18, "bold"),
-            foreground=feedback_color
-        )
+        self.feedback_label = ttk.Label(feedback_frame, text=feedback_text, font=("Arial", 18, "bold"), foreground=feedback_color)
         self.feedback_label.pack(side='left')
         
-        # Désactiver toutes les cases à cocher
-        for cb in self.option_checkbuttons:
-            cb.configure(state=tk.DISABLED)
-        
-        # Mettre à jour le bouton
+        for cb in self.option_checkbuttons: cb.configure(state=tk.DISABLED)
         self.validate_button.configure(text="Continuer", command=self.next_question)
-        
-        # Appliquer les couleurs aux options
-        for i in range(len(self.option_labels)):
-            option_char = chr(65 + i)
-            
-            if option_char in correct_answers:
-                # Bonne réponse - mettre en vert et en gras
-                self.option_frames[i].configure(style="Correct.TFrame")
-                self.option_labels[i].configure(
-                    foreground=theme['correct_fg'],
-                    font=("Arial", 16, "bold")
-                )
-            elif self.selected_answers[i].get():
-                # Réponse incorrecte sélectionnée - mettre en rouge
-                self.option_frames[i].configure(style="Incorrect.TFrame")
-                self.option_labels[i].configure(
-                    foreground=theme['incorrect_fg'],
-                    font=("Arial", 16, "bold")
-                )
-
-    def smart_select_questions(self, question_list, number_to_select):
-        """Mélange les questions mais priorise celles jamais ou peu vues"""
-        random.shuffle(question_list)
-
-        def get_seen_count(q):
-            key = self.get_question_key(q)
-            stats = self.question_stats.get(str(key), {"correct": 0, "incorrect": 0})
-            return stats["correct"] + stats["incorrect"]
-
-        question_list.sort(key=get_seen_count)
-        
-        return question_list[:min(number_to_select, len(question_list))]
+        self.update_feedback_colors()
 
     def next_question(self):
-        """Passe à la question suivante"""
         self.current_question += 1
         if self.current_question < len(self.current_chapter):
             self.show_question()
@@ -851,95 +404,116 @@ class QCMApp(tk.Tk):
             self.final_time = time.time() - self.start_time
             self.show_final_score()
 
-    def mix_all_chapters(self):
-        all_chapters = [self.chapters[file] for file in self.chapter_files]
-        mixed_questions = [question for chapter in all_chapters for question in chapter]
-        
-        num_questions = self.num_questions_var.get()
-        self.mixed_chapter = self.smart_select_questions(mixed_questions, num_questions)
-        self.start_quiz(-1)
-
     def show_final_score(self):
         self.clear_frame(self.quiz_frame)
-
         center_frame = ttk.Frame(self.quiz_frame)
         center_frame.pack(expand=True, fill='both')
-        
-        # Configuration pour un redimensionnement adaptatif
         center_frame.grid_columnconfigure(0, weight=1)
-        center_frame.grid_rowconfigure(0, weight=1)
-        center_frame.grid_rowconfigure(1, weight=1)
-        center_frame.grid_rowconfigure(2, weight=1)
-        center_frame.grid_rowconfigure(3, weight=1)
-
-        score_label = ttk.Label(
-            center_frame, 
-            text=f"Score final : {self.score}/{len(self.current_chapter)}", 
-            font=TITLE_FONT
-        )
-        score_label.pack(pady=20)
-
-        # Afficher le temps total
+        
+        # Labels de fin
+        ttk.Label(center_frame, text=f"Score final : {self.score}/{len(self.current_chapter)}", font=TITLE_FONT).pack(pady=20)
+        
         total_time = int(self.final_time)
         hours, remainder = divmod(total_time, 3600)
         minutes, seconds = divmod(remainder, 60)
-        time_str = f"Temps total : {hours}h {minutes}m {seconds}s"
-        
-        time_label = ttk.Label(
-            center_frame, 
-            text=time_str,
-            font=RESULT_FONT
-        )
-        time_label.pack(pady=10)
+        ttk.Label(center_frame, text=f"Temps total : {hours}h {minutes}m {seconds}s", font=RESULT_FONT).pack(pady=10)
 
         button_frame = ttk.Frame(center_frame)
         button_frame.pack(pady=20)
-
-        restart_button = ttk.Button(
-            button_frame, 
-            text="Recommencer ce QCM", 
-            command=self.restart_quiz,
-            style="Large.TButton"
-        )
-        restart_button.pack(pady=10, fill='x')
-
-        menu_button = ttk.Button(
-            button_frame, 
-            text="Retour au menu principal", 
-            command=self.return_to_main_menu,
-            style="Large.TButton"
-        )
-        menu_button.pack(pady=10, fill='x')
-
-        quit_button = ttk.Button(
-            button_frame, 
-            text="Quitter", 
-            command=self.quit,
-            style="Large.TButton"
-        )
-        quit_button.pack(pady=10, fill='x')
         
-        self.save_question_stats()
+        ttk.Button(button_frame, text="Recommencer ce QCM", command=self.restart_quiz, style="Large.TButton").pack(pady=10, fill='x')
+        ttk.Button(button_frame, text="Retour au menu principal", command=self.return_to_main_menu, style="Large.TButton").pack(pady=10, fill='x')
+        ttk.Button(button_frame, text="Quitter", command=self.quit, style="Large.TButton").pack(pady=10, fill='x')
+        
+        # Sauvegarde stats via backend
+        backend.save_stats(self.question_stats)
 
     def return_to_main_menu(self):
         self.clear_frame(self.quiz_frame)
         self.quiz_frame.pack_forget()
         self.create_main_menu()
 
+    def open_editor(self):
+        editor = tk.Toplevel(self)
+        editor.title("Éditeur de question")
+        editor.geometry("600x700")
+        theme = self.themes[self.theme_mode]
+        editor.configure(bg=theme['bg'])
+        
+        lbl_style = {"bg": theme['bg'], "fg": theme['fg'], "font": ("Arial", 12, "bold")}
+        
+        tk.Label(editor, text="Question :", **lbl_style).pack(anchor="w", padx=10, pady=5)
+        txt_question = scrolledtext.ScrolledText(editor, height=5, font=("Arial", 12))
+        txt_question.insert("1.0", self.current_question_data["question"])
+        txt_question.pack(fill="x", padx=10)
+
+        tk.Label(editor, text="Options :", **lbl_style).pack(anchor="w", padx=10, pady=(10, 5))
+        entries_options = []
+        vars_correct = []
+        options_frame = tk.Frame(editor, bg=theme['bg'])
+        options_frame.pack(fill="x", padx=10)
+
+        current_opts = self.current_question_data["options"]
+        correct_answers = self.current_question_data["correct_answers"]
+
+        for i in range(5):
+            row_frame = tk.Frame(options_frame, bg=theme['bg'])
+            row_frame.pack(fill="x", pady=2)
+            letter = chr(65 + i)
+            tk.Label(row_frame, text=f"{letter}.", font=("Arial", 12, "bold"), bg=theme['bg'], fg=theme['fg']).pack(side="left")
+            entry = tk.Entry(row_frame, font=("Arial", 12))
+            val = current_opts[i] if i < len(current_opts) else ""
+            entry.insert(0, val)
+            entry.pack(side="left", fill="x", expand=True, padx=5)
+            entries_options.append(entry)
+            var = tk.BooleanVar(value=letter in correct_answers)
+            vars_correct.append(var)
+            tk.Checkbutton(row_frame, text="Correcte", variable=var, bg=theme['bg'], fg=theme['fg'], selectcolor=theme['bg']).pack(side="right")
+
+        def save_changes():
+            new_q = txt_question.get("1.0", "end-1c").strip()
+            new_opts = [e.get().strip() for e in entries_options if e.get().strip()]
+            new_correct = [chr(65+i) for i, var in enumerate(vars_correct) if var.get()]
+            
+            if not new_q or not new_opts or not new_correct:
+                messagebox.showwarning("Erreur", "Remplir tous les champs.", parent=editor)
+                return
+
+            # Mise à jour mémoire
+            self.current_question_data["question"] = new_q
+            self.current_question_data["options"] = new_opts
+            self.current_question_data["correct_answers"] = new_correct
+            
+            # Appel backend pour sauvegarde disque
+            success, msg = backend.update_question_in_file(self.current_question_data, new_q, new_opts, new_correct)
+            if success:
+                print(msg)
+                editor.destroy()
+                self.show_question()
+            else:
+                messagebox.showerror("Erreur", msg, parent=editor)
+
+        btn_frame = tk.Frame(editor, bg=theme['bg'])
+        btn_frame.pack(pady=20)
+        tk.Button(btn_frame, text="Sauvegarder", command=save_changes, bg="#2ecc71", fg="white", font=BUTTON_FONT).pack(side="left", padx=10)
+        tk.Button(btn_frame, text="Annuler", command=editor.destroy, bg="#e74c3c", fg="white", font=BUTTON_FONT).pack(side="left", padx=10)
+
+    # --- UTILITAIRES INTERFACE ---
+    def update_timer(self):
+        if hasattr(self, 'start_time') and not hasattr(self, 'final_time'):
+            if not self.winfo_exists(): return
+            elapsed_time = int(time.time() - self.start_time)
+            hours, remainder = divmod(elapsed_time, 3600)
+            minutes, seconds = divmod(remainder, 60)
+            self.time_label_var.set(f"Temps écoulé : {hours}h {minutes}m {seconds}s")
+            self.after(1000, self.update_timer)
+
+    def on_option_hover(self, idx):
+        if not self.feedback_mode: self.option_frames[idx].configure(style="Hover.TFrame")
+    def on_option_leave(self, idx):
+        if not self.feedback_mode: self.option_frames[idx].configure(style="TFrame")
     def clear_frame(self, frame):
-        for widget in frame.winfo_children():
-            widget.destroy()
-
-    def load_question_stats(self):
-        if os.path.exists("question_stats.json"):
-            with open("question_stats.json", "r") as f:
-                self.question_stats = json.load(f)
-        else:
-            self.question_stats = {}
-
-    def save_question_stats(self):
-        with open("question_stats.json", "w") as f:
-            json.dump(self.question_stats, f)
+        for widget in frame.winfo_children(): widget.destroy()
 
 if __name__ == "__main__":
     app = QCMApp()
