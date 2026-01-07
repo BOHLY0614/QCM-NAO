@@ -1107,19 +1107,6 @@
   },
   {
     "chapitre": 0,
-    "id": 87,
-    "question": "Le traitement médical de l'hyperprolactinémie comprend :",
-    "options": [
-      "A. Sandostatin",
-      "B. Bromocriptine",
-      "C. Parlodel",
-      "D. Minirin",
-      "E. Cabergoline"
-    ],
-    "correct_answers": ["B", "C", "E"]
-  },
-  {
-    "chapitre": 0,
     "id": 88,
     "question": "Les endocrinopathies qui peuvent produire hypercalcémie sont :",
     "options": [

@@ -6,6 +6,7 @@ import ctypes
 import re
 import random 
 
+# Import de notre backend
 import backend
 
 LARGE_FONT = ("Arial", 16)
@@ -26,8 +27,11 @@ class QCMApp(tk.Tk):
         self.state('zoomed')
         self.title("Quiz QCM")
 
+        # Chemin de base pour les assets
+        self.base_dir = os.path.dirname(os.path.abspath(__file__))
+
         try:
-            self.iconbitmap("Assets/GF.ico")
+            self.iconbitmap(os.path.join(self.base_dir, "Assets", "GF.ico"))
         except Exception as e:
             print("Icône non trouvée:", e)
  
@@ -79,6 +83,7 @@ class QCMApp(tk.Tk):
         
         self.bind("<Configure>", self.on_window_resize)
 
+    # --- THEME & WIDGETS ---
     def apply_theme(self):
         theme = self.themes[self.theme_mode]
         self.configure(background=theme['bg'])
@@ -170,58 +175,40 @@ class QCMApp(tk.Tk):
                             if isinstance(subchild, ttk.Label) and subchild.winfo_exists():
                                 subchild.configure(wraplength=new_width - 50)
 
-    # --- MENU PRINCIPAL ---
+    # --- MENU PRINCIPAL (AVEC SCROLL) ---
     def create_main_menu(self):
         self.main_menu_frame = ttk.Frame(self)
         self.main_menu_frame.pack(expand=True, fill='both')
         
-        # --- MISE EN PLACE DU SCROLL (Comme pour les questions) ---
         theme = self.themes[self.theme_mode]
         
-        # 1. Création du Canvas et de la Scrollbar
         canvas = tk.Canvas(self.main_menu_frame, bg=theme['bg'], highlightthickness=0)
         scrollbar = ttk.Scrollbar(self.main_menu_frame, orient="vertical", command=canvas.yview)
-        
-        # 2. Frame interne qui contiendra les boutons
         scrollable_frame = ttk.Frame(canvas)
 
-        # 3. Configuration du redimensionnement de la zone de scroll
-        scrollable_frame.bind(
-            "<Configure>",
-            lambda e: canvas.configure(scrollregion=canvas.bbox("all"))
-        )
+        scrollable_frame.bind("<Configure>", lambda e: canvas.configure(scrollregion=canvas.bbox("all")))
 
-        # 4. Création de la fenêtre dans le canvas
         canvas_frame = canvas.create_window((0, 0), window=scrollable_frame, anchor="nw")
         canvas.configure(yscrollcommand=scrollbar.set)
 
-        # 5. Affichage (Pack)
         canvas.pack(side="left", fill="both", expand=True)
         scrollbar.pack(side="right", fill="y")
 
-        # 6. Adaptation de la largeur (Responsive)
         def on_canvas_configure(event):
             canvas.itemconfig(canvas_frame, width=event.width)
         canvas.bind("<Configure>", on_canvas_configure)
 
-        # 7. Activation de la molette de la souris (Mousewheel)
         def _on_mousewheel(event):
             canvas.yview_scroll(int(-1*(event.delta/120)), "units")
         
-        # On lie la molette au canvas et au frame interne
+        # Binding global pour le scroll
         canvas.bind_all("<MouseWheel>", _on_mousewheel)
-        
-        # On sauvegarde une référence pour pouvoir désactiver le scroll plus tard
         self.unbind_scroll = lambda: canvas.unbind_all("<MouseWheel>")
 
-        # --- CONTENU DU MENU (Inséré dans scrollable_frame) ---
-        
-        # Configuration Grid pour centrer le contenu
         scrollable_frame.grid_columnconfigure(0, weight=1)
 
-        # Sélecteur de nombre de questions
         settings_frame = ttk.Frame(scrollable_frame)
-        settings_frame.pack(pady=10, anchor='ne') # Ancré en haut à droite
+        settings_frame.pack(pady=10, anchor='ne')
         
         ttk.Label(settings_frame, text="Nombre de questions:", font=LARGE_FONT).pack(side='left', padx=5)
         num_spinbox = ttk.Spinbox(settings_frame, from_=1, to=100, textvariable=self.num_questions_var, width=5, font=LARGE_FONT)
@@ -235,14 +222,11 @@ class QCMApp(tk.Tk):
         )
         shuffle_check.pack(pady=(10, 20))
 
-        # Titre
         ttk.Label(scrollable_frame, text="Choisissez un chapitre", font=TITLE_FONT).pack(pady=20)
 
-        # Conteneur des boutons de chapitres
         button_frame = ttk.Frame(scrollable_frame)
-        button_frame.pack(pady=10, fill='x', padx=50) # Padding X pour ne pas coller aux bords
+        button_frame.pack(pady=10, fill='x', padx=50)
 
-        # Liste des chapitres
         for i, chapter_path in enumerate(self.chapter_files):
             filename = os.path.basename(chapter_path)
             display_name = os.path.splitext(filename)[0]
@@ -255,35 +239,30 @@ class QCMApp(tk.Tk):
             )
             btn.pack(pady=5, fill='x')
 
-        # Séparateur visuel
         ttk.Separator(button_frame, orient='horizontal').pack(fill='x', pady=20)
 
-        # Boutons Spéciaux
         ttk.Button(button_frame, text="Mélange de tous les chapitres", command=self.mix_all_chapters, style="Large.TButton").pack(pady=5, fill='x')
         
-        # Bouton Erreurs (Mise en valeur)
         error_btn = tk.Button(
             button_frame,
             text="⚠️ Revoir mes erreurs",
             command=self.start_error_review,
             font=("Arial", 14, "bold"),
-            bg="#e74c3c", # Rouge clair pour attirer l'oeil
+            bg="#e74c3c",
             fg="white",
             relief="flat",
             pady=10
         )
         error_btn.pack(pady=15, fill='x')
         
-        # Espace vide en bas pour être sûr qu'on peut scroller jusqu'au bout
         ttk.Frame(button_frame, height=50).pack()
-
 
     # --- LOGIQUE QUIZ ---
     def start_quiz(self, chapter_index):   
-
+        # Nettoyage du scroll précédent
         if hasattr(self, 'unbind_scroll'):
             self.unbind_scroll()
-
+            
         self.main_menu_frame.pack_forget()
         self.last_chapter_index = chapter_index 
         self.quiz_frame = ttk.Frame(self)
@@ -295,10 +274,8 @@ class QCMApp(tk.Tk):
         num_questions = self.num_questions_var.get()
         
         if chapter_index == -1:
-            # Mode personnalisé (Mélange ou Erreurs) : self.current_chapter est déjà défini
             pass 
         else:
-            # Mode Chapitre classique
             raw_chapter = list(self.chapters[self.chapter_files[chapter_index]])
             self.current_chapter = backend.smart_select_questions(raw_chapter, num_questions, self.question_stats)
             
@@ -317,34 +294,24 @@ class QCMApp(tk.Tk):
         self.start_quiz(-1)
 
     def start_error_review(self):
-        """Lance un quiz composé uniquement des questions incorrectes"""
-        # 1. On récupère TOUTES les questions chargées en mémoire
         all_questions = [q for chapter in self.chapters.values() for q in chapter]
-        
-        # 2. On demande au backend de filtrer celles qu'on a ratées
         error_questions = backend.get_incorrect_questions(all_questions, self.question_stats)
         
-        # 3. Sécurité : Si pas d'erreurs (ou fichier stats inexistant), on prévient l'utilisateur
         if not error_questions:
-            messagebox.showinfo("Attention !", "Aucune erreur enregistrée pour le moment.\nContinue à t'entraîner sur les chapitres")
+            messagebox.showinfo("Félicitations !", "Aucune erreur enregistrée pour le moment.\nContinuez à vous entraîner sur les chapitres !")
             return
 
-        # 4. On mélange les erreurs pour ne pas toujours avoir le même ordre
         random.shuffle(error_questions)
-        
-        # 5. On lance le quiz avec cette liste
         self.current_chapter = error_questions
-        # On définit last_chapter_index à -2 pour identifier le mode "Erreur" si besoin de redémarrer
         self.last_chapter_index = -2 
         self.start_quiz(-1)
 
     def restart_quiz(self):
         self.clear_frame(self.quiz_frame)
         self.quiz_frame.pack_forget()
-        
         if self.last_chapter_index == -1:
             self.mix_all_chapters()
-        elif self.last_chapter_index == -2: # Redémarrer mode erreurs
+        elif self.last_chapter_index == -2:
             self.start_error_review()
         else:
             self.start_quiz(self.last_chapter_index)
@@ -370,10 +337,15 @@ class QCMApp(tk.Tk):
         scrollbar.grid(row=0, column=1, sticky="ns")
         
         canvas.bind("<Configure>", lambda e: (canvas.itemconfig("all", width=e.width), self.scrollable_frame.configure(width=e.width)))
+        
+        # Scroll à la souris pour les questions aussi
+        def _on_mousewheel(event):
+            canvas.yview_scroll(int(-1*(event.delta/120)), "units")
+        canvas.bind_all("<MouseWheel>", _on_mousewheel)
+        self.unbind_scroll = lambda: canvas.unbind_all("<MouseWheel>")
 
         self.current_question_data = self.current_chapter[self.current_question]
         
-        # Mélange des options
         raw_options = self.current_question_data["options"]
         raw_correct = self.current_question_data["correct_answers"]
         
@@ -501,25 +473,74 @@ class QCMApp(tk.Tk):
             self.show_final_score()
 
     def show_final_score(self):
+        # On utilise maintenant une fenêtre avec Scrollbar, comme le Menu Principal
         self.clear_frame(self.quiz_frame)
-        center_frame = ttk.Frame(self.quiz_frame)
-        center_frame.pack(expand=True, fill='both')
-        center_frame.grid_columnconfigure(0, weight=1)
         
-        ttk.Label(center_frame, text=f"Score final : {self.score}/{len(self.current_chapter)}", font=TITLE_FONT).pack(pady=20)
+        # Frame principale qui va contenir le canvas
+        container = ttk.Frame(self.quiz_frame)
+        container.pack(fill='both', expand=True)
+        
+        theme = self.themes[self.theme_mode]
+        
+        # Canvas + Scrollbar
+        canvas = tk.Canvas(container, bg=theme['bg'], highlightthickness=0)
+        scrollbar = ttk.Scrollbar(container, orient="vertical", command=canvas.yview)
+        scrollable_frame = ttk.Frame(canvas)
+
+        scrollable_frame.bind("<Configure>", lambda e: canvas.configure(scrollregion=canvas.bbox("all")))
+
+        canvas_frame = canvas.create_window((0, 0), window=scrollable_frame, anchor="nw")
+        canvas.configure(yscrollcommand=scrollbar.set)
+
+        canvas.pack(side="left", fill="both", expand=True)
+        scrollbar.pack(side="right", fill="y")
+
+        # Adaptation responsive largeur
+        def on_canvas_configure(event):
+            canvas.itemconfig(canvas_frame, width=event.width)
+        canvas.bind("<Configure>", on_canvas_configure)
+
+        # Molette souris
+        def _on_mousewheel(event):
+            canvas.yview_scroll(int(-1*(event.delta/120)), "units")
+        canvas.bind_all("<MouseWheel>", _on_mousewheel)
+        self.unbind_scroll = lambda: canvas.unbind_all("<MouseWheel>")
+
+        # Centrage du contenu
+        scrollable_frame.grid_columnconfigure(0, weight=1)
+        
+        # --- CONTENU DE LA PAGE DE RÉSULTAT ---
+
+        # EASTER EGG IMAGE (Sans le son)
+        if self.score == len(self.current_chapter) and self.score > 0:
+            img_path = os.path.join(self.base_dir, "Assets", "victory.png")
+            if os.path.exists(img_path):
+                try:
+                    self.victory_img = tk.PhotoImage(file=img_path)
+                    img_label = tk.Label(scrollable_frame, image=self.victory_img, bg=theme['bg'])
+                    img_label.pack(pady=20)
+                except Exception as e:
+                    print(f"Impossible de charger l'image victory.png : {e}")
+
+        # Score et Temps
+        ttk.Label(scrollable_frame, text=f"Score final : {self.score}/{len(self.current_chapter)}", font=TITLE_FONT).pack(pady=20)
         
         total_time = int(self.final_time)
         hours, remainder = divmod(total_time, 3600)
         minutes, seconds = divmod(remainder, 60)
-        ttk.Label(center_frame, text=f"Temps total : {hours}h {minutes}m {seconds}s", font=RESULT_FONT).pack(pady=10)
+        ttk.Label(scrollable_frame, text=f"Temps total : {hours}h {minutes}m {seconds}s", font=RESULT_FONT).pack(pady=10)
 
-        button_frame = ttk.Frame(center_frame)
-        button_frame.pack(pady=20)
+        # Boutons de navigation
+        button_frame = ttk.Frame(scrollable_frame)
+        button_frame.pack(pady=20, fill='x', padx=50)
         
         ttk.Button(button_frame, text="Recommencer ce QCM", command=self.restart_quiz, style="Large.TButton").pack(pady=10, fill='x')
         ttk.Button(button_frame, text="Retour au menu principal", command=self.return_to_main_menu, style="Large.TButton").pack(pady=10, fill='x')
         ttk.Button(button_frame, text="Quitter", command=self.quit, style="Large.TButton").pack(pady=10, fill='x')
         
+        # Marge en bas pour être sûr de tout voir
+        ttk.Frame(button_frame, height=50).pack()
+
         backend.save_stats(self.question_stats)
 
     def return_to_main_menu(self):
