@@ -532,6 +532,13 @@ class QCMApp(tk.Tk):
         )
         edit_button.pack(side='top', pady=5)
 
+        quit_button = tk.Button(
+            button_frame, text="Retour au menu", command=self.return_to_main_menu,
+            font=("Arial", 10), fg="#e74c3c", bd=0, bg=self.themes[self.theme_mode]['bg'],
+            activebackground=self.themes[self.theme_mode]['bg'], cursor="hand2"
+        )
+        quit_button.pack(side='top', pady=10)
+
         progress_frame = ttk.Frame(main_container)
         progress_frame.grid(row=2, column=0, columnspan=2, sticky="ew", padx=20, pady=10)
         
