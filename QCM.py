@@ -329,21 +329,47 @@ class QCMApp(tk.Tk):
             )
             debug_btn.pack(pady=5, fill='x')
 
+        self.chapter_vars = []
+
+        # En-tête pour guider l'utilisateur
+        selection_frame = ttk.Frame(button_frame)
+        selection_frame.pack(fill='x', pady=(0, 10))
+        ttk.Label(selection_frame, text="Cochez pour mélanger :", font=("Arial", 10, "italic")).pack(anchor='w')
+
         for i, chapter_path in enumerate(self.chapter_files):
             filename = os.path.basename(chapter_path)
             display_name = os.path.splitext(filename)[0]
             
+            # Un cadre par ligne pour aligner Checkbox + Bouton
+            row_frame = ttk.Frame(button_frame)
+            row_frame.pack(fill='x', pady=2)
+            
+            # Case à cocher pour la sélection multiple
+            var = tk.BooleanVar(value=False)
+            self.chapter_vars.append(var)
+            
+            chk = ttk.Checkbutton(row_frame, variable=var)
+            chk.pack(side='left', padx=(0, 10))
+            
+            # Bouton pour lancer UNIQUEMENT ce chapitre
             btn = ttk.Button(
-                button_frame, 
+                row_frame, 
                 text=display_name, 
                 command=lambda i=i: self.start_quiz(i), 
                 style="Large.TButton"
             )
-            btn.pack(pady=5, fill='x')
+            btn.pack(side='left', fill='x', expand=True)
 
         ttk.Separator(button_frame, orient='horizontal').pack(fill='x', pady=20)
 
-        ttk.Button(button_frame, text="Mélange de tous les chapitres", command=self.mix_all_chapters, style="Large.TButton").pack(pady=5, fill='x')
+        # Nouveau bouton pour lancer le mélange sélectionné
+        mix_btn = ttk.Button(
+            button_frame, 
+            text="Lancer le QCM sur la sélection", 
+            command=self.start_mixed_quiz_selected, 
+            style="Large.TButton"
+        )
+        mix_btn.pack(pady=5, fill='x')
         
         error_btn = tk.Button(
             button_frame,
@@ -406,6 +432,32 @@ class QCMApp(tk.Tk):
         self.feedback_mode = False
         self.final_time = None
         self.show_question()
+
+    def start_mixed_quiz_selected(self):
+        # On récupère les indices des chapitres cochés
+        selected_indices = [i for i, var in enumerate(self.chapter_vars) if var.get()]
+        
+        if not selected_indices:
+            messagebox.showwarning("Attention", "Veuillez sélectionner au moins un chapitre (ou lancez un chapitre individuel).")
+            return
+
+        # On compile toutes les questions des chapitres sélectionnés
+        selected_questions = []
+        for i in selected_indices:
+            file_path = self.chapter_files[i]
+            if file_path in self.chapters:
+                selected_questions.extend(self.chapters[file_path])
+            
+        if not selected_questions:
+            messagebox.showerror("Erreur", "Aucune question trouvée dans les chapitres sélectionnés.")
+            return
+
+        # Sélection intelligente et lancement
+        num_questions = self.num_questions_var.get()
+        self.current_chapter = backend.smart_select_questions(selected_questions, num_questions, self.question_stats)
+        
+        # On lance le quiz en mode "mixte" (index -1)
+        self.start_quiz(-1)
 
     def mix_all_chapters(self):
         all_chapters = [self.chapters[file] for file in self.chapter_files]
