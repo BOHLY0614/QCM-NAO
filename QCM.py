@@ -688,37 +688,59 @@ class QCMApp(tk.Tk):
         else:
             percentage = 0
             
-        # --- EASTER EGGS (Seulement si cochés) ---
+        # --- EASTER EGGS (Synchronisés : Image choisit le Son) ---
         if self.easter_egg_enabled_var.get():
             score_bracket = int((percentage // 10) * 10)
+            prefix = f"score_{score_bracket}"
             
-            # CHEMINS
-            png_filename = f"score_{score_bracket}.png"
-            png_path = os.path.join(self.base_dir, "Assets", "Images", png_filename)
+            img_dir = os.path.join(self.base_dir, "Assets", "Images")
+            snd_dir = os.path.join(self.base_dir, "Assets", "Sounds")
             
-            wav_filename = f"score_{score_bracket}.wav"
-            wav_path = os.path.join(self.base_dir, "Assets", "Sounds", wav_filename)
-
-            # 1. Son
-            if os.path.exists(wav_path):
-                self.play_looping_sound(wav_path)
-
-            # 2. Image
-            if os.path.exists(png_path):
+            # 1. On liste toutes les images valides pour ce palier de score
+            candidates = []
+            if os.path.exists(img_dir):
+                for filename in os.listdir(img_dir):
+                    # On vérifie si le fichier commence par "score_XX"
+                    if filename.startswith(prefix):
+                        # Sécurité : on vérifie le caractère juste après le nombre 
+                        # pour ne pas confondre score_10 avec score_100
+                        rest = filename[len(prefix):]
+                        if rest == "" or rest[0] in ['.', '_', '-']:
+                             # On accepte seulement les images
+                             if filename.lower().endswith(('.png', '.jpg', '.jpeg', '.gif')):
+                                candidates.append(filename)
+            
+            # 2. Si on a trouvé des candidats, on en tire un au sort
+            if candidates:
+                chosen_image_file = random.choice(candidates)
+                
+                # On récupère le "nom de base" sans l'extension
+                base_name = os.path.splitext(chosen_image_file)[0]
+                
+                # A. Affichage de l'image
+                img_path = os.path.join(img_dir, chosen_image_file)
                 try:
-                    self.score_img = tk.PhotoImage(file=png_path)
+                    self.score_img = tk.PhotoImage(file=img_path)
                     img_label = tk.Label(scrollable_frame, image=self.score_img, bg=theme['bg'])
                     img_label.pack(pady=20)
                 except Exception as e:
-                    print(f"Erreur chargement PNG: {e}")
+                    print(f"Erreur chargement Image: {e}")
+
+                # B. Recherche et lecture du son ASSOCIE (Même nom + .wav)
+                wav_path = os.path.join(snd_dir, f"{base_name}.wav")
+                if os.path.exists(wav_path):
+                     self.play_looping_sound(wav_path)
+                else:
+                    print(f"Aucun son trouvé pour accompagner : {base_name}")
 
         # Score & Temps
         ttk.Label(scrollable_frame, text=f"Score final : {self.score}/{len(self.current_chapter)} ({int(percentage)}%)", font=TITLE_FONT).pack(pady=10)
         
-        total_time = int(self.final_time)
-        hours, remainder = divmod(total_time, 3600)
-        minutes, seconds = divmod(remainder, 60)
-        ttk.Label(scrollable_frame, text=f"Temps total : {hours}h {minutes}m {seconds}s", font=RESULT_FONT).pack(pady=5)
+        if self.final_time:
+            total_time = int(self.final_time)
+            hours, remainder = divmod(total_time, 3600)
+            minutes, seconds = divmod(remainder, 60)
+            ttk.Label(scrollable_frame, text=f"Temps total : {hours}h {minutes}m {seconds}s", font=RESULT_FONT).pack(pady=5)
 
         # Boutons Navigation
         button_frame = ttk.Frame(scrollable_frame)
