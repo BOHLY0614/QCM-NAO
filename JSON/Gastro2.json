@@ -1,0 +1,652 @@
+[
+  {
+    "chapitre": 0,
+    "id": 1,
+    "question": "Le reflux gastro-\u0153sophagien :",
+    "options": [
+      "A. Est caus\u00e9 par un rel\u00e2chement transitoire du sphincter \u0153sophagien inf\u00e9rieur au cours de la d\u00e9glutition",
+      "B. Est toujours associ\u00e9 \u00e0 l\u2019\u0153sophagite par reflux",
+      "C. Appara\u00eet en raison de la motilit\u00e9 gastrique intense",
+      "D. Est la cons\u00e9quence de la chute de pression de base dans le sphincter \u0153sophagien inf\u00e9rieur en dessous de 6 mmHg",
+      "E. N'est pas toujours associ\u00e9 \u00e0 l'\u0153sophagite par reflux"
+    ],
+    "correct_answers": ["D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 2,
+    "question": "Les sympt\u00f4mes typiques de la maladie de reflux gastro-\u0153sophagien sont :",
+    "options": [
+      "A. Ballonnements",
+      "B. Douleur \u00e9pigastrique",
+      "C. Pyrosis",
+      "D. R\u00e9gurgitation acide",
+      "E. Odynophagie"
+    ],
+    "correct_answers": ["C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 3,
+    "question": "Le traitement de la maladie de reflux gastro-\u0153sophagien (RGO) comprend :",
+    "options": [
+      "A. Antiacides pour gu\u00e9rir les l\u00e9sions d'\u0153sophagite",
+      "B. Domp\u00e9ridone pour augmenter le tonus du sphincter \u0153sophagien inf\u00e9rieur (SOI) et pour stimuler la vidange gastrique",
+      "C. Les principaux m\u00e9dicaments utilis\u00e9s sont les inhibiteurs des pompes \u00e0 protons (IPP)",
+      "D. En cas de reflux biliaire la meilleure option de traitement est la combinaison d'un procin\u00e9tique avec un bloqueur H2",
+      "E. Les techniques endoscopiques qu'on peut utiliser sont la gastroplication, l'injection de polym\u00e8res au niveau du SOI"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 4,
+    "question": "* Une des m\u00e9thodes suivantes n'est pas utile pour le traitement de l'achalasie :",
+    "options": [
+      "A. Nif\u00e9dipine",
+      "B. Dilatation au ballon",
+      "C. Inhibiteurs de la pompe \u00e0 protons",
+      "D. Cardiomyotomie de Heller",
+      "E. Injections de toxine botulinique"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 5,
+    "question": "Les complications possibles du cancer de l'\u0153sophage sont :",
+    "options": [
+      "A. Pneumonie par aspiration",
+      "B. Fistules \u0153so-bronchiques",
+      "C. Syndrome Pancoast-Tobias",
+      "D. H\u00e9morragie digestive sup\u00e9rieure",
+      "E. Syndrome de compression de la veine cave inf\u00e9rieure"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 6,
+    "question": "Lequel des \u00e9nonc\u00e9s suivants li\u00e9s \u00e0 l'infection \u00e0 Helicobacter pylori sont vrais :",
+    "options": [
+      "A. L'infection par ce germe se produit par voie f\u00e9cale-orale",
+      "B. Se produit \u00e0 la naissance dans les pays d\u00e9velopp\u00e9s et plus tard dans les \u00c9tats sous-d\u00e9velopp\u00e9s",
+      "C. Dans les pays d\u00e9velopp\u00e9s \u00e0 l'\u00e2ge de 20 ans environ 70% des personnes sont infect\u00e9es",
+      "D. Est associ\u00e9e \u00e0 la pr\u00e9sence d'ulc\u00e8res gastriques et duod\u00e9naux",
+      "E. L'infection peut \u00eatre gu\u00e9rie en l'absence de mesures th\u00e9rapeutiques sp\u00e9cifiques"
+    ],
+    "correct_answers": ["A", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 7,
+    "question": "L'h\u00e9mostase endoscopique des ulc\u00e8res h\u00e9morragiques peut \u00eatre faite par :",
+    "options": [
+      "A. Une injection de somatostatine",
+      "B. Injection d'adr\u00e9naline 1/10000",
+      "C. Mucosectomie",
+      "D. Thermo-coagulation bipolaire",
+      "E. Application d'un H\u00e9moclip"
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 8,
+    "question": "* Le m\u00e9l\u00e9na est :",
+    "options": [
+      "A. Toujours un signe de saignement gastro-intestinal inf\u00e9rieur",
+      "B. Des selles noires molles (goudronneuses)",
+      "C. Des selles noires dures",
+      "D. La pr\u00e9sence de globules rouges dans les selles",
+      "E. Un signe de la dyspepsie fonctionnelle"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 9,
+    "question": "Dans l'ulc\u00e8re duod\u00e9nal, lesquelles sont les indications pour le traitement chirurgical :",
+    "options": [
+      "A. Les saignements qui ne peuvent \u00eatre arr\u00eat\u00e9s par endoscopie",
+      "B. Les ulc\u00e8res perfor\u00e9s",
+      "C. Les ulc\u00e8res de plus de 2 cm de diam\u00e8tre",
+      "D. Les ulc\u00e8res calleux",
+      "E. La st\u00e9nose qui ne peut pas \u00eatre dilat\u00e9e par voie endoscopique"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 10,
+    "question": "Les sympt\u00f4mes suivants caract\u00e9risent la dyspepsie fonctionnelle :",
+    "options": [
+      "A. Douleur \u00e9pigastrique",
+      "B. \u00c9ructations",
+      "C. Pl\u00e9nitude \u00e9pigastrique",
+      "D. Perte de poids",
+      "E. M\u00e9l\u00e9na"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 11,
+    "question": "Laquelle des entit\u00e9s suivantes pr\u00e9dispose au cancer gastrique :",
+    "options": [
+      "A. Polypes hyperplasiques gastriques",
+      "B. Polypes ad\u00e9nomateux gastriques",
+      "C. Gastrite chronique atrophique avec m\u00e9taplasie intestinale",
+      "D. Ant\u00e9c\u00e9dents de r\u00e9section gastrique",
+      "E. Gastrite de M\u00e9n\u00e9trier avec des plis g\u00e9ants"
+    ],
+    "correct_answers": ["B", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 12,
+    "question": "Dans la maladie c\u0153liaque il est interdit de manger :",
+    "options": [
+      "A. Farine de bl\u00e9",
+      "B. Pommes de terre",
+      "C. Farine de ma\u00efs",
+      "D. Riz",
+      "E. Orge"
+    ],
+    "correct_answers": ["A", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 13,
+    "question": "Parmi les tests de laboratoire suivants, lesquels sont utilis\u00e9s dans le diagnostic de la malabsorption ?",
+    "options": [
+      "A. D\u00e9termination de la pr\u00e9sence de graisses dans les selles",
+      "B. Test de tol\u00e9rance au lactose",
+      "C. D\u00e9termination des transaminases h\u00e9patiques",
+      "D. Le test oral de tol\u00e9rance au glucose",
+      "E. Test de Schilling"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 14,
+    "question": "Dans le cas de la maladie c\u0153liaque les d\u00e9clarations suivantes sont vraies :",
+    "options": [
+      "A. Peut \u00eatre symptomatique ou asymptomatique",
+      "B. N'est jamais associ\u00e9e \u00e0 la malabsorption",
+      "C. Peut \u00eatre accompagn\u00e9e par l'infertilit\u00e9, une petite taille, la dermatite herp\u00e9tiforme, la stomatite aphteuse",
+      "D. C'est un trouble g\u00e9n\u00e9tiquement induit",
+      "E. Du point de vue microscopique est caract\u00e9ris\u00e9e par une atrophie des villosit\u00e9s intestinales"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 15,
+    "question": "Les caract\u00e9ristiques cliniques des patients pr\u00e9sentant un d\u00e9ficit en lactase comprennent :",
+    "options": [
+      "A. Une douleur \u00e9pigastrique violente avec un rayonnement \u00e0 l'\u00e9paule droite",
+      "B. Ballonnements, gargouillis",
+      "C. Selles liquides explosives",
+      "D. Absence du transit des mati\u00e8res f\u00e9cales et du gaz",
+      "E. H\u00e9mat\u00e9m\u00e8se et m\u00e9l\u00e9na"
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 16,
+    "question": "Les caract\u00e9ristiques des formes cliniques graves de la colite ulc\u00e9reuse sont :",
+    "options": [
+      "A. 4-6 selles par jour",
+      "B. Fi\u00e8vre sup\u00e9rieure \u00e0 38\u00b0C",
+      "C. An\u00e9mie et hypoalbumin\u00e9mie",
+      "D. Petite quantit\u00e9 de sang dans les selles",
+      "E. Malaise"
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 17,
+    "question": "Le traitement de la colite ulc\u00e9rative :",
+    "options": [
+      "A. D\u00e9pend de la gravit\u00e9 de la pouss\u00e9e et de l'extension de la maladie",
+      "B. Le traitement des formes moyennes est de 5-ASA (m\u00e9salazine) \u00e0 une dose de 2 \u00e0 4 g/jour",
+      "C. Dans les formes graves, la prednisone est administr\u00e9e \u00e0 des doses de 40-60 mg/jour, en abaissant les doses de 5-10mg / semaine",
+      "D. Les formes distales peuvent \u00eatre trait\u00e9es par voie rectale avec un traitement topique avec des suppositoires, une mousse ou micro lavement avec de l'acide 5 aminosaticylique ou corticost\u00e9roides",
+      "E. Le traitement de maintien dans les formes s\u00e9v\u00e8res se fait avec de la prednisone 10 mg/jour \u00e0 la longue"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 18,
+    "question": "Lequel des \u00e9nonc\u00e9s suivants sont vrais au sujet de la maladie de Crohn :",
+    "options": [
+      "A. L'il\u00e9on terminal n'est jamais affect\u00e9 dans la maladie de Crohn",
+      "B. Tous les segments du tractus digestif peuvent \u00eatre affect\u00e9s",
+      "C. Dans environ 50% des cas, il existe une forme il\u00e9o-colique",
+      "D. L'\u0153sophage, l'estomac sont rarement touch\u00e9s",
+      "E. N'a aucune incidence sur le tractus digestif sup\u00e9rieur"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 19,
+    "question": "Parmi les caract\u00e9ristiques de la maladie de Crohn sont :",
+    "options": [
+      "A. L\u00e9sions discontinues",
+      "B. Les l\u00e9sions histologiques sont limit\u00e9es \u00e0 la muqueuse et sous-muqueuse",
+      "C. La l\u00e9sion histologique typique est le granulome",
+      "D. Lors de l'examen endoscopique on voit des ulc\u00e9rations profondes, lin\u00e9aires",
+      "E. Les l\u00e9sions sont limit\u00e9es strictement au c\u00f4lon"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 20,
+    "question": "* Le diagnostic diff\u00e9rentiel de la maladie de Crohn est r\u00e9alis\u00e9e avec les conditions suivantes, \u00e0 l'exception du :",
+    "options": [
+      "A. Recto-colite h\u00e9morragique",
+      "B. Colite isch\u00e9mique",
+      "C. Appendicite aigu\u00eb",
+      "D. Coliques n\u00e9phr\u00e9tiques",
+      "E. Tumeur du c\u00f4lon"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 21,
+    "question": "L'aspect endoscopique typique de la maladie de Crohn comprend :",
+    "options": [
+      "A. L\u00e9sions aphto\u00efdes",
+      "B. Ulc\u00e9rations superficielles de la muqueuse",
+      "C. St\u00e9noses inflammatoires",
+      "D. Aspect de la muqueuse en \"pav\u00e9s\" (chauss\u00e9e de pierre)",
+      "E. D\u00e9p\u00f4ts pseudomembraneux"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 22,
+    "question": "Les facteurs de risque pour le cancer colorectal sont :",
+    "options": [
+      "A. Le syndrome de Lynch",
+      "B. Le syndrome de l'intestin irritable",
+      "C. La diverticulose colique",
+      "D. Les polypes colorectaux",
+      "E. La polypose ad\u00e9nomateuse familiale"
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 23,
+    "question": "Les sympt\u00f4mes suivants peuvent appara\u00eetre en cas de cancer colorectal :",
+    "options": [
+      "A. Rectorrhagie",
+      "B. Douleur abdominale",
+      "C. Perte de poids",
+      "D. Toux",
+      "E. H\u00e9matoch\u00e9zie"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 24,
+    "question": "Lesquels des \u00e9nonc\u00e9s suivants concernant le cancer du c\u00f4lon sont vrais ?",
+    "options": [
+      "A. La constipation rebelle ou exacerb\u00e9e peut sugg\u00e9rer un cancer du c\u00f4lon gauche",
+      "B. Le saignement rectal se produit fr\u00e9quemment dans le cancer du c\u00f4lon droit",
+      "C. Le c\u00f4lon gauche est le plus souvent affect\u00e9",
+      "D. Est fr\u00e9quemment associ\u00e9 avec une an\u00e9mie par carence en fer",
+      "E. Dans les premiers stades le cancer du c\u00f4lon est souvent asymptomatique"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 25,
+    "question": "Le traitement du cancer du c\u00f4lon peut inclure :",
+    "options": [
+      "A. Chimioth\u00e9rapie au stade A de Dukes",
+      "B. Th\u00e9rapie antiangiog\u00e9nique avec Avastin",
+      "C. Traitement chirurgical le plus rapidement",
+      "D. La chimioth\u00e9rapie avec l'interf\u00e9ron",
+      "E. Radioth\u00e9rapie dans le cancer du rectum"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 26,
+    "question": "La pr\u00e9sentation clinique de la pancr\u00e9atite aigu\u00eb au d\u00e9but peut inclure :",
+    "options": [
+      "A. Douleur abdominale sup\u00e9rieure intense en ceinture",
+      "B. Il\u00e9us dynamique",
+      "C. Vomissements",
+      "D. Fi\u00e8vre sup\u00e9rieure \u00e0 38 degr\u00e9s",
+      "E. Coma"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 27,
+    "question": "Facteurs pronostiques d\u00e9favorables dans la pancr\u00e9atite aigu\u00eb sont :",
+    "options": [
+      "A. La prot\u00e9ine C-r\u00e9active < 150 mg%",
+      "B. Prot\u00e9ine C-r\u00e9active > 150 mg%",
+      "C. Le d\u00e9veloppement de la fi\u00e8vre apr\u00e8s 5-6 jours de l'\u00e9volution",
+      "D. Absence des n\u00e9croses pancr\u00e9atiques",
+      "E. Association avec d\u00e9faillance d'un organe"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 28,
+    "question": "Le tableau clinique de la pancr\u00e9atite chronique comprend :",
+    "options": [
+      "A. Douleurs abdominales",
+      "B. St\u00e9atorrh\u00e9e",
+      "C. Constipation",
+      "D. Ballonnements",
+      "E. Rectorrhagie"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 29,
+    "question": "* Chez les patients atteints d'une pancr\u00e9atite chronique :",
+    "options": [
+      "A. La jaunisse obstructive peut se produire \u00e0 la suite de la compression du chol\u00e9doque par la t\u00eate \u00e9largie du pancr\u00e9as",
+      "B. Une h\u00e9morragie digestive sup\u00e9rieure peut se produire suite \u00e0 la rupture des varices \u0153sophagiennes (thrombose veine spl\u00e9nique)",
+      "C. La douleur est d\u00e9clench\u00e9e par un je\u00fbne prolong\u00e9",
+      "D. La douleur est soulag\u00e9e apr\u00e8s l'ingestion d'aliments ou d'antiacides",
+      "E. La constipation et les ballonnements se produisent couramment"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 30,
+    "question": "Les facteurs \u00e9tiologiques des calculs biliaires sont les suivants :",
+    "options": [
+      "A. Une pr\u00e9disposition g\u00e9n\u00e9tique",
+      "B. Le genre m\u00e2le",
+      "C. L'ob\u00e9sit\u00e9",
+      "D. L'\u00e2ge",
+      "E. Le diab\u00e8te"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 31,
+    "question": "Lesquelles des d\u00e9clarations suivantes concernant le traitement des calculs biliaires sont vraies :",
+    "options": [
+      "A. La chirurgie est n\u00e9cessaire dans les calculs biliaires asymptomatiques",
+      "B. La chirurgie est n\u00e9cessaire dans les calculs biliaires symptomatiques",
+      "C. L'administration d'AINS peut conduire \u00e0 la disparition de calculs biliaires",
+      "D. L'administration des antispasmodiques est n\u00e9cessaire dans la colique biliaire",
+      "E. La chol\u00e9cystite aigu\u00eb n\u00e9cessite une intervention chirurgicale d'urgence"
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 32,
+    "question": "Les tests suivants seront effectu\u00e9s afin d'\u00e9tablir l'\u00e9tiologie de l'h\u00e9patite chronique :",
+    "options": [
+      "A. Tout d'abord, les marqueurs viraux, l'\u00e9tiologie virale \u00e9tant le plus commun",
+      "B. H\u00e9patite C - anticorps anti-VHC",
+      "C. Pour l'h\u00e9patite B - anticorps anti-HBs",
+      "D. Si le virus C est pr\u00e9sent, obligatoire - antig\u00e8ne delta",
+      "E. Anticorps anti HAV"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 33,
+    "question": "Les affirmations suivantes sont correctes pour l'h\u00e9patite B chronique :",
+    "options": [
+      "A. Les anticorps anti-HBs sont un marqueur de la gu\u00e9rison",
+      "B. L'h\u00e9patite aigu\u00eb B devient chronique dans 70-80% des cas",
+      "C. La principale source de la maladie est le sang infect\u00e9",
+      "D. Il peut \u00e9galement \u00eatre transmis par voie p\u00e9rinatale",
+      "E. Une importante voie de transmission est celle sexuelle"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 34,
+    "question": "* La gravit\u00e9 de la maladie chronique du foie est \u00e9tablie par :",
+    "options": [
+      "A. La s\u00e9v\u00e9rit\u00e9 de la n\u00e9crose p\u00e9ri-portale",
+      "B. Le degr\u00e9 d'inflammation portale",
+      "C. La quantification de n\u00e9crose en ponts",
+      "D. La s\u00e9v\u00e9rit\u00e9 de la fibrose",
+      "E. La quantification de la n\u00e9crose parcellaire"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 35,
+    "question": "Les tests de laboratoire utiles dans l'h\u00e9patite C chronique sont :",
+    "options": [
+      "A. Aminotransf\u00e9rases",
+      "B. PCR ADN VHC",
+      "C. Alpha-f\u0153toprot\u00e9ine",
+      "D. Clairance de la cr\u00e9atinine, prot\u00e9inurie, s\u00e9diments Addis, cryoglobulines",
+      "E. Parfois AMA parce que l'association avec la cirrhose biliaire primitive est assez fr\u00e9quente"
+    ],
+    "correct_answers": ["A", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 36,
+    "question": "Le traitement de l'h\u00e9patite chronique B peut \u00eatre fait avec :",
+    "options": [
+      "A. Ad\u00e9fovir",
+      "B. Peginterf\u00e9ron",
+      "C. Ent\u00e9cavir",
+      "D. Ribavirine",
+      "E. T\u00e9nofovir"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 37,
+    "question": "* Au cours du traitement par l'interf\u00e9ron, les complications qui peuvent survenir sont les suivantes, \u00e0 l'exception de :",
+    "options": [
+      "A. Suppression de la moelle osseuse",
+      "B. Alop\u00e9cie, syndrome de type grippal apr\u00e8s l'injection, la toux s\u00e8che, \u00e9ruption cutan\u00e9e",
+      "C. D\u00e9pression",
+      "D. Alt\u00e9ration de la thyro\u00efde",
+      "E. Thrombocytose"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 38,
+    "question": "Les tests suivants sont suggestifs pour l'h\u00e9patite auto-immune :",
+    "options": [
+      "A. Anticorps antinucl\u00e9aires +",
+      "B. Anticorps anti-muscle lisse",
+      "C. Anticorps anti LKM1 +",
+      "D. Anticorps anti mitochondries",
+      "E. Transaminases tr\u00e8s \u00e9lev\u00e9es"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 39,
+    "question": "* \u00c0 50 ans, patiente avec ict\u00e8re, prurit et cholestase, on soup\u00e7onne le diagnostic suivant :",
+    "options": [
+      "A. Chol\u00e9cystite aigu\u00eb",
+      "B. Cirrhose virale du foie",
+      "C. H\u00e9patite chronique VHC",
+      "D. Cirrhose biliaire primaire",
+      "E. Pancr\u00e9atite aigu\u00eb"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 40,
+    "question": "* Dans la d\u00e9compensation parenchymateuse de la cirrhose du foie :",
+    "options": [
+      "A. La bilirubine est \u00e9lev\u00e9e",
+      "B. Il y a un degr\u00e9 d'an\u00e9mie",
+      "C. Ainsi que la bilirubine, le niveau d'albumine est augment\u00e9e",
+      "D. L'ascite est pr\u00e9sente",
+      "E. Est caract\u00e9ris\u00e9e par l'apparition d'angiomes stellaires"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 41,
+    "question": "Le traitement de l'h\u00e9morragie variqueuse comprend :",
+    "options": [
+      "A. Ligature endoscopique",
+      "B. Scl\u00e9roth\u00e9rapie",
+      "C. H\u00e9mostase avec de l'argon beamer (APC) pour varices \u0153sophagiennes",
+      "D. PPI en perfusion intraveineuse continue",
+      "E. Transfusions de sang chez tous les patients, imm\u00e9diatement apr\u00e8s le traitement endoscopique"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 42,
+    "question": "Les m\u00e9dicaments suivants sont utilis\u00e9s pour le traitement de l'ascite dans la cirrhose :",
+    "options": [
+      "A. Nif\u00e9dipine",
+      "B. Propranolol",
+      "C. Spironolactone",
+      "D. Furos\u00e9mide",
+      "E. Esom\u00e9prazole"
+    ],
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 43,
+    "question": "Les \u00e9nonc\u00e9s suivants sont vrais en ce qui regarde la p\u00e9ritonite bact\u00e9rienne spontan\u00e9e :",
+    "options": [
+      "A. Le tableau clinique est bruyant",
+      "B. Le diagnostic est bas\u00e9 sur la culture de fluide \u00e0 partir d'ascites",
+      "C. Le traitement se fait selon l'antibiogramme",
+      "D. Non trait\u00e9e a un taux de mortalit\u00e9 \u00e9lev\u00e9",
+      "E. La prophylaxie de la r\u00e9infection se fait avec la norfloxacine ou de la ciprofloxacine"
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 44,
+    "question": "Dans le traitement de l'ascite les mesures suivantes sont correctes :",
+    "options": [
+      "A. R\u00e9gime pauvre en sel",
+      "B. Alitement prolong\u00e9",
+      "C. Furos\u00e9mide et spironolactone sont recommand\u00e9es dans une dose allant jusqu'\u00e0 un maximum de 160 mg/jour, respectivement 400 mg/jour",
+      "D. Le shunt porto-syst\u00e9mique n'a pas d'efficacit\u00e9 pour le traitement l'ascite r\u00e9fractaire",
+      "E. Dans les cas des ascites grandes on peut pas faire une paracent\u00e8se de plus de 5L"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 45,
+    "question": "Les affirmations suivantes sont vraies en ce qui concerne l'h\u00e9patocarcinome (HCC) :",
+    "options": [
+      "A. C'est l'une des complications de la cirrhose, en particulier dans lesquelles \u00e0 \u00e9tiologie virale B, C et dans l'h\u00e9mochromatose",
+      "B. Le screening par \u00e9chographique est obligatoire \u00e0 effectuer chaque ann\u00e9e",
+      "C. L'\u00e9chographie abdominale et surtout l'\u00e9chographie de contraste sont tr\u00e8s utiles pour le diagnostic",
+      "D. Le CT natif est suffisant pour d\u00e9terminer l'efficacit\u00e9 de la th\u00e9rapie percutan\u00e9e",
+      "E. Le traitement antiangiog\u00e9nique avec Sorafenib (Nexavar) peut \u00eatre utilis\u00e9 dans le cas des HCC grands quand le traitement percutan\u00e9 n'est plus utile"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 46,
+    "question": "Le traitement de l'enc\u00e9phalopathie h\u00e9patique comprend :",
+    "options": [
+      "A. R\u00e9gime hypoprot\u00e9ique",
+      "B. Obtenir un transit intestinal r\u00e9gulier",
+      "C. R\u00e9gime alimentaire faible en sodium et l'apport hydrique/jour",
+      "D. Inhibition de la flore ammonio-formatrice par Lactulose",
+      "E. Administration du lop\u00e9ramide"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 47,
+    "question": "Dans l'h\u00e9mochromatose se produisent les manifestations cliniques suivantes :",
+    "options": [
+      "A. Pigmentation de la peau",
+      "B. Diab\u00e8te",
+      "C. Insuffisance cardiaque",
+      "D. Pneumopathies",
+      "E. Aphasie"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 48,
+    "question": "Les causes pr\u00e9cipitantes de l'enc\u00e9phalopathie h\u00e9patique sont :",
+    "options": [
+      "A. D\u00e9s\u00e9quilibres \u00e9lectrolytiques caus\u00e9s par les diur\u00e9tiques",
+      "B. Une h\u00e9patite aigu\u00eb superpos\u00e9e",
+      "C. H\u00e9morragie digestive sup\u00e9rieure",
+      "D. Lactulose",
+      "E. La consommation excessive de prot\u00e9ines"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 49,
+    "question": "Dans la classification Child-Pugh de la cirrhose valent 2 points les suivants param\u00e8tres :",
+    "options": [
+      "A. Une quantit\u00e9 mod\u00e9r\u00e9e de l'ascite, BT 2-3 mg%",
+      "B. Grade enc\u00e9phalopathie II, III, l'albumine s\u00e9rique 2,8-3,5 g%",
+      "C. QI de 40 \u00e0 70%",
+      "D. Ascite volume \u00e9lev\u00e9 et enc\u00e9phalopathie absent",
+      "E. Enc\u00e9phalopathie Grade III, IQ 40-70%"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 50,
+    "question": "Les \u00e9nonc\u00e9s suivants sont valables dans le cas de la transplantation h\u00e9patique :",
+    "options": [
+      "A. Requise est la compatibilit\u00e9 en syst\u00e8me ABO",
+      "B. Est important de d\u00e9terminer le volume du foie",
+      "C. Le rejet chronique se produit apr\u00e8s 2 mois post-transplantation",
+      "D. Le traitement post-transplantation consiste d'un m\u00e9dicament immunosuppresseur qui est administr\u00e9 seulement jusqu'\u00e0 ce qu'il n'y a un risque de rejet chronique",
+      "E. Les complications post-transplantation peuvent \u00eatre complications infectieuses d'origine bact\u00e9rienne, virale, fongique, ou bien des complications vasculaires et biliaires"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  }
+]
