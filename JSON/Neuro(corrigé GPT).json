@@ -23,7 +23,7 @@
       "D. Fatigabilit\u00e9 musculaire excessive \u00e0 l'effort",
       "E. Signe Babinski pr\u00e9sent"
     ],
-    "correct_answers": ["A", "B", "C", "D"]
+    "correct_answers": ["A", "B", "D"]
   },
   {
     "chapitre": 0,
@@ -62,7 +62,7 @@
       "D. Main en \"cou de cygne\"",
       "E. R\u00e9flexe stylo-radial aboli"
     ],
-    "correct_answers": ["E"]
+    "correct_answers": ["D", "E"]
   },
   {
     "chapitre": 0,
@@ -361,7 +361,7 @@
       "D. Aphasie",
       "E. Ataxie c\u00e9r\u00e9belleuse"
     ],
-    "correct_answers": ["A", "B", "D"]
+    "correct_answers": ["A", "D"]
   },
   {
     "chapitre": 0,
@@ -452,7 +452,7 @@
       "D. C\u00e9phal\u00e9e",
       "E. Crises \u00e9pileptiques"
     ],
-    "correct_answers": ["A", "D", "E"]
+    "correct_answers": ["A", "B", "D", "E"]
   },
   {
     "chapitre": 0,
@@ -478,7 +478,7 @@
       "D. Elles peuvent \u00eatre suivies par une crise \u00e9pileptique g\u00e9n\u00e9ralis\u00e9e",
       "E. L'EEG rel\u00e8ve une l\u00e9sion frontale"
     ],
-    "correct_answers": ["A", "D"]
+    "correct_answers": ["A", "D", "E"]
   },
   {
     "chapitre": 0,
@@ -517,7 +517,7 @@
       "D. Elles sont toujours diff\u00e9rentes au m\u00eame malade",
       "E. Elles sont identiques au m\u00eame malade"
     ],
-    "correct_answers": ["E"]
+    "correct_answers": ["A", "E"]
   },
   {
     "chapitre": 0,
@@ -556,7 +556,7 @@
       "D. H\u00e9mipar\u00e9sie fr\u00e9quente",
       "E. Il y a des l\u00e9sions au niveau des voies pyramidales cervicales"
     ],
-    "correct_answers": ["C", "D", "E"]
+    "correct_answers": ["C", "E"]
   },
   {
     "chapitre": 0,
@@ -582,7 +582,7 @@
       "D. La fi\u00e8vre c'est un sympt\u00f4me fr\u00e9quent",
       "E. La c\u00e9phal\u00e9e ne se manifeste pas dans les polioenc\u00e9phalites"
     ],
-    "correct_answers": ["A", "B", "C", "D"]
+    "correct_answers": ["A", "B", "D"]
   },
   {
     "chapitre": 0,
@@ -621,7 +621,7 @@
       "D. Les r\u00e9flexes photomoteurs sont conserv\u00e9s",
       "E. Les r\u00e9flexes corn\u00e9ens sont abolis"
     ],
-    "correct_answers": ["A", "C"]
+    "correct_answers": ["B", "C"]
   },
   {
     "chapitre": 0,
@@ -634,7 +634,7 @@
       "D. Les r\u00e9flexes corn\u00e9ens sont abolis",
       "E. Les r\u00e9flexes photomoteurs sont abolis"
     ],
-    "correct_answers": ["D"]
+    "correct_answers": ["A", "D", "E"]
   },
   {
     "chapitre": 0,
