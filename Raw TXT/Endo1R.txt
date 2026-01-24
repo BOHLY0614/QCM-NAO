@@ -3,11 +3,13 @@ B
 E
 B
 C
+B
 C
 B
 E
 D
 C, D, E
+DE
 B, C, D, E
 CD
 DE
