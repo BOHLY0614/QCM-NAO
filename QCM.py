@@ -340,6 +340,14 @@ class QCMApp(tk.Tk):
             filename = os.path.basename(chapter_path)
             display_name = os.path.splitext(filename)[0]
             
+            # --- MODIFICATION ICI : Calcul du nombre de questions ---
+            # On récupère la liste des questions pour ce fichier et on compte
+            nb_questions = len(self.chapters[chapter_path])
+            
+            # On formate le texte pour l'afficher (ex: "Chapitre 1 (15 questions)")
+            button_text = f"{display_name} ({nb_questions} questions)"
+            # --------------------------------------------------------
+            
             # Un cadre par ligne pour aligner Checkbox + Bouton
             row_frame = ttk.Frame(button_frame)
             row_frame.pack(fill='x', pady=2)
@@ -354,7 +362,7 @@ class QCMApp(tk.Tk):
             # Bouton pour lancer UNIQUEMENT ce chapitre
             btn = ttk.Button(
                 row_frame, 
-                text=display_name, 
+                text=button_text,  # <--- On utilise la nouvelle variable ici
                 command=lambda i=i: self.start_quiz(i), 
                 style="Large.TButton"
             )
