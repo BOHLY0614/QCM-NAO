@@ -1,0 +1,646 @@
+[
+  {
+    "chapitre": 0,
+    "id": 1,
+    "question": "* Les crit\u00e8res \u00e9chographique de malignit\u00e9s des nodules thyro\u00efdiens sont :",
+    "options": [
+      "a. Formation vasculaire centrale",
+      "b. Halo pr\u00e9sent",
+      "c. Formation christique",
+      "d. L\u00e9sion hyper\u00e9chog\u00e8ne",
+      "e. Absence de la mobilit\u00e9 par rapport aux plans sous et supra-jacents"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 2,
+    "question": "* Les hypocalc\u00e9mies parathyro\u00efdiennes sont d\u00e9termin\u00e9es par les suivantes, avec une exception:",
+    "options": [
+      "a. Primaires",
+      "b. Chirurgicales",
+      "c. Idiopathiques",
+      "d. Fonctionnelles",
+      "e. N\u00e9onatales"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 3,
+    "question": "* Lequel des suivants cancers thyro\u00efdiens a le meilleur pronostic clinique",
+    "options": [
+      "a. Papillaire",
+      "b. M\u00e9dullaire",
+      "c. Anaplasique",
+      "d. Lymphome",
+      "e. Tumeur \u00e0 cellules Hurthle"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 4,
+    "question": "* Parmi les affirmations suivantes laquelle n'apparait pas a l'acrom\u00e9galie :",
+    "options": [
+      "a. Syndrome de canal carpien",
+      "b. \u0397\u03a4\u0391",
+      "c. Visc\u00e9rom\u00e9galie",
+      "d. Hyperhidrose",
+      "e. Hypercalc\u00e9mie"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 5,
+    "question": "* Les hormones hypophysaire sont les suivants, avec l'exception de :",
+    "options": ["a. LH", "b. FSH", "c. TSH", "d. PTH", "e. ACTH"],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 6,
+    "question": "* Les aspects cliniques qui laissent penser \u00e0 la malignit\u00e9 des nodules thyro\u00efdiens sont les suivants \u00e0 l'exceptions de:",
+    "options": [
+      "a. Croissance rapide",
+      "b. Consistance \u00e9lev\u00e9e",
+      "c. Sexe masculin",
+      "d. Historique de l'irradiation pendant l'enfance ou l'adolescence",
+      "e. Volume thyro\u00efdien agrandit"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 7,
+    "question": "* Le signe clinique de l'insuffisance corticotrope est:",
+    "options": [
+      "a. L'agalactie",
+      "b. La st\u00e9rilit\u00e9",
+      "c. La d\u00e9pilation axillaire",
+      "d. La frilosit\u00e9",
+      "e. L'hypotension art\u00e9rielle"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 8,
+    "question": "* Pour le diagnostic de l'ost\u00e9oporose, on prend en consid\u00e9ration :",
+    "options": [
+      "a. Score T entre -1 et +1",
+      "b. Score T entre -1 et +1.5",
+      "c. Score T sup\u00e9rieur -2.5",
+      "d. Score T entre -2.5 et -4",
+      "e. Score T entre -1 et -2.5"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 9,
+    "question": "* Les effets m\u00e9taboliques du cortisol sont :",
+    "options": [
+      "a. L'augmentation de l'absorption intestinale du glucose",
+      "b. Un effet lipolytique",
+      "c. Un R\u00f4le anabolisant prot\u00e9ique",
+      "d. En dose supra-physiologique inhibe le catabolisme prot\u00e9ique",
+      "e. Augmente la s\u00e9cr\u00e9tion de l'insuline"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 10,
+    "question": "* Laquelle parmi les suivantes repr\u00e9sente la cause de l'insuffisance corticosurr\u00e9nale secondaire:",
+    "options": [
+      "a. Auto-immune",
+      "b. Infections",
+      "c. Interruptions brusques de cortico\u00efdes",
+      "d. Maladies infiltratives",
+      "e. M\u00e9tastase"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 11,
+    "question": "Les causes du diab\u00e8te insipide n\u00e9phrog\u00e8ne sont :",
+    "options": [
+      "a. Py\u00e9lon\u00e9phrite chronique",
+      "b. Potomanie",
+      "c. Carence de cortisol",
+      "d. Amylo\u00efdose",
+      "e. R\u00e9gime hyposod\u00e9"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 12,
+    "question": "Les examens radiologiques dans l'hyperparathyro\u00efdisme primaire peuvent montrer les l\u00e9sions osseuses suivantes :",
+    "options": [
+      "a. Tassement vert\u00e9brale",
+      "b. Au niveau des gros os de main - une d\u00e9min\u00e9ralisation des \u00e9piphyses",
+      "c. Au niveau des petits os - des kystes osseux",
+      "d. Des tumeurs my\u00e9loplaxes appara\u00eet \u00e0 la surface des os longs",
+      "e. Le cr\u00e2ne appara\u00eet hypermin\u00e9ralis\u00e9"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 13,
+    "question": "Dans l'ad\u00e9nome somatotrope:",
+    "options": [
+      "a. Le dosage GH est le meilleur test de screening",
+      "b. Le GH basale a une valeur \u00e9lev\u00e9e",
+      "c. La prolactine a parfois une valeur un peu \u00e9lev\u00e9e",
+      "d. Des autres hormones hypophysaires ont des fois des valeurs \u00e9lev\u00e9es",
+      "e. Le dosage IGF-1 est le meilleur test de screening"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 14,
+    "question": "Paraclinique dans l'insuffisance pituitaire chez enfant :",
+    "options": [
+      "a. Le GH est \u00e9lev\u00e9e r\u00e9active",
+      "b. Le GH est bas",
+      "c. IGF-1 est bas",
+      "d. Une hypoglyc\u00e9mie appara\u00eet spontan\u00e9ment",
+      "e. Une hyperglyc\u00e9mie appara\u00eet spontan\u00e9ment"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 15,
+    "question": "Diab\u00e8te insipide n\u00e9phrog\u00e8ne :",
+    "options": [
+      "a. Apparait suite \u00e0 un niveau bas de l'ADH circulant",
+      "b. Appara\u00eet suite \u00e0 un niveau bas de l'ACTH circulant",
+      "c. A pour cause des maladies r\u00e9nales chroniques",
+      "d. Se manifeste avec des troubles \u00e9lectrolytiques",
+      "e. Se manifeste pas anurie"
+    ],
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 16,
+    "question": "Le traitement dans l'insuffisance ant\u00e9ro hypophysaire globale chez l'adulte consiste \u00e0:",
+    "options": [
+      "a. Traitement pluri hormonal",
+      "b. Administration de l'hydrocortisone ou prednisone",
+      "c. Hormones thyro\u00efdiennes",
+      "d. Bromocriptine",
+      "e. Insuline"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 17,
+    "question": "Le diab\u00e8te insipide central se caract\u00e9rise par:",
+    "options": [
+      "a. Syndrome polyuro-polydipsique hypotonique",
+      "b. Syndrome polyuro-polydipsique hypertonique",
+      "c. D\u00e9ficit en ADH",
+      "d. Exc\u00e8s d'ADH",
+      "e. Absence de r\u00e9ponse du rein aux hormones antidiur\u00e9tique"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 18,
+    "question": "Le syndrome tumoral hypophysaire d\u00e9termine:",
+    "options": [
+      "a. Modification au niveau du fond d'\u0153il",
+      "b. Alt\u00e9ration du champ visuel par compression du lobe occipital",
+      "c. Hypertension intracr\u00e2nienne",
+      "d. Compression du 3\u00e9me ventricule",
+      "e. Paralysie du nerf cr\u00e2nien (III, IX) par expansion vers le sinus sph\u00e9no\u00efde"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 19,
+    "question": "Les aspects cliniques suggestifs pour la malignit\u00e9 des nodules thyro\u00efdiens sont :",
+    "options": [
+      "a. Sexe Masculin",
+      "b. Sexe F\u00e9minin",
+      "c. Augmentation rapide du nodule",
+      "d. Historique familial du cancer thyro\u00efdien",
+      "e. Age inf\u00e9rieur \u00e0 50 ans"
+    ],
+    "correct_answers": ["B", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 20,
+    "question": "Les affirmations suivantes sur les glandes surr\u00e9nales sont justes:",
+    "options": [
+      "a. La zone m\u00e9dullaire comprend une zone glom\u00e9rulaire",
+      "b. Au niveau de la zone fasciculaire sont s\u00e9cr\u00e9t\u00e9es les glucocortico\u00efdes",
+      "c. Au niveau de la zone fasciculaire sont s\u00e9cr\u00e9t\u00e9s cortisol et corticost\u00e9rone",
+      "d. Au niveau de la zone r\u00e9ticulaire sont s\u00e9cr\u00e9t\u00e9es les androg\u00e8nes",
+      "e. La zone glom\u00e9rulaire repr\u00e9sente le si\u00e8ge de formation des adr\u00e9nalines et noradr\u00e9nalines"
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 21,
+    "question": "Localisation des fractures ost\u00e9oporotiques :",
+    "options": [
+      "a. Fractures vert\u00e9brales par entassement",
+      "b. Fracture du col f\u00e9morale",
+      "c. Fractures de l'os zygomatique",
+      "d. Fractures du 1/3 distal de l'avant-bras",
+      "e. Fractures de 1/3 distal de l'os claviculaire"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 22,
+    "question": "L'ost\u00e9oporose secondaire appara\u00eet dans des contextes suivants :",
+    "options": [
+      "a. Immobilisation",
+      "b. Quelques affections r\u00e9nales",
+      "c. Affections gastro-intestinale avec malabsorption",
+      "d. Postm\u00e9nopause",
+      "e. Hyperthyro\u00efdie"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 23,
+    "question": "L'\u00e9tiologie des insuffisances surr\u00e9nales p\u00e9riph\u00e9riques comprend :",
+    "options": [
+      "a. La tuberculose",
+      "b. Le k\u00e9toconazole",
+      "c. L'hyperplasie cong\u00e9nitale des surr\u00e9nales",
+      "d. Les infections",
+      "e. L'ad\u00e9nome hypophysaire"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 24,
+    "question": "Le traitement dans hyperparathyro\u00efdie inclut:",
+    "options": [
+      "a. Hydratation ad\u00e9quate avec augmentation de l'apport de vitamine D et du calcium",
+      "b. Administration du diur\u00e9tique de l'anse",
+      "c. Calcitonine",
+      "d. Progest\u00e9rone",
+      "e. Estrog\u00e8ne"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 25,
+    "question": "Les manifestations chroniques de l'hyperthyro\u00efdies d\u00e9terminent:",
+    "options": [
+      "a. Caract\u00e8res de type endocrinien, souscapulaire",
+      "b. Trouble trophique du syst\u00e8me dentaire",
+      "c. T\u00e9gument chaude et humide",
+      "d. Baisse de la densit\u00e9 osseuse",
+      "e. Augmentation de la densit\u00e9 osseuse"
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 26,
+    "question": "Dans le syndrome de l'insuffisance hypophysaire, le d\u00e9ficit corticotrope (ACTH) d\u00e9termine:",
+    "options": [
+      "a. Anorexie",
+      "b. Hypotension art\u00e9rielle",
+      "c. P\u00e2leur",
+      "d. M\u00e9lanodermie",
+      "e. Diminution de la pilosit\u00e9 axilo-pubienne"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 27,
+    "question": "Les aspects \u00e9chographiques suggestives \u00e0 la malignit\u00e9 des nodules thyro\u00efdiens sont :",
+    "options": [
+      "a. L\u00e9sion hypo\u00e9chog\u00e8ne",
+      "b. Contour irr\u00e9gulier",
+      "c. La pr\u00e9sence des microcalcifications",
+      "d. Pr\u00e9sence d'un halo",
+      "e. Vascularisation centrale"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 28,
+    "question": "Un ad\u00e9nome autonome thyro\u00efdien :",
+    "options": [
+      "a. Touche pr\u00e9dominant le sexe f\u00e9minin",
+      "b. Touche pr\u00e9dominant le sexe masculin",
+      "c. Se manifeste cliniquement par hyperthyro\u00efdie",
+      "d. Se manifeste cliniquement par une l\u00e9g\u00e8re hypothyro\u00efdie",
+      "e. Associe souvent une ophtalmopathie"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 29,
+    "question": "Le traitement m\u00e9dicamenteux en acrom\u00e9galie est repr\u00e9sent\u00e9 par les suivantes :",
+    "options": [
+      "a. Agonistes dopaminergique (Octreotid, Lanreotid)",
+      "b. Analogue de somatostatine",
+      "c. Antagoniste dopaminergique (bromocriptine, cabergoline)",
+      "d. Antagoniste du r\u00e9cepteur de GH",
+      "e. Agonistes du r\u00e9cepteur de GH"
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 30,
+    "question": "Le diagnostic diff\u00e9rentiel de l'hyperthyro\u00efdie de fait avec:",
+    "options": [
+      "a. Syndrome n\u00e9phrotique",
+      "b. Syndrome n\u00e9phritique",
+      "c. D\u00e9pression",
+      "d. Insuffisance r\u00e9nale chronique",
+      "e. Insuffisance h\u00e9patique"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 31,
+    "question": "Manifestation clinique de l'hyperprolactin\u00e9mie chez la femme inclut:",
+    "options": [
+      "a. Galactorrh\u00e9e",
+      "b. Am\u00e9norrh\u00e9e",
+      "c. Infertilit\u00e9",
+      "d. Augmentation de libido",
+      "e. Cycles menstruelle r\u00e9gulier"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 32,
+    "question": "La s\u00e9cr\u00e9tion neurohypophysaire inclue :",
+    "options": [
+      "a. PRL",
+      "b. Ocytocine",
+      "c. ACTH",
+      "d. TSH",
+      "e. Vasopressine"
+    ],
+    "correct_answers": ["B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 33,
+    "question": "Dans l'hyperparathyro\u00efdie primaire les manifestations cardiovasculaires sont repr\u00e9sent\u00e9 par :",
+    "options": [
+      "a. Hypotension art\u00e9rielle",
+      "b. Hypertrophie ventriculaire gauche",
+      "c. Hypertension art\u00e9rielle",
+      "d. Tachycardie",
+      "e. Arythmie extrasystolique"
+    ],
+    "correct_answers": ["C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 34,
+    "question": "Le diagnostic \u00e9tiologique du syndrome Cushing comprend :",
+    "options": [
+      "a. L'\u00e9chographie",
+      "b. La tomodensitom\u00e9trie abdominale",
+      "c. La r\u00e9sonance magn\u00e9tique",
+      "d. L'IRM hypophysaire",
+      "e. La scintigraphie surr\u00e9nalienne"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 35,
+    "question": "Au niveau de l'appareil cardiovasculaire dans l'hyperthyro\u00efdisme, apparait les manifestations suivantes :",
+    "options": [
+      "a. Bradycardie",
+      "b. Flutter atrial",
+      "c. Insuffisance cardiaque",
+      "d. P\u00e9ricardite",
+      "e. Tachycardie sinusale"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 36,
+    "question": "l'hypercalc\u00e9mie tumorale :",
+    "options": [
+      "a. Est produit par ost\u00e9oliyse",
+      "b. Est caus\u00e9 par la s\u00e9cr\u00e9tion de PTH RP",
+      "c. A comme signe clinique neuropsychique la c\u00e9phal\u00e9e",
+      "d. Est caus\u00e9 par les n\u00e9oplasies des ovaires",
+      "e. A comme cause le cancer de larynx"
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 37,
+    "question": "les hypoparathyro\u00efdies peuvent \u00eatre :",
+    "options": [
+      "a. Post op\u00e9ratoire",
+      "b. Idiopathique",
+      "c. Enzymatique",
+      "d. Primitive",
+      "e. Secondaire"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 38,
+    "question": "Les sympt\u00f4mes rencontr\u00e9s dans le syndrome sheehan sont les suivants :",
+    "options": [
+      "a. Ph\u00e9nom\u00e8ne de d\u00e9sexualisation",
+      "b. Absence de l'installation de la s\u00e9cr\u00e9tion laiti\u00e8re postpartum",
+      "c. Hypertrichose",
+      "d. R\u00e9duction de la libido",
+      "e. Am\u00e9norrh\u00e9e"
+    ],
+    "correct_answers": ["B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 39,
+    "question": "Les explorations de laboratoires et paracliniques dans l'hypoparathyro\u00efdie indique :",
+    "options": [
+      "a. PTH r\u00e9duit",
+      "b. Phosphatase alcaline augment\u00e9",
+      "c. Phosphor\u00e9mie diminu\u00e9",
+      "d. Calciurie \u00e9lev\u00e9e",
+      "e. Calcium ionique diminu\u00e9"
+    ],
+    "correct_answers": ["A", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 40,
+    "question": "Exploration du laboratoire de la maladie de basedow n'indique pas :",
+    "options": [
+      "a. TSH bas",
+      "b. FT4, FT3 \u00e9lev\u00e9e",
+      "c. TSH \u00e9lev\u00e9",
+      "d. Cholest\u00e9rol \u00e9lev\u00e9",
+      "e. Glyc\u00e9mie \u00e9lev\u00e9"
+    ],
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 41,
+    "question": "Les carcinome m\u00e9dullaire thyro\u00efdien pr\u00e9sente les caract\u00e9ristiques suivantes :",
+    "options": [
+      "a. Est n\u00e9oplasme a cellules C",
+      "b. Apparait habituellement dans la 6\u00e9me ou 7\u00e9me d\u00e9cennie de la vie",
+      "c. Dans les cas avanc\u00e9s peuvent envahir la trach\u00e9e et l'\u0153sophage",
+      "d. Pr\u00e9sente des cellules Hurthle",
+      "e. La pr\u00e9sence de l'amylo\u00efde est caract\u00e9ristique"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 42,
+    "question": "les facteurs de risques g\u00e9n\u00e9tiques dans l'ost\u00e9oporose sont :",
+    "options": [
+      "a. Fumer",
+      "b. Race asiatique",
+      "c. Ant\u00e9c\u00e9dents familiaux de l'ost\u00e9oporose",
+      "d. Sexe f\u00e9minin",
+      "e. Apport r\u00e9duit de calcium"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 43,
+    "question": "Les signes cliniques mineurs de la maladie de basedow sont :",
+    "options": [
+      "a. Tachycardie",
+      "b. Exophtalmie",
+      "c. Goitre",
+      "d. Tremblement des extr\u00e9mit\u00e9s",
+      "e. Baisse pond\u00e9rale"
+    ],
+    "correct_answers": ["D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 44,
+    "question": "Les effets secondaires de biphosphonate sont les suivants :",
+    "options": [
+      "a. Erosions \u0153sophagiens",
+      "b. Syndrome DRESS",
+      "c. C\u00e9phal\u00e9e",
+      "d. Hypocalc\u00e9mie",
+      "e. Syndrome pseudo-grippale"
+    ],
+    "correct_answers": ["B", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 45,
+    "question": "S\u00e9cr\u00e9tion \u00e9lev\u00e9e du PTH au niveau r\u00e9nal d\u00e9termine:",
+    "options": [
+      "a. Hypo phosphaturie",
+      "b. Hypercalc\u00e9mie",
+      "c. N\u00e9phrocalcinose",
+      "d. Augmentation de l'\u00e9limination urinaire de H+",
+      "e. Hypercalciurie"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 46,
+    "question": "La thyro\u00efdite de Hashimoto:",
+    "options": [
+      "a. Est d'origine auto-immune",
+      "b. A comme \u00e9l\u00e9ment essentiel le goitre douloureux",
+      "c. Est due \u00e0 une infiltration de la thyro\u00efde par les leucocytes",
+      "d. Est pr\u00e9c\u00e9d\u00e9e d'un syndrome grippal",
+      "e. Est caract\u00e9ris\u00e9 par la pr\u00e9sence des anticorps anti-peroxydase"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 47,
+    "question": "* Les effets hormonaux de l'exc\u00e8s de cortisol sont :",
+    "options": [
+      "a. Pas d'inhibition de la fonction normale de l'axe hypothalamo-hypophysaire",
+      "b. Inhibition de la s\u00e9cr\u00e9tion de GH",
+      "c. Chez les femmes - acn\u00e9s et hirsutisme",
+      "d. Chez les hommes - inapp\u00e9tence et am\u00e9norrh\u00e9e",
+      "e. D\u00e9termine exc\u00e8s des androg\u00e8nes"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 48,
+    "question": "Lesquelles repr\u00e9sentent les effets secondaires de la corticoth\u00e9rapie chronique:",
+    "options": [
+      "a. D\u00e9pression",
+      "b. Gastrite",
+      "c. Hypocholest\u00e9rol\u00e9mie",
+      "d. Ulc\u00e8re corn\u00e9en",
+      "e. Hypotension art\u00e9rielle"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 49,
+    "question": "Les signes sp\u00e9cifiques de la maladie de Basedow sont :",
+    "options": [
+      "a. Myx\u0153d\u00e8me pr\u00e9tibiale",
+      "b. Exophtalmie",
+      "c. Myx\u0153d\u00e8me g\u00e9n\u00e9ralise",
+      "d. Goitre homog\u00e8ne, vasculaire",
+      "e. Bradycardie"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 50,
+    "question": "Les affirmations correctes sur le score T au test DEXA dans la classification OMS pour la densit\u00e9 osseuse sont :",
+    "options": [
+      "a. Score T entre 1 et +1 os normal",
+      "b. Score T entre -1 et -2 ost\u00e9op\u00e9nie",
+      "c. Score T entre -1 et -2,5 ost\u00e9op\u00e9nie",
+      "d. Score T moins de -2,5 ost\u00e9oporose",
+      "e. Score T moins de -2 ost\u00e9oporose"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  }
+]
