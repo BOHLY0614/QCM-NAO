@@ -1,0 +1,652 @@
+[
+  {
+    "chapitre": 0,
+    "id": 1,
+    "question": "* Concernant les effets de masse des ad\u00e9nomes hypophysaires.",
+    "options": [
+      "A. La compression du chiasma optique produit une h\u00e9mianopsie binasale",
+      "B. Les maux de t\u00eate sont corr\u00e9l\u00e9s \u00e0 la taille de la tumeur",
+      "C. La compression des lobes frontaux produit des troubles de la personnalit\u00e9",
+      "D. La compression du lobe temporal produit une anosmie",
+      "E. La compression du troisi\u00e8me nerf cr\u00e2nien produit un engourdissement facial"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 2,
+    "question": "* Concernant les hormones thyro\u00efdiennes.",
+    "options": [
+      "A. Elles stimulent le d\u00e9veloppement normal du syst\u00e8me nerveux central",
+      "B. Elles diminuent la motilit\u00e9 intestinale",
+      "C. Elles diminuent la sensibilit\u00e9 adr\u00e9nergique",
+      "D. Elles diminuent l'inotropisme et le chronotropisme cardiaques",
+      "E. Elles diminuent la production d'\u00e9rythropo\u00ef\u00e9tine"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 3,
+    "question": "* AVP (Arginine Vasopressine) :",
+    "options": [
+      "A. Augmente la r\u00e9absorption de l'eau au niveau du tubule contourn\u00e9 proximal",
+      "B. Diminue la r\u00e9sistance vasculaire",
+      "C. Est stimul\u00e9e par une diminution de l'osmolalit\u00e9 plasmatique",
+      "D. Est la principale hormone qui contr\u00f4le l'\u00e9quilibre hydrique dans le corps",
+      "E. Agit sur les r\u00e9cepteurs V1R dans le rein"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 4,
+    "question": "* Valeurs de laboratoire dans l'insuffisance surr\u00e9nalienne primaire :",
+    "options": [
+      "A. Neutrophilie",
+      "B. Lymphop\u00e9nie",
+      "C. Polycyth\u00e9mie",
+      "D. Hypoglyc\u00e9mie",
+      "E. Hypokali\u00e9mie"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 5,
+    "question": "* Concernant l'utilisation de la l\u00e9vothyroxine pendant la grossesse :",
+    "options": [
+      "A. Toute TSH > 2,5 mUI/L n\u00e9cessite un traitement",
+      "B. La TSH cible au premier trimestre est de 3 mUI/L",
+      "C. La TSH, la T4L et la T3L doivent \u00eatre \u00e9valu\u00e9es chaque trimestre",
+      "D. L'allaitement n'est pas autoris\u00e9",
+      "E. Le traitement substitutif de la m\u00e8re hypothyro\u00efdienne soutiendra \u00e9galement le f\u0153tus"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 6,
+    "question": "* Th\u00e9rapie de remplacement par T3 :",
+    "options": [
+      "A. Est recommand\u00e9e chez les personnes \u00e2g\u00e9es",
+      "B. Est recommand\u00e9e chez les patients avec une pathologie cardiaque",
+      "C. Est plus active que la th\u00e9rapie de remplacement par T4",
+      "D. Est recommand\u00e9e au premier trimestre de la grossesse",
+      "E. Est recommand\u00e9e au troisi\u00e8me trimestre de la grossesse"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 7,
+    "question": "* L'hyperprolactin\u00e9mie peut \u00eatre rencontr\u00e9e :",
+    "options": [
+      "A. Pendant l'administration d'apomorphine",
+      "B. Pendant le traitement par pergolide",
+      "C. Dans l'hyperthyro\u00efdie",
+      "D. Pendant l'hypoglyc\u00e9mie",
+      "E. Dans le pseudohypoparathyro\u00efdisme"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 8,
+    "question": "* Concernant le syndrome NEM1 (N\u00e9oplasie Endocrinienne Multiple type 1) :",
+    "options": [
+      "A. A une incidence de 1:3000",
+      "B. La m\u00e9nine est un proto-oncog\u00e8ne",
+      "C. Il est caus\u00e9 par des mutations activatrices de la m\u00e9nine",
+      "D. Comprend une hyperplasie parathyro\u00efdienne dans 95% des cas",
+      "E. Comprend le cancer m\u00e9dullaire de la thyro\u00efde"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 9,
+    "question": "* Le ph\u00e9ochromocytome comprend :",
+    "options": [
+      "A. HTA dans 50% des cas",
+      "B. Maux de t\u00eate dans 40% des cas",
+      "C. Diaphor\u00e8se dans 30% des cas",
+      "D. Transpiration dans 15% des cas",
+      "E. Palpitations dans 60% des cas"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 10,
+    "question": "* L'aldost\u00e9rone :",
+    "options": [
+      "A. 90% est li\u00e9e \u00e0 l'albumine et \u00e0 la CBG",
+      "B. 10% circule sous forme libre",
+      "C. A une demi-vie d'un jour",
+      "D. Stimule la r\u00e9absorption tubulaire r\u00e9nale du potassium",
+      "E. Induit l'expression des g\u00e8nes du collag\u00e8ne"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 11,
+    "question": "Concernant les neuropeptides hypothalamiques :",
+    "options": [
+      "A. La CRH stimule la s\u00e9cr\u00e9tion de TSH par les cellules thyr\u00e9otropes",
+      "B. La TRH est s\u00e9cr\u00e9t\u00e9e par le noyau paraventriculaire de l'hypothalamus",
+      "C. La TRH stimule la s\u00e9cr\u00e9tion de prolactine par les cellules lactotropes",
+      "D. La dopamine stimule la s\u00e9cr\u00e9tion de gonadotrophines par les cellules gonadotropes",
+      "E. La somatostatine inhibe la s\u00e9cr\u00e9tion de GH par les cellules somatotropes"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 12,
+    "question": "Concernant la coloration h\u00e9matoxyline-\u00e9osine des cellules de l'hypophyse ant\u00e9rieure :",
+    "options": [
+      "A. Les cellules somatotropes sont acidophiles",
+      "B. Les cellules lactotropes sont basophiles",
+      "C. Les cellules corticotropes sont acidophiles",
+      "D. Les cellules thyr\u00e9otropes sont basophiles",
+      "E. Les cellules gonadotropes sont basophiles"
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 13,
+    "question": "Ad\u00e9nomes hypophysaires non fonctionnels :",
+    "options": [
+      "A. Repr\u00e9sentent 60% des ad\u00e9nomes de l'hypophyse ant\u00e9rieure",
+      "B. Ne causent aucun sympt\u00f4me",
+      "C. Ne sont pas associ\u00e9s \u00e0 des preuves cliniques d'hypers\u00e9cr\u00e9tion hormonale",
+      "D. Peuvent causer une hyperprolactin\u00e9mie due \u00e0 la compression de la tige pituitaire",
+      "E. Peuvent causer un hypopituitarisme"
+    ],
+    "correct_answers": ["C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 14,
+    "question": "Indications de la craniotomie comme modalit\u00e9 de traitement des ad\u00e9nomes hypophysaires :",
+    "options": [
+      "A. Petits ad\u00e9nomes hypophysaires (< 2cm)",
+      "B. Compression des voies visuelles",
+      "C. Invasion de la fosse frontale",
+      "D. Invasion post\u00e9rieure \u00e9tendue",
+      "E. Tumeurs solides (consistance fibreuse)"
+    ],
+    "correct_answers": ["C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 15,
+    "question": "Concernant le traitement des prolactinomes :",
+    "options": [
+      "A. Le traitement de premi\u00e8re ligne est la chirurgie",
+      "B. La bromocriptine a une longue demi-vie",
+      "C. La cabergoline a une mauvaise tol\u00e9rance",
+      "D. La cabergoline est administr\u00e9e chaque semaine",
+      "E. La cabergoline diminue le volume tumoral dans la plupart des cas"
+    ],
+    "correct_answers": ["D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 16,
+    "question": "Effets directs de l'hormone de croissance (GH) :",
+    "options": [
+      "A. Synth\u00e8se prot\u00e9ique",
+      "B. Glucon\u00e9ogen\u00e8se",
+      "C. Synth\u00e8se de my\u00e9line",
+      "D. Croissance du cartilage",
+      "E. Survie neuronale"
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 17,
+    "question": "Concernant les analogues de la somatostatine de premi\u00e8re g\u00e9n\u00e9ration (octr\u00e9otide, lanr\u00e9otide) :",
+    "options": [
+      "A. Se lient aux sous-types de r\u00e9cepteurs de la somatostatine SSTR2 et SSTR5",
+      "B. Les formulations \u00e0 longue action sont administr\u00e9es",
+      "C. La normalisation de la GH survient dans 30% des cas",
+      "D. Ils induisent une diminution de 20% de la taille de la tumeur",
+      "E. Les effets ind\u00e9sirables incluent : lithiase biliaire, hyperglyc\u00e9mie, naus\u00e9es, vomissements, constipation"
+    ],
+    "correct_answers": ["A", "B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 18,
+    "question": "Concernant l'hypopituitarisme :",
+    "options": [
+      "A. Le d\u00e9ficit en TSH induit une insuffisance thyro\u00efdienne, plus s\u00e9v\u00e8re que la maladie p\u00e9riph\u00e9rique",
+      "B. Le d\u00e9ficit en TSH est accompagn\u00e9 d'un goitre",
+      "C. Le d\u00e9ficit en gonadotrophines induit une faible libido et une dysfonction \u00e9rectile chez les hommes",
+      "D. Le d\u00e9ficit en ACTH provoque faiblesse, anorexie, perte de poids et vomissements",
+      "E. Le d\u00e9ficit en prolactine provoque une absence de lactation"
+    ],
+    "correct_answers": ["C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 19,
+    "question": "Concernant le traitement substitutif par glucocortico\u00efdes dans l'hypopituitarisme :",
+    "options": [
+      "A. L'hydrocortisone est administr\u00e9e \u00e0 des doses de 5-7,5 mg/jour",
+      "B. La prednisone est administr\u00e9e \u00e0 des doses de 15-25 mg/jour",
+      "C. Il est associ\u00e9 \u00e0 un traitement substitutif min\u00e9ralocortico\u00efde",
+      "D. En cas de stress, la dose est augment\u00e9e de 3 \u00e0 10 fois",
+      "E. Pendant le suivi, les dosages hormonaux sanguins ne sont d'aucune utilit\u00e9"
+    ],
+    "correct_answers": ["D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 20,
+    "question": "L'ocytocine :",
+    "options": [
+      "A. C'est une prot\u00e9ine comprenant 191 acides amin\u00e9s",
+      "B. Elle est produite en r\u00e9ponse \u00e0 la t\u00e9t\u00e9e, \u00e0 l'accouchement et \u00e0 l'orgasme",
+      "C. A un r\u00f4le bien d\u00e9fini chez l'homme",
+      "D. Les r\u00e9cepteurs de l'ocytocine sont augment\u00e9s pendant la grossesse",
+      "E. L'ocytocine peut \u00eatre utilis\u00e9e th\u00e9rapeutiquement pour d\u00e9clencher le travail"
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 21,
+    "question": "Concernant la radioth\u00e9rapie comme modalit\u00e9 de traitement des ad\u00e9nomes hypophysaires :",
+    "options": [
+      "A. La st\u00e9r\u00e9otaxie se fait en une ou deux s\u00e9ances",
+      "B. La r\u00e9ponse des ad\u00e9nomes hypophysaires fonctionnels \u00e0 la radiochirurgie st\u00e9r\u00e9otaxique survient en 5-10 ans",
+      "C. La radioth\u00e9rapie conventionnelle fractionn\u00e9e implique 25-30 s\u00e9ances quotidiennes, chacune de 1-1,5 Gy",
+      "D. L'hypopituitarisme ne survient qu'apr\u00e8s une radioth\u00e9rapie conventionnelle fractionn\u00e9e",
+      "E. Les effets ind\u00e9sirables aigus de la radioth\u00e9rapie incluent : alop\u00e9cie, faiblesse et \u0153d\u00e8me du nerf optique"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 22,
+    "question": "Concernant le syndrome endocrinien dans les prolactinomes :",
+    "options": [
+      "A. La galactorrh\u00e9e est le sympt\u00f4me le plus fr\u00e9quent chez les femmes",
+      "B. Implique s\u00e9cheresse vaginale et dyspareunie chez les femmes",
+      "C. Implique une diminution de l'excitation et une dysfonction \u00e9rectile chez les hommes",
+      "D. Le diagnostic de prolactinome est \u00e9tabli t\u00f4t chez les hommes",
+      "E. La d\u00e9min\u00e9ralisation osseuse ne survient que chez les femmes"
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 23,
+    "question": "Traitement du diab\u00e8te insipide n\u00e9phrog\u00e9nique :",
+    "options": [
+      "A. Les diur\u00e9tiques thiazidiques en combinaison avec un r\u00e9gime pauvre en sodium peuvent diminuer le degr\u00e9 de polyurie",
+      "B. Un diur\u00e9tique de l'anse diminue le d\u00e9bit urinaire",
+      "C. L'amiloride peut r\u00e9duire la polyurie",
+      "D. L'indom\u00e9thacine am\u00e9liore la r\u00e9ponse \u00e0 l'AVP",
+      "E. Le lithium peut \u00eatre utilis\u00e9 comme th\u00e9rapie"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 24,
+    "question": "Une diminution des taux de TBG peut \u00eatre rencontr\u00e9e :",
+    "options": [
+      "A. Pendant le traitement aux androg\u00e8nes",
+      "B. Pendant le traitement au 5-fluorouracile",
+      "C. Syndrome n\u00e9phrotique",
+      "D. Dans la porphyrie aigu\u00eb intermittente",
+      "E. Dans le syndrome de Cushing"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 25,
+    "question": "Aspect \u00e9chographique dans la maladie de Basedow (Graves) :",
+    "options": [
+      "A. Le volume thyro\u00efdien peut \u00eatre augment\u00e9, normal ou diminu\u00e9",
+      "B. Habituellement, aucun nodule n'est d\u00e9tect\u00e9",
+      "C. Le parenchyme thyro\u00efdien est hyper\u00e9chog\u00e8ne",
+      "D. Il y a une vascularisation diffuse accrue",
+      "E. L'aspect \"enfer thyro\u00efdien\" est \u00e9galement rencontr\u00e9 dans la thyro\u00efdite de Hashimoto"
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 26,
+    "question": "Concernant les antithyro\u00efdiens de synth\u00e8se dans la maladie de Basedow :",
+    "options": [
+      "A. Le m\u00e9thimazole induit une agranulocytose dans 5% des cas",
+      "B. Le propylthiouracile peut induire une h\u00e9patotoxicit\u00e9",
+      "C. Peuvent \u00eatre administr\u00e9s ind\u00e9finiment dans la maladie de Basedow",
+      "D. Le propylthiouracile est contre-indiqu\u00e9 pendant la grossesse",
+      "E. Induisent une r\u00e9mission de la maladie apr\u00e8s 1,5-2 ans dans 50-80% des cas"
+    ],
+    "correct_answers": ["B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 27,
+    "question": "Ophtalmopathie de Basedow :",
+    "options": [
+      "A. Le sexe f\u00e9minin est un facteur de risque",
+      "B. L'hypothyro\u00efdie iatrog\u00e8ne est un facteur de risque",
+      "C. Elle est pr\u00e9sente dans tous les cas de maladie de Basedow",
+      "D. Survient le plus souvent avant le diagnostic d'hyperthyro\u00efdie de Basedow",
+      "E. Elle est concomitante au diagnostic de la maladie de Basedow dans 50% des cas"
+    ],
+    "correct_answers": ["B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 28,
+    "question": "Concernant le traitement de l'ad\u00e9nome toxique :",
+    "options": [
+      "A. La th\u00e9rapie \u00e0 l'iode radioactif est indiqu\u00e9e chez les jeunes patients",
+      "B. La th\u00e9rapie \u00e0 l'iode radioactif est indiqu\u00e9e pour les petits nodules",
+      "C. La th\u00e9rapie \u00e0 l'iode radioactif est donn\u00e9e lorsqu'il n'y a pas de grossesse planifi\u00e9e",
+      "D. La lobectomie est indiqu\u00e9e pour les gros nodules compressifs",
+      "E. Apr\u00e8s la lobectomie, une hypothyro\u00efdie s'ensuit"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 29,
+    "question": "Concernant l'hypothyro\u00efdie de la femme enceinte :",
+    "options": [
+      "A. Le traitement substitutif de la m\u00e8re soutiendra \u00e9galement le f\u0153tus",
+      "B. Les pr\u00e9parations de T4 et T3 sont autoris\u00e9es comme traitement",
+      "C. L'allaitement n'est pas autoris\u00e9",
+      "D. La cible de TSH au premier trimestre est < 3 mUI/L",
+      "E. La cible de TSH aux deuxi\u00e8me et troisi\u00e8me trimestres est < 3 mUI/L"
+    ],
+    "correct_answers": ["A", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 30,
+    "question": "Dose compl\u00e8te de remplacement thyro\u00efdien en fonction de l'\u00e2ge :",
+    "options": [
+      "A. 1-2 \u00b5g/kg/jour de l\u00e9vothyroxine chez les enfants \u00e2g\u00e9s de 6-10 ans",
+      "B. 10-15 \u00b5g/kg/jour de l\u00e9vothyroxine chez les nouveau-n\u00e9s \u00e2g\u00e9s de 0-6 mois",
+      "C. 5-6 \u00b5g/kg/jour de l\u00e9vothyroxine chez les enfants \u00e2g\u00e9s de 1-5 ans",
+      "D. 6-8 \u00b5g/kg/jour de l\u00e9vothyroxine chez les enfants \u00e2g\u00e9s de 11-20 ans",
+      "E. Chez les patients atteints de cancer de la thyro\u00efde, 2,2 \u00b5g/kg/jour de l\u00e9vothyroxine"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 31,
+    "question": "Pendant la phase d'agression de la thyro\u00efdite subaigu\u00eb :",
+    "options": [
+      "A. La VS peut \u00eatre > 100 mm/h",
+      "B. Le taux de thyroglobuline est augment\u00e9, refl\u00e9tant une activit\u00e9 thyro\u00efdienne accrue",
+      "C. Les anticorps anti-TPO sont augment\u00e9s",
+      "D. La captation de l'iode radioactif est augment\u00e9e",
+      "E. L'\u00e9chographie montre un aspect h\u00e9t\u00e9rog\u00e8ne de la thyro\u00efde"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 32,
+    "question": "Thyro\u00efdite de Riedel :",
+    "options": [
+      "A. C'est une affection fibreuse rare qui implique la glande thyro\u00efde",
+      "B. Les patients sont plus susceptibles d'\u00eatre des hommes adultes d'\u00e2ge moyen",
+      "C. C'est un goitre dur et douloureux",
+      "D. Les sympt\u00f4mes obstructifs sont fr\u00e9quents",
+      "E. Le tamoxif\u00e8ne est un SERM utilis\u00e9 comme traitement pour la thyro\u00efdite de Riedel"
+    ],
+    "correct_answers": ["A", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 33,
+    "question": "Sympt\u00f4mes obstructifs du goitre nodulaire :",
+    "options": [
+      "A. Dysphagie",
+      "B. Dyspn\u00e9e inspiratoire",
+      "C. Syndrome de Claude Bernard-Horner : mydriase, ptosis et \u00e9nophtalmie",
+      "D. Dysphonie",
+      "E. Signe de Pemberton : faiblesse soudaine des muscles d'un c\u00f4t\u00e9 du visage"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 34,
+    "question": "Suivi des nodules apr\u00e8s cytoponction (FNAB) :",
+    "options": [
+      "A. En cas de cytologie b\u00e9nigne, avec des caract\u00e9ristiques \u00e9chographiques hautement suspectes - suivi \u00e9chographique",
+      "B. En cas de cytologie interm\u00e9diaire (Bethesda III, IV) dans des nodules \u00e0 haut risque \u00e9chographique - indication chirurgicale",
+      "C. En cas de cytologie maligne (Bethesda V) - r\u00e9p\u00e9ter la FNAB dans 12 mois",
+      "D. En cas de cytologie maligne (Bethesda VI) - thyro\u00efdectomie totale absolue",
+      "E. En cas de cytologie b\u00e9nigne, avec des caract\u00e9ristiques \u00e9chographiques peu suspectes - r\u00e9p\u00e9ter la FNAB dans 24 mois"
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 35,
+    "question": "Les caract\u00e9ristiques \u00e0 haut risque des nodules thyro\u00efdiens \u00e0 l'\u00e9chographie sont :",
+    "options": [
+      "A. Iso\u00e9chog\u00e9nicit\u00e9 du nodule",
+      "B. Marges mal d\u00e9finies",
+      "c. Pr\u00e9sence d'un signe du halo",
+      "D. Nodules plus hauts que larges",
+      "E. Augmentation marqu\u00e9e de l'\u00e9lasticit\u00e9"
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 36,
+    "question": "Ost\u00e9oporose primaire de type II :",
+    "options": [
+      "A. Affecte principalement les femmes",
+      "B. Survient apr\u00e8s 70 ans",
+      "C. Expliqu\u00e9e par le fait que la formation osseuse diminue progressivement avec l'\u00e2ge",
+      "D. Affecte principalement l'os trab\u00e9culaire",
+      "E. Il y a un risque accru de fractures du col du f\u00e9mur"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 37,
+    "question": "Le diagnostic diff\u00e9rentiel de l'hypercalc\u00e9mie dans l'hyperparathyro\u00efdie primaire se fait avec :",
+    "options": [
+      "A. L'hypothyro\u00efdie",
+      "B. Le syndrome paran\u00e9oplasique",
+      "C. La maladie d'Addison",
+      "D. Le traitement par diur\u00e9tiques de l'anse",
+      "E. Le traitement par bisphosphonates"
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 38,
+    "question": "La progest\u00e9rone :",
+    "options": [
+      "A. Diminue la temp\u00e9rature corporelle",
+      "B. Stimule la contractilit\u00e9 myom\u00e9triale",
+      "C. Stimule la lib\u00e9ration d'ovocytes matures",
+      "D. Facilite l'implantation",
+      "E. Stimule la prolif\u00e9ration des cellules mammaires"
+    ],
+    "correct_answers": ["C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 39,
+    "question": "Concernant le cinacalcet :",
+    "options": [
+      "A. Il se lie au CaSR et diminue sa sensibilit\u00e9 au calcium extracellulaire",
+      "B. Diminue les valeurs de PTH d'environ 50%",
+      "C. Diminue significativement les taux de phosphate s\u00e9rique",
+      "D. Il est approuv\u00e9 pour la rechute post-chirurgicale de l'hyperparathyro\u00efdie primaire",
+      "E. Il est approuv\u00e9 pour le carcinome parathyro\u00efdien"
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 40,
+    "question": "M\u00e9dicaments ost\u00e9oformateurs pour l'ost\u00e9oporose :",
+    "options": [
+      "A. D\u00e9nosumab",
+      "B. Ran\u00e9late de strontium",
+      "C. Calcitonine",
+      "D. T\u00e9riparatide (Forsteo)",
+      "E. Bisphosphonates"
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 41,
+    "question": "Complications de la corticoth\u00e9rapie :",
+    "options": [
+      "A. Pancr\u00e9atite aigu\u00eb",
+      "B. R\u00e9tention de potassium",
+      "C. D\u00e9pression",
+      "D. Retard de croissance chez les enfants",
+      "E. Hypocoagulabilit\u00e9"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 42,
+    "question": "Tests de d\u00e9pistage du syndrome de Cushing :",
+    "options": [
+      "A. Le cortisol libre urinaire \u00e9value le cortisol total",
+      "B. Le cortisol salivaire nocturne d\u00e9montre l'alt\u00e9ration du rythme circadien",
+      "C. Le test de suppression \u00e0 la dexam\u00e9thasone d\u00e9montre l'alt\u00e9ration du r\u00e9trocontr\u00f4le de l'axe HPA",
+      "D. Le cortisol libre urinaire d\u00e9montre l'hypers\u00e9cr\u00e9tion de cortisol",
+      "E. Le cortisol salivaire nocturne est influenc\u00e9 par la variation de la concentration de CBG"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 43,
+    "question": "Concernant le traitement m\u00e9dical de la maladie de Cushing :",
+    "options": [
+      "A. Le pasir\u00e9otide a une affinit\u00e9 plus \u00e9lev\u00e9e pour le r\u00e9cepteur de la somatostatine de type 2 que de type 5",
+      "B. Le k\u00e9toconazole pr\u00e9sente un risque d'h\u00e9patotoxicit\u00e9",
+      "C. La m\u00e9tyrapone inhibe la 17-alpha-hydroxylase",
+      "D. L'osilodrostat inhibe \u00e0 la fois la 11-b\u00eata-hydroxylase et l'aldost\u00e9rone synth\u00e9tase",
+      "E. Le mitotane est adr\u00e9nolytique et utilis\u00e9 comme traitement du carcinome corticosurr\u00e9nalien"
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 44,
+    "question": "La maladie d'Addison est caract\u00e9ris\u00e9e par :",
+    "options": [
+      "A. Hyperpigmentation",
+      "B. Alcalose m\u00e9tabolique",
+      "C. Polycyth\u00e9mie",
+      "D. Faiblesse, fatigue, perte de poids",
+      "E. Troubles gastro-intestinaux : naus\u00e9es, vomissements, diarrh\u00e9e"
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 45,
+    "question": "Concernant le pseudohypoparathyro\u00efdisme :",
+    "options": [
+      "A. C'est un trouble h\u00e9r\u00e9ditaire rare caract\u00e9ris\u00e9 par une r\u00e9sistance des organes cibles \u00e0 la PTH",
+      "B. Des taux \u00e9lev\u00e9s de PTH sont pr\u00e9sents dans le s\u00e9rum",
+      "C. L'\u00e9lectrocardiogramme d\u00e9tecte un intervalle QT raccourci",
+      "D. Un signe de Chvostek positif correspond au gonflement d'un brassard conduisant \u00e0 un spasme carpo-p\u00e9dal",
+      "E. Il y a hypocalc\u00e9mie et hyperphosphat\u00e9mie"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 46,
+    "question": "M\u00e9dicaments pouvant d\u00e9clencher des paroxysmes dans le ph\u00e9ochromocytome :",
+    "options": [
+      "A. Inhibiteurs de la MAO",
+      "B. M\u00e9tyrosine",
+      "C. Glucagon",
+      "D. M\u00e9thyldopa",
+      "E. Lab\u00e9talol"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 47,
+    "question": "Le syndrome de McCune-Albright est caract\u00e9ris\u00e9 par :",
+    "options": [
+      "A. Dysplasie fibreuse des os",
+      "B. Pubert\u00e9 retard\u00e9e",
+      "C. Taches caf\u00e9 au lait",
+      "D. Maladie d'Addison",
+      "E. Ad\u00e9nomes hypophysaires s\u00e9cr\u00e9tant de la GH"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 48,
+    "question": "Hyperaldost\u00e9ronisme primaire :",
+    "options": [
+      "A. Ad\u00e9nomes produisant de l'aldost\u00e9rone dans 65% des cas",
+      "B. Carcinome surr\u00e9nalien dans 15% des cas",
+      "C. Hyperaldost\u00e9ronisme familial de type I dans 1% des cas",
+      "D. Hyperplasie bilat\u00e9rale dans 65% des cas",
+      "E. Hyperaldost\u00e9ronisme familial de type II dans 2% des cas"
+    ],
+    "correct_answers": ["C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 49,
+    "question": "Concernant l'hypertension dans l'hypothyro\u00efdie :",
+    "options": [
+      "A. C'est une hypertension systolique",
+      "B. Elle est associ\u00e9e \u00e0 une sensibilit\u00e9 accrue aux cat\u00e9cholamines circulantes",
+      "C. Elle est associ\u00e9e \u00e0 une tachycardie",
+      "D. Elle est associ\u00e9e \u00e0 une expansion du volume extracellulaire",
+      "E. Elle est associ\u00e9e \u00e0 une r\u00e9sistance p\u00e9riph\u00e9rique accrue"
+    ],
+    "correct_answers": ["D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 50,
+    "question": "Effets de la dihydrotestost\u00e9rone chez l'homme :",
+    "options": [
+      "A. Induit la masculinisation des organes g\u00e9nitaux externes dans la vie f\u0153tale",
+      "B. Induit la croissance osseuse",
+      "C. A des effets anaboliques sur le muscle",
+      "D. Induit la descente des testicules dans la vie f\u0153tale",
+      "E. Stimule la libido"
+    ],
+    "correct_answers": ["A", "D"]
+  }
+]

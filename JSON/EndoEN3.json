@@ -1,0 +1,393 @@
+[
+  {
+    "chapitre": 0,
+    "id": 1,
+    "question": "* L'hypers\u00e9cr\u00e9tion de prolactine est confirm\u00e9e par l'absence de r\u00e9ponse \u00e0 la stimulation par :",
+    "options": ["A. Insuline", "B. GHRH", "C. TRH", "D. TSH", "E. Dopamine"],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 2,
+    "question": "* La t\u00e9tanie survient lorsque les taux de calcium s\u00e9rique chutent en dessous de :",
+    "options": [
+      "A. 7 mg/dl",
+      "B. 7,5 mg/dl",
+      "C. 8 mg/dl",
+      "D. 8,5 mg/dl",
+      "E. 6 mg/dl"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 3,
+    "question": "* L'absence de r\u00e9ponse au traitement anti-ost\u00e9oporotique est caract\u00e9ris\u00e9e par :",
+    "options": [
+      "A. Perte osseuse > 10%/an",
+      "B. Perte osseuse > 5%/an",
+      "C. Fracture de fragilit\u00e9 avant le traitement",
+      "D. Effets ind\u00e9sirables du traitement",
+      "E. Aucun changement de la densit\u00e9 min\u00e9rale osseuse \u00e0 la DXA apr\u00e8s un an de traitement"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 4,
+    "question": "* Le pseudo-diab\u00e8te insipide est caus\u00e9 par :",
+    "options": [
+      "A. Alt\u00e9ration de la production de vasopressine",
+      "B. Augmentation du m\u00e9tabolisme de la vasopressine",
+      "C. Alt\u00e9ration de la r\u00e9ception de la vasopressine",
+      "D. Diminution des besoins en vasopressine",
+      "E. Diminution du m\u00e9tabolisme de la vasopressine"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 5,
+    "question": "* La CRH est s\u00e9cr\u00e9t\u00e9e dans :",
+    "options": [
+      "A. Le noyau arqu\u00e9",
+      "B. Le noyau p\u00e9riventriculaire ant\u00e9rieur",
+      "C. Le septum pr\u00e9optique",
+      "D. L'hypophyse ant\u00e9rieure",
+      "E. Le noyau paraventriculaire m\u00e9dian"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 6,
+    "question": "* Le type d'ad\u00e9nome hypophysaire le plus fr\u00e9quent est :",
+    "options": [
+      "A. Ad\u00e9nome s\u00e9cr\u00e9tant de la GH",
+      "B. Ad\u00e9nome s\u00e9cr\u00e9tant de l'ACTH",
+      "C. Prolactinome",
+      "D. Thyr\u00e9otropinome",
+      "E. Craniopharyngiome"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 7,
+    "question": "* Les recommandations de l'OMS pour l'apport quotidien en iode chez les adultes sont :",
+    "options": [
+      "A. 200 mcg",
+      "B. 50 mcg",
+      "C. < 100 mcg",
+      "D. 500 mcg",
+      "E. 150 mcg"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 8,
+    "question": "* Les signes cliniques majeurs de la maladie de Basedow sont :",
+    "options": [
+      "A. Tachycardie",
+      "B. Perte de poids",
+      "C. Tremblements",
+      "D. Insomnie",
+      "E. Transpiration excessive"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 9,
+    "question": "* La troisi\u00e8me ligne de traitement des ad\u00e9nomes s\u00e9cr\u00e9tant de la GH est repr\u00e9sent\u00e9e par :",
+    "options": [
+      "A. Radioth\u00e9rapie",
+      "B. Analogues de la somatostatine",
+      "C. Chirurgie",
+      "D. Pegvisomant",
+      "E. Cabergoline"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 10,
+    "question": "* La cause la plus fr\u00e9quente d'hypoparathyro\u00efdie permanente est :",
+    "options": [
+      "A. Iatrog\u00e8ne - excision parathyro\u00efdienne ou isch\u00e9mie apr\u00e8s thyro\u00efdectomie",
+      "B. Auto-immune",
+      "C. Dysg\u00e9n\u00e9sie",
+      "D. Infiltration dans la sarco\u00efdose",
+      "E. Idiopathique"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 11,
+    "question": "Les effets ind\u00e9sirables chroniques de la radioth\u00e9rapie hypophysaire sont :",
+    "options": [
+      "A. L\u00e9sion du nerf optique",
+      "B. Alt\u00e9rations du QI chez les adultes",
+      "C. Risque d'AVC",
+      "D. Alop\u00e9cie",
+      "E. Alt\u00e9ration des nerfs cr\u00e2niens"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 12,
+    "question": "La cabergoline :",
+    "options": [
+      "A. A une longue demi-vie",
+      "B. Peut causer des l\u00e9sions valvulaires cardiaques",
+      "C. Pourrait augmenter l'incidence de la maladie de Parkinson",
+      "D. Stimule les r\u00e9cepteurs DOPA (agoniste) dans l'hypophyse",
+      "E. A une moins bonne tol\u00e9rance que la bromocriptine"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 13,
+    "question": "* Patiente, 28 ans, admise aux urgences pour syncope, douleurs abdominales, perte de poids, vomissements et am\u00e9norrh\u00e9e. Les sympt\u00f4mes ont commenc\u00e9 apr\u00e8s l'accouchement de son deuxi\u00e8me enfant, o\u00f9 elle a d\u00e9velopp\u00e9 une h\u00e9morragie post-partum s\u00e9v\u00e8re. Elle n'a pas pu allaiter le nouveau-n\u00e9. Quel est le diagnostic le plus probable :",
+    "options": [
+      "A. Syndrome de Sheehan",
+      "B. N\u00e9crose hypophysaire post-partum",
+      "C. Maladie d'Addison",
+      "D. Myx\u0153d\u00e8me",
+      "E. D\u00e9pression post-partum"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 14,
+    "question": "La scintigraphie thyro\u00efdienne est indiqu\u00e9e dans :",
+    "options": [
+      "A. Hyperthyro\u00efdie",
+      "B. Goitre ectopique",
+      "C. \u00c9valuation post-thyro\u00efdectomie",
+      "D. Hypothyro\u00efdie",
+      "E. Suspicion de malignit\u00e9"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 15,
+    "question": "Les m\u00e9dicaments antithyro\u00efdiens peuvent avoir les effets secondaires suivants :",
+    "options": [
+      "A. H\u00e9patotoxicit\u00e9",
+      "B. \u00c9ruption cutan\u00e9e",
+      "C. Vasculite",
+      "D. Cardiotoxicit\u00e9",
+      "E. An\u00e9mie"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 16,
+    "question": "Les m\u00e9dicaments qui peuvent d\u00e9clencher un paroxysme dans le ph\u00e9ochromocytome sont :",
+    "options": [
+      "A. Alpha-bloquants",
+      "B. Glucagon",
+      "C. M\u00e9thyldopa",
+      "D. Insuline",
+      "E. Nicotine"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 17,
+    "question": "Les effets de la GH m\u00e9di\u00e9s par l'IGF-1 sont :",
+    "options": [
+      "A. Formation osseuse",
+      "B. Synth\u00e8se prot\u00e9ique",
+      "C. Lipolyse",
+      "D. Glucon\u00e9ogen\u00e8se",
+      "E. Croissance du cartilage"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 18,
+    "question": "Le diagnostic diff\u00e9rentiel du gigantisme inclut les pathologies suivantes :",
+    "options": [
+      "A. Syndrome de Marfan",
+      "B. Syndrome de Klinefelter",
+      "C. Pubert\u00e9 pr\u00e9coce",
+      "D. Pubert\u00e9 tardive",
+      "E. Taille r\u00e9duite g\u00e9n\u00e9tique"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 19,
+    "question": "Les causes d'hypers\u00e9cr\u00e9tion de GH/IGF1, autres qu'un ad\u00e9nome s\u00e9cr\u00e9tant de la GH, sont :",
+    "options": [
+      "A. Anxi\u00e9t\u00e9",
+      "B. Inanition (famine)",
+      "C. Ob\u00e9sit\u00e9",
+      "D. Maladie R\u00e9nale Chronique (MRC)",
+      "E. Maladie r\u00e9nale aigu\u00eb"
+    ],
+    "correct_answers": ["A", "B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 20,
+    "question": "La deuxi\u00e8me phase de l'insuffisance hypophysaire aigu\u00eb comprend :",
+    "options": [
+      "A. Ophtalmopl\u00e9gie",
+      "B. Hypotension",
+      "C. D\u00e9t\u00e9rioration mentale",
+      "D. M\u00e9ningisme",
+      "E. Maux de t\u00eate s\u00e9v\u00e8res"
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 21,
+    "question": "Les contre-indications \u00e0 la th\u00e9rapie de suppl\u00e9mentation en androg\u00e8nes sont :",
+    "options": [
+      "A. Cancer de la prostate",
+      "B. Maladie h\u00e9patique l\u00e9g\u00e8re",
+      "C. Hypertension art\u00e9rielle bien contr\u00f4l\u00e9e",
+      "D. Apn\u00e9e du sommeil",
+      "E. Cancer du sein"
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 22,
+    "question": "Les m\u00e9dicaments qui prolongent l'action/la lib\u00e9ration de la vasopressine sont :",
+    "options": [
+      "A. Clofibrate",
+      "B. Indom\u00e9thacine",
+      "C. Carbamaz\u00e9pine",
+      "D. Desmopressine",
+      "E. K\u00e9toconazole"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 23,
+    "question": "\u00c9viter la stimulation par la b\u00eata-HCG ectopique, lorsqu'elle survient dans :",
+    "options": [
+      "A. M\u00f4le hydatiforme",
+      "B. Tumeurs chorioblastiques",
+      "C. Hyperemesis gravidarum",
+      "D. Ad\u00e9nocarcinome ovarien",
+      "E. Struma ovarii"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 24,
+    "question": "Lequel des facteurs de risque cliniques suivants est suggestif de malignit\u00e9 chez un patient avec goitre :",
+    "options": [
+      "A. Paralysie des cordes vocales",
+      "B. Fermet\u00e9 \u00e0 la palpation",
+      "C. Nodules > 2 cm de diam\u00e8tre",
+      "D. Sympt\u00f4mes d'hyperthyro\u00efdie",
+      "E. Caract\u00e9ristiques \u00e9chographiques suspectes"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 25,
+    "question": "\u00c0 l'\u00e9chographie thyro\u00efdienne, les nodules \u00e0 haut risque ont :",
+    "options": [
+      "A. Marges nettes",
+      "B. \u00c9lasticit\u00e9 significativement augment\u00e9e",
+      "C. Forme \"plus haute que large\"",
+      "D. Calcifications intanodulaires",
+      "E. Structure homog\u00e8ne"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 26,
+    "question": "La dissociation post-traductionnelle de la pro-opiom\u00e9lanocortine (POMC) r\u00e9sulte en :",
+    "options": ["A. ACTH", "B. Alpha-MSH", "C. LPH", "D. CRH", "E. Cortisol"],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 27,
+    "question": "L'effet de masse des tumeurs hypophysaires peut d\u00e9clencher :",
+    "options": [
+      "A. H\u00e9mianopsie bitemporale de bas en haut",
+      "B. Perte de la perception du bleu",
+      "C. Scotome",
+      "D. Troubles de l'app\u00e9tit",
+      "E. Perte de la perception du rouge"
+    ],
+    "correct_answers": ["C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 28,
+    "question": "Le d\u00e9pistage actif de l'hyperprolactin\u00e9mie est recommand\u00e9 dans les cas suivants :",
+    "options": [
+      "A. Selle turcique \u00e9largie",
+      "B. Polym\u00e9norrh\u00e9e",
+      "C. Suspicion d'ad\u00e9nome hypothalamique",
+      "D. Hypogonadisme masculin",
+      "E. Infertilit\u00e9 masculine"
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 29,
+    "question": "La prolactine peut \u00eatre augment\u00e9e dans :",
+    "options": [
+      "A. L\u00e9sions thoraciques",
+      "B. L\u00e9sions m\u00e9dullaires",
+      "C. Hypothyro\u00efdie",
+      "D. Th\u00e9rapie au m\u00e9toclopramide",
+      "E. Pseudohypoparathyro\u00efdisme"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 30,
+    "question": "Le cr\u00e9tinisme myx\u0153d\u00e9mateux peut \u00eatre caus\u00e9 par :",
+    "options": [
+      "A. Passage transplacentaire d'anticorps stimulants du r\u00e9cepteur de la TSH",
+      "B. Dyshormonogen\u00e8se cong\u00e9nitale",
+      "C. Exposition aux m\u00e9dicaments antithyro\u00efdiens",
+      "D. Carence en iode",
+      "E. Ag\u00e9n\u00e9sie thyro\u00efdienne"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 31,
+    "question": "Le traitement de l'hypothyro\u00efdie subclinique est administr\u00e9 en cas de :",
+    "options": [
+      "A. Tachycardie",
+      "B. Patients \u00e2g\u00e9s",
+      "C. Jeunes patients",
+      "D. Dyslipid\u00e9mie",
+      "E. An\u00e9mie"
+    ],
+    "correct_answers": ["C", "D", "E"]
+  }
+]
