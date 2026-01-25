@@ -4,11 +4,11 @@
     "id": 1,
     "question": "* Les l\u00e9sions non-tumorales qui peuvent d\u00e9terminer un syndrome tumoral hypophysaire sont les suivantes avec une exception:",
     "options": [
-      "a. Les vestiges de la poche de Rathke",
-      "b. Les abc\u00e8s hypophysaire",
-      "c. Les kystes arachno\u00efdiens",
-      "d. Les granulomes hypophysaires",
-      "e. La sarco\u00efdose"
+      "A. Les vestiges de la poche de Rathke",
+      "B. Les abc\u00e8s hypophysaire",
+      "C. Les kystes arachno\u00efdiens",
+      "D. Les granulomes hypophysaires",
+      "E. La sarco\u00efdose"
     ],
     "correct_answers": ["A"]
   },
@@ -17,11 +17,11 @@
     "id": 2,
     "question": "* La calcitonine:",
     "options": [
-      "a. Est s\u00e9cr\u00e9t\u00e9e par les glandes parathyro\u00efde",
-      "b. Est s\u00e9cr\u00e9t\u00e9e par les cellules C parafolliculaires thyro\u00efdiennes",
-      "c. Est s\u00e9cr\u00e9t\u00e9e par les cellules folliculaires thyro\u00efdiennes",
-      "d. Est \u00e9lev\u00e9e dans l'hyperparathyro\u00efdie primaire",
-      "e. Est s\u00e9cr\u00e9t\u00e9e par les thyrocytes"
+      "A. Est s\u00e9cr\u00e9t\u00e9e par les glandes parathyro\u00efde",
+      "B. Est s\u00e9cr\u00e9t\u00e9e par les cellules C parafolliculaires thyro\u00efdiennes",
+      "C. Est s\u00e9cr\u00e9t\u00e9e par les cellules folliculaires thyro\u00efdiennes",
+      "D. Est \u00e9lev\u00e9e dans l'hyperparathyro\u00efdie primaire",
+      "E. Est s\u00e9cr\u00e9t\u00e9e par les thyrocytes"
     ],
     "correct_answers": ["B"]
   },
@@ -30,11 +30,11 @@
     "id": 3,
     "question": "* Le signe clinique \u00e9vocateur d'un ph\u00e9ochromocytome est :",
     "options": [
-      "a. La prise de poids",
-      "b. L'atrophie musculaire",
-      "c. Les troubles digestifs",
-      "d. La m\u00e9lanodermie",
-      "e. L'hypertension art\u00e9rielle paroxystique"
+      "A. La prise de poids",
+      "B. L'atrophie musculaire",
+      "C. Les troubles digestifs",
+      "D. La m\u00e9lanodermie",
+      "E. L'hypertension art\u00e9rielle paroxystique"
     ],
     "correct_answers": ["E"]
   },
@@ -43,11 +43,11 @@
     "id": 4,
     "question": "* La cause la plus fr\u00e9quente du mort dans l'acrom\u00e9galie est:",
     "options": [
-      "a. L'extension tumorale",
-      "b. L'insuffisance cardiaque",
-      "c. L'hypertension art\u00e9rielle",
-      "d. La cardiomyopathie",
-      "e. Le diab\u00e8te sucr\u00e9"
+      "A. L'extension tumorale",
+      "B. L'insuffisance cardiaque",
+      "C. L'hypertension art\u00e9rielle",
+      "D. La cardiomyopathie",
+      "E. Le diab\u00e8te sucr\u00e9"
     ],
     "correct_answers": ["B"]
   },
@@ -56,11 +56,11 @@
     "id": 5,
     "question": "* Le trouble de rythme r\u00e9v\u00e9lateur de l'hyperthyro\u00efdie est",
     "options": [
-      "a. Le flutter",
-      "b. La tachysystolie",
-      "c. La fibrillation auriculaire",
-      "d. La tachycardie sinusale",
-      "e. La tachycardie supraventriculaire paroxystique"
+      "A. Le flutter",
+      "B. La tachysystolie",
+      "C. La fibrillation auriculaire",
+      "D. La tachycardie sinusale",
+      "E. La tachycardie supraventriculaire paroxystique"
     ],
     "correct_answers": ["C"]
   },
@@ -69,11 +69,11 @@
     "id": 6,
     "question": "* La couleur cutan\u00e9e est le signe clinique de:",
     "options": [
-      "a. l'insuffisance surr\u00e9nalienne aigu\u00eb",
-      "b. la maladie d'Addison",
-      "c. le syndrome de Cushing",
-      "d. l'hypothyro\u00efdie",
-      "e. l'insuffisance parathyro\u00efdienne"
+      "A. l'insuffisance surr\u00e9nalienne aigu\u00eb",
+      "B. la maladie d'Addison",
+      "C. le syndrome de Cushing",
+      "D. l'hypothyro\u00efdie",
+      "E. l'insuffisance parathyro\u00efdienne"
     ],
     "correct_answers": ["B"]
   },
@@ -81,7 +81,7 @@
     "chapitre": 0,
     "id": 7,
     "question": "* l'hypophyse ant\u00e9rieure synth\u00e9tise les suivantes hormones avec une exception",
-    "options": ["a. GH", "b. TSH", "c. CRH", "d. FSH ET LH", "e. PROLACTINE"],
+    "options": ["A. GH", "B. TSH", "C. CRH", "D. FSH ET LH", "E. PROLACTINE"],
     "correct_answers": ["C"]
   },
   {
@@ -89,11 +89,11 @@
     "id": 8,
     "question": "* Le r\u00e9trocontr\u00f4le de la s\u00e9cr\u00e9tion de PTH est r\u00e9alis\u00e9 par",
     "options": [
-      "a. Le calcitonine",
-      "b. Le niveau de la calc\u00e9mie",
-      "c. Le TSH",
-      "d. La phosphor\u00e9mie",
-      "e. Le niveau de la vitamine D"
+      "A. Le calcitonine",
+      "B. Le niveau de la calc\u00e9mie",
+      "C. Le TSH",
+      "D. La phosphor\u00e9mie",
+      "E. Le niveau de la vitamine D"
     ],
     "correct_answers": ["B"]
   },
@@ -102,11 +102,11 @@
     "id": 9,
     "question": "* Parmi les suivants qui NE repr\u00e9sente PAS un facteur de risque pour l'ost\u00e9oporose",
     "options": [
-      "a. L'indice de masse corporel bas",
-      "b. Le tabagisme",
-      "c. L'abus d'alcool",
-      "d. L'immobilisation",
-      "e. Le stress"
+      "A. L'indice de masse corporel bas",
+      "B. Le tabagisme",
+      "C. L'abus d'alcool",
+      "D. L'immobilisation",
+      "E. Le stress"
     ],
     "correct_answers": ["E"]
   },
@@ -115,11 +115,11 @@
     "id": 10,
     "question": "* la cause plus fr\u00e9quente de la forme ACTH ind\u00e9pendante du syndrome de Cushing est:",
     "options": [
-      "a. L'ad\u00e9nome",
-      "b. Hyperplasie macronodulaire bilat\u00e9rale",
-      "c. Hyperplasie micronodulaire pigmentaire",
-      "d. La Corticoth\u00e9rapie",
-      "e. Le Corticosurr\u00e9nalome"
+      "A. L'ad\u00e9nome",
+      "B. Hyperplasie macronodulaire bilat\u00e9rale",
+      "C. Hyperplasie micronodulaire pigmentaire",
+      "D. La Corticoth\u00e9rapie",
+      "E. Le Corticosurr\u00e9nalome"
     ],
     "correct_answers": ["D"]
   },
@@ -128,11 +128,11 @@
     "id": 11,
     "question": "le risque \u00e9volutif dans l'hyperthyro\u00efdie est repr\u00e9sent\u00e9 par",
     "options": [
-      "a. L'ad\u00e9nocarcinome",
-      "b. L'insuffisance r\u00e9nale",
-      "c. Cardiothyr\u00e9ose",
-      "d. La crise aigu\u00eb thyrotoxique",
-      "e. L'ost\u00e9oporose"
+      "A. L'ad\u00e9nocarcinome",
+      "B. L'insuffisance r\u00e9nale",
+      "C. Cardiothyr\u00e9ose",
+      "D. La crise aigu\u00eb thyrotoxique",
+      "E. L'ost\u00e9oporose"
     ],
     "correct_answers": ["C", "D", "E"]
   },
@@ -141,11 +141,11 @@
     "id": 12,
     "question": "L'hypothyro\u00efdie iod\u00e9e induite est produite par le:",
     "options": [
-      "a. Opiac\u00e9s",
-      "b. M\u00e9toclopramide",
-      "c. Neuroleptiques",
-      "d. Amiodarone",
-      "e. Produits de contraste"
+      "A. Opiac\u00e9s",
+      "B. M\u00e9toclopramide",
+      "C. Neuroleptiques",
+      "D. Amiodarone",
+      "E. Produits de contraste"
     ],
     "correct_answers": ["D", "E"]
   },
@@ -154,11 +154,11 @@
     "id": 13,
     "question": "Le traitement de l'hyperparathyro\u00efdie secondaire comprend",
     "options": [
-      "a. L'augmentation des apports protidiques",
-      "b. La ch\u00e9lation intestinale de l'hyperphosphor\u00e9mie avec gluconate de calcium",
-      "c. L'apport de calcium",
-      "d. La r\u00e9duction parathyro\u00efdienne",
-      "e. L'apport des d\u00e9riv\u00e9s actifs de la vitamine D"
+      "A. L'augmentation des apports protidiques",
+      "B. La ch\u00e9lation intestinale de l'hyperphosphor\u00e9mie avec gluconate de calcium",
+      "C. L'apport de calcium",
+      "D. La r\u00e9duction parathyro\u00efdienne",
+      "E. L'apport des d\u00e9riv\u00e9s actifs de la vitamine D"
     ],
     "correct_answers": ["B", "C", "D", "E"]
   },
@@ -167,11 +167,11 @@
     "id": 14,
     "question": "les \u00e9l\u00e9ments du syndrome tumoral hypophysaire sont:",
     "options": [
-      "a. La stase musculaire",
-      "b. La tachycardie",
-      "c. Les signes d'insuffisance hypophysaire",
-      "d. Les crises convulsives",
-      "e. Les vomissements"
+      "A. La stase musculaire",
+      "B. La tachycardie",
+      "C. Les signes d'insuffisance hypophysaire",
+      "D. Les crises convulsives",
+      "E. Les vomissements"
     ],
     "correct_answers": ["C", "D"]
   },
@@ -180,11 +180,11 @@
     "id": 15,
     "question": "les complications de l'hypothyro\u00efdie sont domin\u00e9es par :",
     "options": [
-      "a. Les troubles du rythme",
-      "b. L'insuffisance cardiaque",
-      "c. L'ophtalmopathie",
-      "d. Les accidents coronariens",
-      "e. Le coma myx\u0153d\u00e9mateux"
+      "A. Les troubles du rythme",
+      "B. L'insuffisance cardiaque",
+      "C. L'ophtalmopathie",
+      "D. Les accidents coronariens",
+      "E. Le coma myx\u0153d\u00e9mateux"
     ],
     "correct_answers": ["D", "E"]
   },
@@ -193,11 +193,11 @@
     "id": 16,
     "question": "les inconv\u00e9nients du traitement avec l'iode radioactif sont :",
     "options": [
-      "a. L'efficacit\u00e9 lente",
-      "b. La simplicit\u00e9",
-      "c. Le co\u00fbt faible",
-      "d. L'hypothyro\u00efdie tardive",
-      "e. L'efficacit\u00e9 rapide"
+      "A. L'efficacit\u00e9 lente",
+      "B. La simplicit\u00e9",
+      "C. Le co\u00fbt faible",
+      "D. L'hypothyro\u00efdie tardive",
+      "E. L'efficacit\u00e9 rapide"
     ],
     "correct_answers": ["A", "D"]
   },
@@ -206,11 +206,11 @@
     "id": 17,
     "question": "la thyro\u00efdite lymphocytaire",
     "options": [
-      "a. Est d'origine auto-immune",
-      "b. Est fr\u00e9quemment pr\u00e9c\u00e9d\u00e9e d'un syndrome grippal",
-      "c. Est \u00e9voqu\u00e9 par un syndrome douloureux de la r\u00e9gion cervicale",
-      "d. A comme signe clinique un goitre diffus de consistance ferme indolore",
-      "e. A comme signe biologique essentiel la pr\u00e9sence de titres tr\u00e8s \u00e9lev\u00e9s d'anticorps anti-microsomes thyro\u00efdiens"
+      "A. Est d'origine auto-immune",
+      "B. Est fr\u00e9quemment pr\u00e9c\u00e9d\u00e9e d'un syndrome grippal",
+      "C. Est \u00e9voqu\u00e9 par un syndrome douloureux de la r\u00e9gion cervicale",
+      "D. A comme signe clinique un goitre diffus de consistance ferme indolore",
+      "E. A comme signe biologique essentiel la pr\u00e9sence de titres tr\u00e8s \u00e9lev\u00e9s d'anticorps anti-microsomes thyro\u00efdiens"
     ],
     "correct_answers": ["A", "D", "E"]
   },
@@ -219,11 +219,11 @@
     "id": 18,
     "question": "Ces m\u00e9dicaments inhibent la conversion p\u00e9riph\u00e9rique de T4 ou T3?",
     "options": [
-      "a. Les glucocortico\u00efdes",
-      "b. Les s\u00e9datifs",
-      "c. Les Antithyro\u00efdiens de synth\u00e8se",
-      "d. Propranolol",
-      "e. Vide"
+      "A. Les glucocortico\u00efdes",
+      "B. Les s\u00e9datifs",
+      "C. Les Antithyro\u00efdiens de synth\u00e8se",
+      "D. Propranolol",
+      "E. Vide"
     ],
     "correct_answers": ["A", "C", "D"]
   },
@@ -232,11 +232,11 @@
     "id": 19,
     "question": "L'iode radioactif a comme indication:",
     "options": [
-      "a. L'ad\u00e9nome toxique",
-      "b. La maladie de basedow",
-      "c. L'hyperthyro\u00efdie iodo-induites",
-      "d. La crise aigu\u00eb thyro\u00efdienne",
-      "e. La goitre multih\u00e9t\u00e9ronodulaire toxique"
+      "A. L'ad\u00e9nome toxique",
+      "B. La maladie de basedow",
+      "C. L'hyperthyro\u00efdie iodo-induites",
+      "D. La crise aigu\u00eb thyro\u00efdienne",
+      "E. La goitre multih\u00e9t\u00e9ronodulaire toxique"
     ],
     "correct_answers": ["A", "B", "E"]
   },
@@ -245,11 +245,11 @@
     "id": 20,
     "question": "le myx\u0153d\u00e8me pr\u00e9 tibial",
     "options": [
-      "a. Consiste \u00e0 placards rouges et tum\u00e9fi\u00e9s au niveau des cuisses",
-      "b. Consist\u00e9 \u00e0 placards rouges au niveau des jambes",
-      "c. Est un signe \u00e9tiologique en faveur d'une maladie de Basedow",
-      "d. A comme traitement les diur\u00e9tiques",
-      "e. Est un signe \u00e9tiologique en faveur d'une thyro\u00efdite chronique de Hashimoto"
+      "A. Consiste \u00e0 placards rouges et tum\u00e9fi\u00e9s au niveau des cuisses",
+      "B. Consist\u00e9 \u00e0 placards rouges au niveau des jambes",
+      "C. Est un signe \u00e9tiologique en faveur d'une maladie de Basedow",
+      "D. A comme traitement les diur\u00e9tiques",
+      "E. Est un signe \u00e9tiologique en faveur d'une thyro\u00efdite chronique de Hashimoto"
     ],
     "correct_answers": ["C", "D"]
   },
@@ -258,11 +258,11 @@
     "id": 21,
     "question": "Le traitement m\u00e9dical de l'hyperprolactin\u00e9mie comprend",
     "options": [
-      "a. Minirin",
-      "b. Bromocriptine",
-      "c. Sandostatin",
-      "d. Parlodel",
-      "e. Cabergoline"
+      "A. Minirin",
+      "B. Bromocriptine",
+      "C. Sandostatin",
+      "D. Parlodel",
+      "E. Cabergoline"
     ],
     "correct_answers": ["B", "E"]
   },
@@ -271,11 +271,11 @@
     "id": 22,
     "question": "la pathologie des corticosurr\u00e9nales est repr\u00e9sent\u00e9e par :",
     "options": [
-      "a. L'incidentalomes hypophysaire",
-      "b. La maladie d'Addison",
-      "c. Le syndrome de Cushing",
-      "d. Le ph\u00e9ochromocytome",
-      "e. Le myx\u0153d\u00e8me"
+      "A. L'incidentalomes hypophysaire",
+      "B. La maladie d'Addison",
+      "C. Le syndrome de Cushing",
+      "D. Le ph\u00e9ochromocytome",
+      "E. Le myx\u0153d\u00e8me"
     ],
     "correct_answers": ["A", "B", "D"]
   },
@@ -284,11 +284,11 @@
     "id": 23,
     "question": "Le traitement des substitutions min\u00e9ralocortico\u00efde avec Fludrocortisone:",
     "options": [
-      "a. Est utilis\u00e9e dans l'insuffisance surr\u00e9nalienne secondaire",
-      "b. Est repr\u00e9sent\u00e9 par Astonin H",
-      "c. Est utilis\u00e9e dans la maladie d'Addison",
-      "d. N\u00e9cessite un r\u00e9gime alimentaire normalement sal\u00e9",
-      "e. Est utilis\u00e9 dans l'insuffisance hypophysaire corticotrope"
+      "A. Est utilis\u00e9e dans l'insuffisance surr\u00e9nalienne secondaire",
+      "B. Est repr\u00e9sent\u00e9 par Astonin H",
+      "C. Est utilis\u00e9e dans la maladie d'Addison",
+      "D. N\u00e9cessite un r\u00e9gime alimentaire normalement sal\u00e9",
+      "E. Est utilis\u00e9 dans l'insuffisance hypophysaire corticotrope"
     ],
     "correct_answers": ["B", "C", "E"]
   },
@@ -297,11 +297,11 @@
     "id": 24,
     "question": "la scintigraphie a comme contre-indications:",
     "options": [
-      "a. Le traitement avec antithyro\u00efdiens de synth\u00e8se",
-      "b. La surcharge iod\u00e9e",
-      "c. La grossesse",
-      "d. Le traitement avec hormones thyro\u00efdiennes",
-      "e. Le traitement avec thyroxine"
+      "A. Le traitement avec antithyro\u00efdiens de synth\u00e8se",
+      "B. La surcharge iod\u00e9e",
+      "C. La grossesse",
+      "D. Le traitement avec hormones thyro\u00efdiennes",
+      "E. Le traitement avec thyroxine"
     ],
     "correct_answers": ["B", "C", "D", "E"]
   },
@@ -310,11 +310,11 @@
     "id": 25,
     "question": "le syst\u00e8me r\u00e9nine angiotensine",
     "options": [
-      "a. Est produit dans la glande surr\u00e9nale",
-      "b. Intervient dans le contr\u00f4le de la zone glom\u00e9rul\u00e9e des corticosurr\u00e9nales",
-      "c. Contr\u00f4le la s\u00e9cr\u00e9tion des hormones min\u00e9ralocortico\u00efde",
-      "d. contr\u00f4le la s\u00e9cr\u00e9tion de cortisol",
-      "e. contr\u00f4le la production d'aldost\u00e9rone"
+      "A. Est produit dans la glande surr\u00e9nale",
+      "B. Intervient dans le contr\u00f4le de la zone glom\u00e9rul\u00e9e des corticosurr\u00e9nales",
+      "C. Contr\u00f4le la s\u00e9cr\u00e9tion des hormones min\u00e9ralocortico\u00efde",
+      "D. contr\u00f4le la s\u00e9cr\u00e9tion de cortisol",
+      "E. contr\u00f4le la production d'aldost\u00e9rone"
     ],
     "correct_answers": ["B", "C", "E"]
   },
@@ -323,11 +323,11 @@
     "id": 26,
     "question": "le neurohypophyse contient",
     "options": [
-      "a. l'hormone de croissance",
-      "b. la prolactine",
-      "c. l'hormone antidiur\u00e9tique",
-      "d. la vasopressine",
-      "e. l'ocytocine"
+      "A. l'hormone de croissance",
+      "B. la prolactine",
+      "C. l'hormone antidiur\u00e9tique",
+      "D. la vasopressine",
+      "E. l'ocytocine"
     ],
     "correct_answers": ["C", "D", "E"]
   },
@@ -336,11 +336,11 @@
     "id": 27,
     "question": "Les hyperprolactin\u00e9mies organiques ont les suivantes \u00e9tiologiques :",
     "options": [
-      "a. les ad\u00e9nomes neurohypophysaires",
-      "b. le stress",
-      "c. les l\u00e9sions hypothalamiques",
-      "d. la grossesse",
-      "e. les tumeurs d\u00e9velopp\u00e9es \u00e0 partir des cellules \u00e0 prolactine"
+      "A. les ad\u00e9nomes neurohypophysaires",
+      "B. le stress",
+      "C. les l\u00e9sions hypothalamiques",
+      "D. la grossesse",
+      "E. les tumeurs d\u00e9velopp\u00e9es \u00e0 partir des cellules \u00e0 prolactine"
     ],
     "correct_answers": ["B", "C", "D", "E"]
   },
@@ -349,11 +349,11 @@
     "id": 28,
     "question": "L'hyperkali\u00e9mie peut \u00eatre caus\u00e9e par",
     "options": [
-      "a. L'insuffisance surr\u00e9nalienne aigu\u00eb sur la maladie d'Addison",
-      "b. L'insuffisance surr\u00e9nalienne secondaire",
-      "c. Le syndrome de Cushing",
-      "d. La corticoth\u00e9rapie",
-      "e. L'insuffisance surr\u00e9nalienne primitive"
+      "A. L'insuffisance surr\u00e9nalienne aigu\u00eb sur la maladie d'Addison",
+      "B. L'insuffisance surr\u00e9nalienne secondaire",
+      "C. Le syndrome de Cushing",
+      "D. La corticoth\u00e9rapie",
+      "E. L'insuffisance surr\u00e9nalienne primitive"
     ],
     "correct_answers": ["A", "E"]
   },
@@ -362,11 +362,11 @@
     "id": 29,
     "question": "le traitement glucocortico\u00efde",
     "options": [
-      "a. est utilis\u00e9 dans les formes s\u00e9v\u00e8res des hyperthyro\u00efdies iode-induites",
-      "b. stimule la conversion p\u00e9riph\u00e9rique de la T4 en T3",
-      "c. inhibe la conversion p\u00e9riph\u00e9rique de la T3 en T4",
-      "d. est essentiel dans la maladie d'Addison",
-      "e. peut induire une insuffisance corticotrope"
+      "A. est utilis\u00e9 dans les formes s\u00e9v\u00e8res des hyperthyro\u00efdies iode-induites",
+      "B. stimule la conversion p\u00e9riph\u00e9rique de la T4 en T3",
+      "C. inhibe la conversion p\u00e9riph\u00e9rique de la T3 en T4",
+      "D. est essentiel dans la maladie d'Addison",
+      "E. peut induire une insuffisance corticotrope"
     ],
     "correct_answers": ["A", "D", "E"]
   },
@@ -375,11 +375,11 @@
     "id": 30,
     "question": "la TSH",
     "options": [
-      "a. est une hormone polypeptidique",
-      "b. est diminu\u00e9 en hypothyro\u00efdie",
-      "c. est \u00e9lev\u00e9e en hyperthyro\u00efdie",
-      "d. est \u00e9lev\u00e9e en hypothyro\u00efdie",
-      "e. est diminu\u00e9e en hyperthyro\u00efdie"
+      "A. est une hormone polypeptidique",
+      "B. est diminu\u00e9 en hypothyro\u00efdie",
+      "C. est \u00e9lev\u00e9e en hyperthyro\u00efdie",
+      "D. est \u00e9lev\u00e9e en hypothyro\u00efdie",
+      "E. est diminu\u00e9e en hyperthyro\u00efdie"
     ],
     "correct_answers": ["D", "E"]
   },
@@ -388,11 +388,11 @@
     "id": 31,
     "question": "le syndrome de faux Cushing est cause par",
     "options": [
-      "a. la contraception",
-      "b. le cancer",
-      "c. l'alcoolisme",
-      "d. la corticoth\u00e9rapie",
-      "e. l'ob\u00e9sit\u00e9"
+      "A. la contraception",
+      "B. le cancer",
+      "C. l'alcoolisme",
+      "D. la corticoth\u00e9rapie",
+      "E. l'ob\u00e9sit\u00e9"
     ],
     "correct_answers": ["C", "E"]
   },
@@ -401,11 +401,11 @@
     "id": 32,
     "question": "l'ost\u00e9oporose",
     "options": [
-      "a. a comme facteur de risque l'activit\u00e9 physique",
-      "b. comprend comme m\u00e9thodes de traitement les estrog\u00e8nes",
-      "c. peut \u00eatre caus\u00e9e par les corticosurr\u00e9nales",
-      "d. est d\u00e9finie par le score T en moins de 2.5",
-      "e. A comme objectif th\u00e9rapeutique l'augmentation du turnover osseux"
+      "A. a comme facteur de risque l'activit\u00e9 physique",
+      "B. comprend comme m\u00e9thodes de traitement les estrog\u00e8nes",
+      "C. peut \u00eatre caus\u00e9e par les corticosurr\u00e9nales",
+      "D. est d\u00e9finie par le score T en moins de 2.5",
+      "E. A comme objectif th\u00e9rapeutique l'augmentation du turnover osseux"
     ],
     "correct_answers": ["B", "C", "D"]
   }

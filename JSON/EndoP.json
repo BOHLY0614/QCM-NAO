@@ -4,11 +4,11 @@
     "id": 1,
     "question": "Dans le cas de l'hyperparathyro\u00efdie, les radiographies peuvent r\u00e9v\u00e9ler:",
     "options": [
-      "a. cardiom\u00e9galie",
-      "b. hypertransparence",
-      "c. r\u00e9sorption osseuse",
-      "d. ost\u00e9oscl\u00e9rose",
-      "e. des g\u00e9odes"
+      "A. cardiom\u00e9galie",
+      "B. hypertransparence",
+      "C. r\u00e9sorption osseuse",
+      "D. ost\u00e9oscl\u00e9rose",
+      "E. des g\u00e9odes"
     ],
     "correct_answers": ["B", "C", "E"]
   },
@@ -17,11 +17,11 @@
     "id": 2,
     "question": "L'insuffisance surr\u00e9nalienne secondaire:",
     "options": [
-      "a. est caract\u00e9ris\u00e9e par hyponatr\u00e9mie importante",
-      "b. est caract\u00e9ris\u00e9e par aldost\u00e9rone basse",
-      "c. a comme signe clinique la m\u00e9lanodermie",
-      "d. a comme signe biologique l'hyperkali\u00e9mie",
-      "e. est caract\u00e9ris\u00e9e par le d\u00e9ficit de l'ACTH et l'atrophie des surr\u00e9nales"
+      "A. est caract\u00e9ris\u00e9e par hyponatr\u00e9mie importante",
+      "B. est caract\u00e9ris\u00e9e par aldost\u00e9rone basse",
+      "C. a comme signe clinique la m\u00e9lanodermie",
+      "D. a comme signe biologique l'hyperkali\u00e9mie",
+      "E. est caract\u00e9ris\u00e9e par le d\u00e9ficit de l'ACTH et l'atrophie des surr\u00e9nales"
     ],
     "correct_answers": ["A", "E"]
   },
@@ -30,11 +30,11 @@
     "id": 3,
     "question": "Ces m\u00e9dicaments inhibent la conversion p\u00e9riph\u00e9rique de T4 en T3",
     "options": [
-      "a. les b\u00eatabloquants",
-      "b. la solution de Lugol",
-      "c. les glucocortico\u00efdes",
-      "d. antithyro\u00efdiens de synth\u00e8se",
-      "e. Propylthiouracile"
+      "A. les b\u00eatabloquants",
+      "B. la solution de Lugol",
+      "C. les glucocortico\u00efdes",
+      "D. antithyro\u00efdiens de synth\u00e8se",
+      "E. Propylthiouracile"
     ],
     "correct_answers": ["A", "C", "D", "E"]
   },
@@ -43,11 +43,11 @@
     "id": 4,
     "question": "Le traitement m\u00e9dical de l'hyperprolactin\u00e9mie comprend",
     "options": [
-      "a. Sandostatin",
-      "b. Bromocriptine",
-      "c. Parlodel",
-      "d. Minirin",
-      "e. Cabergoline"
+      "A. Sandostatin",
+      "B. Bromocriptine",
+      "C. Parlodel",
+      "D. Minirin",
+      "E. Cabergoline"
     ],
     "correct_answers": ["B", "C", "E"]
   },
@@ -56,11 +56,11 @@
     "id": 5,
     "question": "Les endocrinopathies qui peuvent produire hypercalc\u00e9mie sont:",
     "options": [
-      "a. l'hypothyro\u00efdie",
-      "b. le syndrome de Cushing",
-      "c. l'insuffisance surr\u00e9nalienne",
-      "d. le ph\u00e9ochromocytome",
-      "e. l'hyperthyro\u00efdie"
+      "A. l'hypothyro\u00efdie",
+      "B. le syndrome de Cushing",
+      "C. l'insuffisance surr\u00e9nalienne",
+      "D. le ph\u00e9ochromocytome",
+      "E. l'hyperthyro\u00efdie"
     ],
     "correct_answers": ["C", "D", "E"]
   },
@@ -69,24 +69,24 @@
     "id": 6,
     "question": "La polydipsie primaire est caract\u00e9ris\u00e9e, apr\u00e8s la restriction hydrique par",
     "options": [
-      "a. osmolarit\u00e9 plasmatique sans changement",
-      "b. natr\u00e9mie \u00e9lev\u00e9e",
-      "c. ADH bas",
-      "d. osmolarit\u00e9 urinaire \u00e9lev\u00e9e",
-      "e. ADH \u00e9lev\u00e9e"
+      "A. osmolarit\u00e9 plasmatique sans changement",
+      "B. natr\u00e9mie \u00e9lev\u00e9e",
+      "C. ADH bas",
+      "D. osmolarit\u00e9 urinaire \u00e9lev\u00e9e",
+      "E. ADH \u00e9lev\u00e9e"
     ],
     "correct_answers": ["A", "D", "E"]
   },
   {
     "chapitre": 0,
     "id": 7,
-    "question": "Un patient de 43 ans diagnostiqu\u00e9 avec un craniopharyngiome, pour lequel une op\u00e9ration transsph\u00e9no\u00efdale a \u00e9t\u00e9 r\u00e9alis\u00e9e, pr\u00e9sente une asth\u00e9nie, une hypotension et un syndrome polyuro-polydipsique. Lesquelles des investigations suivantes sont utiles pour \u00e9lucider le diagnostic?",
+    "question": "Un patient de 43 ans diagnostiqu\u00e9 avec un craniopharyngiome, pour lequel une op\u00e9ration transsph\u00e9no\u00efdale a \u00e9t\u00e9 r\u00e9alis\u00e9e, pr\u00e9sente une asth\u00e9nie, une hypotension et un syndrome polyuro-polydipsiquE. Lesquelles des investigations suivantes sont utiles pour \u00e9lucider le diagnostic?",
     "options": [
-      "a. IRM hypophysaire",
-      "b. D\u00e9termination de l'osmolarit\u00e9 plasmatique et urinaire/24h",
-      "c. D\u00e9termination de la PTH",
-      "d. D\u00e9termination de l'\u00e2ge osseux",
-      "e. D\u00e9termination des tropes hypophysaires et des hormones p\u00e9riph\u00e9riques"
+      "A. IRM hypophysaire",
+      "B. D\u00e9termination de l'osmolarit\u00e9 plasmatique et urinaire/24h",
+      "C. D\u00e9termination de la PTH",
+      "D. D\u00e9termination de l'\u00e2ge osseux",
+      "E. D\u00e9termination des tropes hypophysaires et des hormones p\u00e9riph\u00e9riques"
     ],
     "correct_answers": ["A", "B", "E"]
   },
@@ -95,11 +95,11 @@
     "id": 8,
     "question": "Le syst\u00e8me r\u00e9nine angiotensine:",
     "options": [
-      "a. contr\u00f4le la production du cortisol",
-      "b. contr\u00f4le la production d'aldost\u00e9rone",
-      "c. contr\u00f4le la s\u00e9cr\u00e9tion des hormones min\u00e9ralocortico\u00efdes",
-      "d. interviennent dans le contr\u00f4le de la zone glom\u00e9rul\u00e9e des corticosurr\u00e9nales",
-      "e. est produit dans la glande surr\u00e9nale"
+      "A. contr\u00f4le la production du cortisol",
+      "B. contr\u00f4le la production d'aldost\u00e9rone",
+      "C. contr\u00f4le la s\u00e9cr\u00e9tion des hormones min\u00e9ralocortico\u00efdes",
+      "D. interviennent dans le contr\u00f4le de la zone glom\u00e9rul\u00e9e des corticosurr\u00e9nales",
+      "E. est produit dans la glande surr\u00e9nale"
     ],
     "correct_answers": ["B", "C", "D"]
   },
@@ -108,11 +108,11 @@
     "id": 9,
     "question": "Les causes d'hypothyro\u00efdie du nouveau-n\u00e9 sont",
     "options": [
-      "a. l'ag\u00e9n\u00e9sie thyro\u00efdienne",
-      "b. la sarco\u00efdose",
-      "c. les troubles cong\u00e9nitaux de l'hormonogen\u00e8se",
-      "d. la thyro\u00efdite de Riedel",
-      "e. les carences iod\u00e9es"
+      "A. l'ag\u00e9n\u00e9sie thyro\u00efdienne",
+      "B. la sarco\u00efdose",
+      "C. les troubles cong\u00e9nitaux de l'hormonogen\u00e8se",
+      "D. la thyro\u00efdite de Riedel",
+      "E. les carences iod\u00e9es"
     ],
     "correct_answers": ["A", "C", "E"]
   },
@@ -121,11 +121,11 @@
     "id": 10,
     "question": "* La cause la plus fr\u00e9quente de la forme ACTH ind\u00e9pendante du syndrome de Cushing",
     "options": [
-      "a. l'hyperplasie micronodulaire pigmentaire",
-      "b. la corticoth\u00e9rapie",
-      "c. l'ad\u00e9nome",
-      "d. l'hyperplasie macronodulaire bilat\u00e9rale",
-      "e. le corticosurr\u00e9nalome"
+      "A. l'hyperplasie micronodulaire pigmentaire",
+      "B. la corticoth\u00e9rapie",
+      "C. l'ad\u00e9nome",
+      "D. l'hyperplasie macronodulaire bilat\u00e9rale",
+      "E. le corticosurr\u00e9nalome"
     ],
     "correct_answers": ["B"]
   },
@@ -134,11 +134,11 @@
     "id": 11,
     "question": "* La froideur cutan\u00e9e est le signe clinique de:",
     "options": [
-      "a. l'hypothyro\u00efdie",
-      "b. l'insuffisance ant\u00e9hypophysaire",
-      "c. le syndrome de Cushing",
-      "d. la maladie d'Addison",
-      "e. l'insuffisance surr\u00e9nalienne aigu\u00eb"
+      "A. l'hypothyro\u00efdie",
+      "B. l'insuffisance ant\u00e9hypophysaire",
+      "C. le syndrome de Cushing",
+      "D. la maladie d'Addison",
+      "E. l'insuffisance surr\u00e9nalienne aigu\u00eb"
     ],
     "correct_answers": ["A"]
   },
@@ -147,11 +147,11 @@
     "id": 12,
     "question": "La patiente de 59 ans, diagnostiqu\u00e9e avec une insuffisance ant\u00e9ro-hypophysaire, est hospitalis\u00e9e dans notre clinique pour asth\u00e9nie marqu\u00e9e, \u0153d\u00e8me des paupi\u00e8res, p\u00e2leur, hypotension, absence de poils axillaires-pubiens. L'\u00e9tablissement d'un traitement d'urgence implique l'administration de",
     "options": [
-      "a. min\u00e9ralocortico\u00efdes et glucocortico\u00efdes",
-      "b. desmopressine",
-      "c. hormones thyro\u00efdiennes",
-      "d. estro-progestatif",
-      "e. glucocortico\u00efdes"
+      "A. min\u00e9ralocortico\u00efdes et glucocortico\u00efdes",
+      "B. desmopressine",
+      "C. hormones thyro\u00efdiennes",
+      "D. estro-progestatif",
+      "E. glucocortico\u00efdes"
     ],
     "correct_answers": ["C", "E"]
   },
@@ -160,11 +160,11 @@
     "id": 13,
     "question": "La neurohypophyse contient:",
     "options": [
-      "a. la vasopressine",
-      "b. l'ocytocine",
-      "c. la prolactine",
-      "d. l'hormone antidiur\u00e9tique",
-      "e. l'hormone de croissance"
+      "A. la vasopressine",
+      "B. l'ocytocine",
+      "C. la prolactine",
+      "D. l'hormone antidiur\u00e9tique",
+      "E. l'hormone de croissance"
     ],
     "correct_answers": ["A", "B", "D"]
   },
@@ -173,11 +173,11 @@
     "id": 14,
     "question": "* Les signes cliniques suivants: douleur dans la r\u00e9gion cervicale ant\u00e9rieure, fi\u00e8vre, pouls acc\u00e9l\u00e9r\u00e9 accompagn\u00e9 de changements hormonaux: TSH = 0,1 ?UI/ml (0,4-4,6)... chez un patient \u00e2g\u00e9 de 38 ans soul\u00e8ve la suspicion de:",
     "options": [
-      "a. maladie de Basedow",
-      "b. myx\u0153d\u00e8me auto-immune",
-      "c. cancer de la thyro\u00efde",
-      "d. thyro\u00efdite subaigu\u00eb",
-      "e. insuffisance hypophysaire thyr\u00e9otrope"
+      "A. maladie de Basedow",
+      "B. myx\u0153d\u00e8me auto-immune",
+      "C. cancer de la thyro\u00efde",
+      "D. thyro\u00efdite subaigu\u00eb",
+      "E. insuffisance hypophysaire thyr\u00e9otrope"
     ],
     "correct_answers": ["D"]
   },
@@ -186,11 +186,11 @@
     "id": 15,
     "question": "Le traitement de l'hyperparathyro\u00efdie secondaire comprend",
     "options": [
-      "a. l'apport des d\u00e9riv\u00e9s actifs de la vitamine D",
-      "b. la r\u00e9duction parathyro\u00efdienne",
-      "c. la ch\u00e9lation intestinale de l'hyperphosphor\u00e9mie avec gluconate de calcium",
-      "d. l'apport de calcium (carbonate de calcium)",
-      "e. l'augmentation des apports protidiques"
+      "A. l'apport des d\u00e9riv\u00e9s actifs de la vitamine D",
+      "B. la r\u00e9duction parathyro\u00efdienne",
+      "C. la ch\u00e9lation intestinale de l'hyperphosphor\u00e9mie avec gluconate de calcium",
+      "D. l'apport de calcium (carbonate de calcium)",
+      "E. l'augmentation des apports protidiques"
     ],
     "correct_answers": ["A", "B", "C", "D"]
   },
@@ -199,11 +199,11 @@
     "id": 16,
     "question": "L'iode radioactif a comme indications le traitement de:",
     "options": [
-      "a. la maladie de Basedow",
-      "b. la crise aigu\u00eb thyr\u00e9otoxique",
-      "c. l'hyperthyro\u00efdie iode-induites",
-      "d. l'ad\u00e9nome toxique",
-      "e. la goitre multih\u00e9t\u00e9ronodulaire toxique"
+      "A. la maladie de Basedow",
+      "B. la crise aigu\u00eb thyr\u00e9otoxique",
+      "C. l'hyperthyro\u00efdie iode-induites",
+      "D. l'ad\u00e9nome toxique",
+      "E. la goitre multih\u00e9t\u00e9ronodulaire toxique"
     ],
     "correct_answers": ["A", "D", "E"]
   },
@@ -212,11 +212,11 @@
     "id": 17,
     "question": "Le traitement de la crise aigu\u00eb thyr\u00e9otoxique comporte:",
     "options": [
-      "a. des anticoagulants",
-      "b. r\u00e9hydratation",
-      "c. des s\u00e9datifs",
-      "d. l\u00e9vothyroxine \u00e0 forte dose",
-      "e. des b\u00eatabloquants"
+      "A. des anticoagulants",
+      "B. r\u00e9hydratation",
+      "C. des s\u00e9datifs",
+      "D. l\u00e9vothyroxine \u00e0 forte dose",
+      "E. des b\u00eatabloquants"
     ],
     "correct_answers": ["A", "B", "C", "E"]
   },
@@ -225,11 +225,11 @@
     "id": 18,
     "question": "L'hyperthyro\u00efdie iode-induite est produit par:",
     "options": [
-      "a. le M\u00e9toclopramide",
-      "b. l'Amiodarone",
-      "c. les neuroleptiques",
-      "d. les opiac\u00e9s",
-      "e. les produits de contraste de radiologie"
+      "A. le M\u00e9toclopramide",
+      "B. l'Amiodarone",
+      "C. les neuroleptiques",
+      "D. les opiac\u00e9s",
+      "E. les produits de contraste de radiologie"
     ],
     "correct_answers": ["B", "E"]
   },
@@ -238,11 +238,11 @@
     "id": 19,
     "question": "* Le diagnostic de laboratoire et paraclinique du diab\u00e8te insipide inclut une des explorations suivantes:",
     "options": [
-      "a. La scintigraphie hypophysaire",
-      "b. Le cath\u00e9t\u00e9risme des sinus p\u00e9treux",
-      "c. Le test de suppression avec glucose",
-      "d. La scintigraphie osseuse",
-      "e. Le test de restriction hydrique"
+      "A. La scintigraphie hypophysaire",
+      "B. Le cath\u00e9t\u00e9risme des sinus p\u00e9treux",
+      "C. Le test de suppression avec glucose",
+      "D. La scintigraphie osseuse",
+      "E. Le test de restriction hydrique"
     ],
     "correct_answers": ["E"]
   },
@@ -251,11 +251,11 @@
     "id": 20,
     "question": "L'hyperkali\u00e9mie peut \u00eatre caus\u00e9e par:",
     "options": [
-      "a. l'insuffisance surr\u00e9nalienne primitive",
-      "b. le syndrome de Cushing",
-      "c. l'insuffisance surr\u00e9nalienne aigu\u00eb de la maladie d'Addison",
-      "d. la corticoth\u00e9rapie",
-      "e. l'insuffisance surr\u00e9nalienne secondaire"
+      "A. l'insuffisance surr\u00e9nalienne primitive",
+      "B. le syndrome de Cushing",
+      "C. l'insuffisance surr\u00e9nalienne aigu\u00eb de la maladie d'Addison",
+      "D. la corticoth\u00e9rapie",
+      "E. l'insuffisance surr\u00e9nalienne secondaire"
     ],
     "correct_answers": ["A", "C"]
   },
@@ -264,11 +264,11 @@
     "id": 21,
     "question": "Les crises convulsives peuvent survenir dans les cas suivants:",
     "options": [
-      "a. la maladie d'Addison",
-      "b. l'hypercalc\u00e9mie",
-      "c. l'hyperthyro\u00efdie",
-      "d. hypocalc\u00e9mie",
-      "e. le syndrome tumoral hypophysaire"
+      "A. la maladie d'Addison",
+      "B. l'hypercalc\u00e9mie",
+      "C. l'hyperthyro\u00efdie",
+      "D. hypocalc\u00e9mie",
+      "E. le syndrome tumoral hypophysaire"
     ],
     "correct_answers": ["A", "D", "E"]
   },
@@ -277,11 +277,11 @@
     "id": 22,
     "question": "* Le suivant n'est pas facteur de risque pour l'ost\u00e9oporose:",
     "options": [
-      "a. l'immobilisation",
-      "b. l'ob\u00e9sit\u00e9",
-      "c. le tabagisme",
-      "d. l'abus d'alcool",
-      "e. l'indice de masse corporelle bas"
+      "A. l'immobilisation",
+      "B. l'ob\u00e9sit\u00e9",
+      "C. le tabagisme",
+      "D. l'abus d'alcool",
+      "E. l'indice de masse corporelle bas"
     ],
     "correct_answers": ["B"]
   },
@@ -290,11 +290,11 @@
     "id": 23,
     "question": "Comme traitement m\u00e9dical de l'acrom\u00e9galie on peut administrer:",
     "options": [
-      "a. L'octr\u00e9otide",
-      "b. Radioth\u00e9rapie hypophysaire",
-      "c. Insuline",
-      "d. Pegvisomant",
-      "e. Glucagon"
+      "A. L'octr\u00e9otide",
+      "B. Radioth\u00e9rapie hypophysaire",
+      "C. Insuline",
+      "D. Pegvisomant",
+      "E. Glucagon"
     ],
     "correct_answers": ["A", "C", "D"]
   }
