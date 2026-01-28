@@ -713,5 +713,148 @@
       "E. Produits de contraste iod\u00e9s"
     ],
     "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 56,
+    "question": "Le tableau clinique et biologique de la néphropathie IgA comprend:",
+    "options": [
+      "A. Hématurie macroscopique récurrente est très spécifique pour l'affection",
+      "B. L'augmentation de IgA sérique",
+      "C. Protéinurie est usuellement > 3g/jour",
+      "D. Une diminution du taux de C3",
+      "E. Une augmentation du taux de C4"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 57,
+    "question": "Lesquelles des affirmations suivantes concernant la GN à lésions minimes sont vraies:",
+    "options": [
+      "A. La forme clinique typique de la malade est représentée par un syndrome néphrotique impur",
+      "B. La maladie est plus rencontrée chez les enfants que les adultes",
+      "C. Dans la microscopie optique, les glomérules sont normaux",
+      "D. La microscopie électronique montre la fusion des processus podocytaires des cellules épithéliales",
+      "E. En tous les cas la maladie est accompagnée par un syndrome néphritique aigue"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 58,
+    "question": "* Quel traitement hypotenseur choisiriez-vous de première intention chez une patiente enceinte (23 SA) avec PA 160/100 mmHg?",
+    "options": [
+      "A. Perindopril: 2x10 mg/jour",
+      "B. Métoprolol: 2x50 mg/jour",
+      "C. Irbesartan: 150 mg jusqu'à 300 mg/jour",
+      "D. Alpha-méthyldopa: 500 mg jusqu'à une dose maximale de 2g/jour",
+      "E. Clonidine: 3x0,150 mg/jour"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 59,
+    "question": "Les complications aigues de la pyélonéphrite aigue peuvent être:",
+    "options": [
+      "A. Pyélonéphrite chronique",
+      "B. Abcès rénal",
+      "C. Nécrose papillaire",
+      "D. Maladie rénale chronique",
+      "E. Choc toxico-septique"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 60,
+    "question": "La cystite se manifeste cliniquement par:",
+    "options": [
+      "A. Fièvre",
+      "B. Pollakiurie",
+      "C. Douleur lombaire",
+      "D. Urine trouble",
+      "E. Diarrhée"
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 61,
+    "question": "Quelles sont les conséquences de la protéinurie?",
+    "options": [
+      "A. Hyperlipidémie",
+      "B. Thromboembolies",
+      "C. Perte de protéines plasmatiques de transport",
+      "D. Excès d'immunoglobulines",
+      "E. Complications infectieuses"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 62,
+    "question": "Causes d'azotémie rénale intrinsèque:",
+    "options": [
+      "A. Obstruction des grands vaisseaux rénaux",
+      "B. Troubles neurologiques de la vessie urinaire",
+      "C. Glomérulonéphrite rapidement progressive",
+      "D. Hypoalbuminémie",
+      "E. Infarctus du myocarde aigu"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 63,
+    "question": "Les suivants autoanticorps ne peuvent pas être rencontrés chez les patients atteints d'un lupus érythémateux systémique:",
+    "options": [
+      "A. Anticorps anti-ADN double brin",
+      "B. Anticorps anti-récepteur de la phospholipase A2",
+      "C. Anticorps anti-CD4",
+      "D. Anticorps antinucléaires",
+      "E. Anticorps anti-Sm"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 64,
+    "question": "Les troubles du métabolisme phosphocalcique liés à la maladie rénale chronique consistent en :",
+    "options": [
+      "A. Calcium sérique diminué",
+      "B. Un taux élevé de la PTH",
+      "C. Un taux élevé du phosphore sérique",
+      "D. Un taux élevé de la vitamine D",
+      "E. Un taux élevé de la vitamine B12"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 65,
+    "question": "Les affirmations suivantes sont vraies en ce qui concerne la néphrosclérose bénigne :",
+    "options": [
+      "A. L'altération de la fonction rénale est une conséquence directe des lésions tubulo-interstitielles",
+      "B. Le principal stimulus est la diminution du tonus de la paroi vasculaire",
+      "C. Le débit plasmatique effectif augmente",
+      "D. Le processus de hyalinose est le marqueur morphologique - implique les artérioles afférentes",
+      "E. La néphrosclérose évolue progressivement vers la MRC stade V"
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 66,
+    "question": "Dans quels types de glomérulopathies, les deux reins ont une taille élevée :",
+    "options": [
+      "A. Amylose rénale",
+      "B. Glomérulosclérose focale et segmentaire",
+      "C. Néphropathie diabétique",
+      "D. Glomérulonéphrites aiguës",
+      "E. Néphropathie tubulo-interstitielle aiguë"
+    ],
+    "correct_answers": ["A", "C", "D"]
   }
 ]
