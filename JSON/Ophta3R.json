@@ -1,0 +1,652 @@
+[
+  {
+    "chapitre": 0,
+    "id": 1,
+    "question": "* Tuniques du globe oculaire :",
+    "options": [
+      "A. La tunique externe est form\u00e9e de l'iris et de la choro\u00efde.",
+      "B. La choro\u00efde est la portion post\u00e9rieure de l'uv\u00e9e.",
+      "C. La corn\u00e9e constitue la tunique interne.",
+      "D. La scl\u00e8re repr\u00e9sente la portion post\u00e9rieure de la tunique moyenne.",
+      "E. Toutes les variantes sont fausses."
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 2,
+    "question": "* Bl\u00e9pharites :",
+    "options": [
+      "A. Repr\u00e9sentent des affections kystiques des paupi\u00e8res, tr\u00e8s souvent rencontr\u00e9es.",
+      "B. Repr\u00e9sentent une accumulation anormale de cholest\u00e9rol et autres constituants lipidiques dans le tissu sous-cutan\u00e9 palp\u00e9bral.",
+      "C. Repr\u00e9sentent une infection virale du t\u00e9gument de la paupi\u00e8re, caus\u00e9e par des pox-virus.",
+      "D. Se classifient en ant\u00e9rieures, post\u00e9rieures, mixtes (ant\u00e9ro-post\u00e9rieures).",
+      "E. Le traitement de choix : l'excision chirurgicale."
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 3,
+    "question": "* Une affection cong\u00e9nitale de la glande lacrymale est :",
+    "options": [
+      "A. Ag\u00e9n\u00e9sie canaliculaire.",
+      "B. Dacryoc\u00e8le cong\u00e9nitale.",
+      "C. Ectopie de la glande lacrymale.",
+      "D. Obstruction du canal lacrymo-nasal.",
+      "E. Points lacrymaux ou canalicule bifide."
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 4,
+    "question": "* Les signes et sympt\u00f4mes de la scl\u00e9rite sont les suivants, \u00e0 l'exception de :",
+    "options": [
+      "A. Photophobie.",
+      "B. Larmoiement.",
+      "C. Grandes douleurs oculaires.",
+      "D. C\u00e9phal\u00e9es.",
+      "E. S\u00e9cr\u00e9tion mucopurulente."
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 5,
+    "question": "* Lequel n'est pas un facteur pr\u00e9disposant dans le d\u00e9collement de r\u00e9tine rhegmatog\u00e8ne :",
+    "options": [
+      "A. L'\u00e2ge de plus de 40 ans.",
+      "B. L'aphakie et la pseudophakie.",
+      "C. L'hyperm\u00e9tropie.",
+      "D. Traumatismes oculaires.",
+      "E. Les ant\u00e9c\u00e9dents personnels et familiaux positifs."
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 6,
+    "question": "* Lequel des \u00e9l\u00e9ments suivants n'est pas un signe vasculaire de l'\u0153d\u00e8me du disque optique :",
+    "options": [
+      "A. H\u00e9morragies papillaires et r\u00e9tiniennes p\u00e9ripapillaires.",
+      "B. Infarctus des fibres nerveuses (exsudats mous).",
+      "C. Congestion veineuse des vaisseaux arqu\u00e9s et p\u00e9ripapillaires.",
+      "D. Hyperh\u00e9mie de la t\u00eate du nerf optique.",
+      "E. Effacement des bords du disque optique."
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 7,
+    "question": "* L'affirmation suivante concernant le syndrome de l'\u0153il sec est fausse :",
+    "options": [
+      "A. Les patients accusent une sensation de sable dans l'\u0153il, br\u00fblure, s\u00e9cheresse.",
+      "B. Se rencontre plus souvent chez les femmes \u00e0 l'\u00e2ge de la m\u00e9nopause.",
+      "C. La m\u00e9thode de diagnostic la plus fr\u00e9quente est par le test de Schirmer.",
+      "D. La cause peut \u00eatre la production r\u00e9duite de larmes ou l'\u00e9vaporation excessive du film lacrymal.",
+      "E. Le traitement consiste en l'administration de collyres avec antibiotiques sur le long terme."
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 8,
+    "question": "* Corn\u00e9e :",
+    "options": [
+      "A. Forme avec la choro\u00efde la tunique externe du globe oculaire.",
+      "B. Est une tunique opaque, richement vascularis\u00e9e.",
+      "C. Pr\u00e9sente 6 couches.",
+      "D. Est richement innerv\u00e9e.",
+      "E. Pr\u00e9sente une face externe, concave, en rapport avec l'humeur aqueuse."
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 9,
+    "question": "* Le terme qui d\u00e9finit le parall\u00e9lisme des globes oculaires est :",
+    "options": [
+      "A. Exotropie.",
+      "B. \u00c9sotropie.",
+      "C. H\u00e9t\u00e9rotropie.",
+      "D. H\u00e9t\u00e9rophorie.",
+      "E. Orthophorie."
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 10,
+    "question": "* Le traitement dans les mycoses de l'orbite est :",
+    "options": [
+      "A. Antibioth\u00e9rapie g\u00e9n\u00e9rale.",
+      "B. Antifongiques par voie g\u00e9n\u00e9rale.",
+      "C. Anti-inflammatoires st\u00e9ro\u00efdiens.",
+      "D. Anti-inflammatoires non st\u00e9ro\u00efdiens.",
+      "E. Antalgiques."
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 11,
+    "question": "Corn\u00e9e :",
+    "options": [
+      "A. Est une tunique transparente.",
+      "B. Forme la portion ant\u00e9rieure de la tunique externe.",
+      "C. Est avasculaire.",
+      "D. Ne pr\u00e9sente pas d'innervation.",
+      "E. Est innerv\u00e9e par des branches du nerf vague."
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 12,
+    "question": "Biom\u00e9trie :",
+    "options": [
+      "A. Mesure la longueur axiale du globe oculaire.",
+      "B. Est un des param\u00e8tres essentiels dans le calcul pr\u00e9op\u00e9ratoire de la puissance dioptrique de l'implant intraoculaire.",
+      "C. D\u00e9termine la r\u00e9fraction totale de l'\u0153il.",
+      "D. Repr\u00e9sente une variante automatis\u00e9e de la r\u00e9fractom\u00e9trie.",
+      "E. Se r\u00e9alise avec un r\u00e9fractom\u00e8tre manuel."
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 13,
+    "question": "\u0152d\u00e8me allergique aigu des paupi\u00e8res :",
+    "options": [
+      "A. Se produit par angio-\u0153d\u00e8me, urticaire ou piq\u00fbres d'insectes ou arachnides.",
+      "B. Parfois peut \u00eatre cons\u00e9cutif \u00e0 l'utilisation de m\u00e9dicaments comme la Cordarone.",
+      "C. Toujours seule la paupi\u00e8re inf\u00e9rieure est affect\u00e9e.",
+      "D. Symptomatologie : prurit mod\u00e9r\u00e9 dans l'aire t\u00e9gumentaire \u0153d\u00e9mati\u00e9e, sensation de tension.",
+      "E. Traitement : cr\u00e8mes ou onguents avec antihistaminiques, respectivement avec corticost\u00e9ro\u00efdes."
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 14,
+    "question": "Anisom\u00e9tropie :",
+    "options": [
+      "A. Repr\u00e9sente un facteur de risque pour l'amblyopie.",
+      "B. Repr\u00e9sente une diff\u00e9rence de r\u00e9fraction entre les deux yeux.",
+      "C. On ne recommande pas les lentilles de contact.",
+      "D. Se corrige strictement chirurgicalement.",
+      "E. Se corrige uniquement avec des lentilles de contact dures."
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 15,
+    "question": "Corps vitr\u00e9 :",
+    "options": [
+      "A. Remplit l'espace entre la portion post\u00e9rieure de la capsule cristallinienne et la r\u00e9tine (chambre vitr\u00e9enne).",
+      "B. Est une substance aqueuse.",
+      "C. Est une substance opaque.",
+      "D. En p\u00e9riph\u00e9rie le vitr\u00e9 pr\u00e9sente une condensation appel\u00e9e hyalo\u00efde.",
+      "E. La base du vitr\u00e9 peut \u00eatre d\u00e9coll\u00e9e seulement dans des traumatismes tr\u00e8s puissants."
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 16,
+    "question": "La r\u00e9fraction oculaire est d\u00e9termin\u00e9e par les param\u00e8tres suivants :",
+    "options": [
+      "A. La longueur axiale du globe oculaire.",
+      "B. Le rayon de courbure de la corn\u00e9e.",
+      "C. La r\u00e9fraction du cristallin.",
+      "D. La profondeur de la chambre ant\u00e9rieure.",
+      "E. La consistance du vitr\u00e9."
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 17,
+    "question": "Inflammations de la scl\u00e8re :",
+    "options": [
+      "A. S'appellent scl\u00e9rites et pr\u00e9sentent deux formes principales.",
+      "B. S'appellent scl\u00e9rites et pr\u00e9sentent trois formes principales.",
+      "C. \u00c9piscl\u00e9rite, qui int\u00e9resse les couches profondes de la scl\u00e8re.",
+      "D. Scl\u00e9rite proprement dite int\u00e9ressant les couches superficielles.",
+      "E. Scl\u00e9rite proprement dite int\u00e9ressant les couches profondes."
+    ],
+    "correct_answers": ["A", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 18,
+    "question": "Conjonctivites virales :",
+    "options": [
+      "A. Contrairement \u00e0 celles bact\u00e9riennes, elles sont en r\u00e8gle g\u00e9n\u00e9rale folliculaires (par l'implication du tissu ad\u00e9no\u00efde de la conjonctive profonde).",
+      "B. La conjonctivite vernale est une conjonctivite virale.",
+      "C. Les conjonctivites \u00e0 ad\u00e9novirus sont extr\u00eamement contagieuses, l'infection pouvant se r\u00e9pandre par les s\u00e9cr\u00e9tions lacrymales ou les s\u00e9cr\u00e9tions du tractus respiratoire sup\u00e9rieur.",
+      "D. Traitement \u00e9tiologique, se fera avec des antiviraux (aciclovir, ganciclovir, etc.) administr\u00e9s topiquement (en gels).",
+      "E. Le traitement doit durer 30-40 jours."
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 19,
+    "question": "Le film lacrymal est constitu\u00e9 de :",
+    "options": [
+      "A. La couche superficielle lipidique - a pour r\u00f4le l'oxyg\u00e9nation, la nutrition et antibact\u00e9rien par l'interm\u00e9diaire du lysozyme.",
+      "B. La couche interm\u00e9diaire aqueuse est s\u00e9cr\u00e9t\u00e9e par les glandes de Zeiss, Moll et Meibomius.",
+      "C. La couche superficielle lipidique emp\u00eache l'\u00e9vaporation de la couche aqueuse, prot\u00e8ge la surface oculaire de divers agents m\u00e9caniques, infectieux.",
+      "D. La couche interm\u00e9diaire aqueuse est s\u00e9cr\u00e9t\u00e9e par les glandes de Krause et Wolfring.",
+      "E. La couche profonde muqueuse assure la stabilit\u00e9 du film lacrymal."
+    ],
+    "correct_answers": ["C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 20,
+    "question": "Affections cong\u00e9nitales des voies lacrymales :",
+    "options": [
+      "A. Points lacrymaux ou canalicules surnum\u00e9raires.",
+      "B. Points lacrymaux ou canalicule bifide.",
+      "C. Imperforation et atr\u00e9sie des points lacrymaux - les orifices des points lacrymaux sont ferm\u00e9s.",
+      "D. Dacryocystite chronique.",
+      "E. Dacryoad\u00e9nite chronique."
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 21,
+    "question": "Traitement du pt\u00e9rygion :",
+    "options": [
+      "A. De base est l'excision chirurgicale avec ou sans diverses techniques de plastie conjonctivale associ\u00e9es.",
+      "B. Seulement traitement topique avec collyres.",
+      "C. Pour la diminution des ph\u00e9nom\u00e8nes inflammatoires intral\u00e9sionnels on peut effectuer des injections avec corticost\u00e9ro\u00efdes au milieu de la formation.",
+      "D. Les r\u00e9cidives seront trait\u00e9es de fa\u00e7on pr\u00e9dominante aussi par des m\u00e9thodes chirurgicales.",
+      "E. Les r\u00e9cidives seront trait\u00e9es de fa\u00e7on pr\u00e9dominante aussi par traitement topique avec collyres."
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 22,
+    "question": "La symptomatologie et les signes oculaires du syndrome de l'\u0153il sec sont :",
+    "options": [
+      "A. S\u00e9cr\u00e9tion lacrymale visqueuse.",
+      "B. S\u00e9cr\u00e9tion lacrymale mucopurulente.",
+      "C. Sensation de s\u00e9cheresse oculaire, de sable dans l'\u0153il, de corps \u00e9tranger, piq\u00fbres, irritation et douleur oculaire.",
+      "D. Hyperh\u00e9mie conjonctivale.",
+      "E. Baisse de l'acuit\u00e9 visuelle."
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 23,
+    "question": "La suppression de la production d'humeur aqueuse peut \u00eatre induite par des m\u00e9dicaments comme :",
+    "options": [
+      "A. Parasympathomim\u00e9tiques.",
+      "B. Inhibiteurs de l'anhydrase carbonique.",
+      "C. B\u00eatabloquants s\u00e9lectifs ou non s\u00e9lectifs.",
+      "D. Alpha-agonistes adr\u00e9nergiques.",
+      "E. Esters de prostaglandines."
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 24,
+    "question": "Font partie du glaucome \u00e0 angle ouvert :",
+    "options": [
+      "A. L'hypertension intraoculaire.",
+      "B. Le glaucome juv\u00e9nile.",
+      "C. Le glaucome \u00e0 pression normale.",
+      "D. Le glaucome secondaire \u00e0 angle ouvert.",
+      "E. La crise de glaucome."
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 25,
+    "question": "D\u00e9collement de r\u00e9tine rhegmatog\u00e8ne :",
+    "options": [
+      "A. Appara\u00eet secondairement \u00e0 l'accumulation de liquide sous-r\u00e9tinien, provenant des vaisseaux sanguins de la r\u00e9tine neurosensorielle ou choro\u00efde.",
+      "B. Ne se caract\u00e9rise pas par la pr\u00e9sence d'une rupture r\u00e9tinienne.",
+      "C. Se caract\u00e9rise par la pr\u00e9sence d'une rupture r\u00e9tinienne.",
+      "D. La rupture est maintenue ouverte par les tractions vitr\u00e9o-r\u00e9tiniennes et permet au vitr\u00e9 liqu\u00e9fi\u00e9 de s'accumuler sous la r\u00e9tine neurosensorielle.",
+      "E. La r\u00e9tine neurosensorielle est tractionn\u00e9e et s\u00e9par\u00e9e de l'\u00e9pith\u00e9lium pigmentaire r\u00e9tinien par des membranes vitr\u00e9o-r\u00e9tiniennes fibreuses ou fibrovasculaires, qui se d\u00e9veloppent dans la cavit\u00e9 vitr\u00e9enne."
+    ],
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 26,
+    "question": "R\u00e9tinopathie hypertensive signes :",
+    "options": [
+      "A. La vasodilatation art\u00e9riolaire r\u00e9tinienne focale ou g\u00e9n\u00e9ralis\u00e9e.",
+      "B. Exsudats durs maculaires avec aspect d'\u00e9toile maculaire (hypertension art\u00e9rielle maligne).",
+      "C. Extravasation vasculaire avec pr\u00e9sence d'h\u00e9morragies r\u00e9tiniennes.",
+      "D. Modification du reflet art\u00e9riel pari\u00e9tal.",
+      "E. Modifications au niveau du croisement art\u00e9rio-veineux."
+    ],
+    "correct_answers": ["B", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 27,
+    "question": "Neuropathie optique isch\u00e9mique ant\u00e9rieure non art\u00e9ritique :",
+    "options": [
+      "A. Est la plus fr\u00e9quente neuropathie optique aigu\u00eb chez les patients \u00e2g\u00e9s de plus de 70 ans.",
+      "B. Est associ\u00e9e \u00e0 l'art\u00e9rite temporale.",
+      "C. Le disque optique a une petite excavation.",
+      "D. AFG (Angiofluorographie) : Retard du remplissage au niveau du disque optique.",
+      "E. Se traite avec des corticost\u00e9ro\u00efdes."
+    ],
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 28,
+    "question": "La compression au niveau du nerf optique d\u00e9termine :",
+    "options": [
+      "A. Douleur oculaire.",
+      "B. D\u00e9ficit pupillaire aff\u00e9rent relatif.",
+      "C. Dyschromatopsie.",
+      "D. Limitation des mouvements oculaires.",
+      "E. D\u00e9t\u00e9rioration progressive du champ visuel."
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 29,
+    "question": "Les affections d\u00e9g\u00e9n\u00e9ratives du vitr\u00e9 :",
+    "options": [
+      "A. Sont tr\u00e8s rares.",
+      "B. Sont fr\u00e9quentes.",
+      "C. Les corps flottants dans le vitr\u00e9 apparaissent chez les personnes \u00e2g\u00e9es.",
+      "D. Le synchysis scintillant est une d\u00e9g\u00e9n\u00e9rescence s\u00e9nile avec impr\u00e9gnation lipidique.",
+      "E. Le synchysis scintillant m\u00e8ne \u00e0 la baisse brusque et accentu\u00e9e de l'acuit\u00e9 visuelle."
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 30,
+    "question": "Parmi les affections cong\u00e9nitales du vitr\u00e9 on compte :",
+    "options": [
+      "A. Vitrite cong\u00e9nitale.",
+      "B. H\u00e9morragie vitr\u00e9enne.",
+      "C. Persistance et hyperplasie du vitr\u00e9 primitif.",
+      "D. Persistance de l'art\u00e8re hyalo\u00efde.",
+      "E. Pseudogliome h\u00e9r\u00e9ditaire."
+    ],
+    "correct_answers": ["C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 31,
+    "question": "Les complications suivantes peuvent appara\u00eetre imm\u00e9diatement apr\u00e8s l'op\u00e9ration de cataracte :",
+    "options": [
+      "A. Rupture de la capsule post\u00e9rieure.",
+      "B. H\u00e9morragie expulsive.",
+      "C. \u0152d\u00e8me corn\u00e9en m\u00e9canique.",
+      "D. Endophtalmie.",
+      "E. Hyph\u00e9ma."
+    ],
+    "correct_answers": ["C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 32,
+    "question": "Les affirmations suivantes concernant l'h\u00e9morragie vitr\u00e9enne post-contusive suite \u00e0 un choc violent sont fausses :",
+    "options": [
+      "A. L'h\u00e9morragie d\u00e9termine une baisse lente de l'acuit\u00e9 visuelle sur la dur\u00e9e de quelques jours.",
+      "B. L'h\u00e9morragie d\u00e9termine une baisse brusque de l'acuit\u00e9 visuelle sur la dur\u00e9e de quelques minutes.",
+      "C. Le fond d'\u0153il ne s'\u00e9claire plus \u00e0 cause du vitr\u00e9 opaque.",
+      "D. Ne n\u00e9cessite pas de traitement.",
+      "E. L'examen biomicroscopique met en \u00e9vidence la pr\u00e9sence de sang dans la trame vitr\u00e9enne."
+    ],
+    "correct_answers": ["A", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 33,
+    "question": "Les br\u00fblures corn\u00e9ennes thermiques peuvent \u00eatre caus\u00e9es par :",
+    "options": [
+      "A. Radiations UV.",
+      "B. Vapeurs.",
+      "C. Acides.",
+      "D. M\u00e9taux incandescents.",
+      "E. Bases."
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 34,
+    "question": "Les affirmations suivantes concernant les k\u00e9ratites sont vraies :",
+    "options": [
+      "A. Les k\u00e9ratites sont des affections cong\u00e9nitales de la corn\u00e9e.",
+      "B. Les k\u00e9ratites sont des affections inflammatoires de la corn\u00e9e.",
+      "C. Sont accompagn\u00e9es de douleurs oculaires et p\u00e9rioculaires.",
+      "D. Le bl\u00e9pharospasme et l'hyperlarmoiement n'apparaissent pas.",
+      "E. Le traitement est strictement chirurgical."
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 35,
+    "question": "Du point de vue subjectif toute cataracte se manifeste par :",
+    "options": [
+      "A. Baisse de l'acuit\u00e9 visuelle.",
+      "B. \u00c9piphora.",
+      "C. Diplopie monoculaire.",
+      "D. Diplopie binoculaire.",
+      "E. Baisse de la sensibilit\u00e9 au contraste."
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 36,
+    "question": "Muscles extrins\u00e8ques du globe oculaire :",
+    "options": [
+      "A. Sont des muscles lisses.",
+      "B. R\u00e9alisent les mouvements coordonn\u00e9s du globe oculaire.",
+      "C. L'origine de tous les muscles extrins\u00e8ques se trouve au niveau de l'anneau tendineux de Zinn.",
+      "D. Le muscle droit externe r\u00e9alise l'abduction du globe oculaire.",
+      "E. Le muscle droit interne r\u00e9alise l'adduction du globe oculaire."
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 37,
+    "question": "Les tumeurs conjonctives de l'orbite sont :",
+    "options": [
+      "A. L'h\u00e9mangiome caverneux.",
+      "B. L'h\u00e9mangiome capillaire.",
+      "C. Le lipome de l'orbite.",
+      "D. Le fibrome.",
+      "E. Le fibrosarcome."
+    ],
+    "correct_answers": ["C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 38,
+    "question": "Les affirmations suivantes sont vraies :",
+    "options": [
+      "A. Les plaies perforantes petites ne se ferment pas spontan\u00e9ment.",
+      "B. Les plaies de la scl\u00e8re se produisent dans les m\u00eames conditions que celles de la corn\u00e9e.",
+      "C. Les plaies perforantes petites qui se ferment spontan\u00e9ment et qui ne sont pas accompagn\u00e9es de la hernie des membranes ne n\u00e9cessitent pas de traitement chirurgical.",
+      "D. Les plaies grandes, d\u00e9hiscentes, doivent \u00eatre sutur\u00e9es apr\u00e8s la r\u00e9section des membranes prolab\u00e9es.",
+      "E. Les plaies grandes, d\u00e9hiscentes se ferment spontan\u00e9ment."
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 39,
+    "question": "Quelles sont les causes d'exophtalmie unilat\u00e9rale ?",
+    "options": [
+      "A. Cellulite orbitaire.",
+      "B. Cellulite pr\u00e9septale.",
+      "C. Dacryocystite.",
+      "D. Dacryoad\u00e9nite.",
+      "E. Tumeurs orbitaires."
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 40,
+    "question": "Le traitement des strabismes peut \u00eatre :",
+    "options": [
+      "A. Traitement optique - pour l'obtention d'une AV optimale pour le d\u00e9veloppement de la vision binoculaire.",
+      "B. Traitement orthoptique - pour le d\u00e9veloppement de la fusion et de la vision st\u00e9r\u00e9oscopique.",
+      "C. Traitement chirurgical - indiqu\u00e9 dans les cas avec d\u00e9viations strabiques sous 10\u00b0.",
+      "D. Traitement pl\u00e9optique - a pour r\u00f4le d'am\u00e9liorer l'AV de l'\u0153il amblyope.",
+      "E. Traitement m\u00e9dicamenteux - miotiques et cyclopl\u00e9giques."
+    ],
+    "correct_answers": ["A", "B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 41,
+    "question": "Les affirmations suivantes sont vraies :",
+    "options": [
+      "A. Les corps \u00e9trangers intraorbitaires constitu\u00e9s de plomb, verre, masses plastiques sont parfaitement tol\u00e9r\u00e9s.",
+      "B. Les corps \u00e9trangers intraorbitaires constitu\u00e9s de plomb, verre, masses plastiques ne sont pas tol\u00e9r\u00e9s.",
+      "C. Les corps \u00e9trangers compos\u00e9s de bois et restes v\u00e9g\u00e9taux produisent des l\u00e9sions inflammatoires.",
+      "D. Les corps \u00e9trangers compos\u00e9s de bois et restes v\u00e9g\u00e9taux ne produisent pas de l\u00e9sions inflammatoires.",
+      "E. Certains corps \u00e9trangers intraorbitaires d\u00e9terminent des fistules palp\u00e9brales, par lesquelles s'\u00e9coule du pus."
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 42,
+    "question": "\u0152d\u00e8me de Berlin :",
+    "options": [
+      "A. Forme particuli\u00e8re d'\u0153d\u00e8me sp\u00e9cifique au p\u00f4le post\u00e9rieur en cas de traumatismes contusifs du globe oculaire.",
+      "B. Est caract\u00e9ris\u00e9 par l'\u0153d\u00e8me des paupi\u00e8res.",
+      "C. Repr\u00e9sente l'\u0153d\u00e8me de l'endoth\u00e9lium corn\u00e9en.",
+      "D. Appara\u00eet \u00e0 l'examen ophtalmoscopique de couleur blanc-gris\u00e2tre.",
+      "E. Occupe tout le p\u00f4le post\u00e9rieur."
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 43,
+    "question": "Les modifications du cristallin suite \u00e0 une contusion oculaire sont :",
+    "options": [
+      "A. Cataracte s\u00e9nile.",
+      "B. Luxation.",
+      "C. Subluxation.",
+      "D. Cataracte traumatique.",
+      "E. Cataracte cong\u00e9nitale."
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 44,
+    "question": "L'exophtalmie est classifi\u00e9e ainsi :",
+    "options": [
+      "A. Exophtalmie moyenne < 12 mm.",
+      "B. Exophtalmie moyenne 17-20 mm.",
+      "C. Exophtalmie moyenne 12-16 mm.",
+      "D. Exophtalmie grande 17-20 mm.",
+      "E. Exophtalmie grande > 20 mm."
+    ],
+    "correct_answers": ["B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 45,
+    "question": "Les complications d'une plaie oculaire non trait\u00e9e sont repr\u00e9sent\u00e9es par :",
+    "options": [
+      "A. D\u00e9g\u00e9n\u00e9rescence maculaire li\u00e9e \u00e0 l'\u00e2ge.",
+      "B. Endophtalmie.",
+      "C. Uv\u00e9ite exsudative.",
+      "D. Glaucome primaire \u00e0 angle ouvert.",
+      "E. Neuropathie optique isch\u00e9mique ant\u00e9rieure."
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 46,
+    "question": "Lequel des \u00e9l\u00e9ments suivants ne repr\u00e9sente pas une indication absolue pour l'\u00e9nucl\u00e9ation du globe oculaire :",
+    "options": [
+      "A. Plaies de petites dimensions.",
+      "B. Les plaies accompagn\u00e9es de destructions intraoculaires graves.",
+      "C. Les grandes plaies \u00e9cras\u00e9es.",
+      "D. Les plaies dont la coaptation est impossible.",
+      "E. Plaies piqu\u00e9es."
+    ],
+    "correct_answers": ["A", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 47,
+    "question": "Quelles sont les principales causes d'exophtalmie bilat\u00e9rale ?",
+    "options": [
+      "A. Cellulite orbitaire.",
+      "B. Craniost\u00e9noses.",
+      "C. Thrombophl\u00e9bite du sinus caverneux.",
+      "D. Hydroc\u00e9phalie.",
+      "E. Maladie de Basedow."
+    ],
+    "correct_answers": ["B", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 48,
+    "question": "Dans le strabisme paralytique, les signes objectifs sont :",
+    "options": [
+      "A. D\u00e9viation du globe oculaire dans la m\u00eame direction que le muscle paralys\u00e9.",
+      "B. D\u00e9viation du globe oculaire dans la direction oppos\u00e9e au muscle paralys\u00e9.",
+      "C. Torticolis.",
+      "D. Limitation du mouvement du globe oculaire dans la direction d'action du muscle paralys\u00e9.",
+      "E. Limitation du mouvement du globe oculaire dans la direction d'action oppos\u00e9e au muscle paralys\u00e9."
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 49,
+    "question": "Dans le cas d'un traumatisme contusif la r\u00e9tine peut pr\u00e9senter les modifications pathologiques suivantes :",
+    "options": [
+      "A. D\u00e9g\u00e9n\u00e9rescence maculaire.",
+      "B. H\u00e9morragies.",
+      "C. \u0152d\u00e8me.",
+      "D. Ruptures.",
+      "E. D\u00e9collements de r\u00e9tine."
+    ],
+    "correct_answers": ["B", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 50,
+    "question": "Les modifications oculaires rencontr\u00e9es dans le cas des plaies perforantes sont repr\u00e9sent\u00e9es par :",
+    "options": [
+      "A. Disparition de la chambre ant\u00e9rieure, due \u00e0 l'\u00e9coulement de l'humeur aqueuse.",
+      "B. Hypertonie oculaire.",
+      "C. Hypotonie oculaire.",
+      "D. Enclavement ou hernie de l'iris dans la plaie.",
+      "E. H\u00e9morragies vitr\u00e9ennes ou m\u00eame h\u00e9mophtalmie, en cas de l\u00e9sion du corps ciliaire ou de la choro\u00efde."
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  }
+]

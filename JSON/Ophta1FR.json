@@ -40,19 +40,6 @@
   },
   {
     "chapitre": 0,
-    "id": 4,
-    "question": "* quel est le facteur de risque le plus important pour l'apparition et l'\u00e9volution du glaucome?",
-    "options": [
-      "A. Chambre ant\u00e9rieure \u00e9troite",
-      "B. Faible \u00e9paisseur de la corn\u00e9e",
-      "C. Pression intraoculaire crescuta",
-      "D. Fumeur",
-      "E. Hypertension art\u00e9rielle"
-    ],
-    "correct_answers": ["C"]
-  },
-  {
-    "chapitre": 0,
     "id": 5,
     "question": "* quelle est une valeur normale de la pression intraoculaire ?",
     "options": [

@@ -92,19 +92,6 @@
   },
   {
     "chapitre": 0,
-    "id": 8,
-    "question": "* Quelle est la longueur de l'axe ant\u00e9rieur-post\u00e9rieur \u00e0 un \u0153il emetrical:",
-    "options": [
-      "A. 17-20 mm",
-      "B. 24-30 mm",
-      "C. 15-17 mm",
-      "D. 35-40 mm",
-      "E. 22-25 mm"
-    ],
-    "correct_answers": ["E"]
-  },
-  {
-    "chapitre": 0,
     "id": 9,
     "question": "* Qui est le facteur de risque le plus important dans le d\u00e9clenchement et l'\u00e9volution du glaucome:",
     "options": [
