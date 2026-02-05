@@ -19,7 +19,7 @@ RESULT_FONT = ("Arial", 18)
 SHOW_DEBUG_BUTTON = False
 DEFAULT_VOLUME = 0.3
 # Probabilité entre 0.0 et 1.0 (ex: 0.05 = 5% de chance par question)
-SCREAMER_PROBABILITY = 1/10000
+SCREAMER_PROBABILITY = 0
 
 class QCMApp(tk.Tk):
     def __init__(self):
