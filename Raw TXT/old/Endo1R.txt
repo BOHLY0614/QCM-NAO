@@ -1,0 +1,32 @@
+A
+B
+E
+B
+C
+B
+C
+B
+E
+D
+C, D, E
+DE
+B, C, D, E
+CD
+DE
+AD
+ADE
+ACD
+A, B, E
+C, D
+B, E
+A, B, D
+B, C, E
+B, C, D, E
+B, C, E
+C, D, E
+B, C, D, E
+A, E
+A, D, E
+D, E
+C, E
+B, C, D

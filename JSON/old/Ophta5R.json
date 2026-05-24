@@ -1,0 +1,639 @@
+[
+  {
+    "chapitre": 0,
+    "id": 1,
+    "question": "Les milieux transparents de l'\u0153il sont repr\u00e9sent\u00e9s par :",
+    "options": [
+      "A. L'humeur aqueuse",
+      "B. La r\u00e9tine",
+      "C. La corn\u00e9e",
+      "D. Le cristallin",
+      "E. La scl\u00e8re"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 2,
+    "question": "L'herp\u00e8s zoster ophtalmique peut s'associer \u00e0 :",
+    "options": [
+      "A. Un historique d'immunod\u00e9ficience",
+      "B. Un d\u00e9but clinique avec des formations maculo-papuleuses \u00e9ryth\u00e9mateuses au niveau du t\u00e9gument desservi par le nerf ophtalmique du m\u00eame c\u00f4t\u00e9",
+      "C. L'absence de douleur",
+      "D. Une douleur \u00e0 caract\u00e8re de br\u00fblure cutan\u00e9e, persistante",
+      "E. Une atteinte oculaire dans les formes s\u00e9v\u00e8res"
+    ],
+    "correct_answers": ["A", "B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 3,
+    "question": "Les signes ophtalmiques dans la dacryoad\u00e9nite aigu\u00eb consistent en :",
+    "options": [
+      "A. \u0152d\u00e8me et tum\u00e9faction de la paupi\u00e8re inf\u00e9rieure dans le tiers interne",
+      "B. Chemosis et hyperh\u00e9mie conjonctivale",
+      "C. \u0152d\u00e8me et tum\u00e9faction de la paupi\u00e8re sup\u00e9rieure prenant la forme d'un \"S\" couch\u00e9",
+      "D. S\u00e9cr\u00e9tions muco-purulentes",
+      "E. Augmentation de volume de la glande lacrymale principale"
+    ],
+    "correct_answers": ["B", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 4,
+    "question": "* Le trichiasis est :",
+    "options": [
+      "A. La mauvaise direction des cils palp\u00e9braux",
+      "B. Le manque de tonus de la paupi\u00e8re sup\u00e9rieure",
+      "C. La r\u00e9traction de la paupi\u00e8re sup\u00e9rieure",
+      "D. La soudure des surfaces conjonctivales tarsale et bulbaire",
+      "E. L'absence de cils palp\u00e9braux"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 5,
+    "question": "En fonction de la profondeur, les br\u00fblures corn\u00e9ennes physiques peuvent \u00eatre classifi\u00e9es en :",
+    "options": [
+      "A. Br\u00fblure du premier degr\u00e9 avec fines d\u00e9s\u00e9pith\u00e9lialisations corn\u00e9ennes",
+      "B. Br\u00fblure du premier degr\u00e9 avec phlyct\u00e8nes au niveau des paupi\u00e8res et diminution de la transparence corn\u00e9enne",
+      "C. Br\u00fblure du deuxi\u00e8me degr\u00e9 avec d\u00e9s\u00e9pith\u00e9lialisations conjonctivales, corn\u00e9ennes et diminution de la transparence corn\u00e9enne",
+      "D. Br\u00fblure du troisi\u00e8me degr\u00e9 avec une corn\u00e9e d\u00e9pourvue de transparence",
+      "E. Br\u00fblure du premier degr\u00e9 avec multiples d\u00e9s\u00e9pith\u00e9lialisations corn\u00e9ennes associ\u00e9es \u00e0 un \u0153d\u00e8me corn\u00e9en marqu\u00e9"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 6,
+    "question": "Les br\u00fblures corn\u00e9ennes par bases pr\u00e9sentent les particularit\u00e9s suivantes :",
+    "options": [
+      "A. N\u00e9crose de coagulation sans p\u00e9n\u00e9tration de la substance dans la profondeur des tissus",
+      "B. N\u00e9crose de liqu\u00e9faction sold\u00e9e par la rupture des membranes cellulaires",
+      "C. P\u00e9n\u00e9tration rapide des tissus",
+      "D. P\u00e9n\u00e9tration en profondeur de la substance",
+      "E. Un pronostic plus favorable compar\u00e9 aux br\u00fblures chimiques par acides"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 7,
+    "question": "Parmi les complications postop\u00e9ratoires imm\u00e9diates de la chirurgie de la cataracte nous retrouvons :",
+    "options": [
+      "A. L'\u0153d\u00e8me corn\u00e9en m\u00e9canique",
+      "B. L'hypertension intraoculaire passag\u00e8re",
+      "C. L'hyph\u00e9ma postop\u00e9ratoire",
+      "D. L'opacification de la capsule post\u00e9rieure",
+      "E. L'astigmatisme postop\u00e9ratoire pr\u00e9coce par le placement des fils de suture"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 8,
+    "question": "S\u00e9lectionnez les affirmations fausses :",
+    "options": [
+      "A. L'\u00e9limination de l'humeur aqueuse se fait par 6 voies",
+      "B. Le glaucome primaire \u00e0 angle ouvert impose un traitement chirurgical de premi\u00e8re intention",
+      "C. Le glaucome \u00e0 angle ferm\u00e9 repr\u00e9sente une urgence ophtalmologique",
+      "D. Le glaucome \u00e0 angle ferm\u00e9 fait partie du syndrome de l'\u0153il rouge",
+      "E. Le glaucome n\u00e9ovasculaire est le plus souvent la cons\u00e9quence d'affections isch\u00e9miques r\u00e9tiniennes de type oblit\u00e9ration de la veine centrale de la r\u00e9tine"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 9,
+    "question": "Les modifications papillaires dans la maladie glaucomateuse consistent en :",
+    "options": [
+      "A. L'\u00e9largissement en volume de l'excavation optique par rapport \u00e0 la dimension totale du corps du nerf optique",
+      "B. H\u00e9morragies au niveau du disque optique",
+      "C. \u0152d\u00e8me maculaire",
+      "D. Exsudats durs et de type cotton-wool (cotonneux dans la p\u00e9riph\u00e9rie de la r\u00e9tine)",
+      "E. L'illusion optique de d\u00e9placement nasal des vaisseaux au niveau de la papille du nerf optique"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 10,
+    "question": "Le glaucome de 100 jours pr\u00e9sente les particularit\u00e9s suivantes :",
+    "options": [
+      "A. Valeurs tr\u00e8s \u00e9lev\u00e9es de la pression intraoculaire",
+      "B. Absence de douleur",
+      "C. \u0152d\u00e8me corn\u00e9en",
+      "D. Douleurs oculaires intenses",
+      "E. Rub\u00e9ose irienne"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 11,
+    "question": "Les troubles de la s\u00e9cr\u00e9tion lacrymale consistent en :",
+    "options": [
+      "A. La baisse de la quantit\u00e9 de larmes",
+      "B. L'augmentation de la quantit\u00e9 de larmes",
+      "C. Larmoiement par hypers\u00e9cr\u00e9tion",
+      "D. Larmoiement par hypo-excr\u00e9tion",
+      "E. Larmoiement par hyper-excr\u00e9tion"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 12,
+    "question": "La symptomatologie dans le cadre du d\u00e9collement de r\u00e9tine rhegmatog\u00e8ne est repr\u00e9sent\u00e9e par :",
+    "options": [
+      "A. Myod\u00e9sopsies ou points noirs sur un fond blanc",
+      "B. Phosph\u00e8nes ou sensation de flashs",
+      "C. Baisse de l'acuit\u00e9 visuelle",
+      "D. Douleur oculaire intense",
+      "E. Pr\u00e9sence d'une ombre dans le champ visuel"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 13,
+    "question": "* La cause la plus fr\u00e9quente de l'occlusion de l'art\u00e8re centrale de la r\u00e9tine est repr\u00e9sent\u00e9e par :",
+    "options": [
+      "A. L'art\u00e9rite \u00e0 cellules g\u00e9antes",
+      "B. La thrombose",
+      "C. La polycyth\u00e9mie",
+      "D. Le syndrome des antiphospholipides",
+      "E. La p\u00e9riart\u00e9rite"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 14,
+    "question": "L'examen du fond d'\u0153il dans l'occlusion de l'art\u00e8re centrale de la r\u00e9tine met en \u00e9vidence les modifications suivantes :",
+    "options": [
+      "A. L'\u0153d\u00e8me r\u00e9tinien diffus",
+      "B. La cerise maculaire ou \"cherry red spot\"",
+      "C. Le r\u00e9tr\u00e9cissement et l'amincissement des art\u00e8res r\u00e9tiniennes",
+      "D. L'augmentation du rapport cup/disc au niveau de la papille du nerf optique",
+      "E. Les exsudats durs maculaires"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 15,
+    "question": "Les facteurs pr\u00e9disposants fr\u00e9quemment rencontr\u00e9s dans l'occlusion de la veine centrale de la r\u00e9tine sont :",
+    "options": [
+      "A. L'\u00e2ge avanc\u00e9 au-dessus de 65 ans",
+      "B. L'hypertension art\u00e9rielle",
+      "C. Le diab\u00e8te sucr\u00e9",
+      "D. Le syndrome de Beh\u00e7et",
+      "E. La sarco\u00efdose"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 16,
+    "question": "Les modifications sp\u00e9cifiques \u00e0 l'examen du fond d'\u0153il dans la r\u00e9tinopathie diab\u00e9tique non prolif\u00e9rante sont :",
+    "options": [
+      "A. Microan\u00e9vrismes",
+      "B. H\u00e9morragies r\u00e9tiniennes sous forme de taches punctiformes et h\u00e9morragies en flamm\u00e8che",
+      "C. Exsudats durs lipidiques",
+      "D. N\u00e9ovascularisation irienne",
+      "E. Exsudats mous isch\u00e9miques"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 17,
+    "question": "La d\u00e9g\u00e9n\u00e9rescence maculaire li\u00e9e \u00e0 l'\u00e2ge forme s\u00e8che pr\u00e9sente les aspects pathologiques suivants :",
+    "options": [
+      "A. La disparition progressive de l'\u00e9pith\u00e9lium pigmentaire r\u00e9tinien",
+      "B. L'apparition de zones atrophiques dans la zone maculaire",
+      "C. La baisse de l'acuit\u00e9 visuelle",
+      "D. Le d\u00e9veloppement de membranes n\u00e9ovasculaires",
+      "E. H\u00e9morragies intrar\u00e9tiniennes caus\u00e9es par des n\u00e9ovaisseaux"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 18,
+    "question": "Les affirmations suivantes li\u00e9es \u00e0 la cellulite orbitaire sont vraies :",
+    "options": [
+      "A. Repr\u00e9sente l'inflammation diffuse du tissu cellulo-adipeux de l'orbite",
+      "B. Est une inflammation localis\u00e9e du tissu cutan\u00e9",
+      "C. Le patient pr\u00e9sente douleur orbitaire et c\u00e9phal\u00e9e",
+      "D. Objectivement on met en \u00e9vidence seulement une congestion conjonctivale minime",
+      "E. L'exophtalmie axiale unilat\u00e9rale est irr\u00e9ductible avec l'immobilit\u00e9 du globe oculaire"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 19,
+    "question": "La symptomatologie objective du glaucome \u00e0 angle ferm\u00e9 est caract\u00e9ris\u00e9e par :",
+    "options": [
+      "A. Pression intraoculaire tr\u00e8s \u00e9lev\u00e9e avec des valeurs entre 45 et 70 mmHg",
+      "B. Pression intraoculaire normale avec des valeurs sous 20 mmHg",
+      "C. Congestion conjonctivale mixte p\u00e9ricorn\u00e9enne",
+      "D. Pupille en semi-mydriase, ar\u00e9flexique",
+      "E. \u0152d\u00e8me corn\u00e9en"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 20,
+    "question": "* La tunique interne du globe oculaire est form\u00e9e de :",
+    "options": [
+      "A. R\u00e9tine",
+      "B. Iris",
+      "C. Corn\u00e9e",
+      "D. Scl\u00e8re",
+      "E. Vitr\u00e9"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 21,
+    "question": "Les affirmations suivantes li\u00e9es aux xanthelasmas palp\u00e9braux sont vraies :",
+    "options": [
+      "A. La cure chirurgicale s'impose d'urgence",
+      "B. Sont des accumulations anormales de cholest\u00e9rol et autres constituants lipidiques",
+      "C. Sont toujours unilat\u00e9raux",
+      "D. Ne r\u00e9cidivent jamais post-chirurgicalement",
+      "E. Le patient doit \u00eatre inform\u00e9 sur la possibilit\u00e9 de r\u00e9cidive"
+    ],
+    "correct_answers": ["B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 22,
+    "question": "La plaie corn\u00e9enne p\u00e9n\u00e9trante pr\u00e9sente les caract\u00e9ristiques suivantes :",
+    "options": [
+      "A. Globe oculaire hypotone",
+      "B. Chambre ant\u00e9rieure de profondeur r\u00e9duite ou m\u00eame absente",
+      "C. Globe oculaire hypertone",
+      "D. La possibilit\u00e9 de prolapsus \u00e0 l'ext\u00e9rieur de l'iris par la plaie",
+      "E. Chambre ant\u00e9rieure de profondeur augment\u00e9e"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 23,
+    "question": "Les affirmations suivantes sont vraies :",
+    "options": [
+      "A. La r\u00e9tine pr\u00e9sente 10 couches histologiques",
+      "B. La corn\u00e9e repr\u00e9sente la tunique interne du globe oculaire",
+      "C. La tunique externe est repr\u00e9sent\u00e9e par la corn\u00e9e (et scl\u00e8re)",
+      "D. La r\u00e9tine maculaire repr\u00e9sente la zone centrale de la r\u00e9tine",
+      "E. La tunique moyenne est repr\u00e9sent\u00e9e par l'uv\u00e9e"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 24,
+    "question": "* Caract\u00e9ristiques rencontr\u00e9es au stade tonom\u00e9trique du glaucome primaire \u00e0 angle ouvert :",
+    "options": [
+      "A. Une augmentation mod\u00e9r\u00e9e de la pression intraoculaire entre 21 et 30 mmHg",
+      "B. Pression intraoculaire qui d\u00e9passe la valeur de 60 mmHg",
+      "C. Atrophie optique totale",
+      "D. Modifications d\u00e9g\u00e9n\u00e9ratives au niveau de la macula",
+      "E. R\u00e9tr\u00e9cissement concentrique marqu\u00e9 du champ visuel"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 25,
+    "question": "La mesure de l'acuit\u00e9 visuelle suppose :",
+    "options": [
+      "A. On utilise des tests sp\u00e9ciaux appel\u00e9s optotypes",
+      "B. L'acuit\u00e9 visuelle se mesure \u00e0 la distance de 5 m",
+      "C. Une acuit\u00e9 visuelle \u00e9gale \u00e0 pmm signifie per\u00e7oit la lumi\u00e8re",
+      "D. L'acuit\u00e9 visuelle se mesure \u00e0 la distance de 8m",
+      "E. Si le patient ne voit pas le premier rang \u00e0 la distance de 5 m alors il est amen\u00e9 \u00e0 1m de l'optotype"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 26,
+    "question": "* L'examen de l'angle cam\u00e9rulaire \u00e0 l'aide d'une lentille de contact porte le nom de :",
+    "options": [
+      "A. Tonom\u00e9trie",
+      "B. Gonioscopie",
+      "C. Campim\u00e9trie",
+      "D. Exophtalmom\u00e9trie",
+      "E. \u00c9chographie"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 27,
+    "question": "Les caract\u00e9ristiques de la tonom\u00e9trie par indentation sont :",
+    "options": [
+      "A. L'utilisation du tonom\u00e8tre Goldmann",
+      "B. L'utilisation de la fluoresc\u00e9ine",
+      "C. Le positionnement du patient assis",
+      "D. L'utilisation du tonom\u00e8tre Schi\u00f8tz",
+      "E. L'administration d'anesth\u00e9sique topique au niveau oculaire"
+    ],
+    "correct_answers": ["D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 28,
+    "question": "L'exophtalmom\u00e9trie pr\u00e9sente les caract\u00e9ristiques suivantes :",
+    "options": [
+      "A. Les valeurs normales sont entre 12 et 15 mm",
+      "B. Une valeur de plus de 2 mm d\u00e9finit une exophtalmie tr\u00e8s grande (Note: diff\u00e9rence entre les yeux)",
+      "C. On utilise l'exophtalmom\u00e8tre Hertel",
+      "D. Dans l'exophtalmie unilat\u00e9rale, la diff\u00e9rence de pro\u00e9minence des 2 yeux indique le degr\u00e9 de l'exophtalmie",
+      "E. Mesure la protrusion du globe oculaire"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 29,
+    "question": "Les caract\u00e9ristiques de la tonom\u00e9trie par applanation Goldmann :",
+    "options": [
+      "A. L'utilisation d'un biomicroscope",
+      "B. Le patient doit \u00eatre allong\u00e9 sur un lit avec le regard orient\u00e9 vers les pieds",
+      "C. L'utilisation de la fluoresc\u00e9ine",
+      "D. L'aspect de S couch\u00e9 des mires",
+      "E. Le manque de contact entre le tonom\u00e8tre et la surface oculaire"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 30,
+    "question": "Les caract\u00e9ristiques de la campim\u00e9trie (p\u00e9rim\u00e9trie) :",
+    "options": [
+      "A. \u00c9value le champ visuel du patient",
+      "B. Est un examen n\u00e9cessaire aux patients glaucomateux",
+      "C. Consiste en la mesure de la tension intraoculaire",
+      "D. Permet la visualisation de l'ouverture de l'angle cam\u00e9rulaire",
+      "E. Offre des d\u00e9tails sur le degr\u00e9 d'exophtalmie du patient"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 31,
+    "question": "* Un vice de r\u00e9fraction de +1,50 dioptries sph\u00e9riques est repr\u00e9sentatif pour :",
+    "options": [
+      "A. La myopie",
+      "B. L'hyperm\u00e9tropie",
+      "C. L'astigmatisme mixte",
+      "D. L'astigmatisme hyperm\u00e9tropique simple",
+      "E. L'astigmatisme hyperm\u00e9tropique compos\u00e9"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 32,
+    "question": "* Laquelle des suivantes est une am\u00e9tropie sph\u00e9rique :",
+    "options": [
+      "A. La myopie",
+      "B. L'astigmatisme hyperm\u00e9tropique simple",
+      "C. L'astigmatisme hyperm\u00e9tropique compos\u00e9",
+      "D. L'astigmatisme myopique simple",
+      "E. L'astigmatisme mixte"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 33,
+    "question": "L'h\u00e9mianopsie bitemporale peut aussi \u00eatre appel\u00e9e :",
+    "options": [
+      "A. Une h\u00e9mianopsie h\u00e9t\u00e9ronyme",
+      "B. Une h\u00e9mianopsie homonyme",
+      "C. L'amputation du champ visuel dans le secteur sup\u00e9rieur des deux yeux",
+      "D. L'amputation du champ visuel dans le secteur temporal des deux yeux",
+      "E. L'amputation du champ visuel temporal de l'\u0153il droit"
+    ],
+    "correct_answers": ["A", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 34,
+    "question": "* L'acuit\u00e9 visuelle not\u00e9e N.D. signifie :",
+    "options": [
+      "A. Une vue de 0,5",
+      "B. Compte les doigts (Num\u0103r\u0103 Degetele",
+      "C. Une vue \u00e9gale \u00e0 0.7",
+      "D. Per\u00e7oit les mouvements de la main",
+      "E. Une vue \u00e9gale \u00e0 0.9"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 35,
+    "question": "* Un vice de r\u00e9fraction de -6,25 dioptries sph\u00e9riques repr\u00e9sente :",
+    "options": [
+      "A. La myopie",
+      "B. L'hyperm\u00e9tropie",
+      "C. L'astigmatisme mixte",
+      "D. L'astigmatisme myopique simple",
+      "E. L'astigmatisme myopique compos\u00e9"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 36,
+    "question": "Les affirmations suivantes sur l'ultrasonographie oculaire et orbitaire sont vraies :",
+    "options": [
+      "A. Offre des d\u00e9tails sur la longueur axiale du globe oculaire",
+      "B. Mesure la puissance de r\u00e9fraction du cristallin - biom\u00e9trie ultrasonique",
+      "C. N'offre pas de d\u00e9tails sur la pr\u00e9sence d'un d\u00e9collement de r\u00e9tine",
+      "D. N'est pas indiqu\u00e9e dans le diagnostic des tumeurs intraoculaires",
+      "E. Est utile dans les globes oculaires avec milieux opaques"
+    ],
+    "correct_answers": ["A", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 37,
+    "question": "* Les d\u00e9tails offerts par l'exophtalmom\u00e9trie sont :",
+    "options": [
+      "A. Les possibles fractures de l'orbite",
+      "B. La protrusion du globe oculaire",
+      "C. Le contenu du globe oculaire",
+      "D. La profondeur de la chambre ant\u00e9rieure",
+      "E. La puissance de r\u00e9fraction du cristallin"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 38,
+    "question": "Lesquelles des affirmations suivantes sur le test Schirmer 1 sont vraies :",
+    "options": [
+      "A. Mesure la s\u00e9cr\u00e9tion lacrymale totale",
+      "B. On utilise deux bandes de papier filtre larges de 5mm et longues de 35 mm",
+      "C. L'hypos\u00e9cr\u00e9tion lacrymale est d\u00e9finie par l'humectation d'une portion inf\u00e9rieure \u00e0 15 cm (Note: probablement mm dans le contexte m\u00e9dical, mais le texte dit cm)",
+      "D. L'humectation normale de la bande est entre 1 et 3 cm (ou 33mm selon la faute de frappe)",
+      "E. Inf\u00e9rieur 10-20 degr\u00e9s (R\u00e9ponse hors contexte, erreur du document source)"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 39,
+    "question": "Quelles sont les limites moyennes du CV (Champ Visuel monoculaire) :",
+    "options": [
+      "A. Temporal 20-30 degr\u00e9s",
+      "B. Temporal 80-90 degr\u00e9s",
+      "C. Nasal 50-60 degr\u00e9s",
+      "D. Inf\u00e9rieur 60-70 degr\u00e9s",
+      "E. Inf\u00e9rieur 10-20 degr\u00e9s"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 40,
+    "question": "Quels sont les facteurs qui d\u00e9pendent du patient examin\u00e9 et influencent la qualit\u00e9 du champ visuel :",
+    "options": [
+      "A. La r\u00e9fraction",
+      "B. Le diam\u00e8tre pupillaire",
+      "C. La surface du test",
+      "D. La qualit\u00e9 de la lumi\u00e8re",
+      "E. La vitesse de pr\u00e9sentation du test"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 41,
+    "question": "* La tonom\u00e9trie est :",
+    "options": [
+      "A. La mesure de la pression intraoculaire",
+      "B. L'\u00e9valuation du champ visuel",
+      "C. La mesure de la protrusion du globe oculaire",
+      "D. L'\u00e9valuation de la qualit\u00e9 du film lacrymal",
+      "E. L'examen du fond d'\u0153il"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 42,
+    "question": "Lesquelles des affirmations suivantes sur le tonom\u00e8tre non-contact sont vraies :",
+    "options": [
+      "A. Impose l'anesth\u00e9sie de la corn\u00e9e",
+      "B. Le risque d'infection du patient est \u00e9lev\u00e9",
+      "C. Ne n\u00e9cessite pas l'anesth\u00e9sie de la corn\u00e9e",
+      "D. La corn\u00e9e est aplatie par un jet d'air",
+      "E. Il n'existe pas de danger d'infection du patient"
+    ],
+    "correct_answers": ["C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 43,
+    "question": "L'examen biomicroscopique de l'iris poursuit :",
+    "options": [
+      "A. Modifications de couleur irienne",
+      "B. Modifications de position irienne",
+      "C. Modifications de relief irien",
+      "D. La motilit\u00e9 de l'iris",
+      "E. Le r\u00e9flexe de la pupille"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 44,
+    "question": "Quelles sont les causes cong\u00e9nitales de l'hypofonction de la glande lacrymale :",
+    "options": [
+      "A. L'aplasie de la glande lacrymale",
+      "B. La sarco\u00efdose",
+      "C. L'aplasie trig\u00e9minale",
+      "D. La parotidite \u00e9pid\u00e9mique",
+      "E. La br\u00fblure chimique"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 45,
+    "question": "La symptomatologie sp\u00e9cifique \u00e0 la baisse de la s\u00e9cr\u00e9tion lacrymale :",
+    "options": [
+      "A. La sensation d\u00e9sagr\u00e9able de br\u00fblure",
+      "B. Diplopie",
+      "C. L'apparition d'une s\u00e9cr\u00e9tion collante",
+      "D. La sensation de picotement",
+      "E. Le r\u00e9tr\u00e9cissement du champ visuel"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 46,
+    "question": "Quelles sont les variations pathologiques de la sensibilit\u00e9 corn\u00e9enne :",
+    "options": [
+      "A. L'hypoesth\u00e9sie corn\u00e9enne",
+      "B. La baisse de la transparence corn\u00e9enne",
+      "C. L'hyperesth\u00e9sie corn\u00e9enne",
+      "D. L'absence du lustre corn\u00e9en",
+      "E. La m\u00e9galocorn\u00e9e"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 47,
+    "question": "* Les affirmations suivantes sur la biomicroscopie sont fausses :",
+    "options": [
+      "A. Permet l'examen focal du p\u00f4le ant\u00e9rieur",
+      "B. Offre des d\u00e9tails sur l'\u00e9paisseur de la corn\u00e9e",
+      "C. Utilise seulement la lumi\u00e8re blanche",
+      "D. Est utilis\u00e9e dans l'examen du fond d'\u0153il",
+      "E. Permet l'\u00e9valuation de la profondeur de la chambre ant\u00e9rieure"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 48,
+    "question": "Quels sont les facteurs objectifs qui influencent l'effectuation du champ visuel :",
+    "options": [
+      "A. La surface du test",
+      "B. L'intensit\u00e9 lumineuse du test",
+      "C. La vitesse de pr\u00e9sentation du test",
+      "D. La coop\u00e9ration du patient",
+      "E. La dur\u00e9e de pr\u00e9sentation du test"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 49,
+    "question": "Lesquelles des affirmations suivantes li\u00e9es \u00e0 l'\u00e9rythropsie sont vraies :",
+    "options": [
+      "A. Repr\u00e9sente la vision color\u00e9e en rouge d'une surface blanche",
+      "B. Est rencontr\u00e9e dans l'h\u00e9morragie dans le vitr\u00e9",
+      "C. Le patient voit la surface blanche comme \u00e9tant color\u00e9e en bleu",
+      "D. S'associe \u00e0 l'intoxication aux champignons",
+      "E. Se retrouve dans l'intoxication \u00e0 la santonine (xantonine)"
+    ],
+    "correct_answers": ["A", "B"]
+  }
+]

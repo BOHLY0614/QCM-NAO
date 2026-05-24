@@ -1,0 +1,44 @@
+C
+B
+D
+C
+A
+A
+A, D
+B, C
+A
+B
+C, D
+A, E
+A, C
+E
+C
+C, E
+A, C
+B, C
+C, D, E
+B, C, E
+B, C, E
+C, D
+A, B, C, D
+D
+B, C, E
+A, C, D
+A, B, C, D
+D
+A, B
+A, B, C
+A, C, D
+A, B, C
+A, D
+B, D, E
+A, B
+A, D, E
+A, C, D
+A, B, C
+A, B, C
+A, D
+A, B, D
+A, B, D, E
+A, B, D
+A, C, D
