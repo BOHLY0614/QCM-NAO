@@ -1,0 +1,349 @@
+1. Le CA 19-9 augmente le plus souvent dans:
+A. le cancer du poumon
+B. le cancer des ovaires
+C. le cancer du sein
+D. le cancer de la thyroïde
+E. le cancer du pancréas
+
+2. Quel est le premier signe clinique le plus courant du cancer du sein
+A. une masse mammaire
+B. le mamelon rétracté
+C. un écoulement du mamelon
+D. une mastite carcinomateuse
+E. la peau "peau d'orange"
+
+3. Le type de cancer du foie le plus courant est
+A. le cholangiocarcinome
+B. le carcinome à cellules claires
+C. le carcinome hépatocellulaire
+D. l'angiosarcome
+E. le lymphome
+
+4. Laquelle des histologies suivantes est l'histologie la plus courante dans le cancer du rein ?
+A. le carcinome à cellules transitionnelles
+B. l'adénocarcinome papillaire
+C. l'adénocarcinome à cellules claires
+D. l'adénocarcinome chromophobe
+E. le carcinome embryonnaire
+
+5. Le CA 125 augmente le plus fréquemment dans quel type de cancer:
+A. le cancer du pancréas
+B. le cancer du poumon
+C. le cancer des ovaires
+D. le cancer du sein
+E. le cancer colorectal
+
+6. L'anémie induite par la chimiothérapie est une anémie:
+A. normochrome normocytaire
+B. hypochrome microcytaire
+C. hyperchrome macrocytaire
+D. normochrome microcytaire
+E. normochrome macrocytaire
+
+7. Lequel des médicaments suivants est un inhibiteur de la topoisomerase:
+A. cyclophosphamide
+B. docétaxel
+C. doxorubicine
+D. oxaliplatine
+E. irinotecan
+
+8. Lequel des médicaments suivants n'est PAS une chimiothérapie
+A. cisplatine
+B. paclitaxel
+C. exémestane
+D. oxaliplatine
+E. étoposide
+
+9. L'anémie survenant au cours de la chimiothérapie repose sur un mécanisme
+A. de carence en fer
+B. de carence en B12
+C. de l'inhibition de la moelle osseuse induite par la tumeur
+D. de l'inhibition de la moelle osseuse induite par le traitement
+E. autoimmune
+
+10. Lequel des inhibiteurs de tyrosine kinase suivants est utilisé dans la leucémie myéloïde chronique
+A. sunitinib
+B. imatinib
+C. sorafenib
+D. erlotinib
+E. lapatinib
+
+11. Quelle est l'histologie la plus fréquente du cancer du sein
+A. carcinome lobulaire invasif
+B. carcinome canalaire invasif
+C. Tumeur phyllode
+D. La maladie de Paget
+E. angiosarcome
+
+12. Lequel des éléments suivants n'est PAS un facteur de risque de cancer de l'oesophage
+A. l'alcool
+B. le syndrome de Plummer-Vinson
+C. le tabac
+D. l'exposition au soleil
+E. l'oesophage de Barrett
+
+13. Les facteurs de risque du cancer du pancréas sont les suivants, sauf
+A. le tabac
+B. l'alcool
+C. l'obésité
+D. le Syndrome de Peutz-Jeghers
+E. les antécédents personnels de cancer du foie
+
+14. Lequel des éléments suivants n'est PAS un facteur de risque de cancer du poumon
+A. le tabac
+B. le régime
+C. l'exposition environnementale au radon
+D. l'exposition aux radiations
+E. l'exposition professionnelle à l'amiante
+
+15. Dans quel type de cancer du testicule peut-on utiliser la radiothérapie ?
+A. uniquement dans les tumeurs du sac vitellin
+B. uniquement dans le carcinome embryonnaire
+C. uniquement dans les séminomes
+D. seulement dans les tératomes
+E. dans tous les types histologiques de cancer du testicule
+
+16. Parmi les cancers suivants, lesquels sont les plus fréquents chez les hommes?
+A. cancer du poumon
+B. cancer de la thyroïde
+C. cancer de l'estomac
+D. cancer de l'oesophage
+E. cancer de la vessie
+
+17. Quelles affirmations sont vraies concernant les cancers professionnels
+A. sont de plus en plus courants ces derniers temps
+B. l'amiante peut provoquer un cancer du col de l'utérus
+C. les travailleurs de l'industrie des colorants et des peintures développent fréquemment un cancer de la vessie
+D. l'exposition aux composés du benzène peut développer une leucémie
+E. l'exposition aux radiations augmente le risque de leucémie
+
+18. La curiethérapie est
+A. une procédure de neurolyse antalgique pour le plexus brachial
+B. une technique de chimiothérapie intra-artérielle sur membre supérieur isolé
+C. une procédure dans laquelle la tumeur entre en contact avec une source radioactive
+D. une technique de radiothérapie
+E. procédé d'implantation d'un dispositif de perfusion de chimiothérapie
+
+19. La chimiothérapie pratiquée avant la chirurgie curative est appelée
+A. chimiothérapie primaire
+B. chimiothérapie adjuvante
+C. chimiothérapie néoadjuvante
+D. chimiothérapie palliative
+E. chimiothérapie accélérée
+
+20. Parmi les affirmations suivantes, lesquelles sont vraies concernant le cancer gastrique
+A. environ 95% des cancers gastriques sont des adénocarcinomes
+B. l'adénocarcinome diffus est situé au niveau de l'estomac distal
+C. l'adénocarcinome intestinal est situé au niveau de l'estomac distal
+D. l'adénocarcinome diffus a un meilleur pronostic
+E. l'adénocarcinome intestinal a un meilleur pronostic
+
+21. Quelles affirmations sont vraies concernant le cancer colorectal
+A. est rarement curable même dans les premiers stades
+B. l'incidence diminue avec l'âge
+C. l'activité physique et l'obésité n'influencent pas le risque de développer un cancer colorectal
+D. les fumeurs ont un risque élevé
+E. la polypose adénomateuse familiale (PAF) est associée à un risque élevé
+
+22. Quelles affirmations sont vraies concernant le cancer du foie
+A. Les tumeurs malignes du foie peuvent être à la fois des tumeurs primaires et des tumeurs secondaires
+B. le cancer du foie est l'un des cancers les plus rares au monde
+C. survient exclusivement chez les femmes
+D. le carcinome hépatocellulaire est la forme la plus fréquente
+E. le taux de survie global à 5 ans est proche de 50%
+
+23. Les symptômes qui peuvent être rencontrés chez les patients atteints d'un cancer de l'oesophage sont
+A. régurgitation
+B. dysphagie
+C. vomissements
+D. perte de poids
+E. hématurie
+
+24. L'examen clinique chez les patients atteints de carcinome hépatocellulaire peut détecter
+A. hépatomégalie
+B. splénomégalie
+C. circulation collatérale abdominale
+D. ascite
+E. tumeur au toucher rectal
+
+25. Parmi les histologies suivantes, lesquelles sont caractéristiques du cancer des testicules?
+A. Carcinome à cellules en anneau de chevalière
+B. Tumeur du sac vitellin
+C. choriocarcinome
+D. carcinome embryonnaire
+E. carcinome à cellules transitionnelles
+
+26. L'adénocarcinome rénal est
+A. sensible à la chimiothérapie
+B. résistant à la chimiothérapie
+C. sensible à la radiothérapie
+D. résistant à la radiothérapie
+E. sensible aux thérapies anti-angiogéniques
+
+27. L'antigène carcinoembryonnaire (ACE) est fréquemment élevé dans
+A. le cancer colorectal
+B. le cancer du poumon
+C. le cancer du sein
+D. le cancer de la tête et du cou
+E. la méningite bactérienne
+
+28. Les affirmations suivantes sont vraies concernant l'IRM
+A. repose sur l'utilisation des rayons X
+B. l'utilisation d'un champ magnétique 
+C. est contre-indiqué en présence de divers appareils métalliques ou stimulateurs cardiaques
+D. est plus efficace que la tomographie dans l'évaluation des lésions cérébrales ou pelviennes
+E. le temps de réalisation de l'IRM est très court, quelques secondes
+
+29. Les suivants critères microscopiques suggèrent une malignité
+A. une variation de la taille et de la forme des cellules
+B. une faible activité mitotique
+C. des noyaux de forme variable
+D. une disposition organisée des cellules
+E. une augmentation de l'activité mitotique
+
+30. Les systèmes de classification des tumeurs malignes prend en compte le suivantes caractéristiques
+A. le degré de différenciation des tissus
+B. le nombre de mitoses
+C. la taille de la tumeur primaire
+D. le pléomorphisme nucléaire
+E. l'existence de métastases à distance
+
+31. Le suivi des patients atteints d'un cancer
+A. permet de détecter une rechute précoce
+B. s'appelle le dépistage
+C. s'appelle la prévention primaire
+D. s'appelle la prévention secondaire
+E. s'appelle la prévention tertiaire
+
+32. Parmi les affirmations suivantes, lesquelles sont vraies concernant la curiethérapie ?
+A. en curiethérapie, les sources de rayonnement sont placées en contact intime avec le tissu tumoral
+B. la curiethérapie de surface est utilisée dans le cancer de la prostate
+C. les implants intra-cavitaires sont utilisés dans le cancer du col de l'utérus
+D. les techniques de post-chargement protègent le personnel médical
+E. la curiethérapie interstitielle est utilisée pour le cancer de la peau
+
+33. Parmi les médicaments antiémétiques suivants, lesquels sont des antagonistes de la sérotonine ?
+A. ondansétron
+B. aprépitant
+C. métoclopramide
+D. palonosétron
+E. prochlorpérazine
+
+34. Parmi les facteurs suivants, lesquels sont des facteurs de risque du cancer du sein?
+A. cycle menstruel tardif et ménopause précoce
+B. contraceptifs oraux
+C. obésité
+D. alcool
+E. faible niveau socio-économique
+
+35. Le Trastuzumab
+A. est un anticorps monoclonal anti-HER2
+B. est un anticorps monoclonal anti-CD20
+C. est un anticorps monoclonal anti-VEGF
+D. peut être associé à une chimiothérapie
+E. est utilisé dans certains types de cancer du sein
+
+36. Quelles affirmations sont vraies concernant le pronostic du cancer de l'oesophage
+A. le cancer de l'oesophage a un bon pronostic, le taux de survie à 5 ans est supérieur à 40%
+B. le stade est le facteur pronostique le plus important
+C. la perte de poids de plus de 10% a un pronostic défavorable
+D. les métastases hépatiques n'influencent pas le pronostic
+E. la tumeur dans le tiers inférieur et moyen a un plus mauvais pronostic
+
+37. Parmi les suivants, lesquels sont des syndromes dermatologiques paranéoplasiques
+A. l'ichtyose acquise
+B. le syndrome de sécrétion inappropriée d'ADH
+C. le Syndrome d'Eaton-Lambert
+D. l'acanthosis nigricans
+E. la myasthénie grave
+
+38. Les nausées et les vomissements causés par la chimiothérapie peuvent être
+A. aigu au cours des 24 premières heures de traitement
+B. retardé, à partir de 24 heures après le traitement
+C. d'intensité constante tout au long de la chimiothérapie
+D. par anticipation, avant l'administration
+E. la chimiothérapie ne provoque jamais de nausées et de vomissements
+
+39. Dans le cancer du sein, la castration peut être pratiquée:
+A. chirurgicalement
+B. par irradiation
+C. chimiquement à l'aide d'inhibiteurs de l'aromatase
+D. chimiquement à l'aide d'analogues de la GnRH
+E. chimiquement avec des anti-oestrogènes
+
+40. Les facteurs de risque du cancer du foie sont
+A. l'infection par le VHB
+B. l'infection par le VHC
+C. la cirrhose
+D. l'ingestion d'aliments contaminés par l'aflatoxine
+E. l'exposition au soleil
+
+41. Les saignements dans le cancer colorectal peuvent être
+A. l'un des premiers signes cliniques du cancer colorectal
+B. sous forme de melena
+C. sous forme de sang rouge dans les selles
+D. sous forme d'hémorragie occulte
+E. sous forme d'hématémèse
+
+42. Les déclarations suivantes concernant le traitement du cancer colorectal sont vraies
+A. la chimiothérapie n'est utile que chez les patients atteints d'une maladie métastatique
+B. la radiothérapie est utile dans le traitement du cancer du rectum
+C. la combinaison de la chimiothérapie et des anticorps monoclonaux prolonge la survie des patients atteints d'un cancer colorectal métastatique
+D. la chimiothérapie combinée couramment utilisée est basée sur le 5-FU ou la capécitabine
+E. la radiothérapie est utile dans le traitement du cancer du colon proximal
+
+43. Parmi ces médicaments, lesquels sont des inhibiteurs de la tyrosine kinase à utiliser dans le cancer du rein
+A. sunitinib
+B. temsirolimus
+C. bevacizumab
+D. évérolimus
+E. sorafenib
+
+44. Lequel des virus suivants a une capacité oncogène?
+A. le Virus d'Epstein-Barr
+B. le virus de l'hépatite C
+C. la souche VPH-16
+D. le virus de la grippe
+E. le virus de l'hépatite B
+
+45. La numération formule sanguine (NFS) d'un patient cancéreux sous traitement de chimiothérapie souvent peut présenter
+A. une anémie
+B. une polyglobulie
+C. une thrombocytopénie
+D. une neutrophilie
+E. une neutropénie
+
+46. Parmi les marqueurs suivants, lesquels sont utilisés dans le cancer colorectal
+A. AFP
+B. CEA
+C. CA 15-3
+D. CA 125
+E. CA 19-9
+
+47. L'ultrasonographie
+A. à l'avantage de ne pas être invasif
+B. peut être pratiquée même pendant la grocesse
+C. est la méthode de choix dans le diagnostic du cancer du poumon
+D. a une résolution plus élevée que l'IRM dans le cancer du foie
+E. peut faire la différence entre une masse kystique et une tumeur solide
+
+48. Les examens endoscopiques présentent les avantages suivants
+A. permettent de prélever des biopsies
+B. ne sont pas invasifs
+C. sont facilement tolérés par le patient
+D. visualiser l'épithélium des organes creux
+E. n'ont jamais besoin de sédation
+
+49. Biopsie au trocart (core needle biopsy)
+A. dans le cancer du sein
+B. guidée par échographie
+C. dans le cancer de la prostate
+D. peut être réalisé sous guidage échographique
+E. ne permettent qu'un diagnostic cytologique limité
+
+50. Concernant la classification TNM
+A. il existe deux types distincts de stadification: la stadification clinique et la stadification pathologique
+B. la stadification clinique est basée sur les résultats obtenus par examen microscopique de la tumeur
+C. les stades clinique et pathologique sont toujours identiques
+D. la stadification clinique diffère parfois de la stadification pathologique
+E. la stadification pathologique est basée sur des examens d'imagerie

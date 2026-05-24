@@ -69,9 +69,9 @@ def read_questions_and_answers(questions_filename, answers_filename):
     return questions
 
 # Partie pour radio
-questions = read_questions_and_answers("PaliaQ.txt", "PaliaR.txt")
+questions = read_questions_and_answers("OncoFRQ.txt", "OncoFRR.txt")
 
-input_file = "PaliaR.txt"
+input_file = "OncoFRR.txt"
 convert_to_uppercase_inplace(input_file)
 
 with open(input_file, "r") as f:

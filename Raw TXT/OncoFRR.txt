@@ -1,0 +1,50 @@
+E
+A
+C
+C
+C
+A
+E
+C
+D
+B
+B
+D
+E
+B
+C
+ACDE
+C, D, E
+C, D
+A, C
+A, C, E
+D, E
+A, D
+A, B, C, D
+A, B, C, D
+B, C, D
+B, D, E
+A, B, C
+B, C, D
+A, C, E
+A, B, D
+A, E
+A, C, D
+A, D
+B, C, D
+A, D, E
+B, C
+A, D
+A, B, D
+C, D, E
+A, B, C, D
+A, B, C, D
+B, C, D
+A, E
+A, B, C, E
+A, C, E
+B, E
+ABE
+A, D
+A, B, C, D
+A, D, E
