@@ -1,0 +1,349 @@
+1. *Laquelle des étiologies suivantes est la plus fréquente dans le cancer du rein 
+A. carcinome transitionnel
+B. adénocarcinome papillaire
+C. adénocarcinome à cellules claires
+D. adénocarcinome chromophobe
+E. carcinome embryonnaire
+
+1. *La métastase la plus fréquente du néoplasme de la prostate :
+A. hépatique
+B. cérébrale
+C. osseuse
+D. pulmonaire
+E. cutanée
+
+1. *Lequel des éléments suivants n'est pas un élément pronostique négatif pour un patient atteint d'un adénocarcinome bronchopulmonaire
+A. Perte de poids involontaire de 10 kg au cours des 6 derniers mois
+B. Mutation EGFR présente
+C. Indice de performance ECOG 3
+D. Nodule pulmonaire controlatéral
+E. Métastase hépatique
+
+1. *Quelle est la fréquence des cancers du sein hormono-dépendants
+A. Moins de 5%
+B. 20-30%
+C. 40-50%
+D. 60-70%
+E. Plus de 90%
+
+1. *Quel est le principal facteur de risque dans le cancer du col de l'utérus
+A. Exposition prolongée aux œstrogènes
+B. Exposition prolongée aux rayons du soleil
+C. Contact sexuel non protégé
+D. Infection par le HP (VPH)
+E. Alimentation riche en protéines et graisses animales
+
+1. *Le type de cancer hépatique le plus fréquent est
+A. Hépatocarcinome
+B. Cholangiocarcinome
+C. Hépatoblastome
+D. Angiosarcome
+E. Lymphome
+
+1. *Les syndromes paranéoplasiques que l'on peut retrouver dans le cancer gastrique sont
+A. acanthosis nigricans
+B. dermatomyosite
+C. Syndrome de Trousseau
+D. Syndrome néphrotique
+E. Toutes les réponses ci-dessus
+
+1. *Laquelle des affirmations suivantes concernant la résistance biochimique à la chimiothérapie est fausse
+A. La tumeur peut être incapable de convertir l'agent antinéoplasique en sa forme active
+B. La résistance pléiotropique est donnée par une structure cellulaire de type pompe membranaire
+C. La cellule peut augmenter le niveau des enzymes cibles que l'agent cytotoxique a l'intention d'inactiver
+D. La résistance est due à un déficit d'irrigation du tissu malin
+E. La cellule peut augmenter l'expression des enzymes de réparation de l'ADN
+
+1. *Quel est le signe clinique le plus fréquent au début du cancer du sein
+A. nodule mammaire tumoral
+B. adénopathie axillaire
+C. écoulement mamelonnaire
+D. mastite carcinomateuse
+E. Peau d'orange
+
+1. *Lesquels des médicaments suivants sont des antibiotiques antitumoraux
+A. analogues de la moutarde à l'azote
+B. nitrosourées
+C. analogues de la purine
+D. anthracyclines
+E. taxanes
+
+1. *Lequel des médicaments antiémétiques suivants est un antagoniste de la neurokinine 1 (NK-1)
+A. Ondansétron
+B. Aprépitant
+C. Métoclopramide
+D. Palonosétron
+E. Prochlorpérazine
+
+1. *Lequel des médicaments suivants est un cytostatique
+A. Tamoxifène
+B. Paclitaxel
+C. Trastuzumab
+D. Imatinib
+E. Exémestane
+
+1. *Le bortézomib est
+A. Inhibiteur de la kinase mTOR
+B. Anticorps monoclonal
+C. Inhibiteur de la tyrosine kinase
+D. Une cytokine
+E. Inhibiteur du protéasome
+
+1. *Les niveaux de CA 19-9 augmentent le plus fréquemment dans
+A. Cancer du poumon
+B. Cancer de l'ovaire
+C. Cancer du sein
+D. Cancer de la thyroïde
+E. Cancer du pancréas
+
+1. Inhibiteurs de l'aromatase
+A. Réduisent le niveau d'œstrogène par le blocage de la synthèse
+B. Réduisent le niveau d'œstrogène par la liaison aux récepteurs des œstrogènes
+C. Réduisent le niveau d'œstrogène par la liaison aux récepteurs des œstrogènes et de la progestérone
+D. Réduisent le niveau d'œstrogène par castration chimique
+E. Réduisent le niveau d'œstrogène par castration chimique et liaison aux récepteurs des œstrogènes
+
+1. Les antigènes carcinoembryonnaires ont fréquemment des valeurs élevées chez les individus
+A. atteints d'un cancer colorectal
+B. atteints d'un cancer du poumon
+C. atteints de cirrhose hépatique
+D. non-fumeurs
+E. atteints de méningite bactérienne
+
+1. Les affirmations suivantes sont vraies à propos de l'IRM
+A. Est basée sur l'utilisation des rayons X
+B. Est basée sur la propriété des atomes d'hydrogène dans un champ magnétique
+C. Est contre-indiquée en présence de dépôts métalliques et de stimulateurs cardiaques
+D. Est plus efficace que la TDM pour évaluer les lésions cérébrales ou pelviennes
+E. Le temps d'une IRM est très court
+
+1. Une série de critères qui suggèrent microscopiquement la malignité
+A. Pléomorphisme cellulaire
+B. Activité mitotique diminuée
+C. Pléomorphisme nucléaire
+D. Conservation de l'architecture tissulaire
+E. null
+
+1. L'immunohistochimie
+A. Est utilisée uniquement pour les tumeurs testiculaires
+B. Permet la détection de certains antigènes exprimés au niveau de la membrane cytoplasmique ou nucléaire
+C. Permet le phénotypage de la tumeur et sa classification dans un certain type tumoral
+D. Est un examen complémentaire utile dans l'anaplasie tumorale avec un point de départ non précisé
+E. Nécessite un examen scintigraphique initial
+
+1. Le grading des tumeurs malignes :
+A. Apprécie l'anaplasie cellulaire
+B. Apprécie le nombre de mitoses
+C. Apprécie la taille de la tumeur primaire
+D. Apprécie le pléomorphisme nucléaire
+E. Apprécie l'existence de métastases à distance
+
+1. Les éléments suivants sont des exemples d'études épidémiologiques analytiques
+A. Études d'incidence
+B. Études descriptives
+C. Études de cohorte
+D. Études cas-témoins
+E. null
+
+1. Lesquelles des affirmations suivantes sont vraies concernant les facteurs de risque liés à l'alimentation :
+A. La consommation de légumes et de fruits augmente le risque de cancers digestifs
+B. Le glucane végétal peut augmenter l'immunité de la paroi intestinale
+C. Les phytoestrogènes ont un effet protecteur pour le cancer du sein et de la prostate
+D. L'huile d'olive est un facteur de risque oncologique
+E. Les aflatoxines fongiques sont le principal facteur de risque du cancer du poumon
+
+1. Le suivi post-thérapeutique
+A. est aussi appelé dépistage
+B. est aussi appelé follow-up
+C. est aussi appelé prévention primaire
+D. est aussi appelé prévention secondaire
+E. est aussi appelé prévention tertiaire
+
+1. Le rôle de la chirurgie dans le diagnostic et la stadification des tumeurs malignes
+A. est dernièrement de plus en plus important à mesure que de nouvelles techniques de stadification se développent
+B. est réalisée comme procédure initiale dans tous les néoplasmes digestifs
+C. permet la biopsie chirurgicale
+D. permet de réaliser l'excision tumorale ultérieure dans la même séance d'anesthésie
+E. est la procédure qui définit le stade TNM dans la LMA
+
+1. Chirurgie reconstructive chez le patient oncologique
+A. Améliore la survie
+B. Répare les défauts
+C. Améliore la qualité de vie
+D. Restaure la fonctionnalité des organes ou segments affectés
+E. Réduit la masse tumorale
+
+1. Lesquelles des affirmations suivantes sont vraies à propos de la curiethérapie :
+A. En curiethérapie, les sources de rayonnement sont en contact intime avec le tissu tumoral
+B. La curiethérapie endocavitaire est particulièrement utilisée dans le cancer de la prostate
+C. La curiethérapie de contact est utilisée dans le cancer du col de l'utérus
+D. Les techniques de projecteur de source protègent le personnel médical de l'irradiation
+E. La curiethérapie interstitielle est utilisée dans le cancer de la cavité buccale
+
+1. Les bénéfices de la chimiothérapie néoadjuvante sont :
+A. réduire la probabilité de récidive systémique ultérieure
+B. est effectuée après l'ablation de la tumeur primaire et permet d'obtenir des informations microscopiques sur la tumeur
+C. permet d'évaluer l'efficacité du traitement en mesurant la taille de la tumeur primaire
+D. réduire la masse de la tumeur primaire et faciliter la progression chirurgicale
+E. est effectuée à de faibles doses qui ne causent pas de complications immédiates ou tardives
+
+1. Les combinaisons de chimiothérapie ont les principes suivants :
+A. substances qui génèrent des mécanismes de résistance différents
+B. substances qui agissent par le même mécanisme
+C. substances ayant des effets indésirables différents
+D. substances qui agissent à différents moments du cycle cellulaire
+E. substances qui agissent par des mécanismes différents
+
+1. Thrombocytopénie pendant la chimiothérapie :
+A. est rarement sévère ou mortelle
+B. Détermine le traitement si les plaquettes sont < 100 000/mm3
+C. Détermine le traitement si les plaquettes sont < 10 000/mm3
+D. Détermine le traitement si les plaquettes sont < 50 000/mm3
+E. Peut être corrigée avec des plaquettes
+
+1. Lesquels des éléments suivants sont des facteurs de risque pour le cancer du sein :
+A. cycle menstruel avec apparition tardive et ménopause précoce
+B. Contraceptifs oraux
+C. Obésité
+D. Alcool
+E. provenir d'un pays pauvre
+
+1. Trastuzumab :
+A. est un anticorps monoclonal anti-HER2
+B. est un anticorps monoclonal anti-CD20
+C. est un anticorps monoclonal anti-VEGF
+D. peut être associé à la chimiothérapie
+E. est indiqué dans le cancer colorectal métastatique
+
+1. Lesquelles des affirmations suivantes concernant le pronostic du cancer de l'œsophage sont vraies :
+A. Le cancer de l'œsophage a un bon pronostic, la survie à 5 ans étant > 40%
+B. Le statut TNM est le facteur pronostique le plus important
+C. Une diminution > 10% du poids corporel est associée à un pronostic plus défavorable
+D. La présence de métastases hépatiques n'influence pas le pronostic
+E. La localisation de la tumeur au niveau du tiers inférieur et moyen a un pronostic plus défavorable
+
+1. Les facteurs pronostiques dans le cancer colorectal sont :
+A. le grade tumoral, les tumeurs G1 et G2 ayant un pronostic plus défavorable que G3 et G4
+B. le type histopathologique, le carcinome à cellules en bague à chaton et le carcinome mucineux ayant un pronostic plus réservé
+C. le stade TNM est l'élément pronostique le plus important
+D. l'invasion lymphatique ou veineuse
+E. la tumeur résiduelle
+
+1. Les facteurs de risque pour le cancer du pancréas sont :
+A. Tabagisme
+B. alimentation hyperlipidique
+C. gastrectomie partielle
+D. pancréatite chronique
+E. Exposition excessive à la lumière du soleil
+
+1. Les symptômes observés dans le cancer gastrique sont les suivants :
+A. douleur épigastrique
+B. anorexie
+C. satiété précoce
+D. vomissements alimentaires
+E. hématurie
+
+1. Les facteurs pronostiques négatifs dans le cancer du pancréas sont :
+A. âge avancé
+B. localisation à la tête du pancréas
+C. le stade avancé de la maladie
+D. tumeur peu différenciée
+E. tumeur bien différenciée
+
+1. Lequel des éléments suivants est un facteur de risque dans le cancer du poumon
+A. cirrhose hépatique
+B. exposition à l'amiante
+C. exposition au radon
+D. HTA
+E. DZ
+
+1. Lesquelles des affirmations suivantes sont vraies concernant la radiothérapie dans le cancer du poumon
+A. L'irradiation crânienne prophylactique est effectuée uniquement chez les patients atteints de cancer non à petites cellules
+B. La radiothérapie radicale irradie la tumeur primaire, les ganglions hilaires et le médiastin
+C. La radiothérapie palliative peut être utilisée dans le syndrome de la veine cave supérieure
+D. La chimio-radiothérapie concomitante apporte un bénéfice par rapport à la séquentielle
+E. null
+
+1. La chimiothérapie dans le cancer de la prostate
+A. est généralement une solution utilisée tardivement après l'hormonothérapie
+B. est le traitement initial dans le cancer de la prostate métastatique
+C. Le Docétaxel et la Prednisone sont utilisés en première ligne de chimiothérapie
+D. La Mitoxantrone peut être utilisée chez les patients qui ne tolèrent pas la thérapie aux taxanes
+E. utilise des combinaisons de 3-4 cytostatiques qui donnent des réponses plus efficaces
+
+1. Laquelle des histologies suivantes est caractéristique d'un cancer testiculaire
+A. carcinome à cellules en bague à chaton
+B. Tumeur du sac vitellin
+C. Choriocarcinome
+D. carcinome transitionnel
+E. Carcinome embryonnaire
+
+1. Lesquels des médicaments suivants sont des inhibiteurs de la tyrosine kinase utilisés dans le néoplasme rénal ?
+A. Sunitinib
+B. Temsirolimus
+C. Bévacizumab
+D. Évérolimus
+E. Sorafénib
+
+1. Lesquelles des affirmations suivantes sont vraies à propos de l'adénocarcinome endométrioïde :
+A. survient dans 20% des cas de cancer de l'endomètre
+B. a un meilleur pronostic que l'adénocarcinome à cellules claires
+C. les cellules ont des niveaux accrus de récepteurs à la progestérone
+D. affecte plus souvent les personnes âgées
+E. associé à l'obésité et au diabète
+
+1. Lesquelles des affirmations suivantes concernant la thérapie systémique dans le cancer de l'endomètre sont vraies :
+A. La chimiothérapie systémique est indiquée dans les formes avancées ou récurrentes
+B. l'hormonothérapie est particulièrement indiquée dans les tumeurs bien différenciées avec des récepteurs hormonaux positifs
+C. l'hormonothérapie est indiquée dans le traitement adjuvant du cancer de l'endomètre
+D. l'hormonothérapie est indiquée dans les formes métastatiques ou récurrentes
+E. l'hormonothérapie utilise le bicalutamide ou des analogues de la GnRH
+
+1. Lesquelles des affirmations suivantes à propos du cancer de l'ovaire sont vraies :
+A. La plupart des cancers de l'ovaire sont des tumeurs germinales
+B. La plupart des cancers de l'ovaire sont des tumeurs stromales
+C. La plupart des cancers de l'ovaire sont d'origine épithéliale
+D. sont généralement des tumeurs chimiosensibles
+E. généralement détectés à des stades avancés
+
+1. Lesquelles des affirmations suivantes à propos du cancer de l'ovaire sont vraies :
+A. La dissémination la plus fréquente est l'ensemencement péritonéal
+B. la dissémination la plus fréquente est hématogène
+C. Les métastases pulmonaires et cérébrales surviennent rarement
+D. Le cancer de l'ovaire est le plus souvent détecté à des stades précoces, limité à l'ovaire
+E. l'os est le lieu de métastase le plus courant
+
+1. Quelles procédures chirurgicales peuvent être utilisées dans le cancer du col de l'utérus :
+A. Conisation
+B. Tumorectomie
+C. hystérectomie radicale avec lymphadénectomie pelvienne bilatérale
+D. sectorectomie
+E. exentération pelvienne
+
+1. Les gènes suppresseurs de tumeurs :
+A. peuvent donner naissance à des proto-oncogènes par des mutations
+B. contrôlent le cycle cellulaire
+C. sont aussi appelés proto-oncogènes
+D. jouent un rôle dans la carcinogenèse
+E. Le plus connu est le p53, avec le rôle de gardien du génome
+
+1. L'anémie dans le cancer peut être due :
+A. le plus souvent à un mécanisme auto-immun
+B. inhibition directe de l'érythropoïèse par la tumeur par production de cytokines
+C. un mécanisme de carence en fer par des hémorragies occultes
+D. Œdème
+E. infiltration directe de la moelle osseuse hématopoïétique
+
+1. Dans les métastases hépatiques, des changements peuvent survenir dans :
+A. Transaminases
+B. Bilirubine
+C. PSA
+D. albumine sérique
+E. tests de coagulation
+
+1. Les affirmations suivantes concernant le traitement du cancer colorectal sont vraies
+A. La chimiothérapie n'est utile que chez les patients présentant des tumeurs non résécables ou une maladie métastatique
+B. La radiothérapie est utile dans le traitement du cancer du rectum
+C. l'association d'anticorps monoclonaux à la chimiothérapie conduit à prolonger la survie des patients atteints d'un cancer colorectal métastatique
+D. La chimiothérapie utilise généralement le 5-FU ou des combinaisons à base de capécitabine
+E. la radiothérapie est utile dans le traitement du cancer du côlon proximal
