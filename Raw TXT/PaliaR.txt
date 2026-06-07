@@ -1,50 +1,50 @@
-A
+E
 B
 B
-C
+E
 D
 E
+A 
 C
 B
 D
-D
+B 
 A
-A
+C 
 B
-B
-B
+E
 C
-A,D,E
-A,D
-BD
-AD
+ADE
+ABCD
+BCE
+BDE
 CDE
 CE
 BD
-AB
-ADE
-ABD
-ABDE
-ACE
+BCD
+ABCE
+ADE 
+ABC
+ABCD
 ABE
-BD
-AC
+ABD
+BD 
+ACD
+CDE
+BCD
 ACDE
-CD
-B, C
-ACDE
 AC
-A, B, C
-ABDE
-D, E
-B, C, D, E
-AC
-B, D
-A, B, C, D
-B, C, E
-ABDE
+ABE 
+ABD
+ADE 
+ACE 
+ACD 
+ABD 
+CDE 
+BC
 ADE
-A, B, C, D, E
-A, B, C, D
-A, C
-A, D
+ADE
+BCE
+ACDE
+BCDE
+AD

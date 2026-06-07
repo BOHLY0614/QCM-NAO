@@ -69,9 +69,9 @@ def read_questions_and_answers(questions_filename, answers_filename):
     return questions
 
 # Partie pour radio
-questions = read_questions_and_answers("PedFRQ.txt", "PedFRR.txt")
+questions = read_questions_and_answers("PaliaQ.txt", "PaliaR.txt")
 
-input_file = "PedFRR.txt"
+input_file = "PaliaR.txt"
 convert_to_uppercase_inplace(input_file)
 
 with open(input_file, "r") as f:
@@ -91,7 +91,7 @@ for question in questions:
 
 # Pour chaque groupe de questions, écrivez les questions dans un fichier JSON séparé
 for chapitre, groupe in groupes.items():
-    nom_fichier = f"Nephro3(corrigé GPT).json"
+    nom_fichier = f"Palia_jaune.json"
     with open(nom_fichier, "w") as f:
         json.dump([q.to_dict() for q in groupe], f, indent=4)
 
