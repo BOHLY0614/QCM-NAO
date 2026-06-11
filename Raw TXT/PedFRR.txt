@@ -1,7 +1,7 @@
 D 
 CDE 
 ACE 
-ABC
+ACE 
 AB 
 AC 
 BCDE 
