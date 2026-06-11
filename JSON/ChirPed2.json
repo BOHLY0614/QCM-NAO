@@ -1,0 +1,509 @@
+[
+  {
+    "chapitre": 0,
+    "id": 1,
+    "question": "*La forme anatomo-pathologique d'hydroc\u00e8le qui peut gu\u00e9rir spontan\u00e9ment est :",
+    "options": [
+      "A. Hydroc\u00e8le vaginale",
+      "B. kyste du cordon",
+      "C. hydroc\u00e8le communicant",
+      "D. toutes les formes \u00e9num\u00e9r\u00e9es",
+      "E. kyste du canal de Nuck"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 2,
+    "question": "*La cause la plus fr\u00e9quente d'hydron\u00e9phrose cong\u00e9nitale est:",
+    "options": [
+      "A. un rein en fer de cheval",
+      "B. vaisseaux polaires inf\u00e9rieurs",
+      "C. haut insertion de l'uret\u00e8re",
+      "D. st\u00e9nose de jonction py\u00e9lo-ur\u00e9t\u00e9rale",
+      "E. rein ectopique"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 3,
+    "question": "*Dans la hernie hiatale l'angle de Hiss (forme par le fornix gastrique et l'oesophage):",
+    "options": [
+      "A. est exactement \u00e0 90 degr\u00e9",
+      "B. ne change pas de la normale",
+      "C. est inf\u00e9rieure \u00e0 90 degr\u00e9",
+      "D. c'est obtus, essuye ou dispara\u00eet",
+      "E. aucune r\u00e9ponse n'est correcte"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 4,
+    "question": "*Dans le m\u00e9gac\u00f4lon cong\u00e9nital:",
+    "options": [
+      "A. j\u00e9junale",
+      "B. anale",
+      "C. recto-sigmo\u00efde",
+      "D. il\u00e9ale",
+      "E. caecale"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 5,
+    "question": "*Dans l'atr\u00e9sie duod\u00e9nale le sympt\u00f4me dominant est repr\u00e9sent\u00e9 par :",
+    "options": [
+      "A. vomissements m\u00e9coniaux",
+      "B. l'abdomen m\u00e9t\u00e9orise",
+      "C. vomissements bilieux appara\u00eet dans 90% des cas dans les premi\u00e8res 24 heures",
+      "D. vomissements blancs",
+      "E. selles diarrh\u00e9iques"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 6,
+    "question": "*Les invaginations plus fr\u00e9quentes sont :",
+    "options": [
+      "A. il\u00e9o-caeco-colique",
+      "B. ano-rectale",
+      "C. duod\u00e9no-j\u00e9junale",
+      "D. j\u00e9juno-il\u00e9ale",
+      "E. gastro-duod\u00e9nale"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 7,
+    "question": "*Dans la lymphad\u00e9nite m\u00e9sent\u00e9rique :",
+    "options": [
+      "A. dans l'\u00e9pigastre",
+      "B. dans la fosse iliaque gauche",
+      "C. dans la fosse iliaque droite",
+      "D. p\u00e9riombilicale",
+      "E. dans l'hypogastre"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 8,
+    "question": "*Dans la malrotation intestinale avec volvulus la radiographie avec solution de contraste indique :",
+    "options": [
+      "A. l'image en \"tire-bouchon\"",
+      "B. la pr\u00e9sence de la substance de contraste au-dessus et au-dessous de l'anse volvul\u00e9e",
+      "C. l'image en balance",
+      "D. opacification de toute le cadre colique",
+      "E. r\u00e9tention de la substance de contraste dans l'anse volvul\u00e9e"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 9,
+    "question": "Les h\u00e9mangiomes:",
+    "options": [
+      "A. Sont des tumeurs vasculaire compos\u00e9e de capillaire de n\u00e9o-formation de type malin",
+      "B. ils peuvent \u00eatre localis\u00e9 dans toutes les parties du corps",
+      "C. ils sont de diff\u00e9rentes tailles",
+      "D. sont des tumeurs vasculaire compos\u00e9 de capillaire de n\u00e9o-formations de type B\u00e9nin",
+      "E. le sexe f\u00e9minin est plus fr\u00e9quemment affect\u00e9"
+    ],
+    "correct_answers": ["B", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 10,
+    "question": "Hygromas:",
+    "options": [
+      "A. Et une formation tumorale de la peau",
+      "B. dans les pouss\u00e9es inflammatoires les troubles respiratoires s'aggrave",
+      "C. est constitu\u00e9 de multiples formation kystique localiser dans la zone cervicale",
+      "D. son prolongement m\u00e9diastinale s'accompagne de dyspn\u00e9e",
+      "E. disparaissent spontan\u00e9ment \u00e0 la pubert\u00e9"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 11,
+    "question": "le tableau clinique de la fracture obst\u00e9tricale de la clavicule :",
+    "options": [
+      "A. La fracture obst\u00e9tricale de la clavicule survient dans les premiers jours apr\u00e8s la naissance",
+      "B. l'examen clinique peut r\u00e9v\u00e9ler un callus hypertrophique d\u00e9tectable \u00e0 la palpation",
+      "C. le nouveau-n\u00e9 avec une fracture de la clavicule est agit\u00e9e et cri \u00e0 la mobilisation du membre du c\u00f4t\u00e9 de la l\u00e9gion",
+      "D. Est domin\u00e9 par l'impotence fonctionnelle totale du membre du c\u00f4t\u00e9 affect\u00e9",
+      "E. la fracture obst\u00e9tricale de la clavicule se produit spontan\u00e9ment o\u00f9 est provoqu\u00e9 intentionnellement pour la lib\u00e9ration d'une \u00e9paule dystocique \u00e0 la naissance"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 12,
+    "question": "Les complications des h\u00e9mangiomes sont :",
+    "options": [
+      "A. L'ulc\u00e9ration",
+      "B. L'h\u00e9morragie",
+      "C. L'infection",
+      "D. le syndrome de Kassabach-Merritt",
+      "E. le syndrome de Klippel-Trenaunay"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 13,
+    "question": "Dans l'imperforation anale membraneuse:",
+    "options": [
+      "A. L'orifice anale et ectopique",
+      "B. l'orifice anal normalement situ\u00e9 est obtur\u00e9 par une membrane fine qui se bombe sous la pression du m\u00e9conium",
+      "C. Selle avec aspect de crayons",
+      "D. une simple incision en croix permet l'\u00e9vacuation du m\u00e9conium",
+      "E. l'orifice anale est obtur\u00e9 incompl\u00e8tement par un diaphragme muqueux"
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 14,
+    "question": "Invagination intestinale:",
+    "options": [
+      "A. C'est plus fr\u00e9quent chez les nourrissons",
+      "B. d\u00e9termine une occlusion intestinale m\u00e9canique",
+      "C. repr\u00e9sente la p\u00e9n\u00e9tration d'un segment intestinale par une fente du m\u00e9sent\u00e8re",
+      "D. c'est plus fr\u00e9quent chez le nouveau-n\u00e9",
+      "E. repr\u00e9sente le t\u00e9lescopage de l'anse intestinale supra jacente dans l'anse sous-jacente"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 15,
+    "question": "Hernie inguinale:",
+    "options": [
+      "A. Peut produire une n\u00e9crose testiculaire par compression sur le cordon spermatique",
+      "B. est plus fr\u00e9quent chez les femelles",
+      "C. l'\u00e9tranglement est la complication la plus courante",
+      "D. doit \u00eatre op\u00e9r\u00e9e \u00e0 la naissance",
+      "E. peut dispara\u00eetre dans la premi\u00e8re ann\u00e9e"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 16,
+    "question": "Hernie Diaphragmatique cong\u00e9nitale",
+    "options": [
+      "A. Les formes tol\u00e9r\u00e9es peut-\u00eatre diagnostiqu\u00e9es chez l'enfant plus \u00e2g\u00e9",
+      "B. c'est plus fr\u00e9quents du c\u00f4t\u00e9 droit",
+      "C. en l'absence de diagnostic pr\u00e9coce dans 70% des cas de HD, le d\u00e9c\u00e8s survient dans les 24-48 heures de vie",
+      "D. Pr\u00e9sumer l'existence d'un d\u00e9faut dans le diaphragme avec une hernie pulmonaire dans l'abdomen",
+      "E. pr\u00e9sumer l'existence d'un d\u00e9faut dans le diaphragme avec une hernie des visc\u00e8res abdominaux dans le thorax"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 17,
+    "question": "Le diagnostic de hernie inguinale est \u00e9tabli par:",
+    "options": [
+      "A. IRM de l'abdomen",
+      "B. La formation d'une tumeur herniaire est visible la r\u00e9duction est pratiqu\u00e9e en taxis",
+      "C. examen clinique de la r\u00e9gion de l'aine",
+      "D. palpation pendant l'effort de toux",
+      "E. radiographie"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 18,
+    "question": "Le diagnostic diff\u00e9rentiel de la fracture obst\u00e9tricale de la clavicule se fait avec:",
+    "options": [
+      "A. Fracture obst\u00e9tricale du f\u00e9mur",
+      "B. ost\u00e9o arthrite septique p\u00e9rinatale",
+      "C. paralysie du plexus brachial",
+      "D. fracture obst\u00e9tricale de l'hum\u00e9rus",
+      "E. insuffisance motrices d'origine centrale"
+    ],
+    "correct_answers": ["C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 19,
+    "question": "Hydrocel:",
+    "options": [
+      "A. C'est caus\u00e9e par l'accumulation de sang dans la vaginale testiculaire",
+      "B. Est une formation kystique contenant du liquide clair si tu es dans un reste de canal p\u00e9riton\u00e9o vaginale",
+      "C. appara\u00eetre par une dilatation des veines spermatique",
+      "D. Est non douloureuse \u00e0 la palpation",
+      "E. peut dispara\u00eetre spontan\u00e9ment jusqu'\u00e0 l'\u00e2ge de 1 ans"
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 20,
+    "question": "Reflux v\u00e9sico-ur\u00e9t\u00e9ral (VUR):",
+    "options": [
+      "A. Le patient peut pr\u00e9senter des signes d'infection urinaire: pollakiurie, h\u00e9maturie, pyurie",
+      "B. est caus\u00e9e par une obstruction dans la voie d'\u00e9vacuation de l'urine du niveau ur\u00e9t\u00e9ral sup\u00e9rieur",
+      "C. peut-\u00eatre caus\u00e9 par une perturbation du m\u00e9canisme physiologique de la jonction ur\u00e9t\u00e9ro v\u00e9sicale",
+      "D. est fr\u00e9quemment associ\u00e9e \u00e0 des signes d'infection respiratoire aigu\u00eb",
+      "E. Les cas graves peuvent pr\u00e9senter des manifestations d'insuffisance r\u00e9nale chronique"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 21,
+    "question": "L'\u00e9volution des h\u00e9mangiomes:",
+    "options": [
+      "A. Sous des formes \u00e9tendue en 3-4 mois peut envahir des zones consid\u00e9rables",
+      "B. la plupart croissent rapidement apr\u00e8s l'\u00e2ge d'un an",
+      "C. ils peuvent dispara\u00eetre en quelques mois ou jusqu'\u00e0 5-6 ans",
+      "D. la plupart grandissent proportionnellement \u00e0 l'enfant",
+      "E. c'est pr\u00e9visible"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 22,
+    "question": "Cliniquement dans l'appendicite aigu\u00eb nous rencontrons:",
+    "options": [
+      "A. Douleur localis\u00e9e p\u00e9ri-ombilical",
+      "B. myalgie gastrocn\u00e9mienne",
+      "C. douleur dans la fosse iliaque droite",
+      "D. la douleur peut s'att\u00e9nuer spontan\u00e9ment en face d'appendicite gangr\u00e9neuse et r\u00e9appara\u00eetre de fa\u00e7on brusque au moment de la perforation",
+      "E. vomissement unique ou r\u00e9p\u00e9ter appara\u00eet surtout au d\u00e9but de l'affection dans plus de 90% des cas"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 23,
+    "question": "Le traitement de la fracture obst\u00e9tricale de la clavicule implique :",
+    "options": [
+      "A. R\u00e9duction ferm\u00e9e par une traction douce",
+      "B. bandage doux de type Dassault pendant 14 jours",
+      "C. immobilisation pl\u00e2tr\u00e9e du membre atteint en position de \"salut militaire\"",
+      "D. l'immobilisation pl\u00e2tr\u00e9e de type Dassault pendant 4 semaines",
+      "E. les fractures obst\u00e9tricales qui, au moment du diagnostic, pr\u00e9sente le cal osseux ne n\u00e9cessite plus de traitement orthop\u00e9dique"
+    ],
+    "correct_answers": ["C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 24,
+    "question": "Les d\u00e9clarations suivantes concernant les hypospadias sont fausses:",
+    "options": [
+      "A. Dans les hypospadias penoscrotales et scrotales, les testicules sont g\u00e9n\u00e9ralement situ\u00e9es dans les bourses scrotales homolat\u00e9rales",
+      "B. le traitement de l'hypospadias est organis\u00e9 en fonction de la forme anatomo pathologique et de l'\u00e2ge de l'enfant",
+      "C. l'hypospadias p\u00e9rin\u00e9ale est la forme la plus facile \u00e0 traiter",
+      "D. dans les hypospadias balaniques, le flux urinaire est normal",
+      "E. dans les hypospadias, l'ur\u00e9troplastie est r\u00e9alis\u00e9e apr\u00e8s une seule intervention vers l'\u00e2ge de 2 ans"
+    ],
+    "correct_answers": ["C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 25,
+    "question": "Les d\u00e9clarations suivantes concernant les hypospadias sont vraies:",
+    "options": [
+      "A. L'hypospadias est caus\u00e9e par la r\u00e9sorption de la lame ur\u00e9trale du tubercule g\u00e9nital et par le d'union des plis g\u00e9nitaux (dysraphisme) dans le sinus urog\u00e9nital",
+      "B. l'hypospadias balanique est la forme la plus b\u00e9nigne et la plus fr\u00e9quente",
+      "C. dans les hypospadias, il existe diff\u00e9rents degr\u00e9s de torsion lat\u00e9rale du p\u00e9nis",
+      "D. l'hypospadias est l'ouverture de l'ur\u00e8tre dans le p\u00e9nis dorsal",
+      "E. Dans les hypospadias penoscrotales et scrotales, le m\u00e9at urinaire s'ouvre au niveau du p\u00e9rin\u00e9e ant\u00e9rieure sur la ligne ano-scrotale"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 26,
+    "question": "Le traitement pr\u00e9op\u00e9ratoire dans l'omphaloc\u00e8le comprend:",
+    "options": [
+      "A. radiographie thoracique, ECG, analyses de laboratoire",
+      "B. positionnement le nouveau-n\u00e9 en d\u00e9cubitus ventral",
+      "C. protections de l'omphaloc\u00e8le avec des compresses imbib\u00e9es dans un s\u00e9rum physiologique chaud",
+      "D. sonde naso-gastrique et rectale pour pr\u00e9venir la distension du tube digestif",
+      "E. une naissance par c\u00e9sarienne si le diagnostic pr\u00e9natal est connu"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 27,
+    "question": "Les d\u00e9clarations suivantes concernant les hypospadias sont vraies:",
+    "options": [
+      "A. L'ur\u00e9tropropastie est r\u00e9alis\u00e9e apr\u00e8s une seule proc\u00e9dure \u00e0 l'\u00e2ge de 6-7 ans",
+      "B. Les objectifs du traitement de l'hypospadias visent \u00e0 retrouver la forme du p\u00e9nis et a r\u00e9aliser un n\u00e9o-ur\u00e8tre afin d'obtenir des mictions physiologiques des \u00e9rections et des \u00e9jaculations",
+      "C. la correction des vices morphologiques du p\u00e9nis a lieu vers l'\u00e2ge de 2 ans",
+      "D. le recalibrage du m\u00e9at hypospadiques st\u00e9notique se fait \u00e0 l'adolescence",
+      "E. il est conseill\u00e9 de terminer le traitement jusqu'\u00e0 l'\u00e2ge de la scolarit\u00e9 afin de diminuer les complexes mentaux de ces enfants qui peuvent \u00eatre accentu\u00e9es une fois entr\u00e9e dans la communaut\u00e9"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 28,
+    "question": "Les sympt\u00f4mes pr\u00e9sents dans la hernie inguinale \u00e9trangl\u00e9e sont :",
+    "options": [
+      "A. douleur",
+      "B. selles diarrh\u00e9iques et h\u00e9morragiques",
+      "C. vomissements",
+      "D. tumeurs inguinales",
+      "E. h\u00e9mat\u00e9m\u00e8se"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 29,
+    "question": "Le reflux v\u00e9sico-ur\u00e9t\u00e9ral peut \u00eatre caus\u00e9 par :",
+    "options": [
+      "A. contraction intra-v\u00e9sicale de l'uret\u00e8re",
+      "B. syndrome de Prune-Belly",
+      "C. Dissidence de Marion (hypertrophie du col v\u00e9sical)",
+      "D. Raccourcir une/ou une immaturit\u00e9 de l'uret\u00e8re intrav\u00e9sical",
+      "E. Valvules ur\u00e9trales post\u00e9rieures"
+    ],
+    "correct_answers": ["B", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 30,
+    "question": "Traitement de la hernie inguinale",
+    "options": [
+      "A. est principalement m\u00e9dical",
+      "B. ne n\u00e9cessite pas de proc\u00e9dures pour renforcer la paroi abdominale",
+      "C. est chirurgical",
+      "D. chez les filles, l'ancrage du pilier p\u00e9riton\u00e9al au tendon conjonctif est pratique (proc\u00e9dure Barker)",
+      "E. peut \u00eatre atteint \u00e0 tout \u00e2ge"
+    ],
+    "correct_answers": ["C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 31,
+    "question": "Les formes anatomopathologiques des h\u00e9mangiomes sont :",
+    "options": [
+      "A. h\u00e9mangiomatose diffuse",
+      "B. h\u00e9mangiome intradermique ou plan \"tache de vin\"",
+      "C. h\u00e9mangiome caverneux",
+      "D. malformation art\u00e9rio-veineuse",
+      "E. h\u00e9mangiome tubereuse"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 32,
+    "question": "saignement (hemorragie) par diverticule il\u00e9al de Meckel :",
+    "options": [
+      "A. est accompagn\u00e9 par coliques abdominales",
+      "B. dans les petits saignements r\u00e9p\u00e9t\u00e9s se modifie la couleur des selles sans en modifier la consistance",
+      "C. se produit par ulc\u00e9ration de la muqueuse il\u00e9ale adjacente aux \u00eelots de muqueuse gastrique s\u00e9cr\u00e9tante",
+      "D. dans les saignements abondants et r\u00e9p\u00e9t\u00e9s se modifie autant la couleur que la consistance des selles et survient des signes de choc hypovol\u00e9mique",
+      "E. le saignement est sans douleur"
+    ],
+    "correct_answers": ["B", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 33,
+    "question": "L'\u00e9volution d'un patient souffrant de reflux v\u00e9sico-ur\u00e9t\u00e9ral peut avoir lequel de ces sc\u00e9narios:",
+    "options": [
+      "A. les infections urinaires n'apparaissent pas de mani\u00e8re unilat\u00e9rale",
+      "B. le reflux de bas grade chez le nouveau-n\u00e9 peut \u00e9voluer avec une r\u00e9mission spontan\u00e9e",
+      "C. l'atrophie r\u00e9nale est secondaire \u00e0 la haute pression de reflux exerc\u00e9e sur le parenchyme r\u00e9nal",
+      "D. les infections urinaires peuvent \u00eatre r\u00e9currentes",
+      "E. le reflux bilat\u00e9ral ne provoque pas d'insuffisance r\u00e9nal chronique"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 34,
+    "question": "Parmi les examens d'imagerie utilis\u00e9s dans la fracture obst\u00e9tricale de la clavicule",
+    "options": [
+      "A. tous les nouveau-n\u00e9s d'un accouchement difficile b\u00e9n\u00e9ficient d'une radiographie thoracique parce que la plupart pr\u00e9sente habituellement une fracture obst\u00e9tricale",
+      "B. si la fracture est d\u00e9tect\u00e9e tardivement, la radiographie r\u00e9v\u00e8le un callus hypertrophique",
+      "C. la radiographie r\u00e9v\u00e8le souvent une fracture en bois vert",
+      "D. IRM est souvent utilis\u00e9e pour d\u00e9tecter une fracture de la clavicule chez le nouveau-n\u00e9 car il est non invasif",
+      "E. la radiographie n'est pas utile dans le diagnostic \u00e0 cet \u00e2ge parce que la clavicule n'est pas ossifi\u00e9e chez 50% des nouveau-n\u00e9 \u00e0 la naissance"
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 35,
+    "question": "Le m\u00e9gac\u00f4lon cong\u00e9nital se manifeste par:",
+    "options": [
+      "A. Absence de transit intestinal",
+      "B. distension abdominale progressive",
+      "C. boulimie",
+      "D. vomissement alimentaire au d\u00e9but puis bilieux et ult\u00e9rieurement f\u00e9calo\u00efde",
+      "E. \u00e9pisode de diarrh\u00e9e paradoxale avec \u00e9mission de selles molles malodorantes"
+    ],
+    "correct_answers": ["A", "B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 36,
+    "question": "Traumatismes obst\u00e9tricaux:",
+    "options": [
+      "A. sont caus\u00e9e par une disproportion entre les dimensions du f\u00e6tus et la fili\u00e8re plus \u00e9troit du bassin maternelle",
+      "B. aucune r\u00e9ponse n'est pas correcte",
+      "C. sont caus\u00e9s par la position f\u00e6tal anormal",
+      "D. sont plus fr\u00e9quentes \u00e0 la premi\u00e8re naissance",
+      "E. ils n'ont jamais un risque vital"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 37,
+    "question": "Traitement des d\u00e9fauts labiaux et palatins",
+    "options": [
+      "A. d\u00e9fauts de palais sont corrig\u00e9es \u00e0 l'\u00e2ge de 18-24 mois",
+      "B. d\u00e9fauts de palais sont corrig\u00e9es \u00e0 6 mois et de la l\u00e8vre 18-24 mois",
+      "C. formes simples de fente labiale s'op\u00e8rent \u00e0 6-8 mois apr\u00e8s la naissance",
+      "D. les cas de fente labiale compl\u00e8te s'op\u00e8rent \u00e0 l'\u00e2ge de 6 mois",
+      "E. formes simples de fente labiale s'op\u00e8rent \u00e0 2-3 mois apr\u00e8s la naissance"
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 38,
+    "question": "Le diagnostic diff\u00e9rentiel de la hernie inguinale se fait avec:",
+    "options": [
+      "A. cryptorchidie ou testicules ectopiques",
+      "B. formation des tumeurs abdominales",
+      "C. kyste du cordon Nuck (la petite fille)",
+      "D. hydroc\u00e8le vaginale",
+      "E. appendicite aigu\u00eb"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 39,
+    "question": "Traitement du kyste du canal thyreoglosse:",
+    "options": [
+      "A. consiste en la r\u00e9section du tout le trajet fistuleux jusqu'\u00e0 la base de la langue",
+      "B. comporte la r\u00e9section de la partie centrale d'os hyo\u00efde",
+      "C. est chirurgical et se pratique apr\u00e8s l'arr\u00eat du processus inflammatoire",
+      "D. est chirurgical et se pratique au cours du processus inflammatoire",
+      "E. il est strictement m\u00e9dical"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  }
+]

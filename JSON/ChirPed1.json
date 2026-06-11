@@ -1,0 +1,652 @@
+[
+  {
+    "chapitre": 0,
+    "id": 1,
+    "question": "*L'atr\u00e9sie de l'oesophage de type III supposons:",
+    "options": [
+      "A. Les deux segments oesophagiens ne communique pas avec la trach\u00e9e",
+      "B. Le segment proximal communique avec la trach\u00e9e et se trouve \u00e0 moins de 2 cm du segment distale",
+      "C. Le segment proximal communique avec la trach\u00e9e et se trouve \u00e0 plus de 2 cm du segment distale",
+      "D. Les deux segments oesophagiens communiquent entre eux",
+      "E. Aucune r\u00e9ponse n'est correcte"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 2,
+    "question": "*Dans l'omphaloc\u00e8le le diagnostic pr\u00e9natal positif se fait par:",
+    "options": [
+      "A. \u00c9chographie abdominale apr\u00e8s la 13-14\u00e8me semaine de grossesse",
+      "B. Radiographie abdominale en orthostatisme",
+      "C. CT dans le premier mois de grossesse",
+      "D. Scintigraphie avec tc99",
+      "E. Toutes ces r\u00e9ponses sont correctes"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 3,
+    "question": "*Dans l'hernie hiatale, le diagnostic de certitude est \u00e9tablit par:",
+    "options": [
+      "A. D'apr\u00e8s du caract\u00e8re du vomissement",
+      "B. Radiographie thoracique de face",
+      "C. Radiographie thoracique de profil",
+      "D. Radiographie abdominale sans pr\u00e9paration en orthostatisme",
+      "E. Examen radiologique r\u00e9p\u00e9ter en position Trendelenburg"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 4,
+    "question": "*Dans l'atr\u00e9sie intestinale de type I se rencontre :",
+    "options": [
+      "A. La continuit\u00e9 de paroi s\u00e9ro-musculaire, avec la lumi\u00e8re bloqu\u00e9 par des septums multiples",
+      "B. Entre les segment ferm\u00e9s de l'intestin il y a un cordon fibreux, le m\u00e9sent\u00e8re est intact ou interrompu en \"V\"",
+      "C. Les segments ferm\u00e9s sont compl\u00e8tement s\u00e9par\u00e9s, d\u00e9faut m\u00e9sent\u00e9rique en \"V\"",
+      "D. Zone atr\u00e9siques multiples, compl\u00e8tement s\u00e9par\u00e9, d\u00e9fauts m\u00e9sent\u00e9riques en \"V\" r\u00e9alise \"l'aspect de pagode\"",
+      "E. Aucun des probl\u00e8mes mentionn\u00e9s"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 5,
+    "question": "*Les d\u00e9clarations suivantes sur la paralysie du nerf facial sont vraies, avec une exception que vous devez indiquer :",
+    "options": [
+      "A. La plus fr\u00e9quente l\u00e9sion du syst\u00e8me nerveux p\u00e9riph\u00e9rique",
+      "B. Ce produit par une compression du nerf par l'\u00e9paule du f\u00e6tus dans diverses positions vicieuses intra-ut\u00e9rine",
+      "C. La cons\u00e9quence la plus grave est la paralysie de la branche orbitale avec immobilisation de la paupi\u00e8re sup\u00e9rieure",
+      "D. Le traitement vise la protection de la corn\u00e9e jusqu'au r\u00e9tablissement de la fonction nerveuse",
+      "E. Elle est toujours bilat\u00e9rale"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 6,
+    "question": "*La persistance du canal omphalo-m\u00e9sent\u00e9rique signifie:",
+    "options": [
+      "A. Persistance de la portion interne de ductus omphalo-ent\u00e9rique",
+      "B. Persistante de la portion externe de ductus omphalo-ent\u00e9rique",
+      "C. Communication perm\u00e9able entre l'ombilic et l'il\u00e9on, par un orifice visible centrale par o\u00f9 s'ext\u00e9riorise un liquide avec contenu intestinale en fonction du calibre du conduit",
+      "D. Communication perm\u00e9able entre l'ombilic et la vessie",
+      "E. Communication imperm\u00e9able entre l'ombilic et l'il\u00e9on"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 7,
+    "question": "*Dans les fentes du voile palatin (palais mou):",
+    "options": [
+      "A. Lames palatine sont unies mais pas le palais mou",
+      "B. avec la croissance les lames palatine se rapprochent ensemble avec le palais mou",
+      "C. avec la croissance les lames palatines, s'\u00e9cartent mais pas le palais mou",
+      "D. avec la croissance les lames palatine s'\u00e9cartent ensemble avec le palais mou",
+      "E. la croissance n'influence en rien les dimension du d\u00e9faut"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 8,
+    "question": "*Bosse s\u00e9ro-sanguine:",
+    "options": [
+      "A. L\u00e9sion fr\u00e9quente du tissu cellulaire sous-cutan\u00e9, se r\u00e9sorbe spontan\u00e9ment durant la premi\u00e8re semaine de vie",
+      "B. c'est un h\u00e9matome sous-p\u00e9riostal, se r\u00e9sorbe spontan\u00e9ment durant la premi\u00e8re semaine apr\u00e8s la naissance",
+      "C. c'est une l\u00e9sion commune du tissu cellulaire sous-cutan\u00e9, ne se r\u00e9sorbe pas spontan\u00e9ment n\u00e9cessite la r\u00e9alisation d'une incision d'\u00e9vacuation",
+      "D. apr\u00e8s la naissance, n\u00e9cessitant un traitement chirurgical",
+      "E. n\u00e9cessite un traitement antibiotique"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 9,
+    "question": "*Le premier geste de diagnostic dans l'atr\u00e9sie de l'oesophage est:",
+    "options": [
+      "A. La r\u00e9alisation d'une radiographie avec substance de contraste",
+      "B. la tentative d'introduction d'une sonde dans l'estomac, s'arr\u00eate \u00e0 10-12 cm de l'arcade dentaire",
+      "C. r\u00e9alisation d'un CT (scanner)",
+      "D. effectuer une bronchoscopie pour mettre en \u00e9vidence la fistule oeso-trach\u00e9ale",
+      "E. aucune r\u00e9ponse n'est correcte"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 10,
+    "question": "*Fistules et kystes cervicaux lat\u00e9raux:",
+    "options": [
+      "A. Apparaissent \u00e0 la suite d'imperfections lors du d\u00e9veloppement un bourgeon frontal",
+      "B. apparaissent \u00e0 la suite d'imperfections lors du d\u00e9veloppement (a mugurilor maxilari) bourgeon maxillaires",
+      "C. apparaissent \u00e0 la suite d'imperfections lors du d\u00e9veloppement des arcs et sillons brachiaux",
+      "D. toutes les variantes sont correctes",
+      "E. aucune r\u00e9ponses n'est pas correcte"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 11,
+    "question": "La fistule oeso-trach\u00e9ale en \"H\":",
+    "options": [
+      "A. Est la malformation plus fr\u00e9quente de l' \u0153sophage",
+      "B. I'\u0153sophage sans \u00eatre interrompu communique avec la trach\u00e9e par une fistule lat\u00e9rale",
+      "C. Est cliniquement reconnu apr\u00e8s un sympt\u00f4me capital, la toux r\u00e9p\u00e9t\u00e9 durant l'allaitement",
+      "D. le traitement est exclusivement chirurgical et m\u00e8ne \u00e0 l'\u00e9limination de la fistule",
+      "E. se ferme spontan\u00e9ment aux premiers mois de la vie"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 12,
+    "question": "La st\u00e9nose hypertrophique du pylore se manifeste cliniquement par :",
+    "options": [
+      "A. Vomissement blanc sympt\u00f4mes dominant la maladie",
+      "B. vomissement bilieux",
+      "C. p\u00e9ristaltisme gastrique - ondes contractiles visibles dans l'\u00e9pigastre",
+      "D. hyper salivation abondante",
+      "E. palpation de l'olive pylorique dans l'hypochondre droit sous-h\u00e9patique pendant l'alimentation de l'enfant ou en d\u00e9cubitus lat\u00e9ral gauche"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 13,
+    "question": "Lymphad\u00e9nite m\u00e9sent\u00e9rique :",
+    "options": [
+      "A. Cause la plus fr\u00e9quente de douleurs abdominales chez les nourrissons",
+      "B. ayant comme substrat anatomo-pathologique l'inflammation des ganglions m\u00e9sent\u00e9riques situ\u00e9s dans l'angle il\u00e9o-caecal",
+      "C. ayant comme substrat anatomo-pathologique l'inflammation des ganglions r\u00e9trop\u00e9riton\u00e9aux",
+      "D. l'\u00e9tiologie est microbienne et virale",
+      "E. les ganglions impliqu\u00e9s sont hypertrophi\u00e9s et s'accompagnent d'une r\u00e9action liquidienne abondante dans la cavit\u00e9 p\u00e9riton\u00e9ale"
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 14,
+    "question": "Le m\u00e9gac\u00f4lon cong\u00e9nital se manifeste par:",
+    "options": [
+      "A. Absence de transit intestinal",
+      "B. distension abdominale progressive",
+      "C. boulimie",
+      "D. \u00e9pisode de diarrh\u00e9e paradoxale avec \u00e9mission de selles molles malodorantes",
+      "E. vomissement alimentaire au d\u00e9but puis bilieux et ult\u00e9rieurement f\u00e9calo\u00efde"
+    ],
+    "correct_answers": ["A", "B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 15,
+    "question": "Les causes favorisant la production de l'invagination intestinale chez les enfants sont :",
+    "options": [
+      "A. Polype intestinal",
+      "B. diverticule de Meckel",
+      "C. tumeur intestinale b\u00e9nigne et maligne",
+      "D. hernie ombilicale",
+      "E. parasitose (boule de vers rond)"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 16,
+    "question": "Dysplasie luxant coxo-f\u00e9moral:",
+    "options": [
+      "A. Se produit \u00e0 l'\u00e2ge de 1 ans",
+      "B. et plus fr\u00e9quente chez les gar\u00e7ons",
+      "C. survient le plus souvent dans la race noire",
+      "D. localisation unilat\u00e9rale gauche est plus fr\u00e9quente",
+      "E. transmission h\u00e9r\u00e9ditaire dans 10% des cas"
+    ],
+    "correct_answers": ["D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 17,
+    "question": "Le tableau clinique dans la p\u00e9ritonite primitive comprend:",
+    "options": [
+      "A. D\u00e9but brusque avec douleur abdominale violente p\u00e9ri-ombilicale ou sous-ombilical",
+      "B. absence de la fi\u00e8vre",
+      "C. r\u00e9gurgitation",
+      "D. pendant la p\u00e9riode d'\u00e9tat il n'existe pas de d\u00e9fense musculaire \u00e9vidente",
+      "E. fr\u00e9quemment s'associe l'herp\u00e8s labial"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 18,
+    "question": "Appendicite aigu\u00eb:",
+    "options": [
+      "A. Viens le plus fr\u00e9quemment chez le nouveau-n\u00e9",
+      "B. est la plus fr\u00e9quente cause de douleur abdominale chez l'enfant",
+      "C. et plus rare chez le nourrisson et le petit enfant mais \u00e0 cet \u00e2ge un diagnostic tardive et une p\u00e9ritonite peuvent mener au d\u00e9c\u00e8s",
+      "D. le tableau clinique et l'\u00e9volution sont diff\u00e9rents chez le petit enfant face \u00e0 l'adulte \u00e0 cause des moyens locaux et g\u00e9n\u00e9raux de d\u00e9fense plus r\u00e9duits",
+      "E. et plus fr\u00e9quentes dans le sexe masculin"
+    ],
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 19,
+    "question": "Les signes cliniques de l'atr\u00e9sie intestinale sont repr\u00e9sent\u00e9s par:",
+    "options": [
+      "A. Vomissement bilieux",
+      "B. distension abdominale",
+      "C. absence de transit m\u00e9conial",
+      "D. hypersalivation",
+      "E. diarrh\u00e9e"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 20,
+    "question": "Dans le volvulus intestinal:",
+    "options": [
+      "A. Le d\u00e9but brusque en plein \u00e9tat de sant\u00e9 avec pleurs vomissements bilieux et distension abdominale \u00e9pigastrique rapide et progressive",
+      "B. tr\u00e8s vite la quantit\u00e9 des vomissements change et devient f\u00e9calo\u00efde et ayant m\u00eame un contenu sanguin",
+      "C. l'\u00e9mission de sel manque ou quelquefois il existe une \u00e9mission de selles m\u00e9l\u00e9niques",
+      "D. l'\u00e9tat g\u00e9n\u00e9ral se d\u00e9t\u00e9riore rapidement",
+      "E. appara\u00eet l'hydrops v\u00e9siculaire"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 21,
+    "question": "Pneumothorax:",
+    "options": [
+      "A. Pr\u00e9sente l'accumulation d'air libre dans la cavit\u00e9 pleurale avec compression du poumon vers le hile",
+      "B. repr\u00e9sente l'accumulation de sang libre dans la cavit\u00e9 pleurale avec compression du poumon vers le hile",
+      "C. le plus souvent lors des plaies p\u00e9n\u00e9trante",
+      "D. radiologique - hyper transparence d'un h\u00e9mithorax",
+      "E. quand il est rencontr\u00e9 en m\u00eame temps que l'h\u00e9mothorax - h\u00e9mopneumothorax"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 22,
+    "question": "Dans le laparoschisis:",
+    "options": [
+      "A. D\u00e9faut pari\u00e9tal para-ombilical droit de 2-3 cm par lequel s'ext\u00e9riorise l'intestin gr\u00eale et le c\u00f4lon",
+      "B. le cordon ombilical est absent",
+      "C. l'intestin est mal enroul\u00e9 d\u00fb \u00e0 l'absence du processus de coalescence et les anses \u00e9visc\u00e9r\u00e9es sont grises, grosses, adh\u00e9rentes, oed\u00e9mati\u00e9es \u00e0 cause du contact avec le liquide amniotique et le retour veineux et lymphatique difficile au niveau de l'orifice",
+      "D. l'intestin est plus court ( de la taille normale)",
+      "E. Rarement associ\u00e9s la pr\u00e9maturit\u00e9"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 23,
+    "question": "Les anomalies ur\u00e9t\u00e9rales de forme et calibre comprennent:",
+    "options": [
+      "A. diverticule ur\u00e9t\u00e9ral",
+      "B. Ur\u00e8tre r\u00e9tro-cave",
+      "C. ur\u00e9t\u00e9roc\u00e8le",
+      "D. st\u00e9noses cong\u00e9nitales ur\u00e9t\u00e9rales",
+      "E. m\u00e9ga uret\u00e8re cong\u00e9nital"
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 24,
+    "question": "Volet costal:",
+    "options": [
+      "A. Se forme \u00e0 partir de fractures costales multiples avec apparition d'un segment pari\u00e9tal ind\u00e9pendant d'un point de vue morphologique et fonctionnel",
+      "B. est caract\u00e9ris\u00e9 par l'apparition de mouvements respiratoires paradoxaux",
+      "C. ne cause pas d'insuffisance respiratoire",
+      "D. il peut \u00eatre n\u00e9cessaire de r\u00e9aliser une IOT avec support respiratoire",
+      "E. le traitement est toujours chirurgical"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 25,
+    "question": "Dans l'invagination intestinale, la palpation de l'abdomen peut mettre en \u00e9vidence:",
+    "options": [
+      "A. la fosse iliaque droite est vide (signe Dance) d\u00fb \u00e0 l'invagination du caecum",
+      "B. hydrops v\u00e9siculaire",
+      "C. la tumeur d'invagination peut se palper le plus souvent au niveau sous-h\u00e9patique",
+      "D. loge r\u00e9nale droite sensible \u00e0 la palpation",
+      "E. l'olive pylorique hypertrophi\u00e9e"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 26,
+    "question": "N\u00e9phroblastome se manifeste clinique par :",
+    "options": [
+      "A. Tumeur avec contact lombaire de dimensions variables, lisse ou bossel\u00e9e, ferme, l\u00e9g\u00e8rement mobile",
+      "B. douleur vague, quelques fois irradiante vers la cuisse, accompagn\u00e9e de claudication",
+      "C. h\u00e9maturie macroscopique",
+      "D. hypertension art\u00e9rielle par compression r\u00e9nale",
+      "E. diarrh\u00e9e profuse"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 27,
+    "question": "Hernie inguinale du sexe f\u00e9minin:",
+    "options": [
+      "A. Les dimensions sont plus petites et la strangulation est tr\u00e8s rare",
+      "B. rarement visible chez les nourrissons",
+      "C. ne se strangule jamais",
+      "D. une r\u00e9duction difficile signifie l'engagement d'un ovaire",
+      "E. il se gu\u00e9rit spontan\u00e9ment \u00e0 la pubert\u00e9"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 28,
+    "question": "My\u00e9lom\u00e9ningoc\u00e8le avec l'aire m\u00e9dullaire ouverte :",
+    "options": [
+      "A. pr\u00e9sente d'une zone centrale rouge, saignante, avec un orifice central par lequel s'\u00e9coule du LCR",
+      "B. est une formation tumorale lombo-sacr\u00e9e recouverte de la peau",
+      "C. pr\u00e9sente en p\u00e9riph\u00e9rie une zone de transition avec la peau fine",
+      "D. lame vert\u00e9brale absente et post\u00e9rieure le canal m\u00e9dullaire est ouvert",
+      "E. qu\u00e9rir spontan\u00e9ment dans le premier mois apr\u00e8s la naissance"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 29,
+    "question": "Les \u00e9nonc\u00e9s suivants concernant le traumatisme obst\u00e9trical vert\u00e9bro m\u00e9dullaire sont faux:",
+    "options": [
+      "A. Plus souvent C1-C2 lors des naissances cr\u00e2niennes ou la rotation de la t\u00eate est forc\u00e9e, ou C7-D1, cons\u00e9quence de la traction inverse lors des naissances pelviennes",
+      "B. la section m\u00e9dullaire est mortelle",
+      "C. peut se manifester par un choc spinal avec hypotonie hypor\u00e9flexie et d\u00e9tresse respiratoire",
+      "D. les fractures vert\u00e9brales sont faciles \u00e0 mettre en \u00e9vidence sur une radiographie",
+      "E. apr\u00e8s l'\u00e2ge de 4 ans sont plus fr\u00e9quentes chez le sexe masculin"
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 30,
+    "question": "La st\u00e9nose hypertrophique du pylore se manifeste radiologiquement (examen du baryum) par:",
+    "options": [
+      "A. Canal pylorique large et allong\u00e9",
+      "B. canal pylorique filiforme, allong\u00e9",
+      "C. estomac \u00e0 faible volume",
+      "D. estomac dilat\u00e9",
+      "E. la pr\u00e9sence de baryum dans l'estomac plus de 4 heures apr\u00e8s l'ingestion"
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 31,
+    "question": "Dans la maladie Lobstein:",
+    "options": [
+      "A. Les malades sont de petite taille",
+      "B. les malades ont une taille normale",
+      "C. les dents sont implant\u00e9es de fa\u00e7on vicieuse",
+      "D. la denture n'est pas affect\u00e9e",
+      "E. les fractures multiples se produisent apr\u00e8s des traumatismes mineurs"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 32,
+    "question": "Pr\u00e9op\u00e9ratoire dans la hernie diaphragmatique il est n\u00e9cessaire :",
+    "options": [
+      "A. le positionnement en d\u00e9cubitus lat\u00e9ral du c\u00f4t\u00e9 sain",
+      "B. positionnement en d\u00e9cubitus lat\u00e9ral sur la partie affect\u00e9e",
+      "C. sonde naso-gastrique",
+      "D. administration de lait maternel",
+      "E. intervention chirurgicale par voie abdominale"
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 33,
+    "question": "Lesquels des \u00e9nonc\u00e9s suivants au sujet de la hernie inguinale du nouveau-n\u00e9e et du nourrisson sont vrais:",
+    "options": [
+      "A. Peut appara\u00eetre avec les premiers pleurs, surtout chez les pr\u00e9matur\u00e9s",
+      "B. Par augmentation de la pression abdominale le canal s'\u00e9largit et permet l'engagement et la progression d'une anse abdominale",
+      "C. dans la majorit\u00e9 des cas se r\u00e9duit spontan\u00e9ment sauf dans les moments d'efforts et si elle est volumineuse se maintient aussi pendant le repos descend dans le scrotum",
+      "D. si elle appara\u00eet apr\u00e8s l'effort - hernie incoercible",
+      "E. \u00e0 l'occasion de la r\u00e9duction on appr\u00e9cie la taille de l'orifice inguinal externe par insertion du petit doigt \u00e0 partir du scrotum"
+    ],
+    "correct_answers": ["A", "B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 34,
+    "question": "Il\u00e9us m\u00e9conial:",
+    "options": [
+      "A. repr\u00e9sente une obstruction j\u00e9juno-il\u00e9ales du nouveau-n\u00e9",
+      "B. toujours associ\u00e9 \u00e0 une fibrose kystique du pancr\u00e9as",
+      "C. n'est pas associ\u00e9 \u00e0 la mucoviscidose",
+      "D. est fr\u00e9quemment associ\u00e9 \u00e0 l'atr\u00e9sie des voies biliaires",
+      "E. se produit dans l'hypertension portale avec hyperspl\u00e9nisme"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 35,
+    "question": "traitement des d\u00e9fauts labiaux et palatins:",
+    "options": [
+      "A. formes simples de fente labiale s'op\u00e8rent \u00e0 2-3 mois apr\u00e8s la naissance",
+      "B. formes simples de fente labiale s'op\u00e8rent \u00e0 6-8 mois apr\u00e8s la naissance",
+      "C. les cas de fente labiale compl\u00e8te s'op\u00e8rent \u00e0 l'\u00e2ge de 6 mois",
+      "D. D\u00e9fauts de palais sont corrig\u00e9es \u00e0 l'\u00e2ge de 18-24 mois",
+      "E. d\u00e9fauts de palais sont corrig\u00e9s \u00e0 6 mois et de la l\u00e8vre 18-24 mois"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 36,
+    "question": "La strangulation de la hernie inguinale se manifeste par:",
+    "options": [
+      "A. douleur",
+      "B. vomissements",
+      "C. acc\u00e9l\u00e9ration du transit intestinal",
+      "D. tumeur inguinal sensible \u00e0 la palpation",
+      "E. aucun signe ci-dessus"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 37,
+    "question": "Fractures obst\u00e9tricales cr\u00e2niennes :",
+    "options": [
+      "A. sont fr\u00e9quentes gr\u00e2ce aux sutures cartilagineuse qui permettent la d\u00e9formation du cr\u00e2ne",
+      "B. sont le plus souvent des l\u00e9sions lin\u00e9aires",
+      "C. sont le plus souvent des l\u00e9sions avec p\u00e9n\u00e9trations",
+      "D. quelques fois accompagn\u00e9es d'un c\u00e9phalh\u00e9matome",
+      "E. fractures avec p\u00e9n\u00e9tration plus de 5-6 mm n\u00e9cessite une correction chirurgicale afin d'\u00e9viter tous troubles neurologiques"
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 38,
+    "question": "Hypospadias:",
+    "options": [
+      "A. consiste \u00e0 ouvrir de l'ur\u00e8tre sur la face dorsal du p\u00e9nis",
+      "B. consiste \u00e0 ouvrir l'ur\u00e8tre sur la face ventrale du p\u00e9nis",
+      "C. est associ\u00e9 avec une coudage peno-glandulaire",
+      "D. est associ\u00e9 avec une coudage p\u00e9no-scrotale",
+      "E. est associ\u00e9 \u00e0 l'incontinence urinaire"
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 39,
+    "question": "Hydroc\u00e8le:",
+    "options": [
+      "A. est une formation kystique contenant de liquide clair, situ\u00e9 dans un reste de canal p\u00e9riton\u00e9ovaginal",
+      "B. appara\u00eetre par une dilatation des veines spermatiques",
+      "C. c'est caus\u00e9 par l'accumulation de sang dans la vaginale testiculaire",
+      "D. peut dispara\u00eetre spontan\u00e9ment jusqu'\u00e0 l'\u00e2ge de 1 an",
+      "E. est non douloureuse \u00e0 la palpation"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 40,
+    "question": "Dans la st\u00e9nose anale:",
+    "options": [
+      "A. orifice anal est normalement situ\u00e9",
+      "B. orifice anal est ectopique",
+      "C. canal anal obtur\u00e9 incompl\u00e8tment par un diaphragme muqueux",
+      "D. canal obtur\u00e9 compl\u00e8tement par un diaphragme muqueux",
+      "E. selle avec aspect de crayon"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 41,
+    "question": "traumatismes obst\u00e9tricaux de la peau et du tissus sous-cutan\u00e9:",
+    "options": [
+      "A. sont les plus fr\u00e9quents et les moins graves traumatismes obst\u00e9tricaux",
+      "B. sont rares et les moins graves traumatismes obst\u00e9tricaux",
+      "C. apparaissent surtout au niveau de certaines pro\u00e9minences (oreilles, nez, yeux, extr\u00e9mit\u00e9s, organes g\u00e9nitaux) surtout apr\u00e8s les manoeuvres obst\u00e9tricales",
+      "D. repr\u00e9sentent souvent des portes d'entr\u00e9e pour les infections (ost\u00e9omy\u00e9lite, gangr\u00e8ne cutan\u00e9e extensive, furonculose)",
+      "E. ils gu\u00e9rissent toujours avec les s\u00e9quelles"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 42,
+    "question": "Les l\u00e9sions malformatives r\u00e9sultant d'une r\u00e9sorption incompl\u00e8te ou de la persistance du canal omphalo-ent\u00e9rique comprend:",
+    "options": [
+      "A. fistule ombilicale aveugle",
+      "B. diverticule de merckel",
+      "C. persistance du canal peritoneo-vaginal",
+      "D. le diverticulum oesophagien",
+      "E. fistule ombilicale de l'ouraque"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 43,
+    "question": "Les malformations possibles associ\u00e9es aux malformations duod\u00e9nales sont :",
+    "options": [
+      "A. mongolisme dans 30% des cas",
+      "B. malformations cardiaques",
+      "C. malformations veineuse",
+      "D. malformations de l'intestin gr\u00eale",
+      "E. pr\u00e9maturit\u00e9"
+    ],
+    "correct_answers": ["A", "B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 44,
+    "question": "saignement (h\u00e9morragie) par diverticule il\u00e9al de meckel :",
+    "options": [
+      "A. Se produit par ulc\u00e9ration de la muqueuse il\u00e9ale adjacente aux \u00eelots de muqueuse gastrique s\u00e9cr\u00e9tante",
+      "B. les saignements ne sont pas douloureux",
+      "C. dans les petits saignements r\u00e9p\u00e9t\u00e9s se modifie la couleur des selles sans en modifier la consistance",
+      "D. dans les saignements abondants et r\u00e9p\u00e9t\u00e9s se modifie autant la couleur que la consistance des selles et survient des signes de choc hypovol\u00e9mique",
+      "E. est accompagn\u00e9 par coliques abdominales"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 45,
+    "question": "Fistule ombilicale aveugle:",
+    "options": [
+      "A. Repr\u00e9sente la persistance de la portion externe du conduit omphalo-ent\u00e9rique",
+      "B. Est tapiss\u00e9 de muqueuse digestive s\u00e9cr\u00e9toire produisant une s\u00e9cr\u00e9tion s\u00e9reuse",
+      "C. l'exploration se fait avec une sonde boutonn\u00e9e ou par radiographie avec substance de contraste de profil",
+      "D. le traitement est chirurgical consiste en l'excision de la fistule sans ouverture du p\u00e9ritoine exception faite des cas dans lesquels la fistule se continue se continue par un cordon fibreux vers l'il\u00e9on et le m\u00e9sent\u00e8re",
+      "E. ne n\u00e9cessite pas de traitement chirurgical"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 46,
+    "question": "Hernie hiatale:",
+    "options": [
+      "A. est produit par foramen Morgani",
+      "B. est produit par foramen Bochdalek",
+      "C. est produit par hiatus oesophagiens",
+      "D. en association avec SHP - syndrome Roviralta",
+      "E. est produit par foramen ovale"
+    ],
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 47,
+    "question": "Les d\u00e9clarations suivantes sur l'hygrome sont fausses:",
+    "options": [
+      "A. est continuit\u00e9 de multiples formations kystiques de diff\u00e9rentes dimensions, dispos\u00e9es de fa\u00e7on anarchique et s\u00e9par\u00e9es entre elles par des septums endoth\u00e9liaux",
+      "B. envahit les muscles et adh\u00e8re aux vaisseaux et aux nerfs",
+      "C. n'envahit pas le muscle et n'adh\u00e8re pas aux vaisseaux et aux nerfs",
+      "D. localis\u00e9 le plus souvent dans la zone lat\u00e9ro-cervicale ou axillaire",
+      "E. localis\u00e9 le plus souvent dans la zone palmaire ou plantaire"
+    ],
+    "correct_answers": ["C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 48,
+    "question": "Cliniquement dans la hernie diaphragmatique cong\u00e9nitale nous rencontrons:",
+    "options": [
+      "A. la respiration polypn\u00e9ique",
+      "B. a la percussion, sonorit\u00e9 pulmonaire physiologique",
+      "C. a la percussion sonorit\u00e9 pulmonaire remplac\u00e9e par la matit\u00e9",
+      "D. a l'auscultation: silence respiratoire, les bruits du p\u00e9ristaltisme sont percevable dans le thorax",
+      "E. les bruits cardiaques s'entendent du c\u00f4t\u00e9 droit"
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 49,
+    "question": "Dans l'atr\u00e9sie de l'oesophage on rencontre les sympt\u00f4mes suivants :",
+    "options": [
+      "A. impossibilit\u00e9 de d\u00e9glutition",
+      "B. troubles respiratoires",
+      "C. hypersalivation et stagnation bucco-pharyng\u00e9e des s\u00e9cr\u00e9tions",
+      "D. la crise de toux et la cyanose",
+      "E. polydipsie"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 50,
+    "question": "Traitement chirurgical des fistules et des kystes cervicaux lat\u00e9raux branchiog\u00e9niques :",
+    "options": [
+      "A. Suppose l'extirpation de tout le trajet fistuleux",
+      "B. se fait en pleine pouss\u00e9e inflammatoire",
+      "C. pour des raisons d'esth\u00e9tique on pratique incisions transversales \u00e9tag\u00e9es",
+      "D. se fait apr\u00e8s r\u00e9solution de la pouss\u00e9e inflammatoire",
+      "E. pour des raisons d'esth\u00e9tique on pratique incisions vertical \u00e9tag\u00e9es"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  }
+]
