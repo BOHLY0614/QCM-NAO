@@ -1,0 +1,652 @@
+[
+  {
+    "chapitre": 0,
+    "id": 40,
+    "question": "L\u2019angine avec streptocoque du groupe A (SGA) s\u2019associe avec:",
+    "options": [
+      "A. Leucop\u00e9nie ou leucocytose avec lymphocytose",
+      "B. leucocytose avec neutrophilie",
+      "C. Leucop\u00e9nie ou leucocytose sont \u00e9vocateurs d\u2019angine bact\u00e9rienne",
+      "D. Indices d\u2019inflammation (prot\u00e9ine C r\u00e9active, fibrinog\u00e8ne) augment\u00e9es",
+      "E. VSH diminu\u00e9"
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 41,
+    "question": "Les manifestations cliniques typiques pour la mucoviscidose sont:",
+    "options": [
+      "A. Toux s\u00e8che",
+      "B. Diarrh\u00e9e chronique avec st\u00e9atorrh\u00e9e",
+      "C. Il\u00e9us m\u00e9conial",
+      "D. Ict\u00e8re prolong\u00e9e",
+      "E. Ob\u00e9sit\u00e9"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 42,
+    "question": "L\u2019angine virale ne peut \u00eatre caract\u00e9ris\u00e9 par:",
+    "options": [
+      "A. Fi\u00e8vre oscillante, l\u2019anorexie, la dysphagie",
+      "B. Rhinorrh\u00e9e, toux s\u00e8che",
+      "C. Leucocytose",
+      "D. Neutrophilie",
+      "E. Microv\u00e9sicules des piliers"
+    ],
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 43,
+    "question": "Les derni\u00e8res affirmations sur l\u2019\u00e9piglottite sont vraies:",
+    "options": [
+      "A. L\u2019\u00e9tiologie est haemophilus influenzae, pneumocoque",
+      "B. C\u2019est la plus facile forme de laryngite",
+      "C. A une \u00e9volution suraigu\u00eb",
+      "D. Signes cliniques sont dyspn\u00e9e inspiratoire marqu\u00e9e, stridor",
+      "E. A une \u00e9volution chroniqueD"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 44,
+    "question": "Le traitement des laryngites implique:",
+    "options": [
+      "A. B\u00eata2 mim\u00e9tique s\u00e9lective n\u00e9bulise",
+      "B. Humidification de l\u2019atmosph\u00e8re",
+      "C. Corticoth\u00e9rapie parent\u00e9rale",
+      "D. Trach\u00e9otomie",
+      "E. antibioth\u00e9rapie obligatoire"
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 45,
+    "question": "Les derni\u00e8res affirmations sur la bronchiolite sont fausses:",
+    "options": [
+      "A. Une restriction pulmonaire s\u2019associe",
+      "B. bronchiolite est caract\u00e9ris\u00e9e par une inflammation de la paroi bronchiolaire",
+      "C. L\u2019agent \u00e9tiologique commun est haemophilus influenzae",
+      "D. associ\u00e9 une broncho s\u00e9cr\u00e9tion importante",
+      "E. Le wheezing \u00e9voque une bronchiolite"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 46,
+    "question": "La mucoviscidose est soup\u00e7onn\u00e9e dans la pr\u00e9sence de:",
+    "options": [
+      "A. La respiration sifflante r\u00e9currente",
+      "B. Prolapsus rectal r\u00e9cidivant",
+      "C. diab\u00e8te",
+      "D. Go\u00fbt doux de la sueur",
+      "E. hypertension portale"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 47,
+    "question": "Crit\u00e8res d\u2019admission d\u2019un enfant avec bronchiolite sont :",
+    "options": [
+      "A. Moins de 3 mois d'\u00e2ge",
+      "B. Wheezing audible sans stethoscope",
+      "C. Le manque de possibilit\u00e9 d\u2019une surveillance correcte",
+      "D. Comorbidit\u00e9s associ\u00e9es",
+      "E. La saturation en oxyg\u00e8ne > 98%"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 48,
+    "question": "Le diagnostic diff\u00e9rentiel du wheezing s\u2019effectue avec:",
+    "options": [
+      "A. Reflux gastro-oesophagien",
+      "B. Laryngite chronique",
+      "C. Malformation diaphragmatique",
+      "D. Compressions extrins\u00e8que (anneau vasculaire, tumeurs)",
+      "E. Mucoviscidose"
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 49,
+    "question": "Examens compl\u00e9mentaires dans les pneumonies peuvent r\u00e9v\u00e9ler:",
+    "options": [
+      "A. Leucocytose avec neutrophilie dans les pneumonies virales",
+      "B. Leucocytose dans les pneumonies bact\u00e9riennes",
+      "C. Leucop\u00e9nie avec lymphocytose-pneumonies virales",
+      "D. Leucop\u00e9nie dans les pneumonie virales",
+      "E. dyslipid\u00e9mie"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 50,
+    "question": "Le contr\u00f4le de l\u2019asthme existe s\u2019il y a:",
+    "options": [
+      "A. Plus de 3 crises/semaine",
+      "B. Moins de 2 crises/semaine",
+      "C. Sans limitation de l\u2019activit\u00e9",
+      "D. Besoin du traitement: moins de 2 fois/semaine",
+      "E. Besoin du traitement: moins de 2 fois/jour"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 51,
+    "question": "Le traitement m\u00e9dicamenteux de fond de l\u2019asthme consiste en:",
+    "options": [
+      "A. Inhalation journali\u00e8re de b\u00eata-1 agoniste",
+      "B. Oxyg\u00e9noth\u00e9rapie pour maintenant Sat O2 \u2265 95%",
+      "C. Physioth\u00e9rapie thoracique",
+      "D. corticost\u00e9ro\u00efdes inhalateurs",
+      "E. Les bronchodilatateurs \u00e0 longue dur\u00e9e d\u2019action"
+    ],
+    "correct_answers": ["D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 52,
+    "question": "Le syndrome Marfan est caract\u00e9ris\u00e9e par:",
+    "options": [
+      "A. D\u00e9ficit staturale",
+      "B. Grande taille",
+      "C. L\u2019hyperlaxit\u00e9 ligamentaire",
+      "D. L\u2019agitation psychomotrice",
+      "E. Respiration sifflante"
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 53,
+    "question": "les causes de convulsions af\u00e9brile chez le nourrisson et le jeune enfant sont:",
+    "options": [
+      "A. L'\u00e9pilepsie",
+      "B. troubles hydro \u00e9lectrolytique (natr\u00e9mie, calc\u00e9mie)",
+      "C. frisson f\u00e9brile",
+      "D. Abc\u00e8s c\u00e9r\u00e9bral",
+      "E. Thrombophl\u00e9bite c\u00e9r\u00e9brale"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 54,
+    "question": "Les suivantes sont de causes de convulsions f\u00e9briles chez le nourrisson sauf:",
+    "options": [
+      "A. Dyselectrolit\u00e9mie",
+      "B. Infection neurom\u00e9ning\u00e9e",
+      "C. Abc\u00e8s c\u00e9r\u00e9bral",
+      "D. Tumeur c\u00e9r\u00e9brale",
+      "E. Thrombophl\u00e9bite c\u00e9r\u00e9brale"
+    ],
+    "correct_answers": ["A", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 55,
+    "question": "L\u2019an\u00e9mie macrocytaire est associ\u00e9 avec:",
+    "options": [
+      "A. Thalass\u00e9mie",
+      "B. carence en vitamine B12",
+      "C. Carence de l\u2019acide folique",
+      "D. L'hyperthyro\u00efdie",
+      "E. Fi\u00e8vre"
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 56,
+    "question": "L\u2019an\u00e9mie ferriprive:",
+    "options": [
+      "A. Est la premi\u00e8re cause d\u2019an\u00e9mie en p\u00e9diatrie",
+      "B. Est une an\u00e9mie macrocytaire",
+      "C. Est une an\u00e9mie microcytaire",
+      "D. Est une an\u00e9mie hypochrome",
+      "E. Est une an\u00e9mie normochrome"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 57,
+    "question": "Les signes suivants peuvent sugg\u00e9rer une leuc\u00e9mie aigu\u00eb lymphoblastique:",
+    "options": [
+      "A. P\u00e2leur",
+      "B. Hypothermie",
+      "C. H\u00e9maturie",
+      "D. Angine r\u00e9cidivante",
+      "E. Hyperglyc\u00e9mie"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 58,
+    "question": "Le diagnostic du neuroblastome se fait par:",
+    "options": [
+      "A. La radiographie c\u00e9r\u00e9brale",
+      "B. le dosage des cat\u00e9cholamines urinaires",
+      "C. L\u2019\u00e9chographie pulmonaire",
+      "D. L\u2019analyse histologique d\u2019un fragment tumoral",
+      "E. Immunogramme"
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 59,
+    "question": "*Les malformations cardiaques cong\u00e9nitales pr\u00e9disposent \u00e0 l\u2019endocardite \u00e0 l\u2019exception de:",
+    "options": [
+      "A. T\u00e9tralogie de fallot",
+      "B. Communication inter auriculaire ostium secundum",
+      "C. Communication inter ventriculaires",
+      "D. Insuffisance mitrale",
+      "E. Cardiomyopathie hypertrophique obstructive"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 60,
+    "question": "Le diagnostic positif de l\u2019endocardite se base sur:",
+    "options": [
+      "A. Existence obligatoire d\u2019une malformation cardiaque cong\u00e9nitales",
+      "B. pr\u00e9sence d\u2019un souffle systolique ou l\u2019apparition de nouveaux souffles",
+      "C. H\u00e9mocultures positives",
+      "D. Evidence des v\u00e9g\u00e9tations \u00e0 l\u2019\u00e9chographie",
+      "E. CT scan c\u00e9r\u00e9bral"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 61,
+    "question": "la myocardite s\u2019associe avec:",
+    "options": [
+      "A. Bruits cardiaques \u00e9touff\u00e9es, souffle systolique",
+      "B. Wheezing",
+      "C. Hypovoltage du complexe QRS",
+      "D. le coeur en \u201cflash\u201d avec d\u2019angles obtus par rapport au diaphragme",
+      "E. Silhouette cardiaque allong\u00e9e"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 62,
+    "question": "*Les causes des p\u00e9ricardites sont les suivantes, sauf:",
+    "options": [
+      "A. Les maladies du collag\u00e8ne",
+      "B. Le traumatisme sternale",
+      "C. La radioth\u00e9rapie",
+      "D. Les infections avec S. pneumoniae",
+      "E. Tuberculose"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 63,
+    "question": "Persistance du canal art\u00e9riel est associ\u00e9 avec:",
+    "options": [
+      "A. Shunt droite \u00e0 gauche",
+      "B. Shunt de gauche \u00e0 droite",
+      "C. Cyanose",
+      "D. Souffle holosystolique",
+      "E. Diab\u00e8te"
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 64,
+    "question": "Dans la D-transposition classique de gros vaisseaux:",
+    "options": [
+      "A. L\u2019aorte \u00e9merge du ventricule gauche",
+      "B. l\u2019art\u00e8re pulmonaire \u00e9merge du ventricule gauche",
+      "C. L\u2019aorte \u00e9merge du ventricule droit",
+      "D. Il ne faut pas exister un m\u00e9lange du sang",
+      "E. La cyanose est grave d\u00e8s la naissance"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 65,
+    "question": "Le traitement curatif de l\u2019endocardite utilise les m\u00e9dicaments suivants:",
+    "options": [
+      "A. Amoxicilline 50 mg/kg (max 3g) par voie orale",
+      "B. P\u00e9nicillines ou l'oxacilline, plus la gentamicine injectable",
+      "C. Vancomycine 40 mg/kg/jour, max 2 g/kg en 4 doses",
+      "D. Erythromycine 20 mg/kg par voie orale",
+      "E. Clindamycine 10 mg/kg (max adulte 300 mg) par voie orale"
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 66,
+    "question": "Le tableau clinique de la t\u00e9tralogie Fallot comprend:",
+    "options": [
+      "A. La cyanose profonde et position du squatting (accourpissement)",
+      "B. tachycardie",
+      "C. crises hypoxiques",
+      "D. Hyperpyrexie",
+      "E. Doigts hippocratiques"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 67,
+    "question": "L'\u00e9tiologie des vomissements aigus comprend:",
+    "options": [
+      "A. Les infection ORL",
+      "B. Hypovitaminose A",
+      "C. M\u00e9ningite",
+      "D. Infections respiratoires",
+      "E. Syndrome de Down"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 68,
+    "question": "Le reflux gastro-oesophagien pathologique:",
+    "options": [
+      "A. D\u00e9but g\u00e9n\u00e9ralement pr\u00e9coce d\u00e8s les premiers jours de vie",
+      "B. Se caract\u00e9rise par des r\u00e9gurgitations",
+      "C. Est d\u00e9fini comme le passage volontaire du contenu gastrique",
+      "D. Repr\u00e9sente la premi\u00e8re cause de vomissement chez le nourrisson",
+      "E. associe obligatoirement la diarrh\u00e9e"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 69,
+    "question": "les manifestation extra-digestives du reflux gastro-oesophagienne sont:",
+    "options": [
+      "A. Toux \u00e0 pr\u00e9dominance nocturne",
+      "B. Laryngites r\u00e9currentes",
+      "C. Prot\u00e9inurie",
+      "D. Convulsions",
+      "E. Fi\u00e8vre"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 70,
+    "question": "Les affirmations suivantes sur l\u2019infection par Helicobacter pylori sont vraies:",
+    "options": [
+      "A. Est l\u2019une des infections les plus rares dans le monde entier",
+      "B. Helicobacter Pylori est une bact\u00e9rie gram n\u00e9gatif",
+      "C. Provoque l\u2019ulc\u00e8re gastro-duod\u00e9nal",
+      "D. La transmission est a\u00e9rienne",
+      "E. la gastrite antrale \u00e0 H. pilori est diagnostiqu\u00e9 par des l\u00e9sions nodulaires typiques"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 71,
+    "question": "les r\u00e9gimes th\u00e9rapeutiques de premi\u00e8re ligne dans l\u2019infection avec helicobacter pylori sont:",
+    "options": [
+      "A. Amoxicilline (50 mg/kg/jour) + Clarithromycine (15 mg/kg/jour) + IPP, 2 doses/jr",
+      "B. Amoxicilline (50 mg/kg/jour) + M\u00e9tronidazole (30-40 mg/kg/jour) + IPP, 2 doses/jr",
+      "C. Amoxicilline (100 mg/kg/jour) + M\u00e9tronidazole (50 mg/kg/jour) + sels de bismuth 2 doses/jr",
+      "D. IPP + Amoxicilline (50 mg/kg/jr) 5 jours",
+      "E. IPP + Clarithromycine (15 mg/kg/jour)"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 72,
+    "question": "les complications possibles de l\u2019infection \u00e0 h\u00e9licobacter pylori sont:",
+    "options": [
+      "A. La gastrite chronique",
+      "B. La gastrite aigu\u00eb",
+      "C. La m\u00e9taplasie intestinale",
+      "D. La glom\u00e9rulon\u00e9phrite",
+      "E. L\u2019apparition d\u2019un carcinome gastrique"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 73,
+    "question": "Les affirmations suivantes sur la diarrh\u00e9e aigu\u00eb sont incorrectes:",
+    "options": [
+      "A. Diarrh\u00e9e aigu\u00eb est une affection fr\u00e9quente",
+      "B. La d\u00e9shydratation aigu\u00eb est la principale complication",
+      "C. causes les plus fr\u00e9quentes de diarrh\u00e9e sont bact\u00e9riennes",
+      "D. Le traitement repose sur la r\u00e9hydratation par voie orale et la r\u00e9alimentation pr\u00e9coce doivent \u00eatre parfaitement expliqu\u00e9es aux parents",
+      "E. les douleurs abdominales sont vraiment rares associ\u00e9s avec diarrh\u00e9e"
+    ],
+    "correct_answers": ["C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 74,
+    "question": "Signes cliniques de d\u00e9shydratation intracellulaire sont:",
+    "options": [
+      "A. Fontanelle d\u00e9prim\u00e9e",
+      "B. Pli cutan\u00e9 persistant",
+      "C. temps de recoloration cutan\u00e9 allong\u00e9",
+      "D. Hypotonie des globes oculaires",
+      "E. Fi\u00e8vre"
+    ],
+    "correct_answers": ["D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 75,
+    "question": "Les antibiotiques recommand\u00e9s, en fonction de l\u2019\u00e9tiologie, pour les diarrh\u00e9es aigu\u00ebs sont:",
+    "options": [
+      "A. Shigelle : ampicilline (100 mg/kg/j)",
+      "B. Salmonella : Ceftriaxone (50 mg/kg/j)",
+      "C. Shigella : ibuprof\u00e8ne (20-30 mg/kg/j)",
+      "D. Campylobacter jejuni : Erythromycine (50 mg/kg/j per os)",
+      "E. Salmonelle : Gentamicine 40 mg/kg/j"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 76,
+    "question": "Les causes de diarrh\u00e9e chronique \u00e9num\u00e8rent:",
+    "options": [
+      "A. L\u2019allergie aux prot\u00e9ines de lait de vache",
+      "B. Mucoviscidose",
+      "C. Syndrome Marfan",
+      "D. Infection \u00e0 salmonelle",
+      "E. Infestation avec Echinococcus granulosus"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 77,
+    "question": "la maladie Coeliaque :",
+    "options": [
+      "A. Est une ent\u00e9ropathie IgE m\u00e9di\u00e9e",
+      "B. Est une ent\u00e9ropathie m\u00e9di\u00e9e par le syst\u00e8me immunitaire",
+      "C. Survient chez les patients ayant un d\u00e9ficit s\u00e9lectif en IgA",
+      "D. Survient chez les personnes g\u00e9n\u00e9tiquement pr\u00e9dispos\u00e9es (DQ2 ou DQ8)",
+      "E. A des sympt\u00f4mes respiratoires"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 78,
+    "question": "Les anticorps utilis\u00e9e pour le diagnostic de la maladie coeliaque \u00e9num\u00e8re:",
+    "options": [
+      "A. IgA anti transglutaminases (TGA)",
+      "B. IgM anti transglutaminases",
+      "C. IgG anti-endomysium en cas de d\u00e9ficit en IgA",
+      "D. IgM anti gliadine",
+      "E. les anticorps anti-peptides de la gliadine d\u00e9samin\u00e9e"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 79,
+    "question": "les prot\u00e9ines qui causent l\u2019allergie sont:",
+    "options": [
+      "A. Beta-lactoglobuline",
+      "B. gamma-lactoglobuline",
+      "C. Cas\u00e9ine",
+      "D. Albumine",
+      "E. Immunoglobuline"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 80,
+    "question": "L\u2019h\u00e9patite chronique avec virus B, dans la p\u00e9riode inactive non r\u00e9plicative est caract\u00e9ris\u00e9e par la pr\u00e9sence des:",
+    "options": [
+      "A. Ag HBs",
+      "B. Ac anti-HBs",
+      "C. Ag HBe",
+      "D. ADN viral PCR",
+      "E. Ac anti-Hbe"
+    ],
+    "correct_answers": ["A", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 81,
+    "question": "L\u2019h\u00e9patite C chronique \u00e0 le suivantes caract\u00e9ristiques s\u00e9rologiques positives:",
+    "options": [
+      "A. Ac IgM anti-VHC",
+      "B. Ac IgG anti-VHC",
+      "C. IgM-HBc",
+      "D. IgG- anti HBc",
+      "E. ARN viral par PCR"
+    ],
+    "correct_answers": ["B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 82,
+    "question": "Les porteurs VHB ont :",
+    "options": [
+      "A. Ag HBs positif",
+      "B. Ac IgM anti-HBc positifs",
+      "C. Ac IgM anti-HBc n\u00e9gatifs",
+      "D. Ac IgM anti-delta positifs",
+      "E. Ac IgG anti-VHD positifs"
+    ],
+    "correct_answers": ["A", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 83,
+    "question": "Les manifestations cliniques de la giardiase sont:",
+    "options": [
+      "A. Un app\u00e9tit vorace",
+      "B. Les douleurs \u00e9pigastriques",
+      "C. Halitose sulfureuse le matin",
+      "D. la perte de poids",
+      "E. L'urticaire"
+    ],
+    "correct_answers": ["C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 84,
+    "question": "Les d\u00e9clarations suivantes sont vraies \u00e0 propos de GNA post streptococcique",
+    "options": [
+      "A. L\u2019\u00e9tiologie sont des souches particulaires (nefritig\u00e8ne) de streptocoques b\u00eata h\u00e9molytique de groupe A",
+      "B. La culture d\u2019urine rel\u00e8ve leucocyturie, cylindrurie, bact\u00e9riurie",
+      "C. l\u2019entr\u00e9e respiratoire ou cutan\u00e9e",
+      "D. maladie \u201cdes complexes immuns circulants\u201d",
+      "E. les oed\u00e8mes se produisent pendant l\u2019angine streptococcique"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 85,
+    "question": "Le syndrome urinaire dans GNA post streptococcique est caract\u00e9ris\u00e9 par:",
+    "options": [
+      "A. oligurie",
+      "B. h\u00e9maturie",
+      "C. prot\u00e9inurie mod\u00e9r\u00e9",
+      "D. densit\u00e9 urinaire r\u00e9duit",
+      "E. prot\u00e9inurie s\u00e9lective au d\u00e9but"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 86,
+    "question": "le tableaux clinique de l\u2019infection urinaire chez le nourrisson et petit enfant:",
+    "options": [
+      "A. Fi\u00e8vre",
+      "B. Ict\u00e8re",
+      "C. Vomissements, diarrh\u00e9e",
+      "D. Urine nuageux (pyurie)",
+      "E. purpura"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 87,
+    "question": "Le syndrome n\u00e9phrotique (SN) se caract\u00e9rise par:",
+    "options": [
+      "A. Prot\u00e9inurie massif s\u00e9lectif",
+      "B. oed\u00e8me g\u00e9n\u00e9ralis\u00e9es massif",
+      "C. Hypoprot\u00e9in\u00e9mie",
+      "D. Dysprot\u00e9in\u00e9mie",
+      "E. Hyperalbumin\u00e9mie"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 88,
+    "question": "Les manifestations majeures du RAA (rhumatisme articulaire aigu) sont les suivant:",
+    "options": [
+      "A. Polyarthrite aigu\u00eb fugace et mobile",
+      "B. Cardite",
+      "C. C\u00e9phal\u00e9e",
+      "D. Nodules sous cutan\u00e9s",
+      "E. \u00e9ryth\u00e8me facial"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 89,
+    "question": "Le traitement du syndrome n\u00e9phrotique (SN) par th\u00e9rapie immunosuppresseur est indiqu\u00e9 en cas de:",
+    "options": [
+      "A. SN st\u00e9ro\u00efdes sensible avec rechutes souvent",
+      "B. SN st\u00e9ro\u00efdes sensible avec \u00e9v\u00e8nement V d\u2019intol\u00e9rance \u00e0 corticost\u00e9ro\u00efdes",
+      "C. Formes de SN secondaire, sensible aux st\u00e9ro\u00efdes",
+      "D. Formes de SN cong\u00e9nital et familial",
+      "E. Formes de SN st\u00e9ro\u00efdes-sensible ou sans st\u00e9ro\u00efdes-intol\u00e9rance"
+    ],
+    "correct_answers": ["A", "B"]
+  }
+]
