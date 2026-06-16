@@ -2,6 +2,11 @@ import re
 import os
 import json
 
+fichier_question = "ORLEN1Q.txt"
+ficher_reponse = "ORLEN1R.txt"
+base_name = "ORLEN1 (GPT)"
+
+
 class Question:
     def __init__(self, chapitre, id, question, options, correct_answers):
         self.chapitre = chapitre
@@ -20,7 +25,7 @@ class Question:
         }
 
 def convert_to_uppercase_inplace(file):
-    with open(file, 'r+') as f:
+    with open(file, 'r+', encoding='utf-8') as f:
         text = f.read()
         f.seek(0)
         f.write(text.upper())
@@ -69,12 +74,12 @@ def read_questions_and_answers(questions_filename, answers_filename):
     return questions
 
 # Partie pour radio
-questions = read_questions_and_answers("PuériQ.txt", "PuériR.txt")
+questions = read_questions_and_answers(fichier_question, ficher_reponse)
 
-input_file = "PuériR.txt"
+input_file = ficher_reponse
 convert_to_uppercase_inplace(input_file)
 
-with open(input_file, "r") as f:
+with open(input_file, "r", encoding='utf-8') as f:
     reponses = f.readlines()
 
 for question, reponse in zip(questions, reponses):
@@ -82,8 +87,14 @@ for question, reponse in zip(questions, reponses):
     reponse = reponse.strip().replace(" ", "").replace(",", "")
     # Ajoute les réponses correctes à l'objet Question
     question.correct_answers = list(reponse)
+    
+    # NEW FEATURE: Add '*' to the start of the question if there is exactly 1 correct answer
+    if len(question.correct_answers) == 1:
+        # Prevent adding multiple stars if run multiple times
+        if not question.question.startswith("*"):
+            question.question = "*" + question.question
 
-# Divisez les questions en 11 groupes en fonction de leur chapitre
+# Divisez les questions en groupes en fonction de leur chapitre
 chapitres = set(q.chapitre for q in questions)
 groupes = {chapitre: [] for chapitre in chapitres}
 for question in questions:
@@ -91,8 +102,9 @@ for question in questions:
 
 # Pour chaque groupe de questions, écrivez les questions dans un fichier JSON séparé
 for chapitre, groupe in groupes.items():
-    nom_fichier = f"ChirPed2.json"
-    with open(nom_fichier, "w") as f:
-        json.dump([q.to_dict() for q in groupe], f, indent=4)
+    # FIXED: Added the chapter to the filename so they don't overwrite each other
+    nom_fichier = f"{base_name}.json" 
+    with open(nom_fichier, "w", encoding='utf-8') as f:
+        json.dump([q.to_dict() for q in groupe], f, indent=4, ensure_ascii=False)
 
-print("Nb questions cardio = " + str(len(questions)))
+print("Nb questions = " + str(len(questions)))

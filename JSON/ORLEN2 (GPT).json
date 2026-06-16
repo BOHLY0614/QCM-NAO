@@ -1,0 +1,620 @@
+[
+    {
+        "chapitre": 0,
+        "id": 1,
+        "question": "*Un kyste dermoïde est :",
+        "options": [
+            "A. Une tumeur maligne",
+            "B. Une tumeur congénitale",
+            "C. Une infection",
+            "D. Une collecte de sang",
+            "E. Signe de consommation"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 2,
+        "question": "*Dans le méat moyen, ouvrez les sinus suivants :",
+        "options": [
+            "A. Sinus ethmoïdaux maxillaires, frontaux et antérieurs",
+            "B. Sinus ethmoïdaux postérieurs",
+            "C. Sinus sphénoïdal",
+            "D. Sinus caverneux",
+            "E. Sinus tympanique"
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 3,
+        "question": "Hématome septal :",
+        "options": [
+            "A. Accumulation de sang sous le périchondre ou le périoste de la cloison nasale.",
+            "B. Elle peut être causée par un traumatisme nasal ou une intervention chirurgicale.",
+            "C. Le traitement consiste en une aspiration à l'aide d'une aiguille stérile de gros calibre.",
+            "D. Incision et drainage des hémorragies plus importantes par méchage nasal bilatéral.",
+            "E. Accumulation de tissu conjonctif."
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 4,
+        "question": "Peau nasale, quelles affirmations sont correctes ?",
+        "options": [
+            "A. Peau fine et librement mobile, recouvrant les os du nez",
+            "B. Peau fine avec de nombreuses glandes sébacées, recouvrant l'os du nez et les cartilages latéraux inférieurs",
+            "C. Peau épaisse, adhérente et riche en glandes sébacées recouvrant les cartilages alaires",
+            "D. Peau fine et adhérente recouvrant les cartilages alaires",
+            "E. Peau épaisse avec de nombreuses glandes sébacées, recouvrant l'os du nez et les cartilages latéraux supérieurs"
+        ],
+        "correct_answers": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 5,
+        "question": "Rhinosclérome :",
+        "options": [
+            "A. L'étiologie est un bacille Gram négatif – Klebsiella Rhinoscleromatis",
+            "B. L'étiologie est un Gram positif – Staphylococcus aureus",
+            "C. Les stades cliniques sont : atrophique, granulomateux, cicatriciel",
+            "D. Un diagnostic certain est posé par biopsie",
+            "E. Traité par streptomycine et tétracycline"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 6,
+        "question": "Traitement de la rhinite allergique : les éléments suivants sont corrects :",
+        "options": [
+            "A. Éviter l'allergène",
+            "B. Surexposition à l'allergène",
+            "C. Antihistaminiques",
+            "D. Corticostéroïdes (oraux et topiques)",
+            "E. Radiothérapie"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 7,
+        "question": "Les symptômes de la rhinite vasomotrice sont :",
+        "options": [
+            "A. Respiration sifflante",
+            "B. Rhinorrhée excessive",
+            "C. Obstruction nasale",
+            "D. Ecoulement post nasal",
+            "E. Toux"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 8,
+        "question": "Les causes locales d'épistaxis sont :",
+        "options": [
+            "A. Un traumatisme / un corps étranger",
+            "B. Infections",
+            "C. Tumeurs du nez et des sinus paranasaux",
+            "D. Chaleur",
+            "E. Froid"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 9,
+        "question": "Épistaxis postérieure :",
+        "options": [
+            "A. Provient principalement de la partie postérosupérieure de la fosse nasale",
+            "B. Survient spontanément, souvent en raison d'une hypertension ou d'une artériosclérose",
+            "C. La cause la plus fréquente est un traumatisme",
+            "D. Survient principalement chez les enfants ou les jeunes adultes",
+            "E. Légère et facile à contrôler"
+        ],
+        "correct_answers": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 10,
+        "question": "Complications de la sinusite frontale :",
+        "options": [
+            "A. Cellulite orbitaire",
+            "B. Ostéomyélite de l'os frontal",
+            "C. Méningite, abcès extradural ou abcès du lobe frontal",
+            "D. Nécrose du sinus maxillaire",
+            "E. Conjonctivite aiguë"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 11,
+        "question": "Affirmation correcte concernant la laryngomalacie :",
+        "options": [
+            "A. Anomalie laryngée congénitale la plus courante (5075 %)",
+            "B. Cause la plus fréquente de stridor chez l'adulte",
+            "C. Prédominance masculine 2:1",
+            "D. Flaccidité du tissu laryngé supraglottique",
+            "E. Caractérisé par un affaissement vers l'intérieur des structures du pharynx"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 12,
+        "question": "Les hémangiomes sousglottiques sont :",
+        "options": [
+            "A. Asymptomatiques jusqu'à 12 mois",
+            "B. 50 % ont des hémangiomes cutanés associés",
+            "C. Stridor mais un cri normal",
+            "D. Masse bleurougeâtre sous les cordes vocales",
+            "E. Biopsie – fortement indiquée"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 13,
+        "question": "*L'épiglotte est formée par :",
+        "options": [
+            "A. Muscle",
+            "B. Os",
+            "C. Cartilage fibreux",
+            "D. Tissu adipeux",
+            "E. Peau"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 14,
+        "question": "*La cause la plus fréquente de paralysie bilatérale du nerf laryngé récurrent est :",
+        "options": [
+            "A. Un traumatisme laryngé",
+            "B. Une lésion iatrogène chirurgicale en cas de thyroïdectomie totale due à un carcinome de la glande thyroïde",
+            "C. Une masse tumorale s'étendant dans la partie supérieure du médiastin",
+            "D. Une polyneuropathie toxique des nerfs laryngés récurrents",
+            "E. Une laryngite sousglottique aiguë"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 15,
+        "question": "Les fonctions du larynx sont :",
+        "options": [
+            "A. Phonation",
+            "B. Respiration",
+            "C. Protection des voies respiratoires inférieures",
+            "D. Fixation thoracique",
+            "E. Expectoration"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 16,
+        "question": "Voici les lésions intracrâniennes de l'otite moyenne :",
+        "options": [
+            "A. Abcès extradural",
+            "B. Pétrosite",
+            "C. Méningite",
+            "D. Labyrinthite",
+            "E. Abcès cérébral"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 17,
+        "question": "Les abcès liés à une infection mastoïdienne sont",
+        "options": [
+            "A. Abcès postauriculaire",
+            "B. Abcès zygomatique",
+            "C. Abcès de Bezold",
+            "D. Pétrosite",
+            "E. Cellulite orbitaire"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 18,
+        "question": "Les symptômes de l'adénoïdite auriculaire ne sont pas :",
+        "options": [
+            "A. Obstruction tubaire",
+            "B. Sinusite",
+            "C. Crises récurrentes d'otite moyenne aiguë",
+            "D. Écoulement nasal",
+            "E. Otite moyenne séreuse"
+        ],
+        "correct_answers": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 19,
+        "question": "*L'épiglotte est formée par :",
+        "options": [
+            "A. Muscle",
+            "B. Os",
+            "C. Cartilage fibreux",
+            "D. Tissu adipeux",
+            "E. Peau"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 20,
+        "question": "Lesquelles des affirmations suivantes sont correctes :",
+        "options": [
+            "A. Dans le test de Weber, le diapason est placé sur le processus mastoïde",
+            "B. Dans le test de Weber, un patient ayant une audition normale localise le son soit au centre de la tête, soit également dans les deux oreilles",
+            "C. Dans le test de Weber, un patient souffrant d'une perte auditive de transmission unilatérale localise le son dans l'oreille affectée",
+            "D. Dans le test de Weber, un patient souffrant d'une perte auditive neurosensorielle localise le son dans l'oreille affectée",
+            "E. Dans le test de Weber, un patient souffrant d'une perte auditive neurosensorielle localise le son dans l'oreille saine"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 21,
+        "question": "Le diagnostic différentiel de l'amygdalite aiguë est réalisé avec",
+        "options": [
+            "A. Ulcères apthiques",
+            "B. Tumeur maligne de l'amygdale",
+            "C. Sinusite",
+            "D. Manifestations bucopharyngées dans l'agranulocytose",
+            "E. Manifestations bucopharyngées dans la leucémie"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 22,
+        "question": "L'otospongiose est caractérisée par :",
+        "options": [
+            "A. Une altération de la fonction de la trompe d'Eustache",
+            "B. Acouphènes",
+            "C. Hyalinisation et calcification du tissu conjonctif sousépithélial, dépôts crayeux blancs dans le promontoire et osselets",
+            "D. Perte auditive de transmission",
+            "E. Paracusis willisii"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 23,
+        "question": "La laryngite chronique non spécifique ne peut PAS être :",
+        "options": [
+            "A. Catarale",
+            "B. Causé par tbc",
+            "C. Type hypertrophique rouge et blanc",
+            "D. Atrophique",
+            "E. Causée par la syphilis"
+        ],
+        "correct_answers": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 24,
+        "question": "L'anneau de Waldeyer n'est PAS composé des éléments suivants :",
+        "options": [
+            "A. Amygdale nasopharyngée ou végétations adénoïdes",
+            "B. Amygdales palatines",
+            "C. Amygdales linguales",
+            "D. Amygdales gastriques",
+            "E. Amygdales mastoïdiennes"
+        ],
+        "correct_answers": [
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 25,
+        "question": "Dans la mastoïdite aiguë :",
+        "options": [
+            "A. Le traitement consiste en une stapédotomie",
+            "B. Le traitement consiste en une antibiothérapie",
+            "C. Le traitement consiste en une chirurgie reconstructive avec restauration de l'audition par tympanoplastie",
+            "D. Le traitement consiste en une myringotomie",
+            "E. Le traitement consiste en une mastoïdectomie"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 26,
+        "question": "Les abcès liés à une infection mastoïdienne sont :",
+        "options": [
+            "A. Bezold",
+            "B. Pétrosite",
+            "C. Zygomatique",
+            "D. Cellulite orbitaire",
+            "E. Postauriculaire"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 27,
+        "question": "Les symptômes de l'amygdalite aiguë sont :",
+        "options": [
+            "A. Respiration buccale",
+            "B. Difficulté à avaler",
+            "C. Fièvre",
+            "D. Mal de gorge",
+            "E. Mal d'oreille"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 28,
+        "question": "L'hypopharynx est cliniquement subdivisé en :",
+        "options": [
+            "A. Corde vocale",
+            "B. Pli ventriculaire",
+            "C. Sinus piriforme",
+            "D. Zone postcricoïde",
+            "E. Paroi pharyngée postérieure"
+        ],
+        "correct_answers": [
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 29,
+        "question": "Les tumeurs bénignes du larynx sont :",
+        "options": [
+            "A. Chondrome",
+            "B. Ostéome",
+            "C. Hémangiome",
+            "D. Botriomycome",
+            "E. Papillome"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 30,
+        "question": "Les lésions congénitales du larynx sont :",
+        "options": [
+            "A. Laryngomalacie",
+            "B. Atrésie des choanes",
+            "C. Rebord laryngé",
+            "D. Fente palatine",
+            "E. Laryngocèle"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 31,
+        "question": "*Le sinus maxillaire :",
+        "options": [
+            "A. S'ouvre dans le méat supérieur",
+            "B. Son innervation provient du IXe nerf crânien",
+            "C. C'est le plus grand sinus",
+            "D. S'ouvre dans le méat supérieur",
+            "E. A une capacité de 5 ml"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 32,
+        "question": "Les symptômes de la rhinite vasomotrice ne sont PAS :",
+        "options": [
+            "A. Obstruction nasale",
+            "B. Bronchospasme",
+            "C. Écoulement postnasal",
+            "D. Respiration sifflante",
+            "E. Prurit oculaire"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 33,
+        "question": "Nodules vocaux :",
+        "options": [
+            "A. Sont considérées comme des réactions tissulaires tumorales.",
+            "B. Plus fréquentes chez les patients de sexe masculin.",
+            "C. Ne sont pas favorisées par une surcharge vocale.",
+            "D. Sont traitées chirurgicalement.",
+            "E. Le repos de la voix est recommandé."
+        ],
+        "correct_answers": [
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 34,
+        "question": "Les complications d'un traumatisme laryngotrachéal sont représentées par :",
+        "options": [
+            "A. Perte du goût",
+            "B. Périchondrite/abcès laryngé",
+            "C. Paralysie des cordes vocales",
+            "D. Sténose laryngée",
+            "E. Hyposmie"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 35,
+        "question": "Un traumatisme laryngotrachéal peut être représenté par :",
+        "options": [
+            "A. Hématome et œdème",
+            "B. Othématome",
+            "C. Luxation de l'articulation cricoaryténoïdienne",
+            "D. Fractures des os hyoïdes, des cartilages thyroïdiens et cricoïdes",
+            "E. Fractures des anneaux trachéaux supérieurs"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 36,
+        "question": "Voici les complications intratemporales de l'otite moyenne :",
+        "options": [
+            "A. Abcès sousdural",
+            "B. Paralysie faciale",
+            "C. Mastoïdite",
+            "D. Méningite",
+            "E. Pétrosite"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 37,
+        "question": "*Les structures de la paroi oropharyngée sont les suivantes, à une exception près :",
+        "options": [
+            "A. La muqueuse",
+            "B. Aponévrose pharyngée",
+            "C. Fascia musculaire",
+            "D. Fascia buccopharyngé",
+            "E. Périoste"
+        ],
+        "correct_answers": [
+            "E"
+        ]
+    }
+]

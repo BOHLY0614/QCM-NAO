@@ -1,0 +1,652 @@
+[
+  {
+    "chapitre": 0,
+    "id": 1,
+    "question": "*Le principal sympt\u00f4me clinique dans l'otoscl\u00e9rose est:",
+    "options": [
+      "A. Le vertige",
+      "B. l'acouph\u00e8ne tinnitus",
+      "C. Hypoacousie de perception",
+      "D. sensation de pl\u00e9nitudes auriculaire",
+      "E. hypoacousie de transmission"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 2,
+    "question": "*Le traitement de choix de cholest\u00e9atome est:",
+    "options": [
+      "A. Les antibiotiques",
+      "B. la chimioth\u00e9rapie",
+      "C. radioth\u00e9rapie",
+      "D. chirurgical",
+      "E. physioth\u00e9rapie"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 3,
+    "question": "*Les propositions suivantes en rapport avec la tuberculose laryng\u00e9e sont correctes \u00e0 l'exception de :",
+    "options": [
+      "A. l'\u00e2ge de pr\u00e9dilection survient apr\u00e8s 60 ans",
+      "B. est secondaire \u00e0 la tuberculose pulmonaire",
+      "C. ensemencement de la B. Koch se fait par expectorations tracheobronchique ou par voie h\u00e9matologique",
+      "D. le traitement est sp\u00e9cifique est effectu\u00e9 dans un r\u00e9seau de sp\u00e9cialit\u00e9",
+      "E. l'\u00e2ge de pr\u00e9dilection se situe entre 20-40 ans"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 4,
+    "question": "*Collection de sang entre le p\u00e9richondre septal et cartilage septal est appel\u00e9:",
+    "options": [
+      "A. Un h\u00e9matome des sinus",
+      "B. luxation de la pyramide nasale",
+      "C. fracture de la pyramide nasale",
+      "D. l'h\u00e9mangiome",
+      "E. h\u00e9matome septal"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 5,
+    "question": "*Les fosses nasales ont 4 murs:",
+    "options": [
+      "A. Inf\u00e9rieur (septum), sup\u00e9rieur (vo\u00fbte), moyen (plancher), lat\u00e9rales (cornets et m\u00e9ats)",
+      "B. Inf\u00e9rieur (plancher), sup\u00e9rieur (vo\u00fbte), moyen (septum), lat\u00e9rales (cornets et m\u00e9ats)",
+      "C. Inf\u00e9rieur (vo\u00fbte), moyen (septum), sup\u00e9rieur (cornets et m\u00e9ats), lat\u00e9rales (plancher)",
+      "D. Inf\u00e9rieur (plancher), moyen (cornets et m\u00e9ats), lat\u00e9rales (vo\u00fbte), sup\u00e9rieur (septum)",
+      "E. Inf\u00e9rieur (cornets et m\u00e9ats), sup\u00e9rieur (vo\u00fbte), moyen (septum), lat\u00e9rales (cornets et m\u00e9at)"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 6,
+    "question": "*Faci\u00e8s ad\u00e9no\u00efsien est caract\u00e9ris\u00e9 par les propositions suivantes sauf:",
+    "options": [
+      "A. La l\u00e8vre sup\u00e9rieure r\u00e9tract\u00e9es",
+      "B. le visage congestionn\u00e9 avec un regard perdu",
+      "C. l\u00e8vre inf\u00e9rieures inerte",
+      "D. bouche ouverte",
+      "E. petit nez"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 7,
+    "question": "*Etage sus-glottique ne contient pas de :",
+    "options": [
+      "A. bandes ventriculaires",
+      "B. face laryng\u00e9e de l'\u00e9piglotte",
+      "C. aryt\u00e9no\u00efdes",
+      "D. replies aryt\u00e9no-\u00e9piglottique",
+      "E. cordes vocales"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 8,
+    "question": "*Le diagnostic de certitude des tumeurs malignes du rhinopharynx sont mise en \u00e9vidence par:",
+    "options": [
+      "A. Biopsie du nasopharynx",
+      "B. ECG",
+      "C. l'anamn\u00e8se",
+      "D. radiographie pulmonaire",
+      "E. l'\u00e9chographie cervicale"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 9,
+    "question": "*Ad\u00e9no\u00efdes aigu\u00eb est une inflammation aigu\u00eb a :",
+    "options": [
+      "A. l'amygdale linguale",
+      "B. les amygdales palatines",
+      "C. amygdales Gerlach",
+      "D. amygdale oropharyng\u00e9e",
+      "E. amygdale Luschka"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 10,
+    "question": "*Le larynx:",
+    "options": [
+      "A. Est un organe musculaire fibro-cartilagineux",
+      "B. est divis\u00e9 en 3 \u00e9tages: supra glottique, glottique et sous-glottique",
+      "C. en continuation avec la trach\u00e9e",
+      "D. est form\u00e9e d'un cartilage \u00e9lastique: \u00e9piglotte",
+      "E. toutes les r\u00e9ponses sont correctes"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 11,
+    "question": "*Lequel des laryngite chronique suivantes est sp\u00e9cifique",
+    "options": [
+      "A. Hypertrophique blanche",
+      "B. catarrhale",
+      "C. atrophique",
+      "D. syphilis",
+      "E. hypertrophique rouge"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 12,
+    "question": "*Dans la surdit\u00e9 brusque le tympan est:",
+    "options": [
+      "A. Perfor\u00e9 avec s\u00e9cr\u00e9tions purulentes",
+      "B. bomb\u00e9",
+      "C. congestionn\u00e9",
+      "D. avec v\u00e9sicules",
+      "E. normal"
+    ],
+    "correct_answers": ["E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 13,
+    "question": "*Les propositions suivantes sont les causes locales de l'\u00e9pistaxis \u00e0 l'exception de :",
+    "options": [
+      "A. Un traumatisme de la pyramide nasale",
+      "B. Rhinophyma",
+      "C. polype saignant de la cloison nasale",
+      "D. tumeurs malignes naso-sinusiennes",
+      "E. la rhinite aigu\u00eb et chronique"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 14,
+    "question": "*Le sinus maxillaire:",
+    "options": [
+      "A. N'est pas le plus grand des sinus",
+      "B. draine au niveau du m\u00e9at sup\u00e9rieur",
+      "C. ponction exploratrice ou th\u00e9rapeutique dans le m\u00e9at moyen",
+      "D. draine au niveau du m\u00e9at moyen",
+      "E. draine au niveau du m\u00e9at inf\u00e9rieur"
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 15,
+    "question": "*L'une des propositions suivantes ne fait pas partie des causes de la surdit\u00e9 acquise:",
+    "options": [
+      "A. Traitement avec de la Kanamycine",
+      "B. la m\u00e9ningite",
+      "C. l'an\u00e9mie",
+      "D. le traitement par la quinine",
+      "E. la parotidite \u00e9pid\u00e9mique"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 16,
+    "question": "Rhinite aigu\u00eb non sp\u00e9cifique:",
+    "options": [
+      "A. La rhinite pseudomembraneuse (streptocoque, pneumocoque)",
+      "B. la rhinite streptococcique",
+      "C. la rhinite septique chez l'adulte",
+      "D. rhinite infectieuse \u00e0 staphylococcus aureus",
+      "E. la rhinite aigu\u00eb banale: coryza ou nez qui coule"
+    ],
+    "correct_answers": ["A", "B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 17,
+    "question": "Angine \u00e9ryth\u00e9mato pultac\u00e9e:",
+    "options": [
+      "A. Streptocoque b\u00eata-h\u00e9molytique est l'agent \u00e9tiologique",
+      "B. on administre de la p\u00e9nicilline, l'\u00e9rythromycine ou l'amoxicilline",
+      "C. pas de modification de l'ASLO",
+      "D. l'agent \u00e9tiologique sont bacilles fusiformes",
+      "E. on ne trouve pas d'ad\u00e9nite sous-maxillaire"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 18,
+    "question": "Les tumeurs malignes du cavum:",
+    "options": [
+      "A. La phase d'\u00e9tat pr\u00e9sente cinq formes: rhinologique, otologique, neurologiques, ophtalmologique, ganglionnaire",
+      "B. phase otological comprend: acouph\u00e8nes, autophonie, surdit\u00e9 de perception, otite chronique catarrhale rebelle au traitement, parfois otite moyenne aigu\u00eb",
+      "C. formes anatomo-pathologiques: \u00e9pidermo\u00efdes 85-95% (indiff\u00e9renci\u00e9es, moins diff\u00e9renci\u00e9es, diff\u00e9renci\u00e9es)",
+      "D. l'hypoth\u00e8se d'origine virale sont fr\u00e9quemment rencontr\u00e9 est en augmentation (Epstein-Barr)",
+      "E. phase ganglionnaire (ad\u00e9nopathie cervicale haute ou dans l'espace entre la pointe de la masto\u00efde et la branche verticale de la mandibule). Appara\u00eet comme un bloc ganglionnaire avec une consistance molle, non fix\u00e9, douloureux \u00e0 la palpation"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 19,
+    "question": "La cavit\u00e9 buccale est d\u00e9limit\u00e9e:",
+    "options": [
+      "A. sup\u00e9rieur du plancher buccal",
+      "B. ant\u00e9rieur des l\u00e8vres",
+      "C. inf\u00e9rieur du palais osseux avec l'os palatin",
+      "D. cloison nasal vers l'ant\u00e9rieur",
+      "E. post\u00e9rieur du voile du palais"
+    ],
+    "correct_answers": ["B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 20,
+    "question": "Quelles angines aigu\u00ebs appartiennent \u00e0 certaines affection h\u00e9matologiques:",
+    "options": [
+      "A. angine \u00e9ryth\u00e9mato pultac\u00e9e",
+      "B. l'angine et la fi\u00e8vre aphteuse",
+      "C. l'angine agranulocytaire",
+      "D. l'angine leuc\u00e9mique",
+      "E. angine de la zona zoster"
+    ],
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 21,
+    "question": "Deux de ces variantes sont des tumeurs malignes de l'oro/buccopharynx:",
+    "options": [
+      "A. angiofibrome du nasopharynx",
+      "B. lipome pharyng\u00e9e",
+      "C. le cancer de l'amygdale palatine",
+      "D. cancer de la luette",
+      "E. une tumeur du rhinopharynx"
+    ],
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 22,
+    "question": "Cancer des amygdales palatines:",
+    "options": [
+      "A. Une immunoth\u00e9rapie est le traitement de base",
+      "B. le diagnostic de certitude est mise en \u00e9vidence par ex HP",
+      "C. l'examen de l'oropharynx est un examen qui le met en \u00e9vidence",
+      "D. repr\u00e9sente cancer de l'hypopharynx",
+      "E. est la tumeur la plus fr\u00e9quente du pharynx (unilat\u00e9rale)"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 23,
+    "question": "Les parois sup\u00e9rieurs des fosses nasales se compose du:",
+    "options": [
+      "A. temporal",
+      "B. frontal",
+      "C. sph\u00e9no\u00efdal",
+      "D. l'os nasal",
+      "E. ethmo\u00efdal"
+    ],
+    "correct_answers": ["B", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 24,
+    "question": "\u00c9tages du larynx sont :",
+    "options": [
+      "A. ant\u00e9rieur",
+      "B. post\u00e9rieur",
+      "C. glottique",
+      "D. sus-glottique",
+      "E. sous-glottique"
+    ],
+    "correct_answers": ["C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 25,
+    "question": "Les sympt\u00f4mes du cancer des amygdales comprennent:",
+    "options": [
+      "A. Epistaxis r\u00e9p\u00e9t\u00e9e",
+      "B. odynophagie",
+      "C. l'obstruction nasale progressive",
+      "D. la dysphagie",
+      "E. la perte de poids"
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 26,
+    "question": "Trois de ces variantes sont des tumeurs malignes de l'oro/buccopharynx:",
+    "options": [
+      "A. Le cancer du voile du palais",
+      "B. cancer de l'amygdale palatine",
+      "C. le cancer des sinus piriforme",
+      "D. le cancer de la base de la langue",
+      "E. le cancer du cavum"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 27,
+    "question": "Les tumeurs b\u00e9nignes du larynx sont les suivantes :",
+    "options": [
+      "A. Nodules vocaux",
+      "B. la dipht\u00e9rie laryng\u00e9e",
+      "C. le carcinome spinocellulaire",
+      "D. h\u00e9mangiome",
+      "E. polypes laryng\u00e9s"
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 28,
+    "question": "Tuberculose du pharynx:",
+    "options": [
+      "A. apparition des l\u00e9sions profondes destructives, non douloureuse",
+      "B. 4 \u00e9tapes sont d\u00e9crites: cru, ramolli, le stade de l'ulc\u00e9ration, cicatrisation",
+      "C. tuberculose miliaire aigu\u00eb, appara\u00eet chez les jeunes ayant une tuberculose pulmonaire cavitaire, \u00e9tat f\u00e9brile 39-40\u00b0C, asth\u00e9nie marqu\u00e9e, transpiration, perte de poids, odynophagie, dysphagie marqu\u00e9, sialorrh\u00e9e, perte d'app\u00e9tit",
+      "D. les formes cliniques: tuberculose miliaire aigu\u00eb (Isambert), tuberculose ulc\u00e9reuse, sous une forme latente, le lupus du pharynx, abc\u00e8s froid r\u00e9tropharyng\u00e9e",
+      "E. la tuberculose pulmonaire secondaire (=> sens de secondaire \u00e0 la TBC pulmonaire)"
+    ],
+    "correct_answers": ["C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 29,
+    "question": "Patients avec abc\u00e8s septal pr\u00e9sente :",
+    "options": [
+      "A. Fi\u00e8vre 36-37 degr\u00e9s celsius",
+      "B. c\u00e9phal\u00e9es",
+      "C. \u00e9pistaxis",
+      "D. douleur locale",
+      "E. la dysphagie"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 30,
+    "question": "Malformation du larynx sont repr\u00e9sent\u00e9e par :",
+    "options": [
+      "A. trach\u00e9otomie",
+      "B. laryngoc\u00e8le",
+      "C. membrane palmata",
+      "D. piocel",
+      "E. laryngomalacie"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 31,
+    "question": "Inflammation chronique sp\u00e9cifique, syphilis pharyng\u00e9e :",
+    "options": [
+      "A. Syphilis primaire: forme d'angine (fi\u00e8vre, odynophagie, des amygdales hypertrophi\u00e9e bilat\u00e9rale, rouge, ad\u00e9nopathie satellite)",
+      "B. syphilis cong\u00e9nitale, acquis",
+      "C. etiologie: treponema pallidum",
+      "D. la syphilis primaire: RBW positif apr\u00e8s 4-5 semaines apr\u00e8s le d\u00e9but de la phase primaire, est la p\u00e9riode de contagiosit\u00e9 maximale",
+      "E. phases cliniques: primaire, secondaire, tertiaire"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 32,
+    "question": "Cordes vocales:",
+    "options": [
+      "A. sont situ\u00e9es \u00e0 l'\u00e9tage sous-glottique",
+      "B. ont un r\u00f4le dans la phonation",
+      "C. sont situ\u00e9s \u00e0 l'\u00e9tage sus-glottique",
+      "D. sont situ\u00e9s \u00e0 l'\u00e9tage glottique",
+      "E. leur face sup\u00e9rieur constitue le plancher du ventricule de morgagni"
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 33,
+    "question": "Lequel des \u00e9l\u00e9ments suivants ne repr\u00e9sentent PAS la rhinite aigu\u00eb sp\u00e9cifique:",
+    "options": [
+      "A. La rhinite rougeole",
+      "B. la rhinite aigu\u00eb banale",
+      "C. la rhinite dipht\u00e9rique",
+      "D. la rhinite streptococcique",
+      "E. la rhinite scarlatineuse"
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 34,
+    "question": "Dans la syphilis primaire le patient peut pr\u00e9senter :",
+    "options": [
+      "A. une otorrh\u00e9e f\u00e9tide",
+      "B. des acouph\u00e8nes",
+      "C. hypoacousie de perception",
+      "D. troubles d'\u00e9quilibre",
+      "E. hypoacousie de transmission"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 35,
+    "question": "Fibrome du rhinopharynx:",
+    "options": [
+      "A. dosage de 17 c\u00e9tost\u00e9ro\u00efdes montre un surplus, la tumeur se d\u00e9veloppe jusqu'\u00e0 20 ans",
+      "B. epistaxis r\u00e9p\u00e9t\u00e9 chez le patient de sexe masculin en p\u00e9riode de pubert\u00e9",
+      "C. l'\u00e9tiologie endocrinienne est souvent incrimin\u00e9",
+      "D. obstruction nasale rapide",
+      "E. appara\u00eet principalement chez les hommes est consid\u00e9r\u00e9e comme la tumeur de la pubert\u00e9 masculine"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 36,
+    "question": "La maladie de M\u00e9ni\u00e8re est caract\u00e9ris\u00e9e par :",
+    "options": [
+      "A. hypoacousie de perception imm\u00e9diate suivie d'une r\u00e9cup\u00e9ration lente de l'audition",
+      "B. les acouph\u00e8nes",
+      "C. otorrh\u00e9e f\u00e9tide",
+      "D. d\u00e9but brusque",
+      "E. vertiges de type rotatoires"
+    ],
+    "correct_answers": ["A", "B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 37,
+    "question": "L'h\u00e9mostase de l'\u00e9pistaxis est r\u00e9alis\u00e9e par :",
+    "options": [
+      "A. le tamponnement ant\u00e9rieur",
+      "B. caut\u00e9risation de la tache vasculaire avec une perle de nitrate d'argent",
+      "C. appliquer des compresses chaudes sur les fosses nasales",
+      "D. le tamponnement post\u00e9rieur",
+      "E. la compression digitale de l'aile du nez"
+    ],
+    "correct_answers": ["A", "B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 38,
+    "question": "Le larynx est compos\u00e9 de:",
+    "options": [
+      "A. Cartilage thyro\u00efde",
+      "B. cartilage crico\u00efde",
+      "C. cartilage aryth\u00e9noide",
+      "D. \u00e9piglotte",
+      "E. amygdale palatine"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 39,
+    "question": "les formes anatomo-clinique de l'\u00e9pistaxis sont:",
+    "options": [
+      "A. Ant\u00e9rieur",
+      "B. hypertensive",
+      "C. diab\u00e9tique",
+      "D. post\u00e9rieur",
+      "E. unilat\u00e9ral"
+    ],
+    "correct_answers": ["A", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 40,
+    "question": "Deux de ces variantes sont des tumeurs malignes de l'oro/buccopharynx:",
+    "options": [
+      "A. Cancer des amygdales palatines",
+      "B. cancer de la luette",
+      "C. angiofibrome nasopharyng\u00e9",
+      "D. tumeur rhinopharyng\u00e9e",
+      "E. lipome pharyngien"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 41,
+    "question": "Le diagnostic diff\u00e9rentiel de l'imperforation des choanes se fait avec:",
+    "options": [
+      "A. corps \u00e9tranger nasal",
+      "B. Voile palatine fractur\u00e9",
+      "C. ad\u00e9no\u00efdite aigu\u00eb",
+      "D. polypose nasale",
+      "E. tumeurs maligne naso sinusale"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 42,
+    "question": "Les amygdales rhinopharyng\u00e9e:",
+    "options": [
+      "A. Sont situ\u00e9 dans l'hypopharynx",
+      "B. est appel\u00e9 amygdale de Luschka",
+      "C. est situ\u00e9 sur la paroi sup\u00e9rieur et post\u00e9rieur du rhinopharynx",
+      "D. est constitu\u00e9 de tissu lympho\u00efde",
+      "E. bloque le sinus piriforme"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 43,
+    "question": "Le diagnostic des tumeurs glomiques repose sur les \u00e9l\u00e9ments suivants:",
+    "options": [
+      "A. Surdit\u00e9 de transmission pouvant devenir de perception",
+      "B. Acouph\u00e8ne n'\u00e9tant jamais synchrone avec le pouls",
+      "C. vertiges et otalgies mod\u00e9r\u00e9s et intermittents",
+      "D. les polypes apparaissent en CAE charnu, rouge\u00e2tre, saignant sur place et spontan\u00e9ment",
+      "E. la paralysie du nerf facial survient fr\u00e9quemment"
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 44,
+    "question": "Lequel des \u00e9nonc\u00e9s suivants permet le diagnostic positif de la tuberculose laryng\u00e9e :",
+    "options": [
+      "A. Etat f\u00e9brile, subf\u00e9brile",
+      "B. IDR la PPD",
+      "C. bucco pharyngoscopie",
+      "D. rhinoscopie ant\u00e9rieure",
+      "E. examen bact\u00e9riologique des crachats"
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 45,
+    "question": "Amygdalite chronique:",
+    "options": [
+      "A. inflammation chronique des amygdales p\u00e2les s'accompagne d'une hyperplasie de tous les \u00e9l\u00e9ments de la structure et de la pr\u00e9sence de cas\u00e9um \u00e0 l'int\u00e9rieur des cryptes",
+      "B. Facteurs favorisants: amygdalite aigu\u00eb r\u00e9p\u00e9t\u00e9e dans l'enfance, ad\u00e9no\u00efdite aigu\u00eb r\u00e9p\u00e9t\u00e9e, ad\u00e9no\u00efdite chronique, baisse de l'immunit\u00e9 de l'organisme",
+      "C. Formes cliniques: atrophiques, hypertrophiques (chez les enfants, l'hypertrophie des tissus lympho\u00efdes pr\u00e9domine - consistance molle chez les adultes, l'hypertrophie des tissus articulaires pr\u00e9domine)",
+      "D. Une bioth\u00e9rapie orale ou syst\u00e9mique est recommand\u00e9e",
+      "E. Oropharyngoscopie s\u00e9cr\u00e9tions purulentes qui s'\u00e9coulent sur la paroi post\u00e9rieure de l'oropharynx, amygdales hypertrophiques ou atrophiques avec cas\u00e9um dans les cryptes"
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 46,
+    "question": "Le traitement des \u00e9pistaxis comprends:",
+    "options": [
+      "A. traitement de la cause qui a g\u00e9n\u00e9r\u00e9 le saignement",
+      "B. alimentation orale",
+      "C. Arr\u00eat de l'h\u00e9morragie",
+      "D. traitement symptomatique",
+      "E. seulement un r\u00e9\u00e9quilibrage de l'\u00e9tat g\u00e9n\u00e9ral"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 47,
+    "question": "Les causes locales qui peuvent d\u00e9terminer les h\u00e9morragies nasales:",
+    "options": [
+      "A. perforation septale",
+      "B. corps \u00e9trangers nasal",
+      "C. pharyngite chronique",
+      "D. fibrome nasopharyng\u00e9",
+      "E. sinusite aigu\u00eb"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 48,
+    "question": "Parmi les causes suivantes, lesquelles sont des causes g\u00e9n\u00e9rales d'\u00e9pistaxis:",
+    "options": [
+      "\u0391. \u0397\u03a4\u0391",
+      "B. Rhinite aigu\u00eb et chronique",
+      "C. troubles h\u00e9matologique",
+      "D. maladie infectieuse aigu\u00eb",
+      "E. grossesse"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 49,
+    "question": "les tumeurs malignes de l'hypopharynx (cancer du sinus piriforme):",
+    "options": [
+      "A. la localisation la plus fr\u00e9quente des cancers de l'hypopharynx",
+      "B. diagnostic: ad\u00e9nopathie lat\u00e9ro cervicale tardive",
+      "C. sensation de corps \u00e9tranger, odynophagie, dysphagie, otalgie r\u00e9flexe, hypoacousie de transmission",
+      "D. hypopharyngoscopie: laryngoscopie indirecte, fibroscopie, oesophagoscopie, radiographie avec substance de contraste et CT",
+      "E. diagnostic de certitude, biopsie, traitement: chirurgical, radioth\u00e9rapie, chimioth\u00e9rapie"
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 50,
+    "question": "L'innervation du larynx est fourni par :",
+    "options": [
+      "A. Nerf accessoire",
+      "B. les nerfs r\u00e9currents",
+      "C. pneumogastrique",
+      "D. les nerfs XII",
+      "E. nerfs laryng\u00e9s sup\u00e9rieurs"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  }
+]

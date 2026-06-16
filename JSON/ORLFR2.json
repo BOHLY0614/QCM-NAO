@@ -1,0 +1,304 @@
+[
+    {
+        "chapitre": 0,
+        "id": 1,
+        "question": "*Faciès adénoisien est caractérisé par les proposition suivantes, sauf :",
+        "options": [
+            "A. lèvre inférieure inerte",
+            "B. la lèvre supérieur rétractée",
+            "C. le visage congestionné avec un regard perdu",
+            "D. petit nez",
+            "E. bouche ouverte"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 2,
+        "question": "*Les fosses nasales ont 4 murs :",
+        "options": [
+            "A. Inférieur (septum), supérieur (voûte), moyen (plancher), latérales (cornets et méats)",
+            "B. Inférieur (plancher), supérieur (voûte), moyen (septum), latérales (cornets et méats)",
+            "C. Inférieur (voûte), moyen (septum), supérieur (cornets et méats), latérales (plancher)",
+            "D. Inférieur (plancher), moyen (cornets et méats), latérales (voûte), supérieur (septum)",
+            "E. Inférieur (cornets et méats), supérieur (voûte), moyen (septum), latérales (cornets et méat)"
+        ],
+        "correct_answers": [
+            "B"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 3,
+        "question": "les tumeurs malignes de l’hypopharynx (cancer du sinus piriforme)",
+        "options": [
+            "A. la localisation la plus fréquente des cancers de l’hypopharynx",
+            "B. diagnostic: adénopathie latéro cervicale tardive",
+            "C. sensation de corps étranger, odynophagie, dysphagie, otalgie réflexe, hypoacousie de transmission",
+            "D. hypopharyngoscopie: laryngoscopie indirecte, fibroscopie, oesophagoscopie, radiographie avec substance de contraste et scanner",
+            "E. diagnostic de certitude, biopsie, traitement: chirurgical, radiothérapie, chimiothérapie"
+        ],
+        "correct_answers": [
+            "A",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 4,
+        "question": "Une laryngoscopie indirecte sera appliquée à un patient qui présente dysphonie, qui dure des 2 mois, visualisant des éléments anatomo-cliniques suivants:",
+        "options": [
+            "A. Espace glottique qui comprend les fosses corps de vocale, la commissure antérieure et postérieure",
+            "B. L'espace sous-glottique qui comprend l'espace inférieure de la glotte jusqu'au 1er anneau trachéal",
+            "C. Le septum glottique qui comprend les vrais cordes vocales la commissure antérieure et postérieure",
+            "D. L'espace supra-glottique comprenant les fausses corps de vocale, l'épiglotte, les enveloppes ary-épiglottique, les cartilage aryténoïde",
+            "E. l'espace supra-glottique comprenant les fausses et les vrais corps de vocale, l'épiglotte, les enveloppes ary-épiglottique, les cartilage aryténoïde"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 5,
+        "question": "Le test de Schwabach",
+        "options": [
+            "A. Analyse objectivement la transmission du son",
+            "B. Dure environ 20 secondes",
+            "C. Analyse subjectivement la transmission osseuse du son",
+            "D. Est calculé en effectuant le rapport entre la transmission osseuse et celle aérienne",
+            "E. Une perte auditive de transmission dans l'oreille au cours de laquelle le test de Schwabach est effectué va générer une augmentation de la durée plus de 20 secondes"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 6,
+        "question": "Un patient qui montre une dysphonie depuis 2 mois se présente à la clinique ORL. Une laryngoscopie indirecte sera réalisée, ce qui implique les éléments suivants:",
+        "options": [
+            "A. Le patient est invité à faire sortir la langue, le médecin enroulé la langue du patient entre deux doigts avec un tampon de gaze et à l'aide d'un miroir laryngée préchauffer, appuie vers la luette avec la surface brillante du miroir diriger vers le bas, vers le larynx",
+            "B. Il faut appuyer avec une spatule sur la langue et insérer le miroir avec la surface brillante vers le bas pour visualiser le larynx",
+            "C. Il faut appuyer avec une spatule sur la langue et insérer le miroir avec la surface brillante vers le haut",
+            "D. À l'aide du miroir la ranger les trois stades du larynx se sont visualiser : supra-glottique, glottique, sous-glottique",
+            "E. Il faut appuyer avec une spatule sur la langue et visualiser le larynx"
+        ],
+        "correct_answers": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 7,
+        "question": "Les amygdales rhinopharyngée:",
+        "options": [
+            "A. Sont situé dans l’hypopharynx",
+            "B. est appelé amygdale de Luschka",
+            "C. est situé sur la paroi supérieur et postérieur du rhinopharynx",
+            "D. est constitué de tissu lymphoïde",
+            "E. bloque le sinus piriforme"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 8,
+        "question": "Lequel des énoncés suivants permet le diagnostic positif de la tuberculose laryngée :",
+        "options": [
+            "A. rhinoscopie antérieure",
+            "B. IDR la PPD",
+            "C. Examen de l’oropharynx",
+            "D. le traitement symptomatique",
+            "E. examen bactériologique des crachats"
+        ],
+        "correct_answers": [
+            "B",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 9,
+        "question": "Le diagnostic des tumeurs glomiques est mis en évidence selon les éléments suivants:",
+        "options": [
+            "A. L'otalgie et le vertige, intermittent",
+            "B. Une surdité de transmission peut devenir de perception",
+            "C. Paralysie du nerf facial qui se produit fréquemment",
+            "D. Les acouphènes qui ne sont jamais synchrone avec le pouls",
+            "E. Les polypes apparu dans CAE charnu, rouge saignent à la palpation et spontanément"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 10,
+        "question": "Test de Rinne:",
+        "options": [
+            "A. Évalue également la conduction osseuse et aérienne",
+            "B. Analyse objectivement la transmission du son",
+            "C. Et calculer en effectuant le rapport entre l'air et la transmission osseuse",
+            "D. Un rapport normal entre l'air et la conduction osseuse est de 3/1",
+            "E. Analyse subjectivement la transmission du son"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 11,
+        "question": "Amygdalite chronique:",
+        "options": [
+            "A. Antibiotiques par voie orale ou systémique est recommandé",
+            "B. L'examen de l'oropharynx de points sécrétion purulente qui coule des paroi postérieure du bucco pharynx, amygdales hypertrophique ou atrophique avec du caseum cryptique",
+            "C. Formes cliniques : atrophique, hypertrophique (chez les enfants prédomine l'hypertrophie du tissu lymphoïde consistance molle, chez l'adulte prédomine hypertrophie du tissu conjonctif)",
+            "D. L'inflammation chronique des amygdales, accompagné par une hyperplasie de l'ensemble des éléments de la structure et de la présence du caseum à l'intérieur des cryptes",
+            "E. Les facteurs prédisposants: amygdalite aiguë répéter à l'enfance, adénoïdite aigu et répété, adénoïde chronique faiblesses du système immunitaire"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 12,
+        "question": "Lequel des éléments suivants ne représentent PAS la rhinite aiguë spécifique:",
+        "options": [
+            "A. La rhinite streptococcique",
+            "B. La rhinite rougeole",
+            "C. La rhinite diphtérique",
+            "D. La rhinite scarlatine",
+            "E. La rhinite aiguë banale"
+        ],
+        "correct_answers": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 13,
+        "question": "Un patient adulte se présente pour consultation ORL avec une dysphonie (enrouement). Laquelle des procédures suivantes sera appliqué pour établir le diagnostic :",
+        "options": [
+            "A. Bucco pharyngoscopie",
+            "B. Fibroscopie nasale laryngée",
+            "C. laryngoscopie indirect",
+            "D. laryngoscopie directe",
+            "E. Rhinoscopie postérieure"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 14,
+        "question": "Les symptômes du cancer des amygdales comprennent:",
+        "options": [
+            "A. Odynophagie",
+            "B. La perte de poids",
+            "C. Épistaxies répéter",
+            "D. L'obstruction nasale progressive",
+            "E. La dysphagie"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 15,
+        "question": "Causes locales qui peuvent provoquer des hémorragies nasales sont:",
+        "options": [
+            "A. Un corps étranger nasal",
+            "B. Fibrome nasopharynx",
+            "C. La perforation septale",
+            "D. Pharyngite chronique",
+            "E. La sinusite aiguë"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 16,
+        "question": "Les parois supérieures des fosses nasales se compose du:",
+        "options": [
+            "A. Nasal l'os nasal",
+            "B. ethmoïdal",
+            "C. Frontal",
+            "D. sphénoïdal",
+            "E. Temporal"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 17,
+        "question": "Cancer des amygdales palatines :",
+        "options": [
+            "A. Une immunothérapie est le traitement de base",
+            "B. le diagnostic de certitude est mise en évidence par ex HP",
+            "C. l’examen de l’oropharynx est un examen qui le met en évidence",
+            "D. représente cancer de l’hypopharynx",
+            "E. est la tumeur la plus fréquente du pharynx (unilatérale)"
+        ],
+        "correct_answers": [
+            "B",
+            "C",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 18,
+        "question": "Les tumeurs malignes du cavum:",
+        "options": [
+            "A. La phase d’état présente cinq formes: rhinologique, otologique, neurologiques, ophtalmologique, ganglionnaire",
+            "B. phase otological comprend: acouphènes, autophonie, surdité de perception, otite chronique catarrhale rebelle au traitement, parfois otite moyenne aiguë",
+            "C. formes anatomo-pathologiques: épidermoïdes 85-95% (indifférenciées, moins différenciées, différenciées)",
+            "D. l’hypothèse d’origine virale sont fréquemment rencontré est en augmentation (Epstein-Barr)",
+            "E. phase ganglionnaire (adénopathie cervicale haute ou dans l’espace entre la pointe de la mastoïde et la branche verticale de la mandibule). Apparaît comme un bloc ganglionnaire avec une consistance molle, non fixé, douloureux à la palpation"
+        ],
+        "correct_answers": [
+            "A",
+            "C",
+            "D"
+        ]
+    }
+]
