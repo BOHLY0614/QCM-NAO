@@ -442,6 +442,7 @@ class QCMApp(tk.Tk):
             self.current_chapter = backend.smart_select_questions(raw_chapter, num_questions, self.question_stats)
         self.total_questions = len(self.current_chapter)
         self.score = 0
+        self.session_history = {}
         self.start_time = time.time()
         self.feedback_mode = False
         self.final_time = None
@@ -561,8 +562,15 @@ class QCMApp(tk.Tk):
                 w.bind("<Leave>", lambda e, idx=i: self.on_option_leave(idx))
         button_frame = ttk.Frame(main_container)
         button_frame.grid(row=1, column=0, columnspan=2, pady=20, sticky="ew")
-        self.validate_button = ttk.Button(button_frame, text="Valider", command=self.check_answer, style="Large.TButton")
-        self.validate_button.pack(pady=20)
+        nav_frame = ttk.Frame(button_frame)
+        nav_frame.pack(pady=20)
+        
+        if self.current_question > 0:
+            self.prev_button = ttk.Button(nav_frame, text="Précédent", command=self.go_previous, style="Large.TButton")
+            self.prev_button.pack(side='left', padx=10)
+            
+        self.validate_button = ttk.Button(nav_frame, text="Valider", command=self.check_answer, style="Large.TButton")
+        self.validate_button.pack(side='left', padx=10)
         edit_button = tk.Button(
             button_frame, text="✏️ Corriger une erreur", command=self.open_editor,
             font=("Arial", 10, "italic"), fg="gray", bd=0, bg=self.themes[self.theme_mode]['bg'],
@@ -601,6 +609,7 @@ class QCMApp(tk.Tk):
         question_key = backend.get_question_key(self.current_question_data)
         question_stats = self.question_stats.get(str(question_key), {"correct": 0, "incorrect": 0})
         self.is_correct = sorted(correct_answers) == sorted(user_answers)
+        self.session_history[self.current_question] = self.is_correct
         if self.is_correct:
             question_stats["correct"] += 1
             self.score += 1
@@ -633,6 +642,36 @@ class QCMApp(tk.Tk):
         else:
             self.final_time = time.time() - self.start_time
             self.show_final_score()
+
+    def go_previous(self):
+        """Retourne à la question précédente et annule son score/stats."""
+        if self.current_question > 0:
+            if self.feedback_mode and self.current_question in self.session_history:
+                self.undo_question_stats(self.current_question)
+                
+            self.current_question -= 1
+            
+            if self.current_question in self.session_history:
+                self.undo_question_stats(self.current_question)
+                
+            self.show_question()
+
+    def undo_question_stats(self, q_index):
+        """Annule l'impact d'une question sur le score et les statistiques globales."""
+        if q_index in self.session_history:
+            was_correct = self.session_history.pop(q_index)
+            
+            q_data = self.current_chapter[q_index]
+            question_key = backend.get_question_key(q_data)
+            q_stats = self.question_stats.get(str(question_key), {"correct": 0, "incorrect": 0})
+            
+            if was_correct:
+                self.score = max(0, self.score - 1)
+                q_stats["correct"] = max(0, q_stats["correct"] - 1)
+            else:
+                q_stats["incorrect"] = max(0, q_stats["incorrect"] - 1)
+                
+            self.question_stats[str(question_key)] = q_stats
 
     # ... (Le reste : show_final_score, return_to_main_menu, open_editor, update_timer, etc.) ...
     def show_final_score(self):
