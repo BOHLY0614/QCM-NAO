@@ -1,0 +1,652 @@
+[
+  {
+    "chapitre": 0,
+    "id": 1,
+    "question": "\u00c0 propos de l'\u00e9tiopathog\u00e9nie des fentes labio-palatines, quelles affirmations sont correctes ?",
+    "options": [
+      "A. Les facteurs environnementaux sont la seule cause.",
+      "B. Les anomalies peuvent \u00eatre isol\u00e9es ou associ\u00e9es \u00e0 des syndromes.",
+      "C. L'exposition aux radiations est un facteur de risque environnemental.",
+      "D. Il n'existe aucun facteur g\u00e9n\u00e9tique connu",
+      "E. La consommation excessive d'alcool pendant la grossesse est un facteur de risque."
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 2,
+    "question": "Concernant le traitement chirurgical des fentes labio-palatines, indiquez les propositions exactes:",
+    "options": [
+      "A. La r\u00e9paration de la l\u00e8vre se fait \u00e0 10 ans.",
+      "B. La greffe osseuse alv\u00e9olaire est r\u00e9alis\u00e9e vers 7-9 ans.",
+      "C. La correction de la fente palatine intervient avant 1 an.",
+      "D. Les ost\u00e9otomies maxillaires/mandibulaires se font \u00e0 5 ans.",
+      "E. La \"r\u00e8gle du 10\" s'applique au d\u00e9but de la correction chirurgicale."
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 3,
+    "question": "*Quelle est la forme la plus s\u00e9v\u00e8re de fente labiale mentionn\u00e9e dans le texte ?",
+    "options": [
+      "A. Fente labiale unilat\u00e9rale incompl\u00e8te (<< bec de li\u00e8vre >>)",
+      "B. Fente labiale bilat\u00e9rale incompl\u00e8te",
+      "C. Fente labiale bilat\u00e9rale compl\u00e8te",
+      "D. Fente palatine isol\u00e9e",
+      "E. Fente labiale m\u00e9diane simple"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 4,
+    "question": "\u00c0 propos du kyste du canal thyr\u00e9oglosse, quelles affirmations sont correctes ?",
+    "options": [
+      "A. Il r\u00e9sulte de la persistance du canal thyr\u00e9oglosse.",
+      "B. Il est g\u00e9n\u00e9ralement douloureux d\u00e8s sa formation.",
+      "C. Il est mobile lors de la protrusion de la langue.",
+      "D. Il survient uniquement chez l'adulte.",
+      "E. Il peut parfois s'enflammer et fistuliser."
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 5,
+    "question": "Concernant le traitement du kyste du canal thyr\u00e9oglosse, indiquez les propositions exactes:",
+    "options": [
+      "A. Il repose sur une ex\u00e9r\u00e8se simple du kyste sans retirer d'os.",
+      "B. L'ablation doit inclure une portion de l'os hyo\u00efde.",
+      "C. La chirurgie doit \u00eatre r\u00e9alis\u00e9e pendant une pouss\u00e9e inflammatoire.",
+      "D. La m\u00e9thode de Sistrunk est la technique de r\u00e9f\u00e9rence.",
+      "E. Une infection doit \u00eatre trait\u00e9e avant la chirurgie."
+    ],
+    "correct_answers": ["B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 6,
+    "question": "*Quelle est la complication la plus grave du kyste du canal thyr\u00e9oglosse s'il n'est pas excis\u00e9 ?",
+    "options": [
+      "A. H\u00e9morragie s\u00e9v\u00e8re",
+      "B. Transformation en carcinome papillaire thyro\u00efdien",
+      "C. Rupture dans la cavit\u00e9 orale",
+      "D. Survenue d'une thyro\u00efdite chronique",
+      "E. Ankylose de la langue"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 7,
+    "question": "Concernant les kystes et fistules des arcs branchiaux, lesquelles de ces affirmations sont correctes ?",
+    "options": [
+      "A. Ils r\u00e9sultent d'une r\u00e9sorption excessive des arcs branchiaux.",
+      "B. Les anomalies du deuxi\u00e8me arc branchial sont les plus fr\u00e9quentes.",
+      "C. Le diagnostic repose principalement sur la biopsie syst\u00e9matique.",
+      "D. Les kystes peuvent \u00eatre mobiles et indolores.",
+      "E. Une fistulisation cutan\u00e9e est g\u00e9n\u00e9ralement cong\u00e9nitale."
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 8,
+    "question": "\u00c0 propos du traitement des kystes et fistules branchiaux, quelles affirmations sont justes ?",
+    "options": [
+      "A. L'excision doit \u00eatre faite en pr\u00e9sence d'une inflammation pour rep\u00e9rer plus facilement le trajet fistuleux.",
+      "B. Le traitement est exclusivement chirurgical.",
+      "C. Une incision transversale en \u00e9tages est utilis\u00e9e pour un meilleur r\u00e9sultat esth\u00e9tique.",
+      "D. La dissection doit \u00e9viter d'approcher la fistule pour minimiser les risques.",
+      "E. Toute la fistule, jusqu'au pharynx, doit \u00eatre retir\u00e9e."
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 9,
+    "question": "*O\u00f9 se situent g\u00e9n\u00e9ralement les kystes et fistules d\u00e9riv\u00e9s du deuxi\u00e8me arc branchial?",
+    "options": [
+      "A. Au niveau du conduit auditif externe",
+      "B. \u00c0 proximit\u00e9 du nerf hypoglosse",
+      "C. Sur le bord ant\u00e9rieur du muscle sternocleidomasto\u00efdien",
+      "D. Sous l'os hyo\u00efde",
+      "E. \u00c0 la base de la langue"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 10,
+    "question": "Concernant les h\u00e9mangiomes infantiles, quelles affirmations sont correctes ?",
+    "options": [
+      "A. Ils apparaissent uniquement \u00e0 l'\u00e2ge adulte",
+      "B. Ils prolif\u00e8rent rapidement puis r\u00e9gressent spontan\u00e9ment",
+      "C. Ils sont plus fr\u00e9quents chez les filles",
+      "D. Ils sont syst\u00e9matiquement douloureux",
+      "E. Ils concernent surtout la t\u00eate et le cou"
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 11,
+    "question": "Concernant les malformations vasculaires, quelles propositions sont exactes ?",
+    "options": [
+      "A. Elles sont pr\u00e9sentes \u00e0 la naissance",
+      "B. Elles prolif\u00e8rent rapidement comme les h\u00e9mangiomes",
+      "C. Elles peuvent \u00eatre capillaires, veineuses, lymphatiques ou art\u00e9rioveineuses",
+      "D. Elles disparaissent souvent spontan\u00e9ment avant 7 ans",
+      "E. Elles sont caus\u00e9es par des erreurs de d\u00e9veloppement embryonnaire"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 12,
+    "question": "*Quelle est actuellement la classification utilis\u00e9e pour classer les anomalies vasculaires ?",
+    "options": [
+      "A. Classification TNM",
+      "B. Classification WHO",
+      "C. Classification ISSVA",
+      "D. Classification Bethesda",
+      "E. Classification Dubois"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 13,
+    "question": "Concernant le Pectus Excavatum:",
+    "options": [
+      "A. C'est une d\u00e9formation de la paroi thoracique ant\u00e9rieure.",
+      "B. Il est plus fr\u00e9quent chez les filles que chez les gar\u00e7ons.",
+      "C. Il est souvent associ\u00e9 \u00e0 une scoliose.",
+      "D. La capacit\u00e9 thoracique est augment\u00e9e.",
+      "E. L'origine est souvent g\u00e9n\u00e9tique."
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 14,
+    "question": "\u00c0 propos du traitement du Pectus Excavatum :",
+    "options": [
+      "A. La physioth\u00e9rapie est syst\u00e9matiquement suffisante.",
+      "B. La chirurgie de Nuss est une option de traitement efficace.",
+      "C. Le traitement est toujours n\u00e9cessaire, m\u00eame pour les formes asymptomatiques.",
+      "D. La chirurgie est id\u00e9alement r\u00e9alis\u00e9e \u00e0 la pubert\u00e9.",
+      "E. Un corset thoracique est utilis\u00e9 en premi\u00e8re intention."
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 15,
+    "question": "*Quel est l'examen paraclinique de choix pour \u00e9valuer la s\u00e9v\u00e9rit\u00e9 d'un Pectus Excavatum?",
+    "options": [
+      "A. Radiographie thoracique",
+      "B. Scanner thoracique",
+      "C. \u00c9chographie cardiaque",
+      "D. Spirom\u00e9trie",
+      "E. Bilan biologique standard"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 16,
+    "question": "\u00c0 propos de la hernie diaphragmatique cong\u00e9nitale:",
+    "options": [
+      "A. Elle emp\u00eache la s\u00e9paration entre la cavit\u00e9 thoracique et abdominale.",
+      "B. Elle est diagnostiqu\u00e9e en g\u00e9n\u00e9ral apr\u00e8s la naissance uniquement.",
+      "C. Elle est plus fr\u00e9quente \u00e0 droite qu'\u00e0 gauche.",
+      "D. Elle peut s'accompagner d'hypoplasie pulmonaire.",
+      "E. Elle est toujours isol\u00e9e sans autres malformations associ\u00e9es."
+    ],
+    "correct_answers": ["A", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 17,
+    "question": "Concernant la prise en charge de la hernie diaphragmatique cong\u00e9nitale :",
+    "options": [
+      "A. L'ECMO peut \u00eatre utilis\u00e9e en pr\u00e9op\u00e9ratoire.",
+      "B. L'alimentation orale est autoris\u00e9e imm\u00e9diatement apr\u00e8s la naissance.",
+      "C. L'intervention chirurgicale est une urgence imm\u00e9diate juste apr\u00e8s l'accouchement.",
+      "D. Une intubation orotrach\u00e9ale peut \u00eatre n\u00e9cessaire.",
+      "E. Une laparotomie m\u00e9diane sus-ombilicale est une approche possible."
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 18,
+    "question": "*Quel facteur est associ\u00e9 \u00e0 un meilleur pronostic dans la hernie diaphragmatique cong\u00e9nitale ?",
+    "options": [
+      "A. Pr\u00e9sence du foie dans la cavit\u00e9 thoracique",
+      "B. LHR \u00e9lev\u00e9",
+      "C. Diagnostic tardif",
+      "D. Hypoplasie pulmonaire s\u00e9v\u00e8re",
+      "E. Absence de traitement chirurgical"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 19,
+    "question": "\u00c0 propos de l'atr\u00e9sie de l'\u0153sophage :",
+    "options": [
+      "A. Elle est toujours associ\u00e9e \u00e0 une fistule trach\u00e9o-\u0153sophagienne.",
+      "B. Elle peut entra\u00eener une hypersalivation chez le nouveau-n\u00e9.",
+      "C. Elle peut \u00eatre associ\u00e9e au syndrome VACTERL.",
+      "D. Son diagnostic ant\u00e9natal est syst\u00e9matiquement pos\u00e9 par \u00e9chographie.",
+      "E. Son incidence est d'environ 1/3000-4000 naissances."
+    ],
+    "correct_answers": ["B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 20,
+    "question": "Concernant le traitement de l'atr\u00e9sie de l'\u0153sophage :",
+    "options": [
+      "A. Il doit \u00eatre r\u00e9alis\u00e9 d'urgence apr\u00e8s la naissance.",
+      "B. Le transport du nouveau-n\u00e9 peut attendre la confirmation radiologique d\u00e9finitive.",
+      "C. La chirurgie classique utilise une thoracotomie extrapleurale droite.",
+      "D. Si la distance entre les moignons \u0153sophagiens est importante, une anastomose primaire est toujours r\u00e9alis\u00e9e.",
+      "E. L'abord chirurgical peut aussi \u00eatre thoracoscopique."
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 21,
+    "question": "*Quel \u00e9l\u00e9ment est utilis\u00e9 pour \u00e9valuer le pronostic des patients atteints d'atr\u00e9sie de l'\u0153sophage ?",
+    "options": [
+      "A. Classification de Waterston",
+      "B. Score d'Apgar",
+      "C. Test de Guthrie",
+      "D. Classification de Silverman",
+      "E. Score de Ballard"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 22,
+    "question": "\u00c0 propos de la st\u00e9nose hypertrophique du pylore :",
+    "options": [
+      "A. Elle survient principalement chez les nourrissons de moins de 1 mois.",
+      "B. Le sexe masculin est plus fr\u00e9quemment affect\u00e9 par rapport au sexe f\u00e9minin.",
+      "C. La cause exacte de la st\u00e9nose hypertrophique du pylore est bien identifi\u00e9e.",
+      "D. Des facteurs environnementaux, comme l'exposition \u00e0 l'\u00e9rythromycine, sont incrimin\u00e9s.",
+      "E. Le tableau clinique peut inclure des vomissements bilieux explosifs."
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 23,
+    "question": "Concernant le diagnostic de la st\u00e9nose hypertrophique du pylore :",
+    "options": [
+      "A. L'\u00e9chographie abdominale est la m\u00e9thode de diagnostic gold standard.",
+      "B. L'examen au baryum est la m\u00e9thode principale utilis\u00e9e pour diagnostiquer la st\u00e9nose.",
+      "C. La palpation de l'olive pylorique est positive dans 70 \u00e0 90% des cas.",
+      "D. Le diagnostic peut \u00eatre confirm\u00e9 par la radiographie thoracique.",
+      "E. Les vomissements sont souvent associ\u00e9s \u00e0 des signes de d\u00e9shydratation."
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 24,
+    "question": "*Quel est le traitement chirurgical de choix pour la st\u00e9nose hypertrophique du pylore ?",
+    "options": [
+      "A. R\u00e9section pylorique.",
+      "B. Piloromyotomie extramuqueuse de Fredet.",
+      "C. Gastrectomie partielle.",
+      "D. Bypass gastro-intestinal.",
+      "E. Endoscopie avec dilatation du pylore."
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 25,
+    "question": "Concernant l'atr\u00e9sie du duod\u00e9num:",
+    "options": [
+      "A. L'atr\u00e9sie du duod\u00e9num est une obstruction partielle du duod\u00e9num.",
+      "B. Elle est souvent associ\u00e9e \u00e0 d'autres malformations, comme le syndrome de Down.",
+      "C. L'atr\u00e9sie de type I est la moins fr\u00e9quente, repr\u00e9sentant environ 7% des cas.",
+      "D. L'incidence mondiale de l'atr\u00e9sie du duod\u00e9num est estim\u00e9e \u00e0 1 sur 6 000 \u00e0 10 000 naissances.",
+      "E. La forme la plus fr\u00e9quente d'atr\u00e9sie du duod\u00e9num est l'atr\u00e9sie de type II."
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 26,
+    "question": "*Quel type de malformation est le plus souvent associ\u00e9 \u00e0 l'atr\u00e9sie du duod\u00e9num?",
+    "options": [
+      "A. Syndrome de Marfan.",
+      "B. Syndrome de Down.",
+      "C. Spina bifida.",
+      "D. Malformation de Chiari.",
+      "E. Syndrome de Klinefelter."
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 27,
+    "question": "Concernant le diagnostic de l'atr\u00e9sie du duod\u00e9num :",
+    "options": [
+      "A. Le signe radiologique de la << double bulle >> est un indicateur cl\u00e9.",
+      "B. Un lavement baryt\u00e9 peut \u00eatre utilis\u00e9 pour exclure une malrotation intestinale.",
+      "C. L'\u00e9chographie cardiaque est rarement n\u00e9cessaire dans ces cas.",
+      "D. Le volume d'aspirat sup\u00e9rieur \u00e0 20 ml sugg\u00e8re une obstruction duod\u00e9nale.",
+      "E. Le diagnostic peut \u00eatre pos\u00e9 d\u00e8s la naissance sur la base de sympt\u00f4mes cliniques et radiologiques."
+    ],
+    "correct_answers": ["A", "B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 28,
+    "question": "*Quelle est la cause la plus fr\u00e9quente d'obstruction intestinale chez les nouveau-n\u00e9s ?",
+    "options": [
+      "A. Atr\u00e9sie du duod\u00e9num.",
+      "B. St\u00e9nose du colostome.",
+      "C. Atr\u00e9sie et st\u00e9nose intestinale.",
+      "D. Hernie inguinale.",
+      "E. M\u00e9gac\u00f4lon cong\u00e9nital."
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 29,
+    "question": "Concernant les types d'atr\u00e9sie intestinale:",
+    "options": [
+      "A. L'atr\u00e9sie de type I est la plus fr\u00e9quente et ne touche que la muqueuse et la sous-muqueuse.",
+      "B. L'atr\u00e9sie de type II est caus\u00e9e par un cordon fibreux reliant le segment proximal dilat\u00e9 et le segment distal r\u00e9tr\u00e9ci.",
+      "C. L'atr\u00e9sie de type IIIa implique une boucle intestinale aveugle avec un m\u00e9sent\u00e8re en forme de \"V\".",
+      "D. L'atr\u00e9sie de type IIIb est souvent appel\u00e9e \"coque de pomme\" et pr\u00e9sente une configuration h\u00e9lico\u00efdale de l'intestin.",
+      "E. L'atr\u00e9sie de type IV est une combinaison des types I et III."
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 30,
+    "question": "Quelles sont les causes possibles de l'atr\u00e9sie intestinale ?",
+    "options": [
+      "A. Une l\u00e9sion isch\u00e9mique intra-ut\u00e9rine au niveau du m\u00e9sent\u00e8re.",
+      "B. Une infection virale pendant la grossesse.",
+      "C. Une perturbation vasculaire intra-ut\u00e9rine.",
+      "D. Un volvulus ou une strangulation au cours du d\u00e9veloppement f\u0153tal.",
+      "E. Une mutation g\u00e9n\u00e9tique."
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 31,
+    "question": "*Qu'est-ce qui caract\u00e9rise la malrotation intestinale ?",
+    "options": [
+      "A. Une perturbation du processus de rotation et de fixation de l'intestin f\u0153tal.",
+      "B. Une infection virale qui affecte la flore intestinale.",
+      "C. Une obstruction du duod\u00e9num par un ligament de Ladd.",
+      "D. Une malformation cong\u00e9nitale du c\u00f4lon.",
+      "E. Une torsion intestinale sans anomalie de la rotation."
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 32,
+    "question": "Quels sont les sympt\u00f4mes fr\u00e9quents du volvulus intestinal ?",
+    "options": [
+      "A. Vomissements bilieux d\u00e8s les premiers jours de vie.",
+      "B. Distension abdominale rapide et progressive.",
+      "C. Selles f\u00e9calo\u00efdes et parfois sanguinolentes.",
+      "D. Pleurs d\u00e9chirants et absence de transit intestinal.",
+      "E. Pr\u00e9sence de douleurs thoraciques aigu\u00ebs."
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 33,
+    "question": "Les formes anatomiques de malrotation intestinale comprennent:",
+    "options": [
+      "A. Absence de rotation, o\u00f9 l'intestin gr\u00eale se situe dans l'h\u00e9miabdomen droit.",
+      "B. Rotation compl\u00e8te de 360\u00b0, entra\u00eenant une torsion de l'intestin.",
+      "C. Rotation incompl\u00e8te avec le c\u00e6cum situ\u00e9 sur la ligne m\u00e9diane.",
+      "D. Rotation invers\u00e9e de 90\u00b0.",
+      "E. Rotation compl\u00e8te suivie d'un ancrage d\u00e9fectueux du m\u00e9sent\u00e8re."
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 34,
+    "question": "Quels sont les sympt\u00f4mes caract\u00e9ristiques du m\u00e9gacolon cong\u00e9nital chez le nouveau-n\u00e9 ?",
+    "options": [
+      "A. Lib\u00e9ration retard\u00e9e du m\u00e9conium dans les 24-48 premi\u00e8res heures.",
+      "B. Distension abdominale progressive.",
+      "C. Vomissements bilieux, puis f\u00e9calo\u00efdes.",
+      "D. Selles fr\u00e9quentes et normales d\u00e8s les premiers jours.",
+      "E. Ent\u00e9rocolite agressive, \u00e9voluant vers un sepsis grave."
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 35,
+    "question": "*Quel examen paraclinique est de choix pour diagnostiquer le m\u00e9gacolon cong\u00e9nital?",
+    "options": [
+      "A. IRM abdominale.",
+      "B. Tomodensitom\u00e9trie (scanner).",
+      "C. Irrigoclysmie.",
+      "D. \u00c9chographie abdominale.",
+      "E. Biopsie rectale."
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 36,
+    "question": "Quels traitements peuvent \u00eatre n\u00e9cessaires en cas de m\u00e9gacolon cong\u00e9nital ?",
+    "options": [
+      "A. Lavements rectaux r\u00e9p\u00e9t\u00e9s pour d\u00e9compresser le c\u00f4lon.",
+      "B. Colostomie temporaire si les lavements sont inefficaces.",
+      "C. Traitement m\u00e9dical uniquement sans chirurgie.",
+      "D. R\u00e9section chirurgicale du segment aganglionique du c\u00f4lon.",
+      "E. Antibioth\u00e9rapie pr\u00e9ventive pour les infections abdominales."
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 37,
+    "question": "Quelles sont les anomalies fr\u00e9quemment associ\u00e9es aux malformations anorectales ?",
+    "options": [
+      "A. Anomalies g\u00e9nitales.",
+      "B. Anomalies r\u00e9nales.",
+      "C. Anomalies cardiaques.",
+      "D. Malformations pulmonaires.",
+      "E. Cryptorchidie et hypospadias."
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 38,
+    "question": "*Quel examen d'imagerie est le plus important pour diagnostiquer les malformations anorectales ?",
+    "options": [
+      "A. \u00c9chographie abdominale.",
+      "B. Radiographie thoracique.",
+      "C. Invertogramme.",
+      "D. IRM abdominale.",
+      "E. Scanner avec agent de contraste."
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 39,
+    "question": "Quels sont les traitements possibles pour les malformations anorectales ?",
+    "options": [
+      "A. Anorectoplastie pour les malformations basses.",
+      "B. Colostomie pour les malformations hautes ou pour les patients en \u00e9tat critique.",
+      "C. Traitement m\u00e9dical sans chirurgie.",
+      "D. Anorectoplastie en p\u00e9riode n\u00e9onatale pour les malformations hautes.",
+      "E. Chirurgie du c\u00f4lon \u00e0 un an."
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 40,
+    "question": "Quels sont les facteurs favorables au d\u00e9veloppement de laparoschisis ?",
+    "options": [
+      "A. \u00c2ge maternel inf\u00e9rieur \u00e0 20 ans.",
+      "B. Tabagisme.",
+      "C. M\u00e9dicaments vasodilatateurs.",
+      "D. M\u00e9dicaments vasoconstricteurs.",
+      "E. Consommation excessive de caf\u00e9."
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 41,
+    "question": "*Quel est le principal traitement chirurgical pour le laparoschisis ?",
+    "options": [
+      "A. Anorectoplastie.",
+      "B. R\u00e9int\u00e9gration des anses intestinales dans la cavit\u00e9 abdominale et fermeture de la paroi abdominale.",
+      "C. R\u00e9section de l'intestin herni\u00e9.",
+      "D. Colostomie.",
+      "E. Transplantation d'intestin."
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 42,
+    "question": "Quels examens peuvent \u00eatre utilis\u00e9s pour diagnostiquer le laparoschisis?",
+    "options": [
+      "A. \u00c9chographie pr\u00e9natale \u00e0 18-20 semaines.",
+      "B. Radiographie thoracique.",
+      "C. Alpha-foetoprot\u00e9ine \u00e9lev\u00e9e.",
+      "D. Inspection clinique \u00e0 la naissance.",
+      "E. Invertogramme."
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 43,
+    "question": "Quelles sont les caract\u00e9ristiques de l'omphaloc\u00e8le ?",
+    "options": [
+      "A. Le sac est recouvert d'une membrane avasculaire et translucide.",
+      "B. Le d\u00e9faut abdominal est g\u00e9n\u00e9ralement situ\u00e9 \u00e0 gauche de l'abdomen.",
+      "C. Le contenu du sac est souvent constitu\u00e9 des intestins et du foie.",
+      "D. La membrane recouvrant le sac est compos\u00e9e de 2 couches: p\u00e9ritoine et membrane amniotique.",
+      "E. Le cordon ombilical est ins\u00e9r\u00e9 au niveau du d\u00e9faut.."
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 44,
+    "question": "*Quel examen pr\u00e9natal permet d'\u00e9tablir le diagnostic d'omphaloc\u00e8le d\u00e8s la 18\u00e8me semaine de gestation?",
+    "options": [
+      "A. Radiographie thoracique.",
+      "B. \u00c9chographie 2D.",
+      "C. Amniocent\u00e8se.",
+      "D. IRM.",
+      "E. \u00c9chographie cardiaque."
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 45,
+    "question": "Quels sont les traitements possibles de l'omphaloc\u00e8le ?",
+    "options": [
+      "A. Excision de la membrane et r\u00e9int\u00e9gration progressive des visc\u00e8res dans la cavit\u00e9 abdominale.",
+      "B. Fermeture imm\u00e9diate du d\u00e9faut sans \u00e9valuation pr\u00e9alable.",
+      "C. Utilisation de la technique de Fufezan pour la r\u00e9int\u00e9gration des visc\u00e8res.",
+      "D. Traitement conservateur si des malformations graves emp\u00eachent une anesth\u00e9sie g\u00e9n\u00e9rale.",
+      "E. R\u00e9section compl\u00e8te des visc\u00e8res herni\u00e9s."
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 46,
+    "question": "Quelles sont les caract\u00e9ristiques de la hernie inguinale ?",
+    "options": [
+      "A. La hernie inguinale directe est plus courante chez les enfants que la hernie inguinale indirecte.",
+      "B. La hernie inguinale chez les hommes peut devenir visible d\u00e8s le premier cri, notamment chez les pr\u00e9matur\u00e9s.",
+      "C. Les hernies f\u00e9morales repr\u00e9sentent plus de 50% des hernies inguinales p\u00e9diatriques.",
+      "D. La hernie inguinale est plus fr\u00e9quente chez les hommes, avec un ratio de 10:1.",
+      "E. Les hernies inguinales sont toujours unilat\u00e9rales chez les nourrissons."
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 47,
+    "question": "*Quel est le traitement indiqu\u00e9 pour une hernie inguinale ?",
+    "options": [
+      "A. M\u00e9dication par anti-inflammatoires.",
+      "B. Traitement chirurgical avec ligature du canal p\u00e9riton\u00e9o-vaginal \u00e0 la base.",
+      "C. Surveillance uniquement, sans intervention.",
+      "D. Traitement par radioth\u00e9rapie.",
+      "E. Traitement conservateur avec antibiotiques."
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 48,
+    "question": "Quels sont les sympt\u00f4mes de la hernie inguinale \u00e9trangl\u00e9e chez les nourrissons ?",
+    "options": [
+      "A. Douleurs avec des pleurs et une agitation inhabituels.",
+      "B. Vomissements entra\u00eenant une d\u00e9shydratation.",
+      "C. Pr\u00e9sence d'une tumeur de l'aine avec une consistance ferme et douloureuse.",
+      "D. R\u00e9duction spontan\u00e9e de la hernie pendant le sommeil.",
+      "E. Augmentation de la taille de la hernie lors de la miction."
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 49,
+    "question": "Quelles sont les caract\u00e9ristiques de la hernie ombilicale ?",
+    "options": [
+      "A. Elle est form\u00e9e uniquement de p\u00e9ritoine et de peau.",
+      "B. Elle est fr\u00e9quente chez la population p\u00e9diatrique afro-am\u00e9ricaine, avec une incidence d'environ 50%.",
+      "C. Elle se ferme spontan\u00e9ment chez tous les enfants.",
+      "D. Le risque d'incarc\u00e9ration est \u00e9lev\u00e9.",
+      "E. Les sympt\u00f4mes cliniques sont g\u00e9n\u00e9ralement absents."
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 50,
+    "question": "Quel est le traitement de la hernie ombilicale ?",
+    "options": [
+      "A. La chirurgie est recommand\u00e9e si la hernie persiste apr\u00e8s 4 ans.",
+      "B. Si le d\u00e9faut est sup\u00e9rieur \u00e0 1,5 cm \u00e0 2 ans, une fermeture spontan\u00e9e est probable.",
+      "C. L'incarc\u00e9ration de l'\u00e9piploon peut \u00eatre une indication de chirurgie pr\u00e9coce.",
+      "D. Le traitement consiste toujours en une surveillance sans intervention chirurgicale.",
+      "E. Une ombilicoplastie peut \u00eatre r\u00e9alis\u00e9e lors de la r\u00e9paration du d\u00e9faut."
+    ],
+    "correct_answers": ["A", "C", "E"]
+  }
+]

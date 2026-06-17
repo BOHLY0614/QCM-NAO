@@ -1,0 +1,652 @@
+[
+  {
+    "chapitre": 0,
+    "id": 51,
+    "question": "*A quel \u00e2ge la hernie ombilicale se ferme g\u00e9n\u00e9ralement spontan\u00e9ment ?",
+    "options": [
+      "A. 1 an",
+      "B. 3 \u00e0 4 ans",
+      "C. 5 \u00e0 6 ans",
+      "D. 7 \u00e0 8 ans",
+      "E. 10 ans"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 52,
+    "question": "Quels sont les types de testicules associ\u00e9s \u00e0 la cryptorchidie ?",
+    "options": [
+      "A. Testicule non palpable, cach\u00e9, situ\u00e9 intra-abdominalement.",
+      "B. Testicule r\u00e9tractile, situ\u00e9 au niveau de l'orifice externe du canal inguinal.",
+      "C. Testicule flottant, se retrouvant spontan\u00e9ment dans la bourse scrotale.",
+      "D. Testicule palpable mais non mobilisable par traction au niveau du scrotum.",
+      "E. Testicule absent, ce qui correspond \u00e0 une anorchidie."
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 53,
+    "question": "Quels sont les traitements possibles pour la cryptorchidie?",
+    "options": [
+      "A. Le traitement chirurgical est recommand\u00e9 d\u00e8s l'\u00e2ge de 12 \u00e0 18 mois.",
+      "B. La laparoscopie exploratoire est souvent utilis\u00e9e lorsque le testicule n'est pas palpable.",
+      "C. L'approche combin\u00e9e inguinale et scrotale est utilis\u00e9e si le testicule est palpable le long du canal inguinal.",
+      "D. Les m\u00e9dicaments hormonaux sont utilis\u00e9s pour forcer la descente du testicule.",
+      "E. Le traitement consiste uniquement en une surveillance sans intervention chirurgicale."
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 54,
+    "question": "*Quel est le pronostic de la cryptorchidie si elle n'est pas trait\u00e9e correctement ?",
+    "options": [
+      "A. Le pronostic est favorable, sans complications.",
+      "B. La cryptorchidie peut causer des dysplasie testiculaire mais sans impact sur la fertilit\u00e9.",
+      "C. Elle peut entra\u00eener une infertilit\u00e9 masculine et d'autres complications graves.",
+      "D. Il n'y a pas de risque de complications si elle est laiss\u00e9e sans traitement.",
+      "E. La cryptorchidie devient toujours asymptomatique avec l'\u00e2ge."
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 55,
+    "question": "Quelles sont les causes principales de scrotum aigu ?",
+    "options": [
+      "A. Torsion testiculaire.",
+      "B. Torsion de l'hydatide de Morgagni.",
+      "C. Hernie inguinale \u00e9trangl\u00e9e.",
+      "D. Traumatismes scrotaux et testiculaires.",
+      "E. Infection urinaire."
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 56,
+    "question": "Quels sont les \u00e9l\u00e9ments diagnostiques importants pour la torsion testiculaire ?",
+    "options": [
+      "A. La douleur violente et continue, souvent nocturne.",
+      "B. L'augmentation de volume et l'\u0153d\u00e8me du scrotum.",
+      "C. Le testicule ascensionn\u00e9 vers la partie sup\u00e9rieure du scrotum.",
+      "D. La possibilit\u00e9 d'une torsion manuelle avant intervention chirurgicale.",
+      "E. La pr\u00e9sence d'une masse palpable dans l'abdomen."
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 57,
+    "question": "*Quel est le traitement principal pour une torsion testiculaire non r\u00e9solue par d\u00e9torsion manuelle ?",
+    "options": [
+      "A. Traitement conservateur, avec suivi.",
+      "B. Exploration chirurgicale et orchiectomie si le testicule est non viable.",
+      "C. Utilisation de m\u00e9dicaments anti-inflammatoires uniquement.",
+      "D. Antalgiques et observation sans intervention chirurgicale.",
+      "E. Radioth\u00e9rapie pour pr\u00e9server la fonction testiculaire."
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 58,
+    "question": "Quelles sont les causes possibles de la stase sanguine dans la varicoc\u00e8le ?",
+    "options": [
+      "A. Passage de la veine r\u00e9nale gauche par la pince aorto-m\u00e9sent\u00e9rique.",
+      "B. La pr\u00e9sence de valvules unidirectionnelles dans la veine spermatique gauche.",
+      "C. Spasme du segment distal de la veine spermatique d\u00fb au reflux sanguin provenant de la glande surr\u00e9nale.",
+      "D. La grande longueur de la veine spermatique gauche.",
+      "E. L'absence de veines dilat\u00e9es dans la veine r\u00e9nale gauche."
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 59,
+    "question": "Quels sont les examens paracliniques recommand\u00e9s pour le diagnostic de la varicoc\u00e8le ?",
+    "options": [
+      "A. Echographie abdominale.",
+      "B. Phl\u00e9bographie spermatique.",
+      "C. Biopsie testiculaire.",
+      "D. Test de spermatogen\u00e8se par \u00e9chographie Doppler.",
+      "E. Spermogramme."
+    ],
+    "correct_answers": ["A", "B", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 60,
+    "question": "*Quel est le traitement chirurgical pour la varicoc\u00e8le ?",
+    "options": [
+      "A. Ligature des veines spermatiques dilat\u00e9es.",
+      "B. Scl\u00e9roth\u00e9rapie des veines r\u00e9nales.",
+      "C. Ablation du testicule affect\u00e9.",
+      "D. Observation et traitement m\u00e9dical.",
+      "E. Radioth\u00e9rapie pour r\u00e9duire les varices."
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 61,
+    "question": "Quelles sont les causes possibles de la torsion ovarienne ?",
+    "options": [
+      "A. Kyste ovarien ou tumeur annexielle.",
+      "B. Un ovaire normal, sans pathologie pr\u00e9existante.",
+      "C. Une grossesse extra-ut\u00e9rine.",
+      "D. Un fibrome ut\u00e9rin.",
+      "E. Une infection pelvienne."
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 62,
+    "question": "Quels sont les signes cliniques associ\u00e9s \u00e0 la torsion ovarienne ?",
+    "options": [
+      "A. Douleur violente, localis\u00e9e dans le bas-ventre, irradiant parfois vers l'aine et les flancs.",
+      "B. Fi\u00e8vre \u00e9lev\u00e9e et frissons.",
+      "C. Tachycardie et position antalgique.",
+      "D. Naus\u00e9es, vomissements et constipation.",
+      "E. Sensibilit\u00e9 douloureuse dans le bas-ventre avec d\u00e9fense musculaire."
+    ],
+    "correct_answers": ["A", "C", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 63,
+    "question": "*Quel est l'examen paraclinique essentiel pour diagnostiquer une torsion ovarienne?",
+    "options": [
+      "A. Echographie abdominale.",
+      "B. Tomodensitom\u00e9trie abdomino-pelvienne.",
+      "C. Spermogramme.",
+      "D. Radiographie abdominale.",
+      "E. Test de grossesse."
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 64,
+    "question": "Quelles sont les caract\u00e9ristiques de l'invagination intestinale ?",
+    "options": [
+      "A. Il s'agit d'une forme d'occlusion intestinale m\u00e9canique.",
+      "B. L'invagination se produit lorsque l'anse intestinale inf\u00e9rieure p\u00e9n\u00e8tre dans l'anse sus-jacente.",
+      "C. Elle est plus fr\u00e9quente chez les nourrissons \u00e2g\u00e9s de 4 \u00e0 10 mois.",
+      "D. Les filles sont plus souvent touch\u00e9es que les gar\u00e7ons.",
+      "E. L'invagination intestinale est rare chez les enfants de moins de 4 mois."
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 65,
+    "question": "Quels sont les facteurs \u00e9tiopathog\u00e9niques de l'invagination intestinale primaire ?",
+    "options": [
+      "A. Croissance anormale de la r\u00e9gion caecocolique par rapport \u00e0 l'intestin gr\u00eale.",
+      "B. Infection virale saisonni\u00e8re provoquant une ent\u00e9rocolite.",
+      "C. L'absence d'acollisation du caecocolique ascendant au p\u00e9ritoine pari\u00e9tal post\u00e9rieur.",
+      "D. La pr\u00e9sence d'une tumeur intestinale.",
+      "E. Un corps \u00e9tranger dans le tube digestif."
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 66,
+    "question": "*Quel est le principal examen paraclinique pour diagnostiquer une invagination intestinale ?",
+    "options": [
+      "A. \u00c9chographie abdominale.",
+      "B. Radiographie abdominale avec contraste.",
+      "C. Tomodensitom\u00e9trie.",
+      "D. Endoscopie digestive haute.",
+      "E. IRM abdominale."
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 67,
+    "question": "Quels sont les sympt\u00f4mes caract\u00e9ristiques de l'il\u00e9us m\u00e9conial simple ?",
+    "options": [
+      "A. Absence d'\u00e9mission de m\u00e9conium dans les 24-48 premi\u00e8res heures.",
+      "B. Vomissements bilieux.",
+      "C. R\u00e9tr\u00e9cissement de l'anus et du rectum.",
+      "D. Diarrh\u00e9e avec mucus.",
+      "E. Coliques abdominales intenses."
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 68,
+    "question": "Quelles sont les complications possibles de l'il\u00e9us m\u00e9conial compliqu\u00e9?",
+    "options": [
+      "A. P\u00e9ritonite m\u00e9coniale.",
+      "B. Perforation intestinale.",
+      "C. Ascite m\u00e9coniale.",
+      "D. Diarrh\u00e9e aigu\u00eb.",
+      "E. Kystes biliaires."
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 69,
+    "question": "*Quel est le traitement de l'il\u00e9us m\u00e9conial non compliqu\u00e9?",
+    "options": [
+      "A. Chirurgie imm\u00e9diate.",
+      "B. Irrigation intestinale avec un produit de contraste hydrosoluble.",
+      "C. Antibioth\u00e9rapie intraveineuse.",
+      "D. R\u00e9section intestinale.",
+      "E. R\u00e9hydratation uniquement."
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 70,
+    "question": "Quelles sont les causes possibles de l'obstruction de la lumi\u00e8re appendiculaire dans l'appendicite aigu\u00eb?",
+    "options": [
+      "A. Coprolithes.",
+      "B. Corps \u00e9trangers.",
+      "C. Obstruction des voies urinaires.",
+      "D. Cicatrices et adh\u00e9rences.",
+      "E. Infection virale."
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 71,
+    "question": "Quelles sont les caract\u00e9ristiques cliniques de l'appendicite aigu\u00eb?",
+    "options": [
+      "A. Douleur initialement localis\u00e9e au niveau p\u00e9riombilical.",
+      "B. Douleur migrante vers la fosse iliaque droite.",
+      "C. Diarrh\u00e9e et perte d'app\u00e9tit.",
+      "D. Vomissements apr\u00e8s la douleur.",
+      "E. Selles sanglantes."
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 72,
+    "question": "*Quel est le principal traitement chirurgical de l'appendicite aigu\u00eb?",
+    "options": [
+      "A. Appendicectomie.",
+      "B. Antibiotiques parent\u00e9raux.",
+      "C. R\u00e9section du c\u00f4lon.",
+      "D. Drainage du p\u00e9ritoine.",
+      "E. Laparotomie pour r\u00e9paration intestinale."
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 73,
+    "question": "Quelles sont les causes possibles de sympt\u00f4mes chez une personne ayant un diverticule de Meckel ?",
+    "options": [
+      "A. H\u00e9morragie due \u00e0 un ulc\u00e8re muqueux.",
+      "B. Perforation du diverticule.",
+      "C. Infection virale.",
+      "D. Occlusion intestinale par invagination ou volvulus.",
+      "E. Douleur abdominale chronique sans autre sympt\u00f4me."
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 74,
+    "question": "Quelles complications peuvent r\u00e9sulter du diverticule de Meckel chez l'enfant ?",
+    "options": [
+      "A. H\u00e9morragie digestive basse.",
+      "B. P\u00e9ritonite secondaire due \u00e0 perforation.",
+      "C. Constipation s\u00e9v\u00e8re.",
+      "D. Diverticulite de Meckel.",
+      "E. Perforation gastrique."
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 75,
+    "question": "*Quel est le principal traitement pour le diverticule de Meckel ?",
+    "options": [
+      "A. Traitement antibiotique \u00e0 large spectre.",
+      "B. R\u00e9section chirurgicale du diverticule.",
+      "C. Radioth\u00e9rapie pour r\u00e9duire la taille du diverticule.",
+      "D. R\u00e9section du c\u00f4lon.",
+      "E. Traitement m\u00e9dical de la douleur."
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 76,
+    "question": "Quelles sont les caract\u00e9ristiques cliniques communes chez les enfants atteints de n\u00e9phroblastome ?",
+    "options": [
+      "A. Masse tumorale abdominale asymptomatique.",
+      "B. H\u00e9maturie dans 20% des cas.",
+      "C. Hyperplasie b\u00e9nigne des reins.",
+      "D. Douleurs abdominales dues \u00e0 une rupture intratumorale.",
+      "E. Hypertension due \u00e0 l'activation du syst\u00e8me r\u00e9nine-angiotensine."
+    ],
+    "correct_answers": ["A", "B", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 77,
+    "question": "*Quel est le principal traitement pour le n\u00e9phroblastome?",
+    "options": [
+      "A. Chirurgie seule.",
+      "B. Chimio- et radioth\u00e9rapie.",
+      "C. Traitement m\u00e9dical sans chirurgie.",
+      "D. Traitement combin\u00e9 incluant la chirurgie, la chimioth\u00e9rapie et parfois la radioth\u00e9rapie.",
+      "E. R\u00e9section par laparoscopie uniquement."
+    ],
+    "correct_answers": ["D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 78,
+    "question": "Quels sont les risques de complications postop\u00e9ratoires apr\u00e8s un traitement pour n\u00e9phroblastome ?",
+    "options": [
+      "A. Infection.",
+      "B. Saignements.",
+      "C. Invagination il\u00e9o-il\u00e9ale dans 10% des cas.",
+      "D. Insuffisance r\u00e9nale aigu\u00eb chez tous les patients.",
+      "E. Tumeur maligne secondaire \u00e0 un taux de 1,6%."
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 79,
+    "question": "Quels sympt\u00f4mes peuvent \u00eatre associ\u00e9s au neuroblastome chez les enfants ?",
+    "options": [
+      "A. Douleurs osseuses.",
+      "B. Constipation ou r\u00e9tention urinaire.",
+      "C. Diarrh\u00e9e aqueuse abondante.",
+      "D. Pertes de cheveux massives.",
+      "E. Bouff\u00e9es vasomotrices et transpiration excessive."
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 80,
+    "question": "Quels examens sont utilis\u00e9s pour le diagnostic du neuroblastome?",
+    "options": [
+      "A. Radiographie thoracique.",
+      "B. \u00c9chographie.",
+      "C. TDM (Tomodensitom\u00e9trie).",
+      "D. Test de d\u00e9pistage du diab\u00e8te.",
+      "E. IRM (Imagerie par R\u00e9sonance Magn\u00e9tique)."
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 81,
+    "question": "*Quelle est la survie des patients atteints de neuroblastome \u00e0 faible risque ?",
+    "options": [
+      "A. Inf\u00e9rieure \u00e0 30%.",
+      "B. Sup\u00e9rieure \u00e0 50%.",
+      "C. Sup\u00e9rieure \u00e0 98%.",
+      "D. Entre 60% et 80%.",
+      "E. Entre 90% et 95%."
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 82,
+    "question": "Quelles sont les caract\u00e9ristiques des t\u00e9ratomes ?",
+    "options": [
+      "A. Ils peuvent contenir des tissus de nature diff\u00e9rente.",
+      "B. Ils sont toujours b\u00e9nins.",
+      "C. Ils peuvent \u00eatre solides ou kystiques.",
+      "D. Ils se d\u00e9veloppent g\u00e9n\u00e9ralement sur la ligne m\u00e9diane du corps.",
+      "E. Leur \u00e9tiopathog\u00e9nie est li\u00e9e \u00e0 des cellules germinales primordiales totipotentes."
+    ],
+    "correct_answers": ["A", "B", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 83,
+    "question": "Quels sont les traitements associ\u00e9s aux t\u00e9ratomes ?",
+    "options": [
+      "A. La r\u00e9section chirurgicale des t\u00e9ratomes b\u00e9nins est g\u00e9n\u00e9ralement curative.",
+      "B. La chimioth\u00e9rapie est toujours utilis\u00e9e apr\u00e8s une r\u00e9section chirurgicale.",
+      "C. La chirurgie est accompagn\u00e9e d'une radioth\u00e9rapie dans tous les cas.",
+      "D. L'excision des t\u00e9ratomes immatures n\u00e9cessite une chimioth\u00e9rapie adjuvante.",
+      "E. L'ovariectomie est le traitement standard des t\u00e9ratomes ovariens b\u00e9nins."
+    ],
+    "correct_answers": ["A", "D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 84,
+    "question": "*Quel est le pronostic des t\u00e9ratomes, en particulier ceux qui sont b\u00e9nins ?",
+    "options": [
+      "A. Leur pronostic est g\u00e9n\u00e9ralement favorable, avec plus de 90% de survie \u00e0 5 ans.",
+      "B. Leur pronostic est mauvais, avec moins de 50% de survie \u00e0 5 ans.",
+      "C. Ils entra\u00eenent des r\u00e9cidives fr\u00e9quentes m\u00eame apr\u00e8s une chirurgie compl\u00e8te.",
+      "D. Leur pronostic est mod\u00e9r\u00e9, avec 60% de survie \u00e0 5 ans.",
+      "E. Ils ne n\u00e9cessitent jamais de suivi postop\u00e9ratoire."
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 85,
+    "question": "Quels sont les sous-types histologiques des rhabdomyosarcomes ?",
+    "options": [
+      "A. Embryonnaire",
+      "B. Alv\u00e9olaire",
+      "C. Pl\u00e9omorphe",
+      "D. Carcinomateux",
+      "E. Sarcomateux"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 86,
+    "question": "Quels sympt\u00f4mes sont associ\u00e9s aux rhabdomyosarcomes ?",
+    "options": [
+      "A. Masse tumorale \u00e9vidente dans la r\u00e9gion touch\u00e9e.",
+      "B. Douleur abdominale intense dans la r\u00e9gion pelvienne.",
+      "C. Sympt\u00f4mes urinaires comme l'h\u00e9maturie, fr\u00e9quence et r\u00e9tention urinaire dans les tumeurs de la vessie et de la prostate.",
+      "D. Saignements et \u00e9coulements dans les tumeurs vaginales.",
+      "E. Tumeurs botryo\u00efdes visibles dans le scrotum."
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 87,
+    "question": "*Quel est le taux de survie \u00e0 5 ans des tumeurs \u00e0 faible risque dans le rhabdomyosarcome ?",
+    "options": [
+      "A. Moins de 50%",
+      "B. 55 \u00e0 70%",
+      "C. Plus de 90%",
+      "D. 60%",
+      "E. Moins de 60%"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 88,
+    "question": "Quels sont les facteurs de risque associ\u00e9s \u00e0 l'h\u00e9patoblastome chez l'enfant ?",
+    "options": [
+      "A. Syndrome de Beckwith-Weidemann",
+      "B. Polypose ad\u00e9nomateuse familiale",
+      "C. Nourrissons pr\u00e9matur\u00e9s",
+      "D. Maladies h\u00e9patiques chroniques",
+      "E. Cancer du poumon"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 89,
+    "question": "*Quelle est la principale caract\u00e9ristique du carcinome h\u00e9patocellulaire chez l'enfant ?",
+    "options": [
+      "A. Il est principalement diagnostiqu\u00e9 avant l'\u00e2ge de 3 ans.",
+      "B. Il est fr\u00e9quent chez les nourrissons pr\u00e9matur\u00e9s.",
+      "C. Il se manifeste souvent par une rupture intrap\u00e9riton\u00e9ale dans environ 10% des cas.",
+      "D. Il a une tr\u00e8s bonne r\u00e9ponse \u00e0 la chimioth\u00e9rapie seule.",
+      "E. Il est plus fr\u00e9quent dans les foies non cirrhotiques."
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 90,
+    "question": "Parmi les tumeurs qui peuvent m\u00e9tastaser au foie, lesquelles sont mentionn\u00e9es dans le texte ?",
+    "options": [
+      "A. Neuroblastome",
+      "B. Tumeur de Wilms",
+      "C. Carcinome h\u00e9patocellulaire",
+      "D. Ost\u00e9osarcome",
+      "E. Lymphome"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 91,
+    "question": "Quels sont les facteurs qui influencent l'\u00e9valuation et la prise en charge des traumatismes p\u00e9diatriques?",
+    "options": [
+      "A. Les diff\u00e9rences anatomiques entre les enfants et les adultes",
+      "B. La r\u00e9ponse physiologique des enfants face \u00e0 un traumatisme majeur",
+      "C. Le niveau de stress des parents",
+      "D. Le statut socio-\u00e9conomique de l'enfant",
+      "E. La formation des professionnels de sant\u00e9"
+    ],
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 92,
+    "question": "Quelles sont les \u00e9tapes de l'\u00e9valuation primaire d'un enfant polytraumatis\u00e9 selon la s\u00e9quence << ABCDE >> ?",
+    "options": [
+      "A. A: Voies a\u00e9riennes (Airway)",
+      "B. C: Circulation",
+      "C. D: Digestion",
+      "D. E: Exposition (Exposure)",
+      "E. B: Bilans biologiques"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 93,
+    "question": "*Quel est le principal signe clinique d'une obstruction partielle des voies a\u00e9riennes sup\u00e9rieures chez l'enfant ?",
+    "options": [
+      "A. Cyanose g\u00e9n\u00e9ralis\u00e9e",
+      "B. Stridor inspiratoire",
+      "C. Respiration bruyante",
+      "D. Fr\u00e9quence cardiaque \u00e9lev\u00e9e",
+      "E. Hal\u00e8tement"
+    ],
+    "correct_answers": ["B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 94,
+    "question": "Quelles sont les particularit\u00e9s anatomiques de la cage thoracique chez l'enfant qui la rendent plus vuln\u00e9rable aux blessures thoraciques ?",
+    "options": [
+      "A. Une cage thoracique rigide et peu \u00e9lastique.",
+      "B. Un m\u00e9diastin plus large que chez l'adulte.",
+      "C. Une faible masse musculaire protectrice.",
+      "D. Un diam\u00e8tre transversal des voies a\u00e9riennes plus grand.",
+      "E. Une trach\u00e9e plus longue que chez l'adulte."
+    ],
+    "correct_answers": ["B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 95,
+    "question": "Quelles sont les m\u00e9thodes de traitement des l\u00e9sions thoraciques suivantes ?",
+    "options": [
+      "A. Pour un volet costal, la fixation de la fracture est toujours n\u00e9cessaire.",
+      "B. L'asphyxie traumatique peut \u00eatre trait\u00e9e par ventilation en pression positive et tonicit\u00e9 cardiaque.",
+      "C. L'h\u00e9mothorax n\u00e9cessite une ponction pleurale dans tous les cas.",
+      "D. Le pneumothorax n\u00e9cessite souvent un drainage rapide s'il est de type pneumothorax valvulaire.",
+      "E. La contusion pulmonaire se traite uniquement par chirurgie."
+    ],
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 96,
+    "question": "*Quelle est la principale caract\u00e9ristique du traitement d'un h\u00e9mothorax ?",
+    "options": [
+      "A. Une ponction pleurale est toujours effectu\u00e9e dans les premi\u00e8res 24 heures.",
+      "B. Le traitement repose exclusivement sur des antibiotiques.",
+      "C. Il faut g\u00e9n\u00e9ralement une intervention chirurgicale en cas d'h\u00e9morragie massive.",
+      "D. Une radiographie thoracique est inutile pour poser le diagnostic.",
+      "E. Les h\u00e9mothorax mod\u00e9r\u00e9s ne n\u00e9cessitent aucun traitement."
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 97,
+    "question": "Quelles sont les causes les plus fr\u00e9quentes des traumatismes abdominaux chez les enfants ?",
+    "options": [
+      "A. Chutes de v\u00e9lo",
+      "B. Guidons de v\u00e9lo",
+      "C. Accident de voiture",
+      "D. Traumatismes par arme blanche",
+      "E. Traumatismes par arme \u00e0 feu"
+    ],
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 98,
+    "question": "Quels sont les signes cliniques dominants du syndrome d'h\u00e9morragie interne ?",
+    "options": [
+      "A. Peau p\u00e2le",
+      "B. Agitation psychomotrice",
+      "C. Soif intense",
+      "D. Hypotension",
+      "E. D\u00e9fense musculaire"
+    ],
+    "correct_answers": ["A", "B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 99,
+    "question": "*Quelles m\u00e9thodes sont couramment utilis\u00e9es pour diagnostiquer un traumatisme h\u00e9patique?",
+    "options": [
+      "A. \u00c9chographie abdominale (FAST)",
+      "B. Radiographie abdominale simple",
+      "C. Tomodensitom\u00e9trie (TDM)",
+      "D. Examen rectal",
+      "E. Scanner thoracique"
+    ],
+    "correct_answers": ["A"]
+  },
+  {
+    "chapitre": 0,
+    "id": 100,
+    "question": "Quels sont les principaux m\u00e9canismes responsables des traumatismes r\u00e9naux ?",
+    "options": [
+      "A. Contusions dues \u00e0 des accidents de la route",
+      "B. Plaies p\u00e9n\u00e9trantes fr\u00e9quentes chez les enfants",
+      "C. L\u00e9sions iatrog\u00e8nes durant des interventions m\u00e9dicales",
+      "D. Fractures de c\u00f4tes",
+      "E. Chutes de hauteur"
+    ],
+    "correct_answers": ["A", "C", "E"]
+  }
+]
