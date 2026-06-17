@@ -628,7 +628,6 @@ class QCMApp(tk.Tk):
         self.validate_button.configure(text="Continuer", command=self.next_question)
         self.update_feedback_colors()
 
-    # --- MODIFICATION ICI : Appel de la roulette russe ---
     def next_question(self):
         # On tente de déclencher le screamer
         # Si ça retourne True, cela signifie que le screamer a pris le relai, on arrête tout.

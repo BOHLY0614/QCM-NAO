@@ -2,8 +2,8 @@ import re
 import os
 import json
 
-fichier_question = "ORLEN1Q.txt"
-ficher_reponse = "ORLEN1R.txt"
+fichier_question = "BOBOQ.txt"
+ficher_reponse = "BOBOR.txt"
 base_name = "ORLEN1 (GPT)"
 
 

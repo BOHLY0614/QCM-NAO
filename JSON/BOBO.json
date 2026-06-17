@@ -1,0 +1,70 @@
+[
+    {
+        "chapitre": 0,
+        "id": 1,
+        "question": "Quelles sont les qualités de Naomi ?",
+        "options": [
+            "A. La beauté",
+            "B. L'intelligence",
+            "C. L'humour",
+            "D. Le visage concentré lors des QCMs",
+            "E. La classe"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 2,
+        "question": "*Quel est la durée moyenne d'un massage ?",
+        "options": [
+            "A. 1h",
+            "B. 30 min",
+            "C. 15 min",
+            "D. 1h30",
+            "E. 45 min"
+        ],
+        "correct_answers": [
+            "A"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 3,
+        "question": "*Quel est le numéro de telephone de Nicolas ?",
+        "options": [
+            "A. 0614255783",
+            "B. 0614435982",
+            "C. 0614245682",
+            "D. 0614247084",
+            "E. 0614226877"
+        ],
+        "correct_answers": [
+            "C"
+        ]
+    },
+    {
+        "chapitre": 0,
+        "id": 4,
+        "question": "Quel plat je ferais à mon petit bobo la prochaine fois que l'on se voit ?",
+        "options": [
+            "A. Steak Frites + Magnum",
+            "B. Steak Frites + Magnum",
+            "C. Steak Frites + Magnum",
+            "D. Steak Frites + Magnum",
+            "E. Steak Frites + Magnum"
+        ],
+        "correct_answers": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ]
+    }
+]
