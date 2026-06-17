@@ -4,7 +4,7 @@ import json
 
 fichier_question = "BOBOQ.txt"
 ficher_reponse = "BOBOR.txt"
-base_name = "ORLEN1 (GPT)"
+base_name = "BOBO"
 
 
 class Question:
