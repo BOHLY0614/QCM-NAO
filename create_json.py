@@ -2,9 +2,9 @@ import re
 import os
 import json
 
-fichier_question = "BOBOQ.txt"
-ficher_reponse = "BOBOR.txt"
-base_name = "BOBO"
+fichier_question = "ORL8Q.txt"
+ficher_reponse = "ORL8R.txt"
+base_name = "ORL8"
 
 
 class Question:

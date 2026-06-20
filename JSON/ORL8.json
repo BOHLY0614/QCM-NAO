@@ -1,0 +1,106 @@
+[
+  {
+    "chapitre": 0,
+    "id": 1,
+    "question": "*Haleine est définie comme suit:",
+    "options": [
+      "A. Dilatation des petits vaisseaux cutanés ou des muqueuses",
+      "B. Petite tache hémorragique",
+      "C. Mauvaise haleine",
+      "D. Gangrène profonde et circonscrite",
+      "E. Vessie avec du pus"
+    ],
+    "correct_answers": ["C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 2,
+    "question": "Formes anatomo-cliniques d'épistaxis en fonction du  siège de saignement  sont:",
+    "options": [
+      "A. Antérieure",
+      "B. Postérieure",
+      "C. Latérale",
+      "D. Secondaire",
+      "E. Primitive"
+    ],
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "chapitre": 0,
+    "id": 3,
+    "question": "Au sein de l'anamnèse en chirurgie oro-maxillo-faciale, sont inclus:",
+    "options": [
+      "A. Stade du diagnostic clinique",
+      "B. Motifs de la consultation (hospitalisation).",
+      "C. Antécédents personnels et héréditaires",
+      "D. Facteurs de risque, conditions de vie et de travail",
+      "E. Investigations paracliniques"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 4,
+    "question": "Les infections spécifiques du territoire oro-maxillo-facial peuvent être:",
+    "options": [
+      "A. Actinomycose",
+      "B. Pemphigus",
+      "C. Tuberculose",
+      "D. Rougeole",
+      "E. Lichen plan"
+    ],
+    "correct_answers": ["A", "C"]
+  },
+  {
+    "chapitre": 0,
+    "id": 5,
+    "question": "En chirurgie oro-maxillo-faciale, les symptômes orale aux suivants sont décrits chez les patients atteints de maladies hématologiques:",
+    "options": [
+      "A. Xérostomie",
+      "B. Hyperplasie gingivale",
+      "C. Nécrose gingivale",
+      "D. Stomatite ulcéro-nécrotique",
+      "E. Glossodynie"
+    ],
+    "correct_answers": ["B", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 6,
+    "question": "En chirurgie oro-maxillo-faciale, l'hypovitaminose A se manifeste par:",
+    "options": [
+      "A. Chéilite angulaire",
+      "B. Déséquilibres métaboliques phospho-calciques",
+      "C. Ostéoporose",
+      "D. Desordre oculaires",
+      "E. Peau sèche, desquamation"
+    ],
+    "correct_answers": ["D", "E"]
+  },
+  {
+    "chapitre": 0,
+    "id": 7,
+    "question": "En chirurgie oro-maxillo-faciale, les manifestations buccales du SIDA peuvent être:",
+    "options": [
+      "A. Herpès et fièvre aphteuse",
+      "B. Cyanose périorale",
+      "C. Lésions du virus du papillome",
+      "D. Tumeurs",
+      "E. Desordre cutanés"
+    ],
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "chapitre": 0,
+    "id": 8,
+    "question": "*L'hypertrophie est définie comme suit:",
+    "options": [
+      "A. Réduire le volume d'un organe ou d'un tissu",
+      "B. Augmenter le volume d'un organe ou d'un tissu sans augmenter le nombre de cellules qui le composent",
+      "C. Augmentation du volume d'un organe ou d'un tissu en raison d'une augmentation du nombre de cellules qui le composent",
+      "D. Gonflement dans une zone du corps dû à une infection, des désordre circulatoires, etc .",
+      "E. Masse anormale de tissus dont la croissance est désordonnée et imparable et qui persiste même après la suppression du stimulus qui détermine cette transformation"
+    ],
+    "correct_answers": ["B"]
+  }
+]
